@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 网盘" version="2.9.16" annotation="" tag="3.0 网盘">
+    <resource description="btn_bottom_normal" x="26" y="1036" width="668" height="114" uuid="41d4d3f2-c524-444c-9f33-929fc29732bb">
+        <path src="res\drawable-xhdpi\btn_bottom_normal.png" description="开始按钮" />
+    </resource>
+    <resource description="kuaipan_logo" x="184" y="1208" width="36" height="38" uuid="35a1a5b6-b304-4600-bac5-3af9c9c4fd57">
+        <path src="res\drawable-hdpi\kuaipan_logo.png" description="" />
+    </resource>
+</screenshot>

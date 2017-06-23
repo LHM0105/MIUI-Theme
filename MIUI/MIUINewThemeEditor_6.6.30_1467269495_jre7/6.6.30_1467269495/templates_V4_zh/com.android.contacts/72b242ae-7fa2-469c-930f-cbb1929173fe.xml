@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 联系人详情" version="2.9.16" annotation="" tag="全部联系人">
+    <resource description="tab2_s.9.png" x="360" y="188" width="328" height="100" uuid="b0a0bc75-5bc3-4d9f-98d8-db195976c5bc">
+        <path src="res\drawable-xhdpi\tab2_p.9.png" description="按下效果" />
+        <path src="res\drawable-xhdpi\tab2_s.9.png" description="选中效果" />
+    </resource>
+    <resource description="btn_star_on_normal_holo_dark.png" x="26" y="1193" width="72" height="72" uuid="a3b65bbb-1605-4c04-83b7-c11fa00d5cee">
+        <path src="res\drawable-xhdpi\btn_star_off_normal_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\btn_star_on_normal_holo_dark.png" description="" />
+    </resource>
+    <resource description="ic_menu_edit.png" x="618" y="1193" width="72" height="72" uuid="2e3d6db0-72fb-4b2e-a67c-5fd137abe41c">
+        <path src="res\drawable-xhdpi\ic_menu_edit.png" description="" />
+    </resource>
+    <resource description="ic_text_holo_light.png" x="604" y="368" width="66" height="58" uuid="54f4b8ba-05f2-455d-a64b-51d96f9026b2">
+        <path src="res\drawable-xhdpi\ic_text_holo_light.png" description="短信" />
+    </resource>
+    <resource description="contact_detail_action_bar_bg.9" x="0" y="48" width="690" height="142" uuid="81b4a336-e971-4b52-9ef8-cfba1a10f085">
+        <path src="res\drawable-hdpi\contact_detail_action_bar_bg.9.png" description="联系人详情标题背景" />
+    </resource>
+    <resource description="action_bar_home_n" x="0" y="46" width="106" height="144" uuid="cd6f2f81-fbf6-41ad-aa5d-8e80a23cd4bd">
+        <path src="res\drawable-xhdpi\action_bar_home_n.png" description="" />
+        <path src="res\drawable-xhdpi\action_bar_home_p.png" description="" />
+    </resource>
+    <resource description="quickcontact_track_background.9.png" x="0" y="186" width="716" height="102" uuid="034a205d-53d2-4fa6-b7c3-129e81f7ebda">
+        <path src="res\drawable-xhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+    </resource>
+</screenshot>

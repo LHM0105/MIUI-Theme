@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 流量超过" version="3.2.27" annotation="" tag="流量使用">
+    <resource description="plate_exceed" x="76" y="272" width="562" height="564" uuid="b3595dd9-4031-485d-9cef-d6c2702e7c6f">
+        <path src="res\drawable-hdpi\plate_exceed.png" description="流量已超" />
+        <path src="res\drawable-xhdpi\plate_exceed.png" description="流量已超" />
+    </resource>
+    <resource description="plate_inner" x="141" y="339" width="434" height="434" uuid="f5acccd0-9fb3-4724-8ea2-d45273e23581">
+        <path src="res\drawable-hdpi\plate_inner.png" description="指示" />
+        <path src="res\drawable-xhdpi\plate_inner.png" description="指示" />
+    </resource>
+</screenshot>

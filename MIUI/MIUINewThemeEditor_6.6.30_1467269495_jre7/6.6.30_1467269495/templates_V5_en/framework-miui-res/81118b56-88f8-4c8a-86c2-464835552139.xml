@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Settings controls" version="3.3.1" annotation="" tag="Controls">
+    <resource description="v5_sliding_btn_slider_pressed" x="552" y="203" width="107" height="61" uuid="6a7637c3-3678-44f3-b95b-c1155578faa0">
+        <path src="res\drawable-hdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+    </resource>
+    <resource description="v5_preference_first_item_bg_pressed.9" x="18" y="376" width="692" height="130" uuid="6f421f2e-47e6-40ab-93d9-66c92623a182">
+        <path src="res\drawable-hdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-xxhdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-hdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-hdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-xxhdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-hdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-hdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-xxhdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-hdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+    </resource>
+    <resource description="v5_preference_single_item_bg_pressed.9" x="17" y="168" width="684" height="130" uuid="64b68eff-b06e-46d6-ad07-88b3762b8636">
+        <path src="res\drawable-hdpi\v5_preference_single_item_bg_normal.9.png" description="分类单个" />
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_normal.9.png" description="分类单个" />
+        <path src="res\drawable-xxhdpi\v5_preference_single_item_bg_normal.9.png" description="分类单个" />
+        <path src="res\drawable-hdpi\v5_preference_single_item_bg_pressed.9.png" description="分类单个 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_pressed.9.png" description="分类单个 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_single_item_bg_pressed.9.png" description="分类单个 二态" />
+    </resource>
+    <resource description="v5_btn_next_pressed_light" x="610" y="408" width="50" height="52" uuid="c98f5731-4c9d-45c4-8a4f-9b6a8d3e9fcb">
+        <path src="res\drawable-hdpi\v5_btn_next_disabled_light.png" description="进入按钮 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_next_disabled_light.png" description="进入按钮 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_next_disabled_light.png" description="进入按钮 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_next_normal_light.png" description="进入按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_next_normal_light.png" description="进入按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_next_normal_light.png" description="进入按钮" />
+        <path src="res\drawable-hdpi\v5_btn_next_pressed_light.png" description="进入按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_next_pressed_light.png" description="进入按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_next_pressed_light.png" description="进入按钮 二态" />
+    </resource>
+    <resource description="v5_title_bar_back_button_pressed_light" x="20" y="66" width="44" height="55" uuid="a64b116b-1c04-413d-8423-9b6620cdec9c">
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+    </resource>
+    <resource description="v5_title_bar_bg_light.9" x="5" y="50" width="705" height="92" uuid="9e6eafb9-e4b5-453f-a16c-282c69699399">
+        <path src="res\drawable-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+    </resource>
+    <resource description="v5_preference_category_background.9" x="25" y="318" width="623" height="45" uuid="9463b58b-9a82-4fc3-ae6f-6436d9ade12d">
+        <path src="res\drawable-hdpi\v5_preference_category_background.9.png" description="设置标题背景" />
+        <path src="res\drawable-xhdpi\v5_preference_category_background.9.png" description="设置标题背景" />
+        <path src="res\drawable-xxhdpi\v5_preference_category_background.9.png" description="设置标题背景" />
+    </resource>
+    <resource description="设置背景" x="0" y="0" width="718" height="1284" uuid="9a82d9c9-caf2-4bfe-81ea-84536fcd93b9">
+        <path src="res\drawable-hdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+        <path src="res\drawable-land-hdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+        <path src="res\drawable-land-xhdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+        <path src="res\drawable-land-xxhdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+        <path src="res\drawable-xhdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+        <path src="res\drawable-xxhdpi\v5_settings_window_bg_light.9.png" description="全局设置背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.2 黄页" version="4.4.12" annotation="" tag="其他">
+    <resource description="search_bg.9" x="76" y="56" width="626" height="80" uuid="7ae0eaca-6f07-4d91-a2d3-d2d78198b198">
+        <path src="res\drawable-hdpi\search_bg.9.png" description="黄页 输入框" />
+        <path src="res\drawable-xhdpi\search_bg.9.png" description="黄页 输入框" />
+    </resource>
+    <resource description="list_all_bg.9" x="0" y="142" width="715" height="630" uuid="dd077889-066e-4e4c-b1b8-b60fdf2eeca2">
+        <path src="res\drawable-hdpi\list_all_bg.9.png" description="黄页下拉弹窗" />
+        <path src="res\drawable-xhdpi\list_all_bg.9.png" description="黄页下拉弹窗" />
+    </resource>
+</screenshot>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 Recents" version="2.9.16" annotation="" tag="Recents">
+    <resource description="recent_task_bg.9.png" x="0" y="740" width="720" height="540" uuid="faf8c1b4-c782-4987-94e6-c9f9df648aec">
+        <path src="res\drawable-xhdpi\recent_task_bg.9.png" description="任务管理器背景" />
+        <path src="res\drawable-xxhdpi\recent_task_bg.9.png" description="任务管理器背景" />
+    </resource>
+    <resource description="recent_task_clear_button_fore_middle_pressed.9.png" x="282" y="1012" width="154" height="156" uuid="8a2fad1a-36e6-46fe-925c-5c07715c2192">
+        <path src="res\drawable-hdpi\recent_task_clear_button_fore_low_normal.9.png" description="内存使用低时常态图片" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_fore_low_normal.9.png" description="内存使用低时常态图片" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_fore_low_pressed.9.png" description="内存使用低时二态图片" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_fore_low_pressed.9.png" description="内存使用低时二态图片" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_fore_high_normal.9.png" description="内存使用高时常态图片" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_fore_high_normal.9.png" description="内存使用高时常态图片" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_fore_high_pressed.9.png" description="内存使用高时二态图片" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_fore_high_pressed.9.png" description="内存使用高时二态图片" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_outer_low.png" description="内存使用低时进度条" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_outer_low.png" description="内存使用低时进度条" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_outer_high.png" description="内存使用高时进度条" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_outer_high.png" description="内存使用高时进度条" />
+    </resource>
+    <resource description="recent_task_clear_button_bg_high.png" x="184" y="998" width="352" height="216" uuid="820e9565-ea6e-41e8-9c7f-05c358aa76ae">
+        <path src="res\drawable-hdpi\recent_task_clear_button_bg_high.png" description="高内存使用时 一键清理按钮背景" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_bg_high.png" description="高内存使用时 一键清理按钮背景" />
+        <path src="res\drawable-hdpi\recent_task_clear_button_bg_low.png" description="低内存使用时 一键清理按钮背景" />
+        <path src="res\drawable-xhdpi\recent_task_clear_button_bg_low.png" description="低内存使用时 一键清理按钮背景" />
+    </resource>
+    <resource description="recent_task_lock_flag.png" x="296" y="776" width="54" height="54" uuid="ee31a376-457a-47c2-b414-6337226f6f81">
+        <path src="res\drawable-xhdpi\recent_task_lock_flag.png" description="锁定指示" />
+        <path src="res\drawable-xxhdpi\recent_task_lock_flag.png" description="锁定指示" />
+    </resource>
+    <resource description="recent_task_lock_tip" x="64" y="816" width="56" height="70" uuid="174ee6b6-4570-4cb1-bee8-a06f2d957faa">
+        <path src="res\drawable-xhdpi\recent_task_lock_tip.png" description="锁定进程" />
+        <path src="res\drawable-xxhdpi\recent_task_lock_tip.png" description="锁定进程" />
+        <path src="res\drawable-xhdpi\recent_task_unlock_tip.png" description="解锁进程" />
+        <path src="res\drawable-xxhdpi\recent_task_unlock_tip.png" description="解锁进程" />
+    </resource>
+</screenshot>

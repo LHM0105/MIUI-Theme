@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="恢复结果" version="3.2.27" annotation="" tag="">
+    <resource description="result_fail_bg.9" x="0" y="50" width="722" height="426" uuid="0865e547-b3f5-49a2-ab40-67a67d07ccd5">
+        <path src="res\drawable-xhdpi\progress_title_bg.9.png" description="正在备份背景" />
+        <path src="res\drawable-xhdpi\result_fail_bg.9.png" description="备份失败背景" />
+        <path src="res\drawable-xhdpi\result_succeed_bg.9.png" description="备份成功背景" />
+    </resource>
+    <resource description="result_fail" x="268" y="114" width="174" height="182" uuid="7bd43e18-f313-43c8-816e-65badb9887ce">
+        <path src="res\drawable-xhdpi\result_succeed.png" description="备份成功图标" />
+        <path src="res\drawable-xhdpi\result_fail.png" description="备份失败图标" />
+    </resource>
+    <resource description="progress_fail" x="636" y="762" width="54" height="54" uuid="df86a453-3416-4a0d-a437-58b46bcbb314">
+        <path src="res\drawable-xhdpi\progress_fail.png" description="失败图标" />
+    </resource>
+    <resource description="progress_succeed" x="642" y="646" width="54" height="54" uuid="ae388063-fd1c-4ac8-8ad1-a97bdc45353f">
+        <path src="res\drawable-xhdpi\progress_succeed.png" description="成功图标" />
+    </resource>
+</screenshot>

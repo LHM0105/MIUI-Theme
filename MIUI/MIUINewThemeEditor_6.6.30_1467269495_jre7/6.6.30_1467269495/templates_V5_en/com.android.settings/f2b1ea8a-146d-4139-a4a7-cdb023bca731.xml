@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.2 Bluetooth icons" version="3.4.11" annotation="" tag="Settings icons">
+    <resource description="ic_bt_pointing_hid" x="34" y="636" width="76" height="80" uuid="4a5bb48f-c9fd-476d-8257-6f7e142f29d1">
+        <path src="res\drawable-hdpi\ic_bt_bluetooth.png" description="蓝牙图标" />
+        <path src="res\drawable-xhdpi\ic_bt_bluetooth.png" description="蓝牙图标" />
+        <path src="res\drawable-hdpi\ic_bt_cellphone.png" description="手机蓝牙图标" />
+        <path src="res\drawable-xhdpi\ic_bt_cellphone.png" description="手机蓝牙图标" />
+        <path src="res\drawable-hdpi\ic_bt_headphones_a2dp.png" description="蓝牙耳机图标" />
+        <path src="res\drawable-xhdpi\ic_bt_headphones_a2dp.png" description="蓝牙耳机图标" />
+        <path src="res\drawable-hdpi\ic_bt_headset_hfp.png" description="蓝牙耳麦图标" />
+        <path src="res\drawable-xhdpi\ic_bt_headset_hfp.png" description="蓝牙耳麦图标" />
+        <path src="res\drawable-hdpi\ic_bt_imaging.png" description="蓝牙打印机图标" />
+        <path src="res\drawable-xhdpi\ic_bt_imaging.png" description="蓝牙打印机图标" />
+        <path src="res\drawable-hdpi\ic_bt_keyboard_hid.png" description="蓝牙键盘图标" />
+        <path src="res\drawable-xhdpi\ic_bt_keyboard_hid.png" description="蓝牙键盘图标" />
+        <path src="res\drawable-hdpi\ic_bt_laptop.png" description="电脑蓝牙图标" />
+        <path src="res\drawable-xhdpi\ic_bt_laptop.png" description="电脑蓝牙图标" />
+        <path src="res\drawable-hdpi\ic_bt_misc_hid.png" description="蓝牙手柄图标" />
+        <path src="res\drawable-xhdpi\ic_bt_misc_hid.png" description="蓝牙手柄图标" />
+        <path src="res\drawable-hdpi\ic_bt_network_pan.png" description="蓝牙访问互联网 图标" />
+        <path src="res\drawable-xhdpi\ic_bt_network_pan.png" description="蓝牙访问互联网 图标" />
+        <path src="res\drawable-hdpi\ic_bt_pointing_hid.png" description="蓝牙鼠标图标" />
+        <path src="res\drawable-xhdpi\ic_bt_pointing_hid.png" description="蓝牙鼠标图标" />
+    </resource>
+</screenshot>

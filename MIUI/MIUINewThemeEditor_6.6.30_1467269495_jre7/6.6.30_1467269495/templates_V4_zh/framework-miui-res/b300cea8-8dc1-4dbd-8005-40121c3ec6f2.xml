@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="开关" version="2.9.16" annotation="" tag="全局开关">
+    <resource description="sliding_btn_slider.png" x="556" y="318" width="112" height="48" uuid="616402d7-d932-487f-b501-688235d60eb9">
+        <path src="res\drawable-xhdpi\sliding_btn_bar.png" description="" />
+        <path src="res\drawable-xhdpi\sliding_btn_frame.png" description="" />
+        <path src="res\drawable-xhdpi\sliding_btn_mask.png" description="" />
+        <path src="res\drawable-xhdpi\sliding_btn_off_disable.png" description="不可调状态" />
+        <path src="res\drawable-xhdpi\sliding_btn_on_disable.png" description="不可调状态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider.png" description="滑块常态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_pressed.png" description="按下滑块" />
+    </resource>
+</screenshot>

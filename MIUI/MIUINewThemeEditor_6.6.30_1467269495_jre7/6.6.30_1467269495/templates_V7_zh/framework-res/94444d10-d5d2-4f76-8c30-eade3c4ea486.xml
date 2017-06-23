@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="三段式 弹窗1" version="3.7.8" annotation="" tag="第三方 弹窗">
+    <resource description="popup_bottom_medium.9" x="34" y="856" width="658" height="116" uuid="4791c1b9-1544-4a01-847a-2880f3b8b95a">
+        <path src="res\drawable-xhdpi\btn_default_normal.9.png" description="按钮 常态" />
+        <path src="res\drawable-xhdpi\btn_default_pressed.9.png" description="按钮 按下" />
+        <path src="res\drawable-xhdpi\btn_default_selected.9.png" description="按钮 选择" />
+        <path src="res\drawable-xhdpi\bottom_bar.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\popup_bottom_medium.9.png" description="弹窗 下" />
+    </resource>
+    <resource description="popup_top_dark.9" x="30" y="354" width="660" height="108" uuid="43b30bc5-f41c-4425-b39a-9d5cd5e719b2">
+        <path src="res\drawable-xhdpi\popup_top_dark.9.png" description="弹窗 上" />
+    </resource>
+    <resource description="popup_center_bright.9" x="28" y="472" width="664" height="378" uuid="83716739-eb45-42ef-88d5-8c954b52c067">
+        <path src="res\drawable-xhdpi\popup_center_bright.9.png" description="弹窗中" />
+    </resource>
+    <resource description="btn_radio_on_selected" x="600" y="614" width="76" height="96" uuid="b584a8d2-b5b9-4a2e-a1f0-c27f0fda0196">
+        <path src="res\drawable-xhdpi\btn_radio_off.png" description="未选中" />
+        <path src="res\drawable-xhdpi\btn_radio_off_pressed.png" description="未选中 按下" />
+        <path src="res\drawable-xhdpi\btn_radio_off_selected.png" description="未选中 选择" />
+        <path src="res\drawable-xhdpi\btn_radio_on.png" description="选中" />
+        <path src="res\drawable-xhdpi\btn_radio_on_pressed.png" description="选中 按下" />
+        <path src="res\drawable-xhdpi\btn_radio_on_selected.png" description="选中 选中" />
+    </resource>
+    <resource description="list_selector_background_pressed.9" x="38" y="598" width="648" height="130" uuid="1c1bdb4e-f33d-44ba-8a1a-71570e2afeba">
+        <path src="res\drawable-xhdpi\list_selector_background_focus.9.png" description="列表选中" />
+        <path src="res\drawable-xxhdpi\list_selector_background_focus.9.png" description="列表选中" />
+        <path src="res\drawable-xhdpi\list_selector_background_pressed.9.png" description="列表按下" />
+        <path src="res\drawable-xxhdpi\list_selector_background_pressed.9.png" description="列表按下" />
+    </resource>
+</screenshot>

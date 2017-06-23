@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="二级2态" version="2.10.10" annotation="例如：联系人详情列表，短信推荐、收藏列表中的选项条及2态" tag="系统二态">
+    <resource description="list_medium_top_item_background_pressed.9" x="0" y="260" width="720" height="112" uuid="00c67995-8711-4783-aa27-6df2a5005a40">
+        <path src="res\drawable-hdpi\list_medium_bottom_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_bottom_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_bottom_item_background_pressed.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_middle_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_middle_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_middle_item_background_pressed.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_single_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_single_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_single_item_background_pressed.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_top_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_top_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_medium_top_item_background_pressed.9.png" description="" />
+    </resource>
+</screenshot>

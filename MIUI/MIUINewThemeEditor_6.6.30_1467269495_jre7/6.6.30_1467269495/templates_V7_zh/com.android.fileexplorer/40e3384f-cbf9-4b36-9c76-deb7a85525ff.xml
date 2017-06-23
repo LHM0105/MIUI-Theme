@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="九宫格" version="4.11.18" annotation="" tag="文件管理">
+    <resource description="category_gridview_bg.9" x="0" y="196" width="1080" height="916" uuid="4350bc84-65ec-4924-94fa-78d15adbc63e">
+        <path src="res\drawable-xxhdpi\category_gridview_bg.9.png" description="" />
+    </resource>
+    <resource description="category_gridview_item_bg_normal.9" x="4" y="200" width="354" height="298" uuid="07a1496b-a434-4d63-934c-2d0736fc4d41">
+        <path src="res\drawable-xxhdpi\category_gridview_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-xxhdpi\category_gridview_item_bg_pressed.9.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="软件管理" version="3.4.28" annotation="" tag="">
+    <resource description="arrow" x="639" y="289" width="31" height="41" uuid="3b945cf1-27c5-4e3c-b6f4-2229513a70a1">
+        <path src="res\drawable-xhdpi\arrow.png" description="指示箭头" />
+    </resource>
+    <resource description="action_btn_p.9" x="536" y="424" width="166" height="86" uuid="8805ba92-28af-4c1e-a4cc-3faa3deda230">
+        <path src="res\drawable-xhdpi\action_btn_n.9.png" description="按钮" />
+        <path src="res\drawable-xhdpi\action_btn_p.9.png" description="按钮 二态" />
+    </resource>
+    <resource description="logo" x="0" y="68" width="94" height="56" uuid="9cfdd00f-7b14-45f1-8a11-9e7c9b42b8e1">
+        <path src="res\drawable-xhdpi\logo.png" description="应用图标" />
+    </resource>
+    <resource description="new_update" x="652" y="158" width="56" height="46" uuid="5afef8f1-a271-4df8-904d-54f7ec31760d">
+        <path src="res\drawable-xhdpi\new_update.png" description="有更新图标" />
+        <path src="res\drawable-zh-CN-xhdpi\new_update.png" description="有更新图标" />
+        <path src="res\drawable-zh-TW-xhdpi\new_update.png" description="有更新图标" />
+    </resource>
+    <resource description="icon_pattern" x="26" y="558" width="136" height="136" uuid="bca0fce6-ddac-4a13-9219-05634dd8cea4">
+        <path src="res\drawable-xhdpi\icon_background.png" description="变色背景" />
+        <path src="res\drawable-xhdpi\icon_border.png" description="图标顶部遮罩" />
+        <path src="res\drawable-xhdpi\icon_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\icon_pattern.png" description="不变色背景" />
+    </resource>
+</screenshot>

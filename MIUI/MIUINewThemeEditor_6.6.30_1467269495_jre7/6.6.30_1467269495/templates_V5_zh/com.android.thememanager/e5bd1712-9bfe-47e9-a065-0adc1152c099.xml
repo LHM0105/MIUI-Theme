@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3.1 选择壁纸" version="3.2.27" annotation="" tag="旧 混搭">
+    <resource description="ic_menu_picker_n" x="320" y="1138" width="80" height="90" uuid="9f52e627-0115-4f44-91a7-91e9f50a1503">
+        <path src="res\drawable-hdpi\ic_menu_picker_n.png" description="选择其他" />
+        <path src="res\drawable-xhdpi\ic_menu_picker_n.png" description="选择其他" />
+        <path src="res\drawable-xxhdpi\ic_menu_picker_n.png" description="选择其他" />
+        <path src="res\drawable-hdpi\ic_menu_picker_p.png" description="选择其他 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_picker_p.png" description="选择其他 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_picker_p.png" description="选择其他 二态" />
+    </resource>
+</screenshot>

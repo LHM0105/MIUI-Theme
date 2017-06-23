@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.4 表情" version="2.9.20" annotation="附件表情" tag="短信附件">
+    <resource description="smiley_tab_text_normal" x="386" y="1198" width="76" height="64" uuid="bdf099c3-c8a2-466e-81eb-81939f865ab5">
+        <path src="res\drawable-xhdpi\smiley_tab_text_normal.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_text_normal.png" description="表情" />
+        <path src="res\drawable-xhdpi\smiley_tab_text_pressed.png" description="表情 二态" />
+        <path src="res\drawable-xxhdpi\smiley_tab_text_pressed.png" description="表情 二态" />
+    </resource>
+    <resource description="smiley_tab_image_creature_normal" x="136" y="1190" width="84" height="72" uuid="942a8720-50b5-4ec4-a105-3b8757031857">
+        <path src="res\drawable-xhdpi\smiley_tab_image_creature_normal.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_creature_normal.png" description="表情" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_creature_pressed.png" description="表情 二态" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_creature_pressed.png" description="表情 二态" />
+    </resource>
+    <resource description="smiley_tab_image_lifestyle_normal" x="254" y="1192" width="86" height="70" uuid="0735bddf-fc28-4684-992e-90509c707169">
+        <path src="res\drawable-xhdpi\smiley_tab_image_lifestyle_normal.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_lifestyle_normal.png" description="表情" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_lifestyle_pressed.png" description="表情 二态" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_lifestyle_pressed.png" description="表情 二态" />
+    </resource>
+    <resource description="smiley_tab_image_smiley_normal" x="22" y="1192" width="80" height="72" uuid="06655eb4-0b51-4134-882f-b3460f7b0fb2">
+        <path src="res\drawable-xhdpi\smiley_tab_image_smiley_normal.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_smiley_normal.png" description="表情" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_smiley_pressed.png" description="表情 二态" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_smiley_pressed.png" description="表情 二态" />
+    </resource>
+    <resource description="smiley_tab_symbol_normal" x="496" y="1194" width="76" height="66" uuid="8c0d129b-b46e-4578-a1ba-e67f3b1c0b9b">
+        <path src="res\drawable-xhdpi\smiley_tab_symbol_normal.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_symbol_normal.png" description="表情" />
+        <path src="res\drawable-xhdpi\smiley_tab_symbol_pressed.png" description="表情 二态" />
+        <path src="res\drawable-xxhdpi\smiley_tab_symbol_pressed.png" description="表情 二态" />
+    </resource>
+    <resource description="smiley_back_normal" x="618" y="1190" width="78" height="68" uuid="ecab0be9-a53a-475c-af99-1e7e959809d6">
+        <path src="res\drawable-xhdpi\smiley_back_normal.png" description="删除" />
+        <path src="res\drawable-xxhdpi\smiley_back_normal.png" description="删除" />
+        <path src="res\drawable-xhdpi\smiley_back_pressed.png" description="删除 二态" />
+        <path src="res\drawable-xxhdpi\smiley_back_pressed.png" description="删除 二态" />
+    </resource>
+    <resource description="smiley_item_bg_p.9" x="4" y="762" width="133" height="114" uuid="05b1fc63-4073-4048-ac85-61359858cc85">
+        <path src="res\drawable-xhdpi\smiley_item_bg_p.9.png" description="按下二态" />
+        <path src="res\drawable-xxhdpi\smiley_item_bg_p.9.png" description="按下二态" />
+    </resource>
+    <resource description="dash_h" x="12" y="985" width="688" height="32" uuid="5f11604c-6d74-4549-93d3-aa951ccfd666">
+        <path src="res\drawable-xhdpi\dash_h.png" description="横着虚线" />
+        <path src="res\drawable-xxhdpi\dash_h.png" description="横着虚线" />
+    </resource>
+    <resource description="dash_v" x="268" y="766" width="38" height="368" uuid="f5e5c02c-1090-4fde-b7e1-f50a9d7397ea">
+        <path src="res\drawable-xhdpi\dash_v.png" description="竖着虚线" />
+        <path src="res\drawable-xxhdpi\dash_v.png" description="竖着虚线" />
+    </resource>
+    <resource description="smiley_tab_bg.9" x="8" y="1170" width="702" height="104" uuid="fba47f3e-55a0-40c9-bea1-91d0f71b3245">
+        <path src="res\drawable-xhdpi\smiley_tab_bg.9.png" description="小图标 tab 背景" />
+        <path src="res\drawable-xxhdpi\smiley_tab_bg.9.png" description="小图标 tab 背景" />
+    </resource>
+    <resource description="compose_mi_msg_editor_bg.9" x="92" y="666" width="526" height="72" uuid="d5139071-3bf6-4a9e-9c8a-5513a8d0f869">
+        <path src="res\drawable-xhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xxhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+        <path src="res\drawable-xxhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="6" y="650" width="700" height="102" uuid="74c9dc1f-c900-4414-8fcb-c1b49c34bf9c">
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+    </resource>
+    <resource description="call_btn_p.png" x="612" y="76" width="84" height="84" uuid="bb86a0b7-51b8-4654-af73-890b0cb7c68e">
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="呼叫按钮" />
+        <path src="res\drawable-xxhdpi\call_btn_n.png" description="呼叫按钮" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="呼叫按钮 二态" />
+        <path src="res\drawable-xxhdpi\call_btn_p.png" description="呼叫按钮 二态" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="9" y="58" width="702" height="135" uuid="55ad49e4-6115-4d1c-9436-8e66710cf577">
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="联系人标题背景" />
+        <path src="res\drawable-xxhdpi\title_bar_tall_bg.9.png" description="联系人标题背景" />
+    </resource>
+    <resource description="insert_attachment_button_n" x="18" y="672" width="52" height="56" uuid="4c1f16f2-20b0-44d7-8228-c5c504f14cc0">
+        <path src="res\drawable-xhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+    </resource>
+    <resource description="send_btn_p.png" x="646" y="672" width="54" height="64" uuid="7dc2f773-db29-47f1-83b9-bb0850f54374">
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="发送按钮 按下" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="发送按钮 按下" />
+    </resource>
+    <resource description="ic_contact_photo_mask_medium" x="27" y="76" width="87" height="88" uuid="126f62ee-5c74-4712-b639-f60ed30b863d">
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg_medium.png" description="对话页面头像顶部图层" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg_medium.png" description="对话页面头像顶部图层" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask_medium.png" description="对话页面头像遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask_medium.png" description="对话页面头像遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg_medium.png" description="对话页面头像背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg_medium.png" description="对话页面头像背景" />
+    </resource>
+</screenshot>

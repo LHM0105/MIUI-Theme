@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Loading circles, scroll bars" version="3.4.23" annotation="" tag="Other">
+    <resource description="v5_progress_bar_small_light" x="290" y="1156" width="138" height="124" uuid="6e22ecea-1a8d-4111-8cb7-1f1bbed5fd62">
+        <path src="res\drawable-hdpi\v5_progress_bar_bg_large_light.png" description="等待圈 大 背景" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_bg_large_light.png" description="等待圈 大 背景" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_bg_large_light.png" description="等待圈 大 背景" />
+        <path src="res\drawable-hdpi\v5_progress_bar_bg_light.png" description="等待圈 背景" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_bg_light.png" description="等待圈 背景" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_bg_light.png" description="等待圈 背景" />
+        <path src="res\drawable-hdpi\v5_progress_bar_bg_small_light.png" description="等待圈 小 背景" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_bg_small_light.png" description="等待圈 小 背景" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_bg_small_light.png" description="等待圈 小 背景" />
+        <path src="res\drawable-hdpi\v5_progress_bar_large_light.png" description="等待圈 大" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_large_light.png" description="等待圈 大" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_large_light.png" description="等待圈 大" />
+        <path src="res\drawable-hdpi\v5_progress_bar_light.png" description="等待圈" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_light.png" description="等待圈" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_light.png" description="等待圈" />
+        <path src="res\drawable-hdpi\v5_progress_bar_small_light.png" description="等待圈 小" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_small_light.png" description="等待圈 小" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_small_light.png" description="等待圈 小" />
+    </resource>
+    <resource description="v5_fastscroll_thumb_pressed_light" x="664" y="230" width="56" height="152" uuid="036973c4-80f1-412a-b240-a0d2c76045cb">
+        <path src="res\drawable-hdpi\v5_fastscroll_thumb_normal_dark.png" description="深色背景 快速拖动条" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_thumb_normal_dark.png" description="深色背景 快速拖动条" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_thumb_normal_dark.png" description="深色背景 快速拖动条" />
+        <path src="res\drawable-hdpi\v5_fastscroll_thumb_normal_light.png" description="快速拖动条" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_thumb_normal_light.png" description="快速拖动条" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_thumb_normal_light.png" description="快速拖动条" />
+        <path src="res\drawable-hdpi\v5_fastscroll_thumb_pressed_dark.png" description="深色背景 快速拖动条 二态" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_thumb_pressed_dark.png" description="深色背景 快速拖动条 二态" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_thumb_pressed_dark.png" description="深色背景 快速拖动条 二态" />
+        <path src="res\drawable-hdpi\v5_fastscroll_thumb_pressed_light.png" description="快速拖动条 二态" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_thumb_pressed_light.png" description="快速拖动条 二态" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_thumb_pressed_light.png" description="快速拖动条 二态" />
+    </resource>
+    <resource description="v5_fastscroll_track_pressed_light.9" x="688" y="412" width="32" height="602" uuid="65958630-0b25-47f3-a690-60d74c681733">
+        <path src="res\drawable-hdpi\v5_fastscroll_track_normal_dark.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_track_normal_dark.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_track_normal_dark.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-hdpi\v5_fastscroll_track_normal_light.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_track_normal_light.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_track_normal_light.9.png" description="快速拖动条 线" />
+        <path src="res\drawable-hdpi\v5_fastscroll_track_pressed_dark.9.png" description="快速拖动条 线 二态" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_track_pressed_dark.9.png" description="快速拖动条 线 二态" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_track_pressed_dark.9.png" description="快速拖动条 线 二态" />
+        <path src="res\drawable-hdpi\v5_fastscroll_track_pressed_light.9.png" description="快速拖动条 线 二态" />
+        <path src="res\drawable-xhdpi\v5_fastscroll_track_pressed_light.9.png" description="快速拖动条 线 二态" />
+        <path src="res\drawable-xxhdpi\v5_fastscroll_track_pressed_light.9.png" description="快速拖动条 线 二态" />
+    </resource>
+    <resource description="v5_scrollbar_handle_vertical_light.9" x="679" y="229" width="40" height="119" uuid="5f132541-6cb0-4ce3-8fc7-0e4193008138">
+        <path src="res\drawable-hdpi\v5_scrollbar_handle_vertical_dark.9.png" description="纵向 位置指示条 深色背景" />
+        <path src="res\drawable-xhdpi\v5_scrollbar_handle_vertical_dark.9.png" description="纵向 位置指示条 深色背景" />
+        <path src="res\drawable-xxhdpi\v5_scrollbar_handle_vertical_dark.9.png" description="纵向 位置指示条 深色背景" />
+        <path src="res\drawable-hdpi\v5_scrollbar_handle_vertical_light.9.png" description="纵向 位置指示条" />
+        <path src="res\drawable-xhdpi\v5_scrollbar_handle_vertical_light.9.png" description="纵向 位置指示条" />
+        <path src="res\drawable-xxhdpi\v5_scrollbar_handle_vertical_light.9.png" description="纵向 位置指示条" />
+    </resource>
+    <resource description="v5_scrollbar_handle_horizontal_light.9" x="510" y="1236" width="148" height="44" uuid="5a013938-032a-4acf-988b-5427effd5612">
+        <path src="res\drawable-hdpi\v5_scrollbar_handle_horizontal_dark.9.png" description="滑动指示条，横 " />
+        <path src="res\drawable-xhdpi\v5_scrollbar_handle_horizontal_dark.9.png" description="滑动指示条，横 " />
+        <path src="res\drawable-xxhdpi\v5_scrollbar_handle_horizontal_dark.9.png" description="滑动指示条，横 " />
+        <path src="res\drawable-hdpi\v5_scrollbar_handle_horizontal_light.9.png" description="滑动指示条，横 " />
+        <path src="res\drawable-xhdpi\v5_scrollbar_handle_horizontal_light.9.png" description="滑动指示条，横 " />
+        <path src="res\drawable-xxhdpi\v5_scrollbar_handle_horizontal_light.9.png" description="滑动指示条，横 " />
+    </resource>
+    <resource description="v5_title_bar_bg_light.9" x="0" y="46" width="722" height="92" uuid="5a8117e3-b19b-421b-af3c-21ab36c9ee3a">
+        <path src="res\drawable-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+    </resource>
+    <resource description="v5_tab_indicator_bg_light.9" x="8" y="148" width="706" height="78" uuid="5c3d514b-4ab1-4147-b0c6-1f9f637c8b09">
+        <path src="res\drawable-hdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+        <path src="res\drawable-xhdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+        <path src="res\drawable-xxhdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+    </resource>
+    <resource description="v5_tab_bg_right_selected_light.9" x="40" y="157" width="626" height="59" uuid="bd1f5333-f102-467f-b164-4b62a181959e">
+        <path src="res\drawable-hdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-hdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+        <path src="res\drawable-xhdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+        <path src="res\drawable-xxhdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+    </resource>
+    <resource description="ic_menu_search" x="602" y="56" width="92" height="70" uuid="279784c5-ceba-4eec-a1cc-bdfb61b2f836">
+        <path src="res\drawable-hdpi\ic_menu_search.png" description="搜索按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_search.png" description="搜索按钮" />
+        <path src="res\drawable-xxhdpi\ic_menu_search.png" description="搜索按钮" />
+    </resource>
+</screenshot>

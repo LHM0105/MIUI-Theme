@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 新版sd卡" version="3.1.11" annotation="" tag="2.0 SD卡">
+    <resource description="favorite_tag" x="74" y="699" width="31" height="30" uuid="fff7d543-aa38-4377-8dac-c0fc9102a1d9">
+        <path src="res\drawable-hdpi\favorite_tag.png" description="收藏标志" />
+    </resource>
+    <resource description="path_gallery_bg.9" x="0" y="146" width="716" height="78" uuid="e807d743-b681-4e35-b618-a28c583b78c7">
+        <path src="res\drawable-hdpi\path_gallery_bg.9.png" description="" />
+    </resource>
+    <resource description="path_gallery_first_item_bg.9" x="28" y="148" width="183" height="74" uuid="3a467bdc-1def-4e9f-a2bb-48c513b00a9d">
+        <path src="res\drawable-hdpi\path_gallery_first_item_bg.9.png" description="第一个按钮" />
+    </resource>
+    <resource description="path_gallery_item_bg.9" x="376" y="151" width="121" height="70" uuid="3b1560ea-5f40-4516-a5c1-b5234669d9aa">
+        <path src="res\drawable-hdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+    </resource>
+    <resource description="path_gallery_item_bg.9" x="214" y="150" width="164" height="70" uuid="19ad8f17-bbc2-4fc2-8f0a-9667d588da2e">
+        <path src="res\drawable-hdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+    </resource>
+    <resource description="bottom_bar_bg_p.9.png" x="0" y="1178" width="720" height="98" uuid="610f61b6-42f5-44b8-a285-ed2f62f05121">
+        <path src="res\drawable-hdpi\bottom_bar_bg_n.9.png" description="远程按钮" />
+        <path src="res\drawable-hdpi\bottom_bar_bg_p.9.png" description="" />
+    </resource>
+    <resource description="operation_button_ftp" x="272" y="1196" width="66" height="62" uuid="2245e704-3418-4d05-9a2f-4f02b79a7c0e">
+        <path src="res\drawable-xhdpi\operation_button_ftp.png" description="图标" />
+    </resource>
+</screenshot>

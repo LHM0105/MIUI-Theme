@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clock version="1" type="awesome" frameRate="60" screenWidth="1080">
+<VariableBinders>
+<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,temperature,weather_type" countName="hasweather" denpendency="selected_city">
+<Variable name="weather_city" type="string" column="city_name"/>
+<Variable name="weather_temperature" type="int" column="temperature"/>
+<Variable name="weather_id" type="int" column="weather_type"/>
+</ContentProviderBinder>
+</VariableBinders>
+
+<VarArray type="string"><Vars><Var name="weather_description" index="#weather_id"/></Vars>
+<Items>
+<Item expression="@wd00"/>
+<Item expression="@wd01"/>
+<Item expression="@wd02"/>
+<Item expression="@wd03"/>
+<Item expression="@wd04"/>
+<Item expression="@wd05"/>
+<Item expression="@wd06"/>
+<Item expression="@wd07"/>
+<Item expression="@wd08"/>
+<Item expression="@wd09"/>
+<Item expression="@wd10"/>
+<Item expression="@wd11"/>
+<Item expression="@wd12"/>
+<Item expression="@wd13"/>
+<Item expression="@wd14"/>
+<Item expression="@wd15"/>
+<Item expression="@wd16"/>
+<Item expression="@wd17"/>
+<Item expression="@wd18"/>
+<Item expression="@wd19"/>
+<Item expression="@wd20"/>
+<Item expression="@wd21"/>
+<Item expression="@wd22"/>
+<Item expression="@wd23"/>
+<Item expression="@wd24"/>
+</Items>
+</VarArray>
+
+
+
+<Group align="center" >
+
+
+ <DateTime x="#screen_width/2" y="180" color="#000000" marqueeSpeed="40" size="50" align="center" format="E M/d NNNN" />
+		
+	<DateTime x="#screen_width/2" y="10" color="#000000" size="150" align="center" format="H:mm" />
+		
+		
+
+
+<Text x="#screen_width/2" y="241" size="42" w="360"  color="#000000" alpha="210"  align="center"   format="%s %s %s" paras="@weather_city,@weather_temperature,@weather_description"/>	
+
+
+</Group >
+</Clock>
+
+

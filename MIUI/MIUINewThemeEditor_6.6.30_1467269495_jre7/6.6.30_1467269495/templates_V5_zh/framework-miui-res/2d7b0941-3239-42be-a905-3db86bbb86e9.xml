@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="数字密码" version="3.4.23" annotation="" tag="锁屏密码">
+    <resource description="miui_numeric_keyboard_image" x="4" y="682" width="704" height="592" uuid="b576547c-82c5-4a3b-9782-2887151cece3">
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_image.png" description="键盘背景" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_image.png" description="键盘背景" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_image.png" description="键盘背景" />
+    </resource>
+    <resource description="miui_password_unlock_screen_delete_pressed" x="590" y="570" width="102" height="70" uuid="751fb160-61b0-435d-8d25-47ef07fe1234">
+        <path src="res\drawable-hdpi\miui_password_unlock_screen_delete_disabled.png" description="删除 不可按" />
+        <path src="res\drawable-xhdpi\miui_password_unlock_screen_delete_disabled.png" description="删除 不可按" />
+        <path src="res\drawable-xxhdpi\miui_password_unlock_screen_delete_disabled.png" description="删除 不可按" />
+        <path src="res\drawable-hdpi\miui_password_unlock_screen_delete_normal.png" description="删除" />
+        <path src="res\drawable-xhdpi\miui_password_unlock_screen_delete_normal.png" description="删除" />
+        <path src="res\drawable-xxhdpi\miui_password_unlock_screen_delete_normal.png" description="删除" />
+        <path src="res\drawable-hdpi\miui_password_unlock_screen_delete_pressed.png" description="删除 二态" />
+        <path src="res\drawable-xhdpi\miui_password_unlock_screen_delete_pressed.png" description="删除 二态" />
+        <path src="res\drawable-xxhdpi\miui_password_unlock_screen_delete_pressed.png" description="删除 二态" />
+    </resource>
+    <resource description="miui_numeric_keyboard_9" x="568" y="708" width="66" height="92" uuid="25a8aee1-c699-4a12-b4bc-e57f067497ca">
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_0.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_0.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_0.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_1.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_1.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_1.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_2.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_2.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_2.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_3.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_3.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_3.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_4.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_4.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_4.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_5.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_5.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_5.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_6.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_6.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_6.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_7.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_7.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_7.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_8.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_8.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_8.png" description="键盘数字" />
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_9.png" description="键盘数字" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_9.png" description="键盘数字" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_9.png" description="键盘数字" />
+    </resource>
+    <resource description="miui_password_input_bg" x="6" y="538" width="702" height="132" uuid="d36b72b3-ff36-42df-8950-8d60715a7662">
+        <path src="res\drawable-hdpi\miui_password_input_bg.png" description="已输入 背景" />
+        <path src="res\drawable-xhdpi\miui_password_input_bg.png" description="已输入 背景" />
+        <path src="res\drawable-xxhdpi\miui_password_input_bg.png" description="已输入 背景" />
+    </resource>
+    <resource description="miui_numeric_keyboard_button_pressed" x="252" y="686" width="214" height="134" uuid="7e2930aa-d310-43bd-aa5a-fdc3baaa9616">
+        <path src="res\drawable-hdpi\miui_numeric_keyboard_button_pressed.png" description="按下" />
+        <path src="res\drawable-xhdpi\miui_numeric_keyboard_button_pressed.png" description="按下" />
+        <path src="res\drawable-xxhdpi\miui_numeric_keyboard_button_pressed.png" description="按下" />
+    </resource>
+</screenshot>

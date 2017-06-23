@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="系统按钮" version="2.9.16" annotation="" tag="">
+    <resource description="btn_title_pressed.9.png" x="228" y="1154" width="256" height="112" uuid="e6185094-370a-4180-bd71-1070ca4a0a6d">
+        <path src="res\drawable-hdpi\btn_default_normal_holo_light.9.png" description="常态" />
+        <path src="res\drawable-hdpi\btn_default_pressed_holo_light.9.png" description="二态" />
+        <path src="res\drawable-xhdpi\btn_default_normal_holo_light.9.png" description="常态" />
+        <path src="res\drawable-xhdpi\btn_default_pressed_holo_light.9.png" description="二态" />
+    </resource>
+</screenshot>

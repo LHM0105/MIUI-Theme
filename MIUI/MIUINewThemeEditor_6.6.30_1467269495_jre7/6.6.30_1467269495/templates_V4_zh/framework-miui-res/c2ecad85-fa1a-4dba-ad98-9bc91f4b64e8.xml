@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="局部按钮" version="1.0" annotation="" tag="">
+    <resource description="ic_menu_trash_holo_light.png" x="317" y="1188" width="83" height="81" uuid="2e9acc88-4238-411d-ae85-242b229bafc8">
+        <path src="res\drawable-xhdpi\ic_menu_trash_holo_light.png" description="" />
+    </resource>
+    <resource description="ic_menu_moreoverflow_normal_holo_light.png" x="623" y="1193" width="72" height="72" uuid="74cb962c-e6f1-45b9-a3ad-a18950769418">
+        <path src="res\drawable-xhdpi\ic_menu_moreoverflow_normal_holo_light.png" description="" />
+    </resource>
+    <resource description="ab_home_up" x="0" y="50" width="94" height="100" uuid="fd643b18-a20c-4e91-9959-96c1628593f7">
+        <path src="res\drawable-xhdpi\ab_home_up.png" description="" />
+    </resource>
+</screenshot>

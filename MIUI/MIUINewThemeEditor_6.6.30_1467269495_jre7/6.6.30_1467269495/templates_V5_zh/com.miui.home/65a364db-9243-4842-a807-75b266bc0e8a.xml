@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 加载桌面" version="3.8.23" annotation="" tag="普通模式">
+    <resource description="loading_dialog_bg.9" x="152" y="558" width="416" height="172" uuid="f7e9e964-6657-48e9-a9d3-930f0482019f">
+        <path src="res\drawable-xhdpi\loading_dialog_bg.9.png" description="加载背景" />
+    </resource>
+    <resource description="loading_dialog_progress_bar" x="226" y="618" width="54" height="48" uuid="85d3e0c5-c1c7-4ca1-95a3-5e62ca0e499f">
+        <path src="res\drawable-xhdpi\loading_dialog_progress_bar.png" description="加载进度条" />
+    </resource>
+</screenshot>

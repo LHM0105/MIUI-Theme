@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- weather -->
+<Icon version="1" frameRate="0" width="192" height="192" resDensity="480" extraResources="sw720-den320::0.7059,sw1080-den440::0.8823,sw1440-den640::1.1765" extraScales="sw720-den320:0.7083,sw1080-den440:0.875,sw1440-den640:1.1667" useVariableUpdater="none">
+
+	<VariableBinders>
+		<ContentProviderBinder uri="content://weather/weather" columns="city_name,temperature,temperature_range,description,weather_type" countName="hasweather">
+			<Variable name="weather_id" type="int" column="weather_type"/>
+			<Variable name="weather_location" type="string" column="city_name"/>
+			<Variable name="weather_temperature" type="int" column="temperature"/>
+			<Variable name="weather_temperature_str" type="string" column="temperature"/>
+			<Variable name="weather_temperature_range" type="string" column="temperature_range"/>
+			<Variable name="weather_description" type="string" column="description"/>
+		</ContentProviderBinder>
+	</VariableBinders>
+
+	<Group>
+		<!--weather.bg-->
+<!-- 		<Var name="is_rain" expression="ge(#weather_id,4)*le(#weather_id,11)" />
+		<Var name="is_snow" expression="ge(#weather_id,12)*le(#weather_id,17)" />
+		<Var name="is_dust" expression="ge(#weather_id,18)*le(#weather_id,21)+eq(#weather_id,23)" />
+
+		<Var name="icon_suffix" expression="ifelse(isnull(#weather_id),1,gt(#weather_id,24),1,#weather_id)" />
+		<Var name="icon_index" expression="ifelse(#is_rain,4,#is_snow,12,#is_dust,18,#icon_suffix)" />
+
+		<Image x="96" y="96" align="center" alignV="center" src="weather/weather.png" srcid="#icon_index"/>
+ -->
+	</Group>
+	
+	
+	
+	<Image name="weather_bg" src="weather_bg.png"/>
+	<Group  x="30" y="130">
+		<ImageNumber name="t" src="n/n.png" number="#weather_temperature"/>
+	<Image x="#t.bmp_width" src="n/n_degree.png"/>
+	</Group>
+
+	
+</Icon>

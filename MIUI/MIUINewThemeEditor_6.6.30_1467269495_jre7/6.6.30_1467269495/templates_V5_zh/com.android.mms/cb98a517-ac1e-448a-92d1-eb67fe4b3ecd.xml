@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.6 彩信" version="3.4.25" annotation="" tag="短信会话界面">
+    <resource description="flatshow_list_top_bg" x="0" y="46" width="708" height="28" uuid="8e3d7431-c018-4b39-9c2c-fa64f41c7ae5">
+        <path src="res\drawable-xhdpi\flatshow_list_top_bg.png" description="顶部背景" />
+        <path src="res\drawable-xxhdpi\flatshow_list_top_bg.png" description="顶部背景" />
+    </resource>
+    <resource description="flatshow_list_item_bg" x="0" y="80" width="714" height="1158" uuid="81e057bf-129f-4e73-8f9d-c83b0b5dfdfc">
+        <path src="res\drawable-xhdpi\flatshow_list_item_bg.png" description="中间平铺背景" />
+        <path src="res\drawable-xxhdpi\flatshow_list_item_bg.png" description="中间平铺背景" />
+    </resource>
+    <resource description="flatshow_list_bottom_bg" x="0" y="1246" width="716" height="34" uuid="e89fab70-33c8-44b2-8c26-4bfa7dceb022">
+        <path src="res\drawable-xhdpi\flatshow_list_bottom_bg.png" description="底部背景" />
+        <path src="res\drawable-xxhdpi\flatshow_list_bottom_bg.png" description="底部背景" />
+    </resource>
+    <resource description="flatshow_up_btn_p" x="22" y="88" width="70" height="124" uuid="27f3a5c5-8c85-4821-8797-395f96fd13ee">
+        <path src="res\drawable-xhdpi\flatshow_up_btn_n.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\flatshow_up_btn_n.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\flatshow_up_btn_p.png" description="返回按钮 二态" />
+        <path src="res\drawable-xxhdpi\flatshow_up_btn_p.png" description="返回按钮 二态" />
+    </resource>
+    <resource description="flatshow_page_index_gb.9" x="590" y="1185" width="43" height="46" uuid="a34e0b12-dac2-4408-a3bb-0e2cd22a40a9">
+        <path src="res\drawable-xhdpi\flatshow_page_index_gb.9.png" description="页面指示背景" />
+        <path src="res\drawable-xxhdpi\flatshow_page_index_gb.9.png" description="页面指示背景" />
+    </resource>
+    <resource description="flatshow_dashline_titled" x="73" y="1197" width="510" height="24" uuid="bedff31b-81f8-4b50-aa93-8d13f5445ed6">
+        <path src="res\drawable-xhdpi\flatshow_dashline_titled.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\flatshow_dashline_titled.png" description="分割线" />
+    </resource>
+</screenshot>

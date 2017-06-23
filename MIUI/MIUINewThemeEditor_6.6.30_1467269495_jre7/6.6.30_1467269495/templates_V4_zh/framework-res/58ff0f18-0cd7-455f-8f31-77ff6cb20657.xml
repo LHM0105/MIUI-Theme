@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="全局搜索框" version="2.9.29" annotation="例如：联系人搜索、短信搜索框" tag="输入框">
+    <resource description="textfield_search_default_holo_light.9" x="110" y="56" width="596" height="82" uuid="e6c8933b-d82c-4fa7-91eb-31167ff30ae6">
+        <path src="res\drawable-hdpi\textfield_search_default_holo_light.9.png" description="未点击状态" />
+        <path src="res\drawable-hdpi\textfield_search_selected_holo_light.9.png" description="点击输入状态" />
+        <path src="res\drawable-xhdpi\textfield_search_default_holo_light.9.png" description="未点击状态" />
+        <path src="res\drawable-xhdpi\textfield_search_selected_holo_light.9.png" description="点击输入状态" />
+    </resource>
+    <resource description="background_holo_light" x="0" y="50" width="720" height="1230" uuid="1d2324e1-e448-47d9-8861-a00608458ca9">
+        <path src="res\drawable-nodpi\background_holo_light.png" description="全局大部分界面背景图" />
+    </resource>
+</screenshot>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<bool name="allow_rotation">false</bool>
+<bool name="center_crop">true</bool>
+<string name="crop_wallpaper">wallpaper</string>
+<string name="wallpaper_instructions">wallpaper</string>
+<string name="wallpaper_load_fail">wallpaper</string>
+</MIUI_Theme_Values>

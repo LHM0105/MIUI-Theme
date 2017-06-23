@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Statusbar version="2" frameRate="0" resDensity="480" scaleByDensity="true" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <VariableBinders>
+        <BroadcastBinder action="lockscreen.action.PREFERENCE_CHANGED">
+            <Trigger>
+                <MethodCommand target="music_control" method="initByPreference" />
+            </Trigger>
+        </BroadcastBinder>
+    </VariableBinders>
+	
+	<Button w="#view_width" h="#view_height">
+		<Triggers>
+			<Trigger action="up">
+				<ExternCommand command="click"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+	
+	<MusicControl name="music_control" x="#view_width/2-540" y="70" enableProgress="true" frameRate="0">
+		<Var name="progress" expression="ifelse(#music_control.music_state,ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0),#progress)" />
+		<Var name="show_no_title" expression="strIsEmpty(@music_control.title)" />
+		<Var name="is_miui_player" expression="or(eqs(@music_control.package,'com.miui.player'), strIsEmpty(@music_control.package), #show_no_title)" />
+		
+		<Text name="music_title" x="540-ifelse(lt(#music_title.text_width,520),int(#music_title.text_width/2),260)" y="0" w="520" size="44" color="#ffdbddde" marqueeSpeed="30" textExp="ifelse(#show_no_title,@no_title,@music_control.title)" />
+		<Text name="music_artist" x="540-ifelse(lt(#music_artist.text_width,520),int(#music_artist.text_width/2),260)-gt(#music_artist.text_width,720)*18" y="60" w="ifelse(gt(#music_artist.text_width,520),484,520)" size="32" color="#99ffffff" textExp="ifelse(strIsEmpty(@music_control.title),@no_artist,@music_control.artist)" />
+		<Text x="782" y="60" size="32" color="#99ffffff" text="…" visibility="gt(#music_artist.text_width,720)" />
+		
+		<Button x="630" y="135" w="180*not(#music_control.disable_next)" h="155" alpha="255-127*#music_control.disable_next" visibility="not(#show_no_title)" interceptTouch="true" >
+			<Triggers>
+				<Trigger action="down">
+					<MethodCommand target="music_control" method="onButtonDown" params="'music_next'" paramTypes="String" />
+				</Trigger>
+				<Trigger action="up">
+					<MethodCommand target="music_control" method="onButtonUp" params="'music_next'" paramTypes="String" />
+					<ExternCommand command="track_music_next" strPara="@music_control.package"/>
+				</Trigger>
+			</Triggers>
+			<Normal>
+			    <Circle x="720" y="200" r="55" strokeColor="#4dffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" />
+				<Image src="next.png" x="665" y="145" />
+			</Normal>
+			<Pressed>
+				<Circle x="720" y="200" r="55" strokeColor="#4dffffff" fillColor="#18ffffff" weight="2" strokeAlign="inner" />
+				<Image src="next.png" x="665" y="145" />
+			</Pressed>
+		</Button>
+		<Button x="270" y="135" w="180*not(#music_control.disable_prev)" h="155" alpha="255-127*#music_control.disable_prev" visibility="not(#show_no_title)" interceptTouch="true">
+			<Triggers>
+				<Trigger action="down">
+					<MethodCommand target="music_control" method="onButtonDown" params="'music_prev'" paramTypes="String" />
+				</Trigger>
+				<Trigger action="up">
+					<MethodCommand target="music_control" method="onButtonUp" params="'music_prev'" paramTypes="String" />
+					<ExternCommand command="track_music_prev" strPara="@music_control.package"/>
+				</Trigger>
+			</Triggers>
+			<Normal>
+				<Circle x="360" y="200" r="55" strokeColor="#4dffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" />
+				<Image src="prev.png" x="305" y="145" />
+			</Normal>
+			<Pressed>
+				<Circle x="360" y="200" r="55" strokeColor="#4dffffff" fillColor="#18ffffff" weight="2" strokeAlign="inner" />
+				<Image src="prev.png" x="305" y="145" />
+			</Pressed>
+		</Button>
+		<Button x="450" y="135" w="180*not(#music_control.disable_play)" h="155" alpha="255-127*#music_control.disable_play" visibility="not(#music_control.music_state)*not(#show_no_title)" interceptTouch="true">
+			<Triggers>
+				<Trigger action="down">
+					<MethodCommand target="music_control" method="onButtonDown" params="'music_play'" paramTypes="String" />
+				</Trigger>
+				<Trigger action="up">
+					<MethodCommand target="music_control" method="onButtonUp" params="'music_play'" paramTypes="String" />
+					<ExternCommand command="track_music_play" strPara="@music_control.package"/>
+				</Trigger>
+			</Triggers>
+			<Normal>
+				<Circle x="540" y="200" r="55" strokeColor="#4dffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" />
+				<Image src="play.png" x="485" y="145" />
+			</Normal>
+			<Pressed>
+				<Circle x="540" y="200" r="55" strokeColor="#4dffffff" fillColor="#18ffffff" weight="2" strokeAlign="inner" />
+				<Image src="play.png" x="485" y="145" />
+			</Pressed>
+		</Button>
+		<Button x="450" y="135" w="180*not(#music_control.disable_play)" h="155" alpha="255-127*#music_control.disable_play" visibility="#music_control.music_state*not(#show_no_title)" interceptTouch="true">
+			<Triggers>
+				<Trigger action="down">
+					<MethodCommand target="music_control" method="onButtonDown" params="'music_pause'" paramTypes="String" />
+				</Trigger>
+				<Trigger action="up">
+					<MethodCommand target="music_control" method="onButtonUp" params="'music_pause'" paramTypes="String" />
+					<ExternCommand command="track_music_pause" strPara="@music_control.package"/>
+				</Trigger>
+			</Triggers>
+			<Normal>
+				<Circle x="540" y="200" r="55" strokeColor="#4dffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" />
+				<Image src="pause.png" x="485" y="145" />
+			</Normal>
+			<Pressed>
+				<Circle x="540" y="200" r="55" strokeColor="#4dffffff" fillColor="#18ffffff" weight="2" strokeAlign="inner" />
+				<Image src="pause.png" x="485" y="145" />
+			</Pressed>
+		</Button>
+		
+		<Circle x="540" y="200" r="55" strokeColor="#26ffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" visibility="#show_no_title"/>
+		<Circle x="360" y="200" r="55" strokeColor="#26ffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" visibility="#show_no_title"/>
+		<Circle x="720" y="200" r="55" strokeColor="#26ffffff" fillColor="#00ffffff" weight="2" strokeAlign="inner" visibility="#show_no_title"/>
+		<Image src="play.png" x="485" y="145" alpha="127" visibility="#show_no_title" />
+        <Image src="prev.png" x="305" y="145" alpha="127" visibility="#show_no_title" />
+        <Image src="next.png" x="665" y="145" alpha="127" visibility="#show_no_title" />
+		
+        <Button x="270" y="135" w="540" h="155" visibility="#show_no_title" interceptTouch="true">
+		    <Triggers>
+			    <Trigger action="up">
+				    <ExternCommand command="track_music_pause"/>
+			    </Trigger>
+		    </Triggers>
+	    </Button> 
+		
+		<Group x="485" y="145" w="120" h="120" layered="true" visibility="not(#show_no_title)">
+			<Circle x="55" y="55" r="55" strokeColor="#3c9bff" fillColor="#00ffffff" weight="2" strokeAlign="inner" />
+			<Arc x="55" y="55" w="110" h="110" startAngle="-90" sweep="-int(360*(1-#progress))" close="true" fillColor="#ff000000" xfermode="clear" />
+		</Group>
+	</MusicControl>
+	
+	
+	<Button x="#view_width/2-260" y="70" w="520" h="134" interceptTouch="true">
+        <Triggers>
+            <Trigger action="up" condition="#is_miui_player">
+                <ExternCommand command="track_music_enter" strPara="@music_control.package"/>
+                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(#show_no_title)">
+                    <Extra name="intent_sender" type="string" expression="'notification_bar'"/>
+                </IntentCommand>
+                <IntentCommand action="android.intent.action.MAIN" category="android.intent.category.LAUNCHER" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="#show_no_title">
+                    <Extra name="intent_sender" type="string" expression="'notification_bar'"/>
+                </IntentCommand>
+                <ExternCommand command="statusbar_collapse_and_unlock"/>
+            </Trigger>
+        </Triggers>
+    </Button>
+</Statusbar>

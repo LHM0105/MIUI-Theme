@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1.1 表情" version="2.9.20" annotation="附件表情" tag="添加短信附件">
+    <resource description="smiley_tab_text_pressed.png" x="-2" y="1172" width="120" height="108" uuid="ddc59d2f-1e2e-4a0c-9d61-eb483bbfca90">
+        <path src="res\drawable-hdpi\smiley_tab_text_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_tab_text_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_text_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_text_pressed.png" description="" />
+    </resource>
+    <resource description="smiley_tab_bg.9.png" x="0" y="1174" width="716" height="104" uuid="0801a75a-96f8-4102-9105-3438783e90c9">
+        <path src="res\drawable-hdpi\smiley_tab_bg.9.png" description="分类表情按钮下背景图" />
+        <path src="res\drawable-xhdpi\smiley_tab_bg.9.png" description="分类表情按钮下背景图" />
+    </resource>
+    <resource description="smiley_tab_symbol_normal.png" x="118" y="1172" width="120" height="108" uuid="0fc1b02a-f191-4857-b5be-7e59f512368e">
+        <path src="res\drawable-hdpi\smiley_tab_symbol_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_tab_symbol_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_symbol_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_symbol_pressed.png" description="" />
+    </resource>
+    <resource description="smiley_back_pressed.png" x="598" y="1174" width="120" height="108" uuid="acf3885d-8884-4075-b6e9-922b98c06e4b">
+        <path src="res\drawable-hdpi\smiley_back_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_back_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_back_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_back_pressed.png" description="" />
+    </resource>
+    <resource description="call_btn_p.png" x="601" y="96" width="84" height="84" uuid="b637846a-4819-4b69-8b57-d85e6f7394de">
+        <path src="res\drawable-hdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\call_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="" />
+    </resource>
+    <resource description="smiley_panel_bg.9.png" x="0" y="764" width="720" height="404" uuid="d33eb314-fb25-49e3-bc6d-7f3cdab1b3d9">
+        <path src="res\drawable-hdpi\smiley_panel_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_panel_bg.9.png" description="" />
+    </resource>
+    <resource description="smiley_tab_image_creature_pressed.png" x="358" y="1172" width="120" height="108" uuid="ea2523c5-f113-444a-862c-b8500f66bd16">
+        <path src="res\drawable-hdpi\smiley_tab_image_creature_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_tab_image_creature_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_creature_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_creature_pressed.png" description="" />
+    </resource>
+    <resource description="smiley_tab_image_lifestyle_pressed.png" x="478" y="1172" width="120" height="108" uuid="a5312545-6414-4590-b454-2ee3a283abae">
+        <path src="res\drawable-hdpi\smiley_tab_image_lifestyle_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_tab_image_lifestyle_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_lifestyle_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_lifestyle_pressed.png" description="" />
+    </resource>
+    <resource description="smiley_tab_image_smiley_pressed.png" x="238" y="1170" width="120" height="108" uuid="abda83c1-4f0d-4969-8ebe-7c644020459f">
+        <path src="res\drawable-hdpi\smiley_tab_image_smiley_normal.png" description="" />
+        <path src="res\drawable-hdpi\smiley_tab_image_smiley_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_smiley_normal.png" description="" />
+        <path src="res\drawable-xhdpi\smiley_tab_image_smiley_pressed.png" description="" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="644" width="720" height="118" uuid="0bf3ce01-14c2-4fe6-be7b-be11b0d83d92">
+        <path src="res\drawable-hdpi\message_edit_bottom_panel.9.png" description="" />
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="106" y="660" width="502" height="82" uuid="cecd4b9c-9c3c-46a5-befd-61af87417eb7">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+    <resource description="insert_attachment_button_n.png" x="12" y="658" width="86" height="86" uuid="eedbf543-2513-4e96-8052-801942686445">
+        <path src="res\drawable-hdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-hdpi\insert_attachment_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="616" y="658" width="86" height="86" uuid="02882c0a-f946-472b-9b0c-78502aedeebd">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="0" y="50" width="720" height="174" uuid="25f6f198-0fb8-4562-b04d-d84796c9b0b0">
+        <path src="res\drawable-hdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+    </resource>
+</screenshot>

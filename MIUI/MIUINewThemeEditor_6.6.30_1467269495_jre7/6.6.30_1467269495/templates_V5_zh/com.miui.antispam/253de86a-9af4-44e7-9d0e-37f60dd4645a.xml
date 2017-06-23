@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="无拦截图标" version="3.4.26" annotation="" tag="">
+    <resource description="no_calllog" x="294" y="704" width="120" height="120" uuid="c1572473-5abe-4fe8-93a1-31f68ee6ab9c">
+        <path src="res\drawable-xhdpi\no_calllog.png" description="无通话记录图标" />
+        <path src="res\drawable-xhdpi\no_mslog.png" description="无短信记录图标" />
+    </resource>
+</screenshot>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="进度条" version="2.12.27" annotation="下载进度条 与 安装进度条" tag="进度条/滑动条/等待进度">
+    <resource description="progressbar_indeterminate_holo1" x="88" y="560" width="598" height="18" uuid="8edb3e00-8a8a-463d-8f86-2be1a6c7cc31">
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo1.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo2.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo3.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo4.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo5.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo6.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo7.png" description="" />
+        <path src="res\drawable-hdpi\progressbar_indeterminate_holo8.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo1.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo2.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo3.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo4.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo5.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo6.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo7.png" description="" />
+        <path src="res\drawable-xhdpi\progressbar_indeterminate_holo8.png" description="" />
+    </resource>
+    <resource description="progress_primary_holo_dark.9" x="90" y="398" width="592" height="34" uuid="fe8268d8-b8d5-4a9d-9244-7e6cd183da01">
+        <path src="res\drawable-hdpi\progress_primary_holo_dark.9.png" description="" />
+        <path src="res\drawable-hdpi\progress_primary_holo_light.9.png" description="橙色进度" />
+        <path src="res\drawable-hdpi\progress_secondary_holo_dark.9.png" description="" />
+        <path src="res\drawable-hdpi\progress_secondary_holo_light.9.png" description="底图" />
+        <path src="res\drawable-xhdpi\progress_primary_holo_dark.9.png" description="" />
+        <path src="res\drawable-xhdpi\progress_primary_holo_light.9.png" description="橙色进度" />
+        <path src="res\drawable-xhdpi\progress_secondary_holo_dark.9.png" description="" />
+        <path src="res\drawable-xhdpi\progress_secondary_holo_light.9.png" description="底图" />
+    </resource>
+</screenshot>

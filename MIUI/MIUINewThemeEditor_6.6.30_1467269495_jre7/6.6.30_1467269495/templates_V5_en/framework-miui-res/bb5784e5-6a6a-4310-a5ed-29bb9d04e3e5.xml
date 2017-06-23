@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Image unlock style 1" version="3.4.23" annotation="" tag="Lock screen password">
+    <resource description="btn_code_lock_touched_holo" x="34" y="514" width="186" height="186" uuid="b8b41175-1386-4a1d-a209-1e94b931a574">
+        <path src="res\drawable-hdpi\btn_code_lock_touched_holo.png" description="选中 中心点" />
+        <path src="res\drawable-xhdpi\btn_code_lock_touched_holo.png" description="选中 中心点" />
+        <path src="res\drawable-xxhdpi\btn_code_lock_touched_holo.png" description="选中 中心点" />
+        <path src="res\drawable-hdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-hdpi\indicator_code_lock_point_area_green_holo.png" description="选中 外圈" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_point_area_green_holo.png" description="选中 外圈" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_point_area_green_holo.png" description="选中 外圈" />
+    </resource>
+    <resource description="indicator_code_lock_drag_direction_green_up" x="100" y="642" width="54" height="36" uuid="ae2c5386-4470-4ecd-9471-664ba5368b0d">
+        <path src="res\drawable-hdpi\indicator_code_lock_drag_direction_green_up.png" description="路径指示图" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_drag_direction_green_up.png" description="路径指示图" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_drag_direction_green_up.png" description="路径指示图" />
+    </resource>
+</screenshot>

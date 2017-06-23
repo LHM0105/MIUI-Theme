@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="短信附件按下" version="2.9.21" annotation="" tag="">
+    <resource description="highlight_pressed.9.png" x="239" y="760" width="241" height="225" uuid="9115a2fc-320d-4388-8047-fe4681546b49">
+        <path src="res\drawable-hdpi\highlight_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\highlight_pressed.9.png" description="" />
+    </resource>
+</screenshot>

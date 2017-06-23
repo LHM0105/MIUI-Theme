@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="控件弹窗" version="3.3.1" annotation="" tag="弹窗">
+    <resource description="v5_number_picker_left" x="20" y="560" width="33" height="520" uuid="c57790f0-3cb6-42d1-b39d-1281e86a4bfb">
+        <path src="res\drawable-hdpi\v5_number_picker_left.png" description="左边背景" />
+        <path src="res\drawable-xhdpi\v5_number_picker_left.png" description="左边背景" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_left.png" description="左边背景" />
+    </resource>
+    <resource description="v5_number_picker_right" x="677" y="571" width="33" height="507" uuid="5f9b1e77-2d95-44c2-b887-5aaa4b375a0f">
+        <path src="res\drawable-hdpi\v5_number_picker_right.png" description="右边背景" />
+        <path src="res\drawable-xhdpi\v5_number_picker_right.png" description="右边背景" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_right.png" description="右边背景" />
+    </resource>
+    <resource description="v5_number_picker_divider" x="478" y="558" width="13" height="522" uuid="90c9fe0f-941a-4a5d-8da5-931bdf00da71">
+        <path src="res\drawable-hdpi\v5_number_picker_divider.png" description="分割线" />
+        <path src="res\drawable-xhdpi\v5_number_picker_divider.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_divider.png" description="分割线" />
+    </resource>
+    <resource description="v5_number_picker_selector.9" x="93" y="773" width="558" height="132" uuid="62daf885-c4fa-4ff0-8962-d55dc06957f1">
+        <path src="res\drawable-hdpi\v5_number_picker_selector.9.png" description="选中高亮" />
+        <path src="res\drawable-xhdpi\v5_number_picker_selector.9.png" description="选中高亮" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_selector.9.png" description="选中高亮" />
+    </resource>
+    <resource description="v5_number_picker_bg.9" x="500" y="569" width="162" height="510" uuid="2dd24003-845f-4558-b5df-cb2667d5411a">
+        <path src="res\drawable-hdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_bg.9.png" description="背景" />
+    </resource>
+    <resource description="v5_dialog_bg_light.9" x="0" y="464" width="720" height="816" uuid="832ebc2b-de0d-4c9b-87f2-29d85ad1f296">
+        <path src="res\drawable-hdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xxhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+    </resource>
+    <resource description="v5_number_picker_bg.9" x="67" y="566" width="211" height="510" uuid="e5a0bc57-1ed6-4d1b-bc5f-d99c773b8aef">
+        <path src="res\drawable-hdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_bg.9.png" description="背景" />
+    </resource>
+    <resource description="v5_number_picker_divider" x="292" y="559" width="13" height="522" uuid="4a337059-7893-4f27-858e-0d3c77887a01">
+        <path src="res\drawable-hdpi\v5_number_picker_divider.png" description="分割线" />
+        <path src="res\drawable-xhdpi\v5_number_picker_divider.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_divider.png" description="分割线" />
+    </resource>
+    <resource description="v5_number_picker_bg.9" x="315" y="571" width="149" height="510" uuid="aadf8083-f0ff-4a72-9169-124a61cf42c7">
+        <path src="res\drawable-hdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_number_picker_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_number_picker_bg.9.png" description="背景" />
+    </resource>
+    <resource description="v5_popup_btn_last_pressed_light.9" x="34" y="1132" width="654" height="98" uuid="4c843a7a-cf07-4306-b065-17c2a9c4f3de">
+        <path src="res\drawable-hdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+    </resource>
+</screenshot>

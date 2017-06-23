@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 桌面" version="4.8.27" annotation="" tag="桌面">
+    <resource description="wallpaper_mask.9" x="2" y="2" width="1076" height="1916" uuid="f289ca19-fb49-4746-8c07-e62bf4d330ab">
+        <path src="res\drawable-xxhdpi\wallpaper_mask.9.png" description="壁纸遮罩(切图需大于3x3)" />
+    </resource>
+    <resource description="hotseat_background.9" x="0" y="1630" width="1080" height="290" uuid="1e40a969-6223-48f9-af4f-3cfd99d80c35">
+        <path src="res\drawable-xxhdpi\hotseat_background.9.png" description="常驻图标背景(切图需大于3x3)" />
+    </resource>
+    <resource description="statusbar_bg.9" x="0" y="0" width="1078" height="78" uuid="042e5ff0-9e29-4a66-8310-f97ab6295e8f">
+        <path src="res\drawable-xxhdpi\statusbar_bg.9.png" description="状态栏背景(切图需大于3x3)" />
+    </resource>
+    <resource description="icon_notification_bg.9" x="968" y="1642" width="62" height="62" uuid="7517d776-f27c-4a56-a303-f408059cbd7d">
+        <path src="res\drawable-largeui-xxhdpi\icon_notification_bg.9.png" description="图标角标背景" />
+        <path src="res\drawable-xxhdpi\icon_notification_bg.9.png" description="图标角标背景" />
+    </resource>
+    <resource description="new_install_notification" x="48" y="1176" width="42" height="38" uuid="9d5c05a9-7c42-4ced-a35e-314c913246d7">
+        <path src="res\drawable-xxhdpi\new_install_notification.png" description="新装应用标记" />
+    </resource>
+    <resource description="workspace_seekpoint_normal_dark" x="376" y="1568" width="326" height="44" uuid="c91e55d6-dc84-48a5-9ed9-5ed997e07f62">
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_normal.png" description="页面指示点" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_highlight.png" description="页面指示点选中态" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png" description="页面指示点_浅壁纸模式" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png" description="页面指示点选中态_浅壁纸模式" />
+    </resource>
+</screenshot>

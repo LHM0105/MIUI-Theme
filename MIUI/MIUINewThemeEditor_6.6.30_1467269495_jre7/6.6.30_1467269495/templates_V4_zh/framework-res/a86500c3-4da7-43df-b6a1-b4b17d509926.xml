@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="弹窗1" version="2.12.27" annotation="" tag="系统弹窗">
+    <resource description="dialog_full_holo_light.9" x="14" y="406" width="690" height="522" uuid="20a15142-9313-4258-8ec0-641902d86083">
+        <path src="res\drawable-hdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+        <path src="res\drawable-xhdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+    </resource>
+    <resource description="list_divider_holo_light.9" x="8" y="526" width="700" height="16" uuid="6f7f9947-a076-4f6f-b1ea-6f3e7f17cdc3">
+        <path src="res\drawable-hdpi\list_divider_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_divider_holo_light.9.png" description="" />
+    </resource>
+</screenshot>

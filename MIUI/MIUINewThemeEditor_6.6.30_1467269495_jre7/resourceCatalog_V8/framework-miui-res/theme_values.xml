@@ -1,0 +1,1467 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="menu_list_text_color_normal_dark">#e6ffffff</color>
+<color name="menu_list_text_color_disabled_light">#33000000</color>
+<color name="menu_list_text_color_disabled_dark">#33ffffff</color>
+<color name="spinner_edit_item_label_pressed">#73000000</color>
+<color name="secondary_tab_text_color_light">#73000000</color>
+<color name="spinner_dropdown_button_text_pressed">#73000000</color>
+<color name="spinner_edit_item_label_normal">#73000000</color>
+<color name="spinner_list_text_color_pressed_light">#cc000000</color>
+<color name="spinner_list_text_color_disabled_dark">#33ffffff</color>
+<color name="spinner_list_text_color_disabled_light">#33000000</color>
+<color name="spinner_list_text_color_normal_dark">#e6ffffff</color>
+<color name="spinner_list_text_color_normal_light">#cc000000</color>
+<color name="menu_list_text_color_pressed_dark">#e6ffffff</color>
+<color name="menu_list_text_color_pressed_light">#cc000000</color>
+<color name="hint_edit_text_color_dark">#4cffffff</color>
+<color name="edit_text_search_color_light">#cc000000</color>
+<color name="edit_text_search_color_dark">#ccffffff</color>
+<color name="edit_text_search_hint_color_light">#66000000</color>
+<color name="edit_text_search_hint_color_dark">#4cffffff</color>
+<color name="list_view_item_group_header_text_dark">#73ffffff</color>
+<color name="progress_percent_color">#ff33aaff</color>
+<color name="spinner_dropdown_selector_text_color">#7f000000</color>
+<color name="spinner_dropdown_button_text_normal">#73000000</color>
+<color name="list_view_item_group_header_text_light">#73000000</color>
+<color name="spinner_list_text_color_pressed_dark">#e6ffffff</color>
+<color name="secondary_tab_text_color_dark">#ccffffff</color>
+<color name="secondary_tab_text_color_disabled_light">#4c000000</color>
+<color name="blank_page_text_color_light">#66000000</color>
+<color name="secondary_tab_text_color_disabled_dark">#4cffffff</color>
+<color name="blank_page_button_text_color_light">#cc000000</color>
+<color name="blank_page_text_color_dark">#26ffffff</color>
+<color name="primary_color_light">#ffefeff0</color>
+<color name="accent_color_light"></color>
+<color name="primary_color_settings_light">#ff8499af</color>
+<color name="divider_line_light">#2e000000</color>
+<color name="primary_color_dark">#00000000</color>
+<color name="accent_color_dark"></color>
+<color name="hint_edit_text_color_light">#4c000000</color>
+<color name="edit_text_color_dark">#ccffffff</color>
+<color name="edit_text_color_dark_disabled">#4cffffff</color>
+<color name="edit_text_color_light_disabled">#4c000000</color>
+<color name="edit_text_color_light">#cc000000</color>
+<color name="blank_page_button_text_color_dark">#7fffffff</color>
+<color name="guide_popup_text_dark">#7fffffff</color>
+<color name="guide_popup_text_light">#ff33aaff</color>
+<color name="guide_popup_paint_dark">#59ffffff</color>
+<color name="guide_popup_paint_light">#ff33aaff</color>
+<color name="guide_popup_background_light">#ccffffff</color>
+<color name="black">#ff000000</color>
+<color name="white">#ffffffff</color>
+<color name="transparent">#00000000</color>
+<color name="bright_foreground_dark_inverse"></color>
+<color name="bright_foreground_dark_disabled">#4cffffff</color>
+<color name="bright_foreground_dark">#ccffffff</color>
+<color name="content_mask_navigation">#ccf5f7f7</color>
+<color name="dim_foreground_light_inverse"></color>
+<color name="hint_foreground_light">#4c000000</color>
+<color name="highlighted_text_dark">#260091dc</color>
+<color name="link_text_dark">#ccffffff</color>
+<color name="dim_foreground_dark_inverse"></color>
+<color name="hint_foreground_dark">#4cffffff</color>
+<color name="dim_foreground_dark">#7fffffff</color>
+<color name="dim_foreground_dark_disabled"></color>
+<color name="word_photo_color">#f4ffffff</color>
+<color name="bright_foreground_light_inverse"></color>
+<color name="dim_foreground_light">#7f000000</color>
+<color name="dim_foreground_light_disabled"></color>
+<color name="background_light">#ff000000</color>
+<color name="background_dark">#ffffffff</color>
+<color name="bright_foreground_light">#cc000000</color>
+<color name="bright_foreground_light_disabled">#4c000000</color>
+<color name="alphabet_indexer_highlight_text_color">#ff33b4ff</color>
+<color name="alphabet_indexer_activated_text_color">#99000000</color>
+<color name="alphabet_indexer_text_color">#66000000</color>
+<color name="dialog_title_text_color">#ff000000</color>
+<color name="arrow_popup_window_dim_color">#33000000</color>
+<color name="alphabet_indexer_activated_text_color_dark">#ffffffff</color>
+<color name="alphabet_indexer_text_color_dark">#80ffffff</color>
+<color name="dialog_list_text_color_normal_light">#cc000000</color>
+<color name="dialog_message_text_color_light">#b2000000</color>
+<color name="dialog_message_text_color_dark">#e6ffffff</color>
+<color name="button_text_color_positive_normal_light">#ff4b8d0e</color>
+<color name="button_text_color_warning_disabled_light">#4cffffff</color>
+<color name="button_text_color_dark">#ffffffff</color>
+<color name="button_text_color_positive_disabled_light">#7f4b8d0e</color>
+<color name="button_text_color_warning_normal_light">#ffffffff</color>
+<color name="alphabet_indexer_overlay_text_color">#ffffffff</color>
+<color name="dialog_list_text_color_disabled_light">#33000000</color>
+<color name="dialog_list_text_color_pressed_light">#cc000000</color>
+<color name="dropdown_popup_list_text_color_normal_light">#cc000000</color>
+<color name="dropdown_popup_list_text_color_disabled_light">#33000000</color>
+<color name="dropdown_popup_list_text_color_pressed_light">#cc000000</color>
+<color name="menu_list_text_color_normal_light">#cc000000</color>
+<color name="immersion_text_color_normal_light">#cc000000</color>
+<color name="list_secondary_text_color_disable_dark">#33ffffff</color>
+<color name="list_secondary_text_color_pressed_light">#99000000</color>
+<color name="list_secondary_text_color_normal_light">#99000000</color>
+<color name="list_secondary_text_color_disable_light">#33000000</color>
+<color name="immersion_text_color_pressed_dark">#ccffffff</color>
+<color name="immersion_text_color_normal_dark">#ccffffff</color>
+<color name="immersion_text_color_disable_dark">#66ffffff</color>
+<color name="immersion_text_color_pressed_light">#cc000000</color>
+<color name="list_secondary_text_color_normal_dark">#73ffffff</color>
+<color name="immersion_text_color_disable_light">#66000000</color>
+<color name="list_text_color_normal_dark">#ccffffff</color>
+<color name="list_text_color_pressed_dark">#ccffffff</color>
+<color name="list_text_color_pressed_light">#ff000000</color>
+<color name="list_text_color_disable_dark">#66ffffff</color>
+<color name="list_text_color_normal_light">#ff000000</color>
+<color name="preference_secondary_text_color_light">#66000000</color>
+<color name="preference_primary_text_color_pressed_light">#cc000000</color>
+<color name="button_text_color_negative_light">#ffff4200</color>
+<color name="button_text_color_light">#cc0000ff</color>
+<color name="button_text_color_guide_disabled_light">#27000000</color>
+<color name="button_text_color_guide_normal_light">#ff33aaff</color>
+<color name="preference_secondary_text_color_pressed_light">#66000000</color>
+<color name="preference_secondary_text_color_disable_light">#4d000000</color>
+<color name="preference_category_text_color_light">#66000000</color>
+<color name="preference_secondary_text_color_checked_light">#260091dc</color>
+<color name="preference_primary_text_color_light">#cc000000</color>
+<color name="preference_primary_text_color_disable_light">#4d000000</color>
+<color name="list_secondary_text_color_pressed_dark">#73ffffff</color>
+<color name="numberpicker_hint_text">#7f000000</color>
+<color name="numberpicker_highlight_text">#ff33aaff</color>
+<color name="numberpicker_label">#ff33aaff</color>
+<color name="action_button_text_color_selected_dark">#ffffffff</color>
+<color name="action_button_text_color_normal_dark">#ffffffff</color>
+<color name="action_button_text_color_pressed_dark">#ffffffff</color>
+<color name="action_mode_button_text_color_disable_light">#4d000000</color>
+<color name="action_mode_button_text_color_pressed_light">#cc000000</color>
+<color name="action_mode_title_text_color_light">#9a000000</color>
+<color name="action_mode_title_text_color_dark">#ffffffff</color>
+<color name="action_bar_subtitle_text_dark">#66ffffff</color>
+<color name="action_bar_tab_text_color_disable_light">#66000000</color>
+<color name="action_bar_tab_text_color_normal_dark">#66ffffff</color>
+<color name="action_button_text_color_normal_light">#73000000</color>
+<color name="action_button_text_color_selected_light">#73000000</color>
+<color name="action_button_text_color_pressed_light">#73000000</color>
+<color name="action_button_text_color_disable_light">#4d000000</color>
+<color name="action_mode_button_text_color_disable_dark">#4dffffff</color>
+<color name="action_mode_button_text_color_normal_light">#b2000000</color>
+<color name="action_mode_button_text_color_selected_light">#cc000000</color>
+<color name="action_mode_title_button_text_color_normal_dark">#cc000000</color>
+<color name="action_mode_title_button_text_color_pressed_dark">#ffffffff</color>
+<color name="divider_line_dark">#ff332e2f</color>
+<color name="action_mode_title_button_text_color_disable_dark">#4d000000</color>
+<color name="action_mode_title_default_button_text_color_normal_light">#ffffffff</color>
+<color name="action_mode_title_default_button_text_color_pressed_light">#ffffffff</color>
+<color name="action_mode_title_default_button_text_color_disable_light">#4dffffff</color>
+<color name="action_mode_title_default_button_text_color_normal_dark">#ffffffff</color>
+<color name="action_mode_title_default_button_text_color_pressed_dark">#ffffffff</color>
+<color name="action_button_text_color_disable_dark">#66ffffff</color>
+<color name="filter_sort_tab_view_text_normal">#7f000000</color>
+<color name="filter_sort_tab_view_text_selected">#ff33aaff</color>
+<color name="immersion_window_background_light">#fff8f8f8</color>
+<color name="message_view_text_color_light">#ffffffff</color>
+<color name="no_network_tip_text_light">#66000000</color>
+<color name="action_mode_button_text_color_selected_dark">#66ffffff</color>
+<color name="hybrid_provider_light">#7f000000</color>
+<color name="action_mode_button_text_color_pressed_dark">#66ffffff</color>
+<color name="action_mode_title_button_text_color_normal_light">#cc000000</color>
+<color name="action_mode_button_text_color_normal_dark">#66ffffff</color>
+<color name="action_mode_title_button_text_color_disable_light">#4d000000</color>
+<color name="action_mode_title_button_text_color_pressed_light">#ffffffff</color>
+<color name="list_text_color_disable_light">#66000000</color>
+<color name="action_mode_title_default_button_text_color_disable_dark">#66ffffff</color>
+<color name="activated_text_dark"></color>
+<color name="disabled_text_dark">#33ffffff</color>
+<color name="pressed_text_dark"></color>
+<color name="selected_text_dark"></color>
+<color name="checked_disabled_text_light">#9933aaff</color>
+<color name="suggestion_highlight_text_light"></color>
+<color name="content_mask">#ccfeffff</color>
+<color name="highlighted_text_light">#260091dc</color>
+<color name="link_text_light">#cc000000</color>
+<color name="selected_text_light"></color>
+<color name="pressed_text_light"></color>
+<color name="suggestion_highlight_text_dark"></color>
+<color name="action_bar_title_text_color_disabled_light">#4c000000</color>
+<color name="action_bar_title_text_color_dark">#ccffffff</color>
+<color name="action_bar_title_settings_text_color_light">#ffffffff</color>
+<color name="action_bar_title_text_color_light">#b2000000</color>
+<color name="checked_text_dark">#fff05000</color>
+<color name="action_bar_tab_text_color_normal_light">#99000000</color>
+<color name="action_bar_tab_settings_text_color_disable_light">#66ffffff</color>
+<color name="action_bar_tab_settings_text_color_pressed_light">#ffffffff</color>
+<color name="action_bar_tab_settings_text_color_selected_light">#ffffffff</color>
+<color name="action_bar_tab_text_color_pressed_light">#ff33aaff</color>
+<color name="action_bar_tab_text_color_selected_light">#ff33aaff</color>
+<color name="activated_text_light"></color>
+<color name="disabled_text_light">#27000000</color>
+<color name="checked_text_light">#ff33aaff</color>
+<color name="action_bar_title_text_color_disabled_dark">#4cffffff</color>
+<color name="action_bar_title_settings_text_color_disabled_light">#4cffffff</color>
+<color name="action_bar_subtitle_settings_text_light">#7f000000</color>
+<color name="action_bar_subtitle_text_light">#7f000000</color>
+<color name="action_bar_tab_text_color_disable_dark">#66ffffff</color>
+<color name="action_bar_tab_settings_text_color_normal_light">#99ffffff</color>
+<color name="action_bar_tab_text_color_selected_dark">#ffffffff</color>
+<color name="action_bar_tab_text_color_pressed_dark">#ffffffff</color>
+<integer name="window_translucent_status">#00000064</integer>
+<integer name="tab_layout_weight">#00000001</integer>
+<integer name="action_bar_tab_layout_weight">#00000000</integer>
+<integer name="preference_fragment_scrollbarStyle">#02000000</integer>
+<integer name="window_layout_mode">#00000001</integer>
+<integer name="button_exit_fade_duration">#000000c8</integer>
+<integer name="abc_max_action_buttons">#00000004</integer>
+<dimen name="dialog_list_preferred_item_height">60.299988dp</dimen>
+<dimen name="dialog_list_preferred_item_height_small">45.299988dp</dimen>
+<dimen name="seekbar_height">18.000000dp</dimen>
+<dimen name="ratingbar_size">12.500000dp</dimen>
+<dimen name="progressbar_size_small">22.000000dp</dimen>
+<dimen name="progressbar_size">32.000000dp</dimen>
+<dimen name="progressbar_horizontal_small_height">25.000000dp</dimen>
+<dimen name="progressbar_horizontal_indeterminate_height">25.000000dp</dimen>
+<dimen name="dialog_list_preferred_item_height_large">60.299988dp</dimen>
+<dimen name="progressbar_horizontal_height">35.000000dp</dimen>
+<dimen name="tab_bar_text_size">16.000000sp</dimen>
+<dimen name="preference_widget_width">10.000000dp</dimen>
+<dimen name="preference_child_padding_side">15.000000dp</dimen>
+<dimen name="preference_item_padding_side">20.000000dp</dimen>
+<dimen name="preference_item_padding_inner">8.000000dp</dimen>
+<dimen name="list_preferred_item_height_large">80.000000dp</dimen>
+<dimen name="list_preferred_item_height">61.000000dp</dimen>
+<dimen name="preference_item_padding_top">13.000000dp</dimen>
+<dimen name="preference_item_padding_bottom">13.000000dp</dimen>
+<dimen name="preference_icon_padding_side">10.000000dp</dimen>
+<dimen name="preference_fragment_padding_bottom">0.000000dp</dimen>
+<dimen name="preference_button_margin_top">20.000000dp</dimen>
+<dimen name="preference_value_padding_top">6.000000dp</dimen>
+<dimen name="preference_icon_padding_end">26.699982dp</dimen>
+<dimen name="preference_dialog_edittext_margin">48.000000dp</dimen>
+<dimen name="preference_dialog_edittext_padding_top">5.000000dp</dimen>
+<dimen name="preference_fragment_padding_side">16.000000dp</dimen>
+<dimen name="list_preferred_item_padding_right">40.000000dp</dimen>
+<dimen name="list_preferred_item_padding_left">40.000000dp</dimen>
+<dimen name="action_menu_item_view_padding_left">3.000000dp</dimen>
+<dimen name="tab_bar_height">47.000000dp</dimen>
+<dimen name="config_prefDialogWidth">320.000000dp</dimen>
+<dimen name="action_menu_item_view_padding_right">3.000000dp</dimen>
+<dimen name="alphabet_indexer_text_size">12.000000dp</dimen>
+<dimen name="numberpicker_text_size_hint">14.000000sp</dimen>
+<dimen name="alphabet_indexer_overlay_padding_top">0.000000dp</dimen>
+<dimen name="alphabet_indexer_overlay_offset">20.000000dp</dimen>
+<dimen name="numberpicker_label_padding">15.000000dp</dimen>
+<dimen name="guide_popup_horizontal_padding">16.699982dp</dimen>
+<dimen name="numberpicker_text_size_highlight">21.000000sp</dimen>
+<dimen name="numberpicker_label_text_size">10.000000sp</dimen>
+<dimen name="guide_popup_vertical_padding">20.000000dp</dimen>
+<dimen name="arrow_popup_window_list_max_height">400.000000dp</dimen>
+<dimen name="ratingbar_size_indicator">12.500000dp</dimen>
+<dimen name="preference_category_item_padding_side">30.000000dp</dimen>
+<dimen name="preference_item_padding_side_zero">0.000000dp</dimen>
+<dimen name="ratingbar_size_large">18.000000dp</dimen>
+<dimen name="ratingbar_size_small">10.000000dp</dimen>
+<dimen name="preference_icon_minWidth">0.000000dp</dimen>
+<dimen name="guide_popup_line_length">63.299988dp</dimen>
+<dimen name="guide_popup_text_radius">50.699982dp</dimen>
+<dimen name="guide_popup_text_size">11.000000sp</dimen>
+<dimen name="dialog_min_width_major">0.430000%</dimen>
+<dimen name="dialog_min_width_minor">0.450000%</dimen>
+<dimen name="action_button_drawable_padding">3.000000dp</dimen>
+<dimen name="dialog_fixed_width_major">525.000000dp</dimen>
+<dimen name="dialog_fixed_width_minor">525.000000dp</dimen>
+<dimen name="dialog_fixed_height_major">525.000000dp</dimen>
+<dimen name="dialog_fixed_height_minor">525.000000dp</dimen>
+<dimen name="preference_value_max_width">135.000000dp</dimen>
+<dimen name="preference_value_padding_bottom">6.000000dp</dimen>
+<dimen name="preference_icon_min_width">48.000000dp</dimen>
+<dimen name="preference_icon_max_height">47.000000dp</dimen>
+<dimen name="alphabet_indexer_overlay_text_size">28.000000dp</dimen>
+<dimen name="alert_dialog_title_min_height">50.000000dp</dimen>
+<dimen name="dialog_checkbox_vertical_padding">13.299988dp</dimen>
+<dimen name="dialog_custom_horizontal_padding">40.000000dp</dimen>
+<dimen name="dialog_message_horizontal_padding">40.000000dp</dimen>
+<dimen name="dialog_message_without_title_vertical_padding">33.000000dp</dimen>
+<dimen name="dialog_message_vertical_padding">18.000000dp</dimen>
+<dimen name="dialog_title_horizontal_padding">40.000000dp</dimen>
+<dimen name="dialog_title_average_vertical_padding">19.699982dp</dimen>
+<dimen name="dialog_title_vertical_padding">27.000000dp</dimen>
+<dimen name="dialog_icon_drawable_padding">10.000000dp</dimen>
+<dimen name="navigation_divider_width">1.000000px</dimen>
+<dimen name="guide_popup_start_point_radius">2.699982dp</dimen>
+<dimen name="split_action_bar_overlay_height">0.000000dp</dimen>
+<dimen name="actionbar_progressbar_horizontal_padding">10.000000dp</dimen>
+<dimen name="contact_photo_width">67.000000dp</dimen>
+<dimen name="spinner_dropdown_selector_padding">23.000000dp</dimen>
+<dimen name="arrow_popup_window_min_border">15.000000dp</dimen>
+<dimen name="no_network_tip_drawable_padding">17.299988dp</dimen>
+<dimen name="hybrid_provider_padding_top">21.299988dp</dimen>
+<dimen name="no_network_padding_bottom">43.299988dp</dimen>
+<dimen name="portrait_navigation_width">0.39</dimen>
+<dimen name="action_mode_immersion_more_margin_right">0.000000dp</dimen>
+<dimen name="status_bar_height">25.000000dp</dimen>
+<dimen name="landscape_navigation_width">0.34</dimen>
+<dimen name="license_activity_padding">32.000000dp</dimen>
+<dimen name="immersion_menu_window_width">0.000000dp</dimen>
+<dimen name="immersion_list_padding_bottom">5.000000dp</dimen>
+<dimen name="dialog_max_width_major">0.450000%</dimen>
+<dimen name="dialog_max_width_minor">0.620000%</dimen>
+<dimen name="dialog_fixed_width_major_small">550.000000dp</dimen>
+<dimen name="dialog_fixed_width_minor_small">550.000000dp</dimen>
+<dimen name="dialog_fixed_height_major_small">550.000000dp</dimen>
+<dimen name="dialog_fixed_height_minor_small">550.000000dp</dimen>
+<dimen name="message_view_close_margin_right">13.500000dp</dimen>
+<dimen name="message_view_text_margin_right">30.000000dp</dimen>
+<dimen name="message_view_text_margin_left">36.000000dp</dimen>
+<dimen name="guide_popup_window_padding">10.000000dp</dimen>
+<dimen name="edit_mode_title_horizontal_padding">15.000000dp</dimen>
+<dimen name="filter_sort_tab_view_image_margin">10.000000dp</dimen>
+<dimen name="filter_sort_tab_view_text_size">16.000000sp</dimen>
+<dimen name="message_view_text_size">18.000000sp</dimen>
+<dimen name="large_text_size">18.000000sp</dimen>
+<dimen name="normal_text_size">14.000000sp</dimen>
+<dimen name="screenshot_blur_radius">15.000000dp</dimen>
+<dimen name="secondary_text_size">12.000000sp</dimen>
+<dimen name="small_text_size">10.000000sp</dimen>
+<dimen name="dialog_custom_vertical_padding">33.000000dp</dimen>
+<dimen name="button_text_size">13.000000sp</dimen>
+<dimen name="listview_horizontal_padding">0.000000dp</dimen>
+<dimen name="preference_custom_widget_margin_right">16777206.000000dp</dimen>
+<dimen name="dialog_checkbox_horizontal_padding">34.299988dp</dimen>
+<dimen name="dialog_max_height_major">0.800000%</dimen>
+<dimen name="dialog_max_height_minor">0.890000%</dimen>
+<dimen name="action_bar_tab_layout_width">16777214.000000dp</dimen>
+<dimen name="date_picker_dialog_marginBottom">0.000000dp</dimen>
+<dimen name="preference_horizontal_extra_padding">0.000000dp</dimen>
+<dimen name="list_preferred_item_height_small">48.000000dp</dimen>
+<dimen name="action_bar_default_height">68.000000dp</dimen>
+<dimen name="action_bar_stacked_tab_max_width">180.000000dp</dimen>
+<dimen name="title_text_size">15.000000sp</dimen>
+<dimen name="preference_screen_padding_bottom">15.000000dp</dimen>
+<dimen name="action_bar_tab_text_size">16.000000sp</dimen>
+<dimen name="action_bar_subtitle_bottom_margin">0.000000dp</dimen>
+<dimen name="action_bar_subtitle_top_margin">16777213.000000dp</dimen>
+<dimen name="split_action_bar_default_height">87.500000dp</dimen>
+<dimen name="no_network_line_spacing_extra">4.699982dp</dimen>
+<dimen name="action_button_max_width">110.000000dp</dimen>
+<dimen name="action_bar_horizontal_padding">5.669983dp</dimen>
+<dimen name="preference_dialog_edittext_padding_side">20.000000dp</dimen>
+<dimen name="action_bar_large_height">62.000000dp</dimen>
+<dimen name="guide_popup_window_min_width">150.000000dp</dimen>
+<dimen name="guide_popup_window_min_height">40.000000dp</dimen>
+<string name="the_double_ninth_festival">重阳</string>
+<string name="the_night_of_sevens">七夕</string>
+<string name="the_dragon_boat_festival">端午</string>
+<string name="the_mid_autumn_festival">中秋</string>
+<string name="the_spirit_festival">中元</string>
+<string name="user_agreement">用户协议</string>
+<string name="copyright">版权保护投诉指引</string>
+<string name="country_name_pf">法属波利尼西亚</string>
+<string name="user_manual">用户手册</string>
+<string name="privacy_policy">隐私政策</string>
+<string name="country_name_fm">密克罗尼西亚联邦</string>
+<string name="country_name_tk">托克劳</string>
+<string name="country_name_ru_kz">俄罗斯/哈萨克斯坦</string>
+<string name="country_name_mh">马绍尔群岛</string>
+<string name="country_name_to">汤加</string>
+<string name="country_name_sb">所罗门群岛</string>
+<string name="sync_one_time_sync">)</string>
+<string name="country_name_vu">瓦努阿图</string>
+<string name="select_item">请选择项目</string>
+<string name="country_name_fj">斐济</string>
+<string name="action_mode_title_empty">选择</string>
+<string name="country_name_pw">帕劳</string>
+<string name="action_mode_select_all">全选</string>
+<string name="country_name_wf">瓦利斯和富图纳</string>
+<string name="action_mode_deselect_all">全不选</string>
+<string name="select_all">全选</string>
+<string name="deselect_all">全不选</string>
+<string name="the_chinese_youth_day">青年节</string>
+<string name="the_childrens_day">儿童节</string>
+<string name="the_partys_day">建党节</string>
+<string name="the_armys_day">建军节</string>
+<string name="the_fools_day">愚人节</string>
+<string name="the_labour_day">劳动节</string>
+<string name="country_name_pg">巴布亚新几内亚</string>
+<string name="country_name_nr">瑙鲁</string>
+<string name="country_name_bn">文莱</string>
+<string name="country_name_tl">东帝汶</string>
+<string name="label">SDK</string>
+<string name="send">发送</string>
+<string name="date_picker_label_month">月</string>
+<string name="date_picker_label_day">日</string>
+<string name="close">关闭</string>
+<string name="date_picker_label_year">年</string>
+<string name="the_seventh_day">初七</string>
+<string name="the_lantern_festival">元宵</string>
+<string name="the_fifth_day">初五</string>
+<string name="the_sixth_day">初六</string>
+<string name="the_forth_day">初四</string>
+<string name="fmt_time_minute_second">m分s秒</string>
+<string name="fmt_time_minute">m分</string>
+<string name="fmt_time_minute_second_millis">m分s.S秒</string>
+<string name="the_anti_aggression_day">反侵略日</string>
+<string name="the_tw_childrens_day">儿童节</string>
+<string name="the_tw_youth_day">青年节</string>
+<string name="the_armed_forces_day">军人节</string>
+<string name="the_anniversary_of_lifting_martial_law">解严纪念日</string>
+<string name="the_united_nations_day">联合国日</string>
+<string name="fmt_time_12hour_minute_second_pm">aah:mm:ss</string>
+<string name="fmt_time_12hour_minute_second_millis_pm">aah:mm:ss.S</string>
+<string name="fmt_time_24hour">H点</string>
+<string name="fmt_time_24hour_minute">H:mm</string>
+<string name="fmt_time_24hour_minute_second">H:mm:s</string>
+<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+<string name="fmt_date_numeric_day">d</string>
+<string name="fmt_date_numeric_month">M</string>
+<string name="the_peace_day">和平纪念</string>
+<string name="the_christmas_day">圣诞节</string>
+<string name="the_national_day">国庆节</string>
+<string name="the_teachers_day">教师节</string>
+<string name="the_valentines_day">情人节</string>
+<string name="the_new_years_day">元旦</string>
+<string name="the_laba_festival">腊八</string>
+<string name="the_water_lantern_festival">下元</string>
+<string name="the_international_womens_day">妇女节</string>
+<string name="the_arbor_day">植树节</string>
+<string name="the_national_father_day">国父诞辰</string>
+<string name="the_hksar_establishment_day">香港特别行政区成立纪念日</string>
+<string name="the_retrocession_day">光复节</string>
+<string name="fmt_time_second">s秒</string>
+<string name="fmt_time_second_millis">s.S秒</string>
+<string name="the_easter_day">复活节</string>
+<string name="fmt_time_millis">S毫秒</string>
+<string name="country_name_ge">格鲁吉亚共和国</string>
+<string name="country_name_az">阿塞拜疆</string>
+<string name="country_name_uz">乌兹别克斯坦</string>
+<string name="country_name_kg">吉尔吉斯斯坦</string>
+<string name="permdesc_sendSmsNoConfirmation">messages.</string>
+<string name="permlab_sendSmsNoConfirmation">background</string>
+<string name="no_network">网络不可用\n请确认连接后重试</string>
+<string name="webview_reload">重试</string>
+<string name="web_sso_login_message">正在登录…</string>
+<string name="web_sso_login_fail">登录失败，请重新登录</string>
+<string name="hybrid_provider">提供.</string>
+<string name="country_name_ps">巴勒斯坦</string>
+<string name="country_name_iq">伊拉克</string>
+<string name="country_name_om">阿曼</string>
+<string name="country_name_ye">也门</string>
+<string name="country_name_sa">沙特阿拉伯</string>
+<string name="country_name_kw">科威特</string>
+<string name="country_name_tm">土库曼斯坦</string>
+<string name="country_name_tj">塔吉克斯坦</string>
+<string name="country_name_ir">伊朗</string>
+<string name="country_name_qa">卡塔尔</string>
+<string name="country_name_bt">不丹</string>
+<string name="country_name_mn">蒙古</string>
+<string name="country_name_np">尼泊尔</string>
+<string name="country_name_ae">阿拉伯联合酋长国</string>
+<string name="country_name_il">以色列</string>
+<string name="country_name_bh">巴林</string>
+<string name="country_name_bd">孟加拉国</string>
+<string name="country_name_tw">中国台湾</string>
+<string name="country_name_kh">柬埔寨</string>
+<string name="country_name_mo">中国澳门</string>
+<string name="country_name_cn">中国</string>
+<string name="country_name_la">老挝</string>
+<string name="country_name_lb">黎巴嫩</string>
+<string name="country_name_mv">马尔代夫</string>
+<string name="country_name_sy">叙利亚</string>
+<string name="country_name_jo">约旦</string>
+<string name="country_name_lk">斯里兰卡</string>
+<string name="country_name_mm">缅甸</string>
+<string name="country_name_pk">巴基斯坦</string>
+<string name="country_name_af">阿富汗</string>
+<string name="country_name_tr">土耳其</string>
+<string name="country_name_in">印度</string>
+<string name="country_name_tv">图瓦卢</string>
+<string name="country_name_ki">基里巴斯</string>
+<string name="country_name_nc">新喀里多尼亚</string>
+<string name="country_name_ws">西萨摩亚</string>
+<string name="country_name_nu">纽埃</string>
+<string name="country_name_ck">库克群岛</string>
+<string name="country_name_hk">中国香港</string>
+<string name="country_name_kp">朝鲜</string>
+<string name="country_name_vn">越南</string>
+<string name="country_name_kr">韩国</string>
+<string name="country_name_jp">日本</string>
+<string name="country_name_my">马来西亚</string>
+<string name="country_name_uy">乌拉圭</string>
+<string name="country_name_an">荷属安的列斯</string>
+<string name="country_name_mq">马提尼克岛</string>
+<string name="nickname">昵称</string>
+<string name="country_name_sr">苏里南</string>
+<string name="phone">电话</string>
+<string name="country_name_gf">法属圭亚那</string>
+<string name="saturday_shortest">六</string>
+<string name="country_name_py">巴拉圭</string>
+<string name="name">姓名</string>
+<string name="country_name_gy">圭亚那</string>
+<string name="im">即时消息</string>
+<string name="country_name_ec">厄瓜多尔</string>
+<string name="sip_phone">网络电话</string>
+<string name="email">邮件</string>
+<string name="country_name_bo">玻利维亚</string>
+<string name="organization">公司</string>
+<string name="birthday">生日</string>
+<string name="website">网址</string>
+<string name="country_name_gp_bl_mf">瓜德罗普岛/圣巴泰勒米/圣马丁</string>
+<string name="country_name_ve">委内瑞拉</string>
+<string name="monday_shortest">一</string>
+<string name="country_name_co">哥伦比亚</string>
+<string name="sunday_shortest">日</string>
+<string name="country_name_cl">智利</string>
+<string name="country_name_br">巴西</string>
+<string name="country_name_ar">阿根廷</string>
+<string name="friday_shortest">五</string>
+<string name="thursday_shortest">四</string>
+<string name="wednesday_shortest">三</string>
+<string name="tuesday_shortest">二</string>
+<string name="country_name_ht">海地</string>
+<string name="country_name_pe">秘鲁</string>
+<string name="country_name_mx">墨西哥</string>
+<string name="country_name_cu">古巴</string>
+<string name="country_name_ni">尼加拉瓜</string>
+<string name="country_name_cr">哥斯达黎加</string>
+<string name="thursday">星期四</string>
+<string name="country_name_pa">巴拿马</string>
+<string name="friday">星期五</string>
+<string name="country_name_pm">圣皮埃尔和密克隆群岛</string>
+<string name="saturday">星期六</string>
+<string name="sunday_short">周日</string>
+<string name="monday_short">周一</string>
+<string name="country_name_sv">萨尔瓦多</string>
+<string name="tuesday_short">周二</string>
+<string name="country_name_hn">洪都拉斯</string>
+<string name="wednesday_short">周三</string>
+<string name="thursday_short">周四</string>
+<string name="friday_short">周五</string>
+<string name="saturday_short">周六</string>
+<string name="country_name_gt">危地马拉</string>
+<string name="country_name_bz">伯利兹</string>
+<string name="country_name_pl">波兰</string>
+<string name="country_name_no">挪威</string>
+<string name="country_name_fk">福克兰群岛</string>
+<string name="eras_bc">公元前</string>
+<string name="country_name_de">德国</string>
+<string name="sunday">星期日</string>
+<string name="eras_ad">公元</string>
+<string name="tuesday">星期二</string>
+<string name="monday">星期一</string>
+<string name="wednesday">星期三</string>
+<string name="chinese_symbol_animals_tiger">虎</string>
+<string name="chinese_symbol_animals_rabbit">兔</string>
+<string name="chinese_symbol_animals_dog">狗</string>
+<string name="chinese_symbol_animals_pig">猪</string>
+<string name="chinese_symbol_animals_monkey">猴</string>
+<string name="chinese_symbol_animals_chicken">鸡</string>
+<string name="chinese_symbol_animals_horse">马</string>
+<string name="chinese_symbol_animals_sheep">羊</string>
+<string name="chinese_symbol_animals_dragon">龙</string>
+<string name="chinese_symbol_animals_snake">蛇</string>
+<string name="chinese_symbol_animals_cow">牛</string>
+<string name="chinese_symbol_animals_mouse">鼠</string>
+<string name="month_december_shortest">十二</string>
+<string name="month_november_shortest">十一</string>
+<string name="month_october_shortest">十</string>
+<string name="month_september_shortest">九</string>
+<string name="month_november_short">十一</string>
+<string name="month_april_shortest">四</string>
+<string name="month_may_shortest">五</string>
+<string name="month_june_shortest">六</string>
+<string name="month_july_shortest">七</string>
+<string name="month_december_short">十二</string>
+<string name="month_january_shortest">一</string>
+<string name="month_february_shortest">二</string>
+<string name="month_march_shortest">三</string>
+<string name="country_name_nz">新西兰</string>
+<string name="country_name_ph">菲律宾</string>
+<string name="country_name_th">泰国</string>
+<string name="country_name_sg">新加坡</string>
+<string name="month_august_shortest">八</string>
+<string name="month_september_short">九</string>
+<string name="month_august_short">八</string>
+<string name="month_october_short">十</string>
+<string name="month_may_short">五</string>
+<string name="country_name_id">印度尼西亚</string>
+<string name="month_july_short">七</string>
+<string name="country_name_au">澳大利亚</string>
+<string name="month_june_short">六</string>
+<string name="the_spring_festival">春节</string>
+<string name="the_second_day">初二</string>
+<string name="the_third_day">初三</string>
+<string name="address">地址</string>
+<string name="note">备注</string>
+<string name="the_eve_of_the_spring_festival">除夕</string>
+<string name="earthly_branches_shen">申</string>
+<string name="earthly_branches_wei">未</string>
+<string name="earthly_branches_wu">午</string>
+<string name="earthly_branches_si">巳</string>
+<string name="earthly_branches_chen">辰</string>
+<string name="earthly_branches_mao">卯</string>
+<string name="earthly_branches_yin">寅</string>
+<string name="earthly_branches_hai">亥</string>
+<string name="earthly_branches_you">酉</string>
+<string name="earthly_branches_xu">戌</string>
+<string name="month_december">十二月</string>
+<string name="month_november">十一月</string>
+<string name="month_february_short">二</string>
+<string name="month_january_short">一</string>
+<string name="month_august">八月</string>
+<string name="month_july">七月</string>
+<string name="month_october">十月</string>
+<string name="month_september">九月</string>
+<string name="month_march_short">三</string>
+<string name="month_april_short">四</string>
+<string name="month_march">三月</string>
+<string name="month_april">四月</string>
+<string name="month_may">五月</string>
+<string name="month_june">六月</string>
+<string name="month_january">一月</string>
+<string name="month_february">二月</string>
+<string name="country_name_ee">爱沙尼亚</string>
+<string name="country_name_md">摩尔多瓦</string>
+<string name="country_name_lt">立陶宛</string>
+<string name="country_name_lv">拉脱维亚</string>
+<string name="country_name_bg">保加利亚</string>
+<string name="country_name_hu">匈牙利</string>
+<string name="country_name_hr">克罗地亚</string>
+<string name="country_name_si">斯洛文尼亚</string>
+<string name="country_name_me">黑山</string>
+<string name="country_name_rs">塞尔维亚</string>
+<string name="country_name_ua">乌克兰</string>
+<string name="country_name_sm">圣马力诺</string>
+<string name="country_name_mc">摩纳哥</string>
+<string name="country_name_ad">安道尔</string>
+<string name="country_name_by">白俄罗斯</string>
+<string name="country_name_am">亚美尼亚</string>
+<string name="country_name_fr">法国</string>
+<string name="country_name_it">意大利</string>
+<string name="country_name_ro">罗马尼亚</string>
+<string name="country_name_ch">瑞士</string>
+<string name="country_name_ba">波斯尼亚和黑塞哥维那</string>
+<string name="country_name_mk">马其顿共和国</string>
+<string name="country_name_va">梵蒂冈</string>
+<string name="country_name_se">瑞典</string>
+<string name="country_name_im">马恩岛</string>
+<string name="country_name_je">泽西岛</string>
+<string name="country_name_dk">丹麦</string>
+<string name="country_name_uk">英国</string>
+<string name="country_name_li">列支敦士登</string>
+<string name="country_name_sk">斯洛伐克</string>
+<string name="country_name_gg">格恩西岛</string>
+<string name="country_name_at">奥地利</string>
+<string name="country_name_cz">捷克共和国</string>
+<string name="chinese_month_march">三</string>
+<string name="chinese_month_june">六</string>
+<string name="chinese_month_july">七</string>
+<string name="chinese_month_april">四</string>
+<string name="chinese_month_may">五</string>
+<string name="country_name_er">厄立特里亚</string>
+<string name="country_name_aw">阿鲁巴</string>
+<string name="country_name_za">南非</string>
+<string name="chinese_month_august">八</string>
+<string name="country_name_sh">圣赫勒拿</string>
+<string name="country_name_mw">马拉维</string>
+<string name="country_name_na">纳米比亚</string>
+<string name="country_name_km">科摩罗</string>
+<string name="country_name_sz">斯威士兰</string>
+<string name="country_name_bw">博茨瓦纳</string>
+<string name="country_name_ls">莱索托</string>
+<string name="heavenly_stems_geng">庚</string>
+<string name="country_name_fo">法罗群岛</string>
+<string name="heavenly_stems_xin">辛</string>
+<string name="country_name_gl">格陵兰</string>
+<string name="heavenly_stems_ren">壬</string>
+<string name="country_name_gr">希腊</string>
+<string name="heavenly_stems_gui">癸</string>
+<string name="country_name_nl">荷兰</string>
+<string name="earthly_branches_zi">子</string>
+<string name="country_name_be">比利时</string>
+<string name="earthly_branches_chou">丑</string>
+<string name="country_name_mt">马耳他</string>
+<string name="country_name_cy">塞浦路斯</string>
+<string name="country_name_fi">芬兰</string>
+<string name="country_name_es">西班牙</string>
+<string name="country_name_pt">葡萄牙</string>
+<string name="country_name_gi">直布罗陀</string>
+<string name="country_name_ie">爱尔兰</string>
+<string name="country_name_lu">卢森堡</string>
+<string name="country_name_al">阿尔巴尼亚</string>
+<string name="country_name_is">冰岛</string>
+<string name="country_name_lr">利比里亚</string>
+<string name="country_name_sl">塞拉利昂</string>
+<string name="pm">下午</string>
+<string name="country_name_gh">加纳</string>
+<string name="chinese_leap">闰</string>
+<string name="country_name_ng">尼日利亚</string>
+<string name="chinese_month_january">正</string>
+<string name="country_name_td">乍得</string>
+<string name="chinese_month_february">二</string>
+<string name="country_name_cf">中非共和国</string>
+<string name="chinese_day_28">廿八</string>
+<string name="country_name_cm">喀麦隆</string>
+<string name="chinese_day_29">廿九</string>
+<string name="country_name_cv">佛得角</string>
+<string name="chinese_day_30">三十</string>
+<string name="country_name_st">圣多美和普林西比</string>
+<string name="am">上午</string>
+<string name="country_name_gq">赤道几内亚</string>
+<string name="chinese_day_26">廿六</string>
+<string name="chinese_day_27">廿七</string>
+<string name="chinese_day_8">初八</string>
+<string name="chinese_day_7">初七</string>
+<string name="country_name_do">多米尼加共和国</string>
+<string name="chinese_day_9">初九</string>
+<string name="country_name_pr">波多黎各</string>
+<string name="chinese_day_4">初四</string>
+<string name="country_name_kn">圣基茨和尼维斯</string>
+<string name="country_name_tt">特立尼达和多巴哥</string>
+<string name="chinese_day_6">初六</string>
+<string name="country_name_us_ca">美国/加拿大</string>
+<string name="chinese_day_5">初五</string>
+<string name="country_name_jm">牙买加</string>
+<string name="country_name_ac">阿森松</string>
+<string name="country_name_sc">塞舌尔</string>
+<string name="country_name_et">埃塞俄比亚</string>
+<string name="heavenly_stems_ji">己</string>
+<string name="country_name_so">索马里</string>
+<string name="country_name_sd">苏丹</string>
+<string name="heavenly_stems_ding">丁</string>
+<string name="country_name_rw">卢旺达</string>
+<string name="heavenly_stems_wu">戊</string>
+<string name="country_name_tz">坦桑尼亚</string>
+<string name="heavenly_stems_yi">乙</string>
+<string name="country_name_ug">乌干达</string>
+<string name="heavenly_stems_bing">丙</string>
+<string name="country_name_dj">吉布提</string>
+<string name="chinese_month_december">腊</string>
+<string name="country_name_ke">肯尼亚</string>
+<string name="heavenly_stems_jia">甲</string>
+<string name="chinese_month_october">十</string>
+<string name="chinese_month_november">冬</string>
+<string name="chinese_month_september">九</string>
+<string name="country_name_ne">尼日尔</string>
+<string name="country_name_bf">布基纳法索</string>
+<string name="chinese_day_25">廿五</string>
+<string name="country_name_ci">科特迪瓦</string>
+<string name="chinese_day_24">廿四</string>
+<string name="chinese_day_23">廿三</string>
+<string name="chinese_day_22">廿二</string>
+<string name="country_name_mu">毛里求斯</string>
+<string name="chinese_day_21">廿一</string>
+<string name="country_name_bj">贝宁</string>
+<string name="chinese_day_20">二十</string>
+<string name="country_name_tg">多哥</string>
+<string name="chinese_digit_ten">十</string>
+<string name="chinese_digit_twenty">廿</string>
+<string name="chinese_digit_thirty">卅</string>
+<string name="chinese_day_1">初一</string>
+<string name="chinese_day_2">初二</string>
+<string name="chinese_day_3">初三</string>
+<string name="chinese_digit_six">六</string>
+<string name="chinese_digit_seven">七</string>
+<string name="chinese_digit_eight">八</string>
+<string name="chinese_digit_nine">九</string>
+<string name="country_name_cg">刚果共和国</string>
+<string name="solar_term_slight_heat">小暑</string>
+<string name="country_name_ga">加蓬</string>
+<string name="solar_term_summer_solstice">夏至</string>
+<string name="country_name_ao">安哥拉</string>
+<string name="solar_term_autumn_begins">立秋</string>
+<string name="country_name_cd">刚果民主共和国</string>
+<string name="solar_term_great_heat">大暑</string>
+<string name="solar_term_stopping_the_heat">处暑</string>
+<string name="country_name_io">迪戈加西亚</string>
+<string name="country_name_gw">几内亚比绍</string>
+<string name="solar_term_grain_in_ear">芒种</string>
+<string name="chinese_day_17">十七</string>
+<string name="chinese_day_18">十八</string>
+<string name="chinese_day_15">十五</string>
+<string name="chinese_day_16">十六</string>
+<string name="chinese_day_19">十九</string>
+<string name="chinese_day_10">初十</string>
+<string name="chinese_day_13">十三</string>
+<string name="chinese_day_14">十四</string>
+<string name="chinese_day_11">十一</string>
+<string name="chinese_day_12">十二</string>
+<string name="country_name_re_yt">留尼汪/马约特</string>
+<string name="chinese_digit_five">五</string>
+<string name="country_name_mg">马达加斯加</string>
+<string name="chinese_digit_four">四</string>
+<string name="country_name_zm">赞比亚</string>
+<string name="chinese_digit_three">三</string>
+<string name="country_name_mz">莫桑比克</string>
+<string name="chinese_digit_two">二</string>
+<string name="country_name_bi">布隆迪</string>
+<string name="chinese_digit_one">一</string>
+<string name="chinese_digit_zero">〇</string>
+<string name="country_name_zw">津巴布韦</string>
+<string name="fmt_date_long_month">M月</string>
+<string name="fmt_date_short_year_month_day">yyyy年M月d日</string>
+<string name="solar_term_great_cold">大寒</string>
+<string name="fmt_date_long_year_month">yyyy年M月</string>
+<string name="solar_term_slight_cold">小寒</string>
+<string name="fmt_date_long_month_day">M月d日</string>
+<string name="fmt_weekday_short">E</string>
+<string name="fmt_date_long_year_month_day">yyyy年M月d日</string>
+<string name="fmt_timezone">z</string>
+<string name="fmt_weekday_long">EEEE</string>
+<string name="solar_term_grain_rain">谷雨</string>
+<string name="solar_term_clear_and_bright">清明</string>
+<string name="solar_term_grain_buds">小满</string>
+<string name="solar_term_summer_begins">立夏</string>
+<string name="solar_term_the_rains">雨水</string>
+<string name="solar_term_spring_begins">立春</string>
+<string name="solar_term_vernal_equinox">春分</string>
+<string name="fmt_date_short_year_month">yyyy年M月</string>
+<string name="solar_term_insects_awaken">惊蛰</string>
+<string name="fmt_time_12hour">h点</string>
+<string name="fmt_time_12hour_minute">h:mm</string>
+<string name="sim_changed_reactivate_int_notice">当前SIM卡未激活。需要发送一条国际短信激活小米同步服务，产生的国际短信费用由运营商收取。是否现在激活？</string>
+<string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+<string name="fmt_time_12hour_pm">aah点</string>
+<string name="fmt_time_12hour_minute_pm">aah:mm</string>
+<string name="date_picker_dialog_title">设置日期</string>
+<string name="fmt_date_numeric_month_day">M-d</string>
+<string name="time_picker_dialog_title">设置时间</string>
+<string name="fmt_date_numeric_year">yyyy</string>
+<string name="date_time_picker_dialog_title">设置日期和时间</string>
+<string name="size_peta_byte">PB</string>
+<string name="size_suffix">%1$s%2$s</string>
+<string name="date_time_done">完成</string>
+<string name="solar_term_cold_dews">寒露</string>
+<string name="fmt_weekday_date_time">T</string>
+<string name="solar_term_autumn_equinox">秋分</string>
+<string name="fmt_weekday_date_timezone">zDW</string>
+<string name="solar_term_white_dews">白露</string>
+<string name="fmt_weekday_date">DW</string>
+<string name="fmt_weekday_time_timezone">T</string>
+<string name="country_name_bb">巴巴多斯</string>
+<string name="country_name_bs">巴哈马</string>
+<string name="fmt_chinese_date">N月e</string>
+<string name="fmt_weekday_date_time_timezone">T</string>
+<string name="chinese_day_elementary">初</string>
+<string name="chinese_month">月</string>
+<string name="solar_term_winter_solstice">冬至</string>
+<string name="solar_term_heavy_snow">大雪</string>
+<string name="fmt_weekday_time">T</string>
+<string name="solar_term_light_snow">小雪</string>
+<string name="fmt_weekday_timezone">zW</string>
+<string name="solar_term_winter_begins">立冬</string>
+<string name="solar_term_hoar_frost_falls">霜降</string>
+<string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+<string name="fmt_date_day">d日</string>
+<string name="fmt_date_numeric_year_month">yyyy-M</string>
+<string name="fmt_date_year">yyyy年</string>
+<string name="fmt_date_short_month">M月</string>
+<string name="fmt_date_short_month_day">M月d日</string>
+<string name="more">更多</string>
+<string name="fmt_time">T</string>
+<string name="empty"></string>
+<string name="error_forbidden">Account.</string>
+<string name="error_not_acceptable">off.</string>
+<string name="error_title">sync</string>
+<string name="error_unauthorized">attempts.</string>
+<string name="country_name_dm">多米尼加</string>
+<string name="activating">正在激活...</string>
+<string name="country_name_lc">圣卢西亚</string>
+<string name="country_name_vc">圣文森特和格林纳丁斯</string>
+<string name="country_name_gu">关岛</string>
+<string name="country_name_mp">马里亚纳群岛</string>
+<string name="country_name_sx">圣马丁岛</string>
+<string name="country_name_as">美属萨摩亚</string>
+<string name="noon">中午</string>
+<string name="country_name_gd">格林纳达</string>
+<string name="morning">上午</string>
+<string name="evening">傍晚</string>
+<string name="country_name_ms">蒙特塞拉特</string>
+<string name="afternoon">下午</string>
+<string name="country_name_tc">特克斯和凯科斯群岛</string>
+<string name="size_byte">B</string>
+<string name="night">晚上</string>
+<string name="size_mega_byte">MB</string>
+<string name="size_kilo_byte">KB</string>
+<string name="abc_action_bar_up_description">返回上级</string>
+<string name="fmt_date_time_timezone">T</string>
+<string name="abc_action_bar_home_description">返回主界面</string>
+<string name="fmt_weekday">W</string>
+<string name="time_picker_label_hour">时</string>
+<string name="fmt_time_timezone">zT</string>
+<string name="fmt_date">D</string>
+<string name="fmt_date_timezone">zD</string>
+<string name="fmt_date_time">T</string>
+<string name="no_sim">没有检测到SIM卡，服务不可用</string>
+<string name="sim_locked">SIM卡被锁定</string>
+<string name="sim_in_airplane_mode">请先退出飞行模式</string>
+<string name="sim_not_ready">正在读取SIM卡，请稍后再试</string>
+<string name="sim_unavailable">SIM卡不可用</string>
+<string name="country_name_gn">几内亚</string>
+<string name="country_name_ml">马里</string>
+<string name="perm_payment_lab">小米支付服务</string>
+<string name="country_name_mr">毛里塔尼亚</string>
+<string name="country_name_sn">塞内加尔</string>
+<string name="country_name_gm">冈比亚</string>
+<string name="country_name_ly">利比亚</string>
+<string name="send_sms_for_sync_title">同步服务需要激活</string>
+<string name="country_name_tn">突尼斯</string>
+<string name="check_phone_io_error">网络错误</string>
+<string name="country_name_dz">阿尔及利亚</string>
+<string name="check_phone_error_title">开启同步失败</string>
+<string name="country_name_ma">摩洛哥</string>
+<string name="perm_payment_dspt">允许程序使用小米支付服务</string>
+<string name="country_name_eg">埃及</string>
+<string name="sim_changed_reactivate_notice">当前SIM卡未激活。需要发送一条普通短信以激活小米同步服务，可能产生的短信费用由运营商收取。是否现在激活？</string>
+<string name="activate_fail_notification_title">请重新激活小米同步</string>
+<string name="activate">激活</string>
+<string name="send_sms_for_sync_notice">系统将发送一条短信来激活同步服务，是否继续？</string>
+<string name="size_giga_byte">GB</string>
+<string name="country_name_bm">百慕大</string>
+<string name="size_tera_byte">TB</string>
+<string name="country_name_vi">美国维尔京群岛</string>
+<string name="country_name_ky">开曼群岛</string>
+<string name="country_name_ag">安提瓜和巴布达</string>
+<string name="country_name_vg">英属维尔京群岛</string>
+<string name="time_picker_label_minute">分</string>
+<string name="yesterday">昨天</string>
+<string name="country_name_ai">安圭拉</string>
+<string name="midnight">半夜</string>
+<string name="early_morning">凌晨</string>
+<string name="today">今天</string>
+<string name="tomorrow">明天</string>
+<bool name="preference_item_bg_enable_variablePadding">false</bool>
+<bool name="action_menu_blur_enabled">true</bool>
+<bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+<bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+<bool name="action_bar_tight_title">true</bool>
+<bool name="action_bar_embed_tabs">true</bool>
+<bool name="abc_config_actionMenuItemAllCaps">true</bool>
+<bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+<bool name="abc_split_action_bar_is_narrow">true</bool>
+<integer name="android_config_lowBatteryWarningLevel"></integer>
+<integer name="android_config_lowBatteryCloseWarningLevel"></integer>
+<integer name="securespaces_extension_hidden_majorVersion">#00000001</integer>
+<integer name="android_config_screenBrightnessSettingMinimum"></integer>
+<integer name="securespaces_extension_hidden_minorVersion">#00000000</integer>
+<integer name="android_config_screenBrightnessDim"></integer>
+<integer name="expanded_status_bar_toggles_column">#00000003</integer>
+<integer name="android_config_longPressOnPowerBehavior"></integer>
+<integer name="config_defaultNotificationLedFreq">#00000fa0</integer>
+<integer name="expanded_status_bar_toggles_land_column">#00000004</integer>
+<integer name="config_smartcover_smallwindow_right">#000003de</integer>
+<integer name="config_mp3_record_quality">#00000002</integer>
+<integer name="config_show_rounded_corners_default">#00000000</integer>
+<integer name="divider_fixed_position_in_page_style">#0000000b</integer>
+<integer name="config_smartcover_smallwindow_top">#00000000</integer>
+<integer name="android_config_criticalBatteryWarningLevel"></integer>
+<integer name="config_smartcover_smallwindow_left">#0000005a</integer>
+<integer name="securespaces_extension_encryption_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_delete_userdata_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_encryption_majorVersion">#00000001</integer>
+<integer name="securespaces_extension_accelerometer_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_delete_userdata_majorVersion">#00000001</integer>
+<integer name="shutdown_progress_frames_duration">#00000000</integer>
+<integer name="securespaces_extension_accelerometer_majorVersion">#00000001</integer>
+<integer name="anti_stranger_call_enabled">#00000001</integer>
+<integer name="securespaces_extension_read_cross_space_contacts_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_read_cross_space_contacts_majorVersion">#00000001</integer>
+<integer name="shutdown_progress_frames_count">#00000032</integer>
+<integer name="config_buttonBrightnessSettingDefault">#000000ff</integer>
+<integer name="config_smartcover_smallwindow_bottom">#0000049c</integer>
+<string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
+<string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
+<string name="status_bar_toggle_cast">投射</string>
+<string name="status_bar_toggle_midrop">快传</string>
+<string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+<string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
+<string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
+<string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
+<string name="status_bar_toggle_quiet_mode">勿扰模式</string>
+<string name="status_bar_toggle_paper_mode">护眼模式</string>
+<string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+<string name="android_aerr_application"></string>
+<string name="screen_rotation_freeze_message">锁定屏幕为横屏模式</string>
+<string name="android_aerr_title"></string>
+<string name="android_aerr_process"></string>
+<string name="android_anr_application_process"></string>
+<string name="android_anr_activity_application"></string>
+<string name="android_anr_activity_process"></string>
+<string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
+<string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
+<string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
+<string name="status_bar_toggle_sync">同步</string>
+<string name="status_bar_toggle_torch">手电筒</string>
+<string name="status_bar_toggle_vibrate">振动</string>
+<string name="status_bar_toggle_wifi">WLAN</string>
+<string name="status_bar_toggle_power_mode">性能模式</string>
+<string name="status_bar_toggle_wifi_ap">热点</string>
+<string name="android_anr_title"></string>
+<string name="android_anr_process"></string>
+<string name="android_activity_resolver_use_once"></string>
+<string name="android_activity_resolver_use_always"></string>
+<string name="android_noApplications"></string>
+<string name="android_whichApplication"></string>
+<string name="android_whichHomeApplication"></string>
+<string name="android_power_off"></string>
+<string name="android_shutdown_confirm"></string>
+<string name="android_shutdown_progress"></string>
+<string name="android_reboot_safemode_confirm"></string>
+<string name="android_shutdown_confirm_question"></string>
+<string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+<string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
+<string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
+<string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+<string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+<string name="android_lockscreen_missing_sim_message_short"></string>
+<string name="android_usb_ptp_notification_title"></string>
+<string name="android_storage_usb"></string>
+<string name="android_volume_icon_description_bluetooth"></string>
+<string name="android_wireless_display_route_description"></string>
+<string name="android_gigabyteShort"></string>
+<string name="android_volume_alarm"></string>
+<string name="android_bugreport_message"></string>
+<string name="android_megabyteShort"></string>
+<string name="android_ssl_certificate"></string>
+<string name="android_fast_scroll_alphabet"></string>
+<string name="android_wifi_tether_configure_ssid_default"></string>
+<string name="android_lockscreen_forgot_pattern_button_text"></string>
+<string name="android_force_close"></string>
+<string name="android_report"></string>
+<string name="android_wait"></string>
+<string name="android_reboot_safemode_title"></string>
+<string name="securespaces_extension_accelerometer_serviceName"></string>
+<string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+<string name="miui">miui</string>
+<string name="auto_disable_screenbuttons_float_text">点击屏蔽手机触摸按键</string>
+<string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+<string name="auto_disable_screenbuttons_enable_toast_text">手机触摸按键已恢复</string>
+<string name="security_permission_xiaomi_account_missed_text">没有检测到小米账户</string>
+<string name="security_permission_validate_warning">感谢勇敢参与体验版的您\n每个积极探索都是为了成就更完美的\nMIUI</string>
+<string name="fp_nav_center_action_choose_dlg_negative_btn_text">暂不设置</string>
+<string name="android_volume_icon_description_notification"></string>
+<string name="start_security_permission_verify_text">开始验证</string>
+<string name="android_volume_icon_description_ringer"></string>
+<string name="security_permission_denied_text">此账户没有权限</string>
+<string name="android_volume_icon_description_incall"></string>
+<string name="security_permission_failed_text">内部错误，稍后再试</string>
+<string name="android_volume_icon_description_media"></string>
+<string name="android_lockscreen_emergency_call"></string>
+<string name="android_usb_cd_installer_notification_title"></string>
+<string name="android_usb_mtp_notification_title"></string>
+<string name="android_common_last_name_prefixes"></string>
+<string name="android_common_name_prefixes"></string>
+<string name="android_kilobyteShort"></string>
+<string name="auto_disable_screenbuttons_prompts_title">自动屏蔽手机触摸按键</string>
+<string name="android_byteShort"></string>
+<string name="auto_disable_screenbuttons_disable_toast_text">手机触摸按键已屏蔽，双击任意触摸按键退出</string>
+<string name="android_add_account_label"></string>
+<string name="auto_disable_screenbuttons_prompts_ok">我知道了</string>
+<string name="android_common_name_suffixes"></string>
+<string name="auto_disable_screenbuttons_prompts_message">双击任意触摸按键退出屏蔽模式并执行该按键操作。</string>
+<string name="paste">粘贴</string>
+<string name="replace">替换</string>
+<string name="cancel_action">取消</string>
+<string name="frequent_phrases">常用语</string>
+<string name="group_name_coworkers">同事</string>
+<string name="group_name_friends">朋友</string>
+<string name="securespaces_extension_delete_userdata_serviceName"></string>
+<string name="group_name_family">家人</string>
+<string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
+<string name="resource_select">选择</string>
+<string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
+<string name="group_name_contacts">联系人</string>
+<string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+<string name="maml_component_customization_title">自定义</string>
+<string name="securespaces_extension_hidden_serviceName"></string>
+<string name="default_name">缺省</string>
+<string name="fp_nav_center_action_choose_dlg_positive_btn_text">轻触回桌面</string>
+<string name="android_common_name_conjunctions"></string>
+<string name="fp_nav_center_action_choose_dlg_msg">是否将轻触Home键设置为返回桌面?\n您可在[设置-其它高级设置-按键]中调整操作习惯.</string>
+<string name="android_safe_media_volume_warning"></string>
+<string name="fp_nav_center_action_choose_dlg_title">轻触回桌面设置</string>
+<string name="auto_disable_screenbuttons_prompts_not_show_again">不再提示</string>
+<string name="securespaces_extension_read_cross_space_contacts_serviceName"></string>
+<string name="perm_send_push_lab">message</string>
+<string name="perm_send_push_dspt">messages</string>
+<string name="apply_password_confirm_dlg_msg">%s需有密码方可使用，是否将本机密码用于此功能?</string>
+<string name="select_all">全选</string>
+<string name="apply_password_confirm_dlg_title">将密码用于%s</string>
+<string name="select">选择</string>
+<string name="set_password_message">是否开启密码？</string>
+<string name="copy">复制</string>
+<string name="set_password_title">请设置密码</string>
+<string name="cut">剪切</string>
+<string name="set_password_action">设置密码</string>
+<string name="global_actions_airplane_mode">飞行模式</string>
+<string name="global_actions_reboot">重新启动</string>
+<string name="auto_start_warning_title">自启动?</string>
+<string name="auto_start_warning_allow">允许</string>
+<string name="translation_query_error">暂无释义</string>
+<string name="translation_query_error_network">查询失败，请检查网络连接</string>
+<string name="add_frequent_phrases">新建常用语</string>
+<string name="alwaysUsePrompt">下次默认选择此项，不再提示</string>
+<string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+<string name="fm_record_smaple_prefix_miui">收音录音</string>
+<string name="force_exit_skip_message">%1$s是系统关键模块，不建议强行退出</string>
+<string name="force_exit_message">已停止\ %1$s\</string>
+<string name="first_back_long_press_message">是否立即打开“长按返回键停止当前程序及其后台服务”的功能？\n\n可到“设置-&gt;系统-&gt;按键”修改。</string>
+<string name="caller_info_name_delimiter">或</string>
+<string name="call_record_or">或</string>
+<string name="call_record_sample_prefix_miui">通话录音</string>
+<string name="auto_start_warning_deny">拒绝</string>
+<string name="xspace_resolver_activity_title">请选择要使用的应用</string>
+<string name="reboot_progress">正在重启...</string>
+<string name="user_switching_dialog_text">正在切换...</string>
+<string name="security_permission_wifi_and_data_opened_text">已为您自动打开Wifi和数据流量</string>
+<string name="reboot_info_shutdown_alarm">关机后闹钟将会在%s响铃</string>
+<string name="key_btn_space">空格</string>
+<string name="key_btn_ok">确认</string>
+<string name="global_actions_shutdown">关机</string>
+<string name="global_actions_silent_mode">静音模式</string>
+<string name="reboot_info_auto_boot">关机后将会在%s自动开机</string>
+<string name="lockscreen_access_pattern_start">开始绘制图案</string>
+<string name="shutdown_confirm_title">确定要关机吗？</string>
+<string name="memory_clear_nothing_result">已经清理至最佳状态</string>
+<string name="reboot_confirm_title">确定要重新启动吗？</string>
+<string name="shutdown_progress">正在关机...</string>
+<string name="lockscreen_access_pattern_cell_added">已添加单元格</string>
+<string name="lockscreen_access_pattern_cleared">图案已清除</string>
+<string name="memory_clear_result">成功释放了%1$s内存，\n当前可用内存为%2$s</string>
+<string name="lockscreen_access_pattern_detected">图案绘制完成</string>
+<string name="subinfo_default_name">卡%d</string>
+<string name="ignore_home_when_fingerprint_enrolling_msg">将手指轻放在主屏幕按键上，但不要用力按下去</string>
+<string name="apply_password_action">使用密码</string>
+<string name="screenshot_gesture_detect_fail_alert_title">多指提示</string>
+<string name="international_livetalk_enable">电话加油包：已对国际通话启用</string>
+<string name="internal_livetalk_enable">电话加油包：已对国内通话启用</string>
+<string name="livetalk_not_enable">电话加油包：已关闭加油包</string>
+<string name="fc_dialog_jump_to_preview">查看⽇志摘要</string>
+<string name="enable_livetalk_summary">最高省70%话费</string>
+<string name="enable_livetalk_title">启用电话加油包</string>
+<string name="all_call_livetalk_remain_mins">%2$s分钟（国际）</string>
+<string name="all_call_livetalk_enable">电话加油包：已对所有通话启用</string>
+<string name="location_usage_restricted_title">后台定位受限</string>
+<string name="permdesc_manageLocationPolicy">允许应用管理和设置基于App的策略</string>
+<string name="permlab_manageLocationPolicy">管理定位策略</string>
+<string name="screenshot_gesture_detect_fail_alert_button">设置截屏手势</string>
+<string name="screenshot_gesture_detect_fail_alert_msg">多指操作已被截屏手势占用，可在设置中关闭此截屏手势</string>
+<string name="sim_added_reboot_title">SIM卡已添加，重启后生效</string>
+<string name="sim_added_reboot_confirm">重启</string>
+<string name="handy_mode_title">单手模式</string>
+<string name="handy_mode_summary">点击小屏幕外区域退出</string>
+<string name="handy_mode_enter_dlg_title">进入单手模式</string>
+<string name="handy_mode_enter_dlg_msg">您的手势已触发单手模式，是否要进入单手模式？</string>
+<string name="softap_notifif_title">已启动热点“%s”</string>
+<string name="softap_notifif_summary">%d个连接</string>
+<string name="turn_off">关闭</string>
+<string name="location_usage_restricted_body">触摸可去除限制</string>
+<string name="unknown_caller">未知号码</string>
+<string name="fc_dialog_body">是否上传此错误报告，以帮助我们分析问题？报告可能包含您的个⼈信息，但我们会做好保密并仅⽤作问题分析。</string>
+<string name="screen_paper_mode_enter_toast">护眼模式已启用，您可以在[显示]-[护眼模式]或通知栏中关闭</string>
+<string name="screen_button_notification_text">可通过“桌面键+电源键”恢复</string>
+<string name="screen_on_proximity_sensor_summary">请勿遮挡橙色区域</string>
+<string name="screen_on_proximity_sensor_title">防误触模式</string>
+<string name="screen_button_notification_title">手机屏幕下方按键功能已停用</string>
+<string name="screen_on_proximity_sensor_hint">或同时按下“返回”和“音量+”</string>
+<string name="status_bar_toggle_bluetooth">蓝牙</string>
+<string name="status_bar_toggle_rotate">方向锁定</string>
+<string name="status_bar_toggle_screen_button">屏蔽按键</string>
+<string name="status_bar_toggle_lock">锁屏</string>
+<string name="status_bar_toggle_mute">静音</string>
+<string name="status_bar_toggle_flight_mode">飞行模式</string>
+<string name="status_bar_toggle_gps">GPS</string>
+<string name="status_bar_toggle_auto_brightness">自动亮度</string>
+<string name="status_bar_toggle_data">数据</string>
+<string name="status_bar_toggle_screenshot">截屏</string>
+<bool name="android_config_intrusiveNotificationLed"></bool>
+<bool name="android_config_dreamsEnabledByDefault"></bool>
+<bool name="android_config_dreamsActivatedOnSleepByDefault"></bool>
+<bool name="android_config_dreamsActivatedOnDockByDefault"></bool>
+<bool name="android_config_alwaysUseCdmaRssi"></bool>
+<bool name="android_config_automatic_brightness_available"></bool>
+<bool name="android_config_wimaxEnabled"></bool>
+<bool name="config_show_status_bar_carrier">false</bool>
+<bool name="enable_magnifier_when_input">false</bool>
+<bool name="securespaces_extension_accelerometer">true</bool>
+<bool name="securespaces_extension_delete_userdata">true</bool>
+<bool name="android_config_cellBroadcastAppLinks"></bool>
+<bool name="securespaces_extension_encryption">true</bool>
+<bool name="android_config_useFixedVolume"></bool>
+<bool name="securespaces_extension_hidden">true</bool>
+<bool name="android_config_useMasterVolume"></bool>
+<bool name="config_show_status_bar_time_for_keyguard">false</bool>
+<bool name="config_show_status_bar_status_for_keyguard">true</bool>
+<bool name="config_show_status_bar_carrier_for_keyguard">true</bool>
+<bool name="config_show_status_bar_battery_for_keyguard">true</bool>
+<bool name="config_show_status_bar_signal_for_keyguard">true</bool>
+<bool name="config_show_status_bar_notification_for_keyguard">true</bool>
+<bool name="config_has_antispam">true</bool>
+<bool name="config_enableUsbModeSelection">false</bool>
+<bool name="config_screen_on_proximity_sensor_default">false</bool>
+<bool name="config_is_voice_mutable">true</bool>
+<bool name="securespaces_extension_read_cross_space_contacts">true</bool>
+<bool name="is_dirac_supported">true</bool>
+<bool name="is_dolby_supported">false</bool>
+<bool name="android_config_use_strict_phone_number_comparation"></bool>
+<bool name="android_preferences_prefer_dual_pane"></bool>
+<bool name="android_config_useVolumeKeySounds"></bool>
+<bool name="android_config_voice_capable"></bool>
+<dimen name="android_notification_min_height"></dimen>
+<dimen name="android_notification_row_min_height"></dimen>
+<dimen name="android_preference_item_padding_side"></dimen>
+<dimen name="android_status_bar_height"></dimen>
+<dimen name="android_notification_padding_left"></dimen>
+<dimen name="android_notification_padding_right"></dimen>
+<dimen name="boot_msg_right_padding">110.000000dp</dimen>
+<dimen name="boot_msg_textsize">11.000000sp</dimen>
+<dimen name="resolver_grid_padding_horizontal">14.000000dp</dimen>
+<dimen name="screen_on_proximity_sensor_hint_height">400.000000dp</dimen>
+<dimen name="text_edit_action_popup_text_size">13.000000sp</dimen>
+<dimen name="shift_key_text_size">15.000000sp</dimen>
+<dimen name="over_fling_distance">0.500000dp</dimen>
+<dimen name="over_scroll_distance">0.000000dp</dimen>
+<dimen name="resolver_gridview_height">340.000000dp</dimen>
+<dimen name="resolver_gridview_width">400.000000dp</dimen>
+<dimen name="normal_key_text_size">19.000000sp</dimen>
+<dimen name="miui_keyboard_height">220.000000dp</dimen>
+<dimen name="keyboard_padding_left">11.000000dp</dimen>
+<dimen name="keyboard_padding_top">7.000000dp</dimen>
+<dimen name="key_btn_height">46.000000dp</dimen>
+<dimen name="key_btn_vertical_gap">8.000000dp</dimen>
+<dimen name="global_actions_item_min_width">400.000000dp</dimen>
+<dimen name="volume_panel_top">163.000000dp</dimen>
+<dimen name="volume_dialog_expand_button_padding_right">21.000000dp</dimen>
+<dimen name="volume_dialog_expand_button_padding_left">11.000000dp</dimen>
+<dimen name="volume_dialog_row_height">25.000000dp</dimen>
+<dimen name="volume_slider_interspacing">7.000000dp</dimen>
+<dimen name="volume_dialog_padding_left">18.000000dp</dimen>
+<dimen name="volume_dialog_padding_top">12.000000dp</dimen>
+<dimen name="volume_dialog_padding_bottom">12.000000dp</dimen>
+<dimen name="volume_dialog_margin">4.000000dp</dimen>
+<dimen name="text_action_translation_max_height">190.000000dp</dimen>
+<dimen name="text_action_translation_min_height">82.000000dp</dimen>
+<dimen name="text_action_popup_padding">18.669983dp</dimen>
+<dimen name="fc_dialog_body_text_size">12.000000px</dimen>
+<dimen name="text_handle_min_size">40.000000dp</dimen>
+<dimen name="text_action_popup_off_screen">11.329987dp</dimen>
+<dimen name="phrase_list_max_height">191.000000dp</dimen>
+<dimen name="phrase_list_width">270.000000dp</dimen>
+<dimen name="android_glowpadview_glow_radius"></dimen>
+<dimen name="android_navigation_bar_size"></dimen>
+<dimen name="android_glowpadview_inner_radius"></dimen>
+<dimen name="android_notification_action_text_size"></dimen>
+<dimen name="android_notification_action_height"></dimen>
+<dimen name="android_notification_content_to_icon_length"></dimen>
+<dimen name="android_notification_content_margin_left_to_icon"></dimen>
+<dimen name="volume_dialog_expand_button_padding_top">12.000000dp</dimen>
+<dimen name="global_actions_text_size">12.000000sp</dimen>
+<dimen name="android_notification_large_icon_height"></dimen>
+<dimen name="global_actions_item_margin">40.000000dp</dimen>
+<dimen name="volume_dialog_width">0.000000dp</dimen>
+<dimen name="android_notification_height"></dimen>
+<dimen name="volume_dialog_expand_button_padding_bottom">12.000000dp</dimen>
+<dimen name="android_notification_large_icon_width"></dimen>
+<dimen name="global_actions_item_text_top_margin">6.000000dp</dimen>
+<dimen name="config_screenshot_scale">0.44444</dimen>
+<dimen name="window_background_blur_radius">15.000000dp</dimen>
+<dimen name="android_system_bar_height"></dimen>
+<dimen name="android_status_bar_icon_size"></dimen>
+<dimen name="boot_msg_left_padding">110.000000dp</dimen>
+<dimen name="boot_msg_bottom_padding">42.000000dp</dimen>
+<dimen name="boot_msg_top_padding">240.660004dp</dimen>
+<dimen name="alert_dialog_button_bar_height">48.000000dp</dimen>
+<color name="resolver_icon_mask">#70000000</color>
+<color name="realtimeblur_bg">#ab1a1a1a</color>
+<color name="fc_dialog_body_text_color">#7f000000</color>
+<color name="text_edit_action_popup_text_normal">#d9000000</color>
+<color name="global_action_item_text_color_pressed"></color>
+<color name="miui_boot_massage_dialog_background_color">#ff000000</color>
+<color name="pattern_lockscreen_paint_error_color">#66de462d</color>
+<color name="pattern_lockscreen_paint_color">#6600a2ff</color>
+<color name="text_edit_action_popup_text_pressed">#ff0091dc</color>
+<color name="android_config_defaultNotificationColor"></color>
+<color name="auto_disable_screenbuttons_float_text_color">#e5000000</color>
+<color name="float_notification_button_color_n">#ffffffff</color>
+<color name="float_notification_button_color_p">#ffffffff</color>
+<color name="global_action_item_text_color_normal"></color>
+<color name="power_off_dialog_background_cover_color">#af000000</color>
+<color name="volume_panel_text_color">#b3ffffff</color>
+<color name="boot_msg_textcolor">#73ffffff</color>
+<color name="key_text_normal">#a2ffffff</color>
+<color name="key_text_pressed">#bfffffff</color>
+<color name="float_notification_button_color_disable">#ffbdbdbd</color>
+<fraction name="volume_panel_top_margin">0.270000%</fraction>
+<fraction name="config_full_screen_expand_status_bar_height_ratio">0.500000%</fraction>
+<string-array name="organized_languages_international">
+<item>in_ID</item>
+<item>ms_MY</item>
+<item>de_DE</item>
+<item>en_IN</item>
+<item>en_GB</item>
+<item>en_US</item>
+<item>es_ES</item>
+<item>es_US</item>
+<item>fr_FR</item>
+<item>it_IT</item>
+<item>lt_LT</item>
+<item>hu_HU</item>
+<item>pt_BR</item>
+<item>ro_RO</item>
+<item>vi_VN</item>
+<item>tr_TR</item>
+<item>mk_MK</item>
+<item>ru_RU</item>
+<item>uk_UA</item>
+<item>mr_IN</item>
+<item>hi_IN</item>
+<item>bn_IN</item>
+<item>gu_IN</item>
+<item>pa_IN</item>
+<item>as_IN</item>
+<item>ta_IN</item>
+<item>te_IN</item>
+<item>kn_IN</item>
+<item>ml_IN</item>
+<item>th_TH</item>
+<item>my_MM</item>
+<item>ko_KR</item>
+<item>zh_CN</item>
+<item>zh_TW</item>
+</string-array>
+<string-array name="airtel_mcc_mnc">
+<item>40552</item>
+<item>40498</item>
+<item>40431</item>
+<item>40490</item>
+<item>40493</item>
+<item>40492</item>
+<item>40551</item>
+<item>40553</item>
+<item>40470</item>
+<item>40556</item>
+<item>40416</item>
+<item>40410</item>
+<item>40440</item>
+<item>40449</item>
+<item>40496</item>
+<item>40403</item>
+<item>40555</item>
+<item>40495</item>
+<item>40445</item>
+<item>40402</item>
+<item>40494</item>
+<item>40554</item>
+<item>40497</item>
+</string-array>
+<string-array name="alphabet_table">
+<item>A</item>
+<item>B</item>
+<item>C</item>
+<item>D</item>
+<item>E</item>
+<item>F</item>
+<item>G</item>
+<item>H</item>
+<item>I</item>
+<item>J</item>
+<item>K</item>
+<item>L</item>
+<item>M</item>
+<item>N</item>
+<item>O</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>S</item>
+<item>T</item>
+<item>U</item>
+<item>V</item>
+<item>W</item>
+<item>X</item>
+<item>Y</item>
+<item>Z</item>
+<item>#</item>
+</string-array>
+<string-array name="organized_languages_default">
+<item>zh_CN</item>
+<item>zh_TW</item>
+<item>en_US</item>
+</string-array>
+<string-array name="float_notification_whitelist">
+<item>cn.com.fetion</item>
+<item>com.google.android.talk</item>
+<item>com.tencent.mm</item>
+<item>com.tencent.qq</item>
+<item>com.tencent.mobileqq</item>
+<item>com.xiaomi.channel</item>
+<item>com.android.calendar</item>
+<item>com.android.phone</item>
+<item>com.android.mms</item>
+<item>com.immomo.momo</item>
+<item>com.google.android.gm</item>
+<item>com.android.email</item>
+<item>android</item>
+<item>com.android.providers.downloads.ui</item>
+<item>com.android.updater</item>
+<item>com.android.settings</item>
+<item>com.android.bluetooth</item>
+<item>com.whatsapp</item>
+<item>com.jeejen.family.miui</item>
+<item>com.miui.networkassistant</item>
+<item>com.android.server.telecom</item>
+<item>com.xiaomi.midrop</item>
+<item>com.miui.securitycenter</item>
+<item>com.miui.player</item>
+<item>com.android.cts.verifier</item>
+<item>com.miui.securitycore</item>
+<item>com.lbe.security.miui</item>
+</string-array>
+<string-array name="securespaces_extension_read_cross_space_contacts_authorities">
+<item>com.android.contacts</item>
+<item>contacts</item>
+</string-array>
+<string-array name="securespaces_extension_accelerometer_userRestrictions">
+<item>ss_no_accelerometer_access,1</item>
+</string-array>
+<string-array name="securespaces_extension_read_cross_space_contacts_userRestrictions">
+<item>ss_ensure_read_cross_space_contacts,1</item>
+</string-array>
+<string-array name="boot_msg_text">
+<item>正在规划产品方案...</item>
+<item>工程师全力Coding...</item>
+<item>正在修复Bug...</item>
+<item>优化系统应用启动速度...</item>
+<item>即将升级完毕，记得来MIUI论坛反馈哟!</item>
+</string-array>
+<string-array name="alphabet_table_with_starred">
+<item>!</item>
+<item>A</item>
+<item>B</item>
+<item>C</item>
+<item>D</item>
+<item>E</item>
+<item>F</item>
+<item>G</item>
+<item>H</item>
+<item>I</item>
+<item>J</item>
+<item>K</item>
+<item>L</item>
+<item>M</item>
+<item>N</item>
+<item>O</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>S</item>
+<item>T</item>
+<item>U</item>
+<item>V</item>
+<item>W</item>
+<item>X</item>
+<item>Y</item>
+<item>Z</item>
+<item>#</item>
+</string-array>
+<string-array name="screen_key_long_press_default_action">
+<item>voice_assistant</item>
+<item>none</item>
+<item>none</item>
+<item>show_menu</item>
+</string-array>
+</MIUI_Theme_Values>

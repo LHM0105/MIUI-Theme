@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.2 推荐笑话、信息内容列表" version="2.9.20" annotation="" tag="短信推荐">
+    <resource description="random_pick.png" x="626" y="61" width="72" height="72" uuid="b5194078-f4e7-4cca-9064-90b676fbb07f">
+        <path src="res\drawable-hdpi\random_pick.png" description="" />
+        <path src="res\drawable-xhdpi\random_pick.png" description="" />
+    </resource>
+    <resource description="festival_list_item_out_bg.9.png" x="26" y="390" width="666" height="432" uuid="ca3c5f4c-aee4-44c2-a0a1-91b4a00053de">
+        <path src="res\drawable-hdpi\festival_list_item_out_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\festival_list_item_out_bg.9.png" description="" />
+    </resource>
+    <resource description="festival_list_item_in_bg.9.png" x="26" y="824" width="666" height="376" uuid="baeb795a-f344-4a8e-8f1e-a6b253f8bc64">
+        <path src="res\drawable-hdpi\festival_list_item_in_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\festival_list_item_in_bg.9.png" description="" />
+    </resource>
+</screenshot>

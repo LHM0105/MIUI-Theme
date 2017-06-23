@@ -1,0 +1,857 @@
+[DEBUG 2017-05-30 17:07:21.824] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [E:\常用文件\MIUI\主题\mine\薛之谦动物世界.mtz opening...]
+[ERROR 2017-05-30 17:07:21.888] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.extract(Unknown Source) [{}]
+java.io.FileNotFoundException: E:\常用文件\MIUI\主题\mine\薛之谦动物世界\com.android.systemui (拒绝访问。)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:171)
+	at com.miui.theme.tool.extract.Extractor.extract(Unknown Source)
+	at com.miui.theme.tool.extract.Extractor.unzipTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-30 17:07:22.263] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [E:\常用文件\MIUI\主题\mine\薛之谦动物世界 opening...]
+[DEBUG 2017-05-30 17:07:28.495] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:28.618] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:28.965] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 17:07:29.024] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:29.068] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:29.413] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 17:07:29.458] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:29.506] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-30 17:07:29.847] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 17:08:04.320] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:08:04.322] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:08:04.341] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:08:04.343] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.345] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.345] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.346] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.347] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.349] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.350] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.351] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.352] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:04.354] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:08:04.356] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:08:04.357] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:08:04.359] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:08:04.360] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:08:05.779] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:08:05.781] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:08:05.784] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:08:05.787] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.789] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.790] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.792] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.793] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.794] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.795] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.796] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.797] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:08:05.799] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:08:05.801] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:08:05.802] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:08:05.803] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:08:05.803] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[ERROR 2017-05-30 17:08:28.885] [Thread-29] com.miui.theme.tool.resourceeditor.ThemeValuesList.loadNetComment(Unknown Source) [{}]
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:996)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:850)
+	at com.miui.theme.tool.util.Wiki.post(Unknown Source)
+	at com.miui.theme.tool.util.Wiki.parse(Unknown Source)
+	at com.miui.theme.tool.util.Wiki.getRenderedText(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList.loadNetComment(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList.access$800(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList$1$1.run(Unknown Source)
+[DEBUG 2017-05-30 17:15:46.758] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:15:46.759] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:15:46.761] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:15:46.770] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.772] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.773] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.774] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.774] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.775] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.776] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.776] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.777] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:15:46.778] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:15:46.779] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:15:46.779] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:15:46.780] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:15:46.781] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:34:03.459] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [theme_values.xml 1496135742442~1494752334000]
+[DEBUG 2017-05-30 17:34:03.493] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:201 total:201      com.miui.home]
+[DEBUG 2017-05-30 17:34:03.509] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:17 total:218      description.xml]
+[DEBUG 2017-05-30 17:34:03.784] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496136457080~1494750218000]
+[DEBUG 2017-05-30 17:34:07.247] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:3738 total:3956      miwallpaper]
+[DEBUG 2017-05-30 17:34:15.280] [Thread-32] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:8032 total:11988      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 17:34:15.545] [Thread-32] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[ERROR 2017-05-30 17:34:15.595] [Thread-32] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-05-30 17:34:15.653] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-05-30 17:35:30.551] [Thread-38] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:111 total:111      description.xml]
+[DEBUG 2017-05-30 17:35:41.661] [Thread-38] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:11110 total:11221      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 17:35:42.224] [Thread-38] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 17:35:47.943] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:35:47.944] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:35:47.946] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:35:47.948] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.952] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.952] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.953] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.958] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.969] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.973] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.976] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.977] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:47.980] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:35:47.988] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:35:47.989] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:35:47.994] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:35:47.996] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[ERROR 2017-05-30 17:35:49.409] [Thread-38] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:487)
+	at com.android.ddmlib.AdbHelper.write(AdbHelper.java:815)
+	at com.android.ddmlib.SyncService.doPushFile(SyncService.java:697)
+	at com.android.ddmlib.SyncService.pushFile(SyncService.java:407)
+	at com.android.ddmlib.Device.pushFile(Device.java:814)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-05-30 17:35:49.410] [Thread-38] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-05-30 17:35:51.290] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:35:51.291] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:35:51.299] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:35:51.307] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.310] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.312] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.313] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.314] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.315] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.316] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.317] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.319] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:35:51.321] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:35:51.323] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:35:51.324] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:35:51.326] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:35:51.329] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:35:51.414] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-05-30 17:36:24.935] [Thread-44] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:110 total:110      description.xml]
+[DEBUG 2017-05-30 17:36:31.500] [Thread-44] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6566 total:6676      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 17:36:32.050] [Thread-44] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 17:36:37.350] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:37.351] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:37.356] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:36:37.360] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.364] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.367] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.368] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.371] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.373] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.375] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.378] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.379] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:37.380] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:36:37.383] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:36:37.384] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:36:37.384] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:36:37.387] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:36:46.300] [Thread-44] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 17:36:46.398] [Thread-44] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 17:36:47.219] [Thread-44] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 17:36:49.362] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:49.364] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:49.367] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:36:49.377] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.380] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.382] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.384] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.385] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.386] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.388] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.390] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.392] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:49.394] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:36:49.396] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:36:49.399] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:36:49.401] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:36:49.402] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:36:51.790] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:51.792] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:51.799] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:36:51.803] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.806] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.807] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.809] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.810] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.813] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.814] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.815] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.817] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:51.818] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:36:51.823] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:36:51.824] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:36:51.825] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:36:51.827] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 17:36:56.616] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:56.619] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 17:36:56.622] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 17:36:56.624] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.625] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.626] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.627] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.628] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.628] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.630] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.630] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.631] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 17:36:56.632] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 17:36:56.633] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 17:36:56.637] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 17:36:56.639] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 17:36:56.640] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:02:09.666] [Thread-54] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:123 total:123      description.xml]
+[DEBUG 2017-05-30 18:02:09.919] [Thread-54] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496138521031~1496136456000]
+[DEBUG 2017-05-30 18:02:13.153] [Thread-54] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:3488 total:3611      miwallpaper]
+[DEBUG 2017-05-30 18:02:20.500] [Thread-54] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:7347 total:10958      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:02:21.170] [Thread-54] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:02:26.491] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:26.494] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:26.498] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:02:26.500] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.502] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.503] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.504] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.505] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.507] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.508] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.509] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.510] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:26.512] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:02:26.513] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:02:26.514] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:02:26.515] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:02:26.516] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:02:28.312] [Thread-60] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:90 total:90      description.xml]
+[DEBUG 2017-05-30 18:02:30.974] [Thread-54] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:02:31.086] [Thread-54] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:02:31.972] [Thread-54] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:02:33.665] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:33.666] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:33.669] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:02:33.671] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.673] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.674] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.675] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.676] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.676] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.677] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.678] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.679] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:33.680] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:02:33.681] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:02:33.683] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:02:33.684] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:02:33.685] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:02:34.867] [Thread-60] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6555 total:6645      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:02:35.395] [Thread-60] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:02:40.460] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:40.462] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:40.466] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:02:40.468] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.469] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.470] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.471] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.472] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.472] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.473] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.474] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.474] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:40.475] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:02:40.477] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:02:40.478] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:02:40.478] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:02:40.479] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:02:48.757] [Thread-70] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:113 total:113      description.xml]
+[DEBUG 2017-05-30 18:02:51.924] [Thread-60] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:02:52.020] [Thread-60] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:02:52.720] [Thread-60] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:02:54.671] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:54.677] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:02:54.685] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:02:54.686] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.688] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.689] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.689] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.694] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.699] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.703] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.704] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.705] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:02:54.706] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:02:54.711] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:02:54.712] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:02:54.713] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:02:54.718] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:02:57.994] [Thread-70] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:9237 total:9350      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:02:58.602] [Thread-70] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:03:04.129] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:04.130] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:04.133] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:04.136] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.139] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.140] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.141] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.142] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.142] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.143] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.144] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.145] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:04.146] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:04.148] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:04.148] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:04.149] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:04.151] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:12.057] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:113 total:113      description.xml]
+[DEBUG 2017-05-30 18:03:14.993] [Thread-70] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:03:15.101] [Thread-70] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:03:15.856] [Thread-70] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:03:17.650] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:17.651] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:17.665] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:17.667] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.671] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.671] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.678] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.679] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.680] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.681] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.681] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.682] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:17.683] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:17.685] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:17.686] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:17.686] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:17.687] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:19.183] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:7126 total:7239      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:03:19.727] [Thread-80] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:03:24.457] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:24.458] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:24.461] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:24.462] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.464] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.465] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.465] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.466] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.467] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.467] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.468] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.469] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:24.470] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:24.476] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:24.477] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:24.478] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:24.479] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:35.853] [Thread-80] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:03:36.014] [Thread-80] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:03:36.775] [Thread-80] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:03:38.654] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:38.655] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:38.658] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:38.660] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.668] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.669] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.671] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.673] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.673] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.674] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.675] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.675] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:38.679] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:38.680] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:38.681] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:38.682] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:38.683] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:45.524] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:45.525] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:45.528] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:45.530] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.532] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.533] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.533] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.534] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.535] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.535] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.536] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.536] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:45.537] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:45.538] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:45.539] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:45.540] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:45.541] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:49.294] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:49.295] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:49.298] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:49.300] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.301] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.302] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.303] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.304] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.305] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.306] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.306] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.307] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:49.309] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:49.310] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:49.311] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:49.312] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:49.312] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:03:57.349] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:57.350] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:03:57.352] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:03:57.354] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.356] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.357] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.357] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.358] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.359] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.359] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.360] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.361] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:03:57.362] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:03:57.364] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:03:57.364] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:03:57.365] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:03:57.366] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:11:45.145] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:11:45.147] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-30 18:11:45.150] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-30 18:11:45.152] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.154] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.154] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.155] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.156] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.156] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.157] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.158] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.158] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-30 18:11:45.159] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-30 18:11:45.161] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-30 18:11:45.162] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-30 18:11:45.163] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-30 18:11:45.164] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-30 18:14:10.418] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496139246066~1493721208000]
+[DEBUG 2017-05-30 18:14:10.469] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:63 total:63      clock_2x4]
+[DEBUG 2017-05-30 18:14:10.536] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:67 total:130      description.xml]
+[DEBUG 2017-05-30 18:14:10.727] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496138410383~1496138520000]
+[DEBUG 2017-05-30 18:14:13.428] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2892 total:3022      miwallpaper]
+[DEBUG 2017-05-30 18:14:20.335] [Thread-95] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6907 total:9929      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:14:21.035] [Thread-95] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:14:36.905] [Thread-95] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:14:37.004] [Thread-95] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:14:38.399] [Thread-95] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:16:20.366] [Thread-105] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496139377060~1496139246000]
+[DEBUG 2017-05-30 18:16:20.432] [Thread-105] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:75 total:75      clock_2x4]
+[DEBUG 2017-05-30 18:16:20.500] [Thread-105] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:68 total:143      description.xml]
+[DEBUG 2017-05-30 18:16:26.574] [Thread-105] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6075 total:6218      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:16:27.028] [Thread-105] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:16:38.432] [Thread-105] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:16:38.525] [Thread-105] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:16:39.281] [Thread-105] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:18:20.690] [Thread-115] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:118 total:118      description.xml]
+[DEBUG 2017-05-30 18:18:20.860] [Thread-115] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496139497929~1494751216000]
+[DEBUG 2017-05-30 18:18:21.147] [Thread-115] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:457 total:575      lockscreen]
+[DEBUG 2017-05-30 18:18:30.157] [Thread-115] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:9010 total:9585      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 18:18:30.755] [Thread-115] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:18:43.368] [Thread-115] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 18:18:43.462] [Thread-115] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 18:18:44.160] [Thread-115] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 18:19:32.730] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:84 total:84      description.xml]
+[DEBUG 2017-05-30 18:19:39.465] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6735 total:6819      E:\常用文件\MIUI\主题\mine\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:12:03.732] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [E:\常用文件\MIUI\主题\mine\薛之谦动物世界 opening...]
+[DEBUG 2017-05-30 19:12:06.290] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:12:07.493] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-30 19:12:21.893] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-30 19:12:22.198] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 19:12:22.385] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:12:23.284] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-30 19:12:36.805] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-30 19:12:37.109] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 19:12:37.299] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:12:38.237] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-30 19:12:51.377] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-30 19:12:51.680] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-30 19:15:13.202] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:160 total:160      description.xml]
+[DEBUG 2017-05-30 19:15:13.412] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496142193651~1496138410000]
+[DEBUG 2017-05-30 19:15:15.855] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2653 total:2813      miwallpaper]
+[DEBUG 2017-05-30 19:15:20.364] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4509 total:7322      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:15:20.714] [Thread-27] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:15:28.435] [Thread-27] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:15:28.525] [Thread-27] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:15:29.243] [Thread-27] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:26:27.669] [Thread-37] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:95 total:95      description.xml]
+[DEBUG 2017-05-30 19:26:27.882] [Thread-37] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [530-1-1.jpg 1496143557957~ empty]
+[DEBUG 2017-05-30 19:26:30.346] [Thread-37] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2677 total:2772      miwallpaper]
+[DEBUG 2017-05-30 19:26:35.365] [Thread-37] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5019 total:7791      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:26:35.851] [Thread-37] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:26:46.575] [Thread-37] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:26:46.690] [Thread-37] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:26:48.278] [Thread-37] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:27:19.876] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:115 total:115      description.xml]
+[DEBUG 2017-05-30 19:27:20.054] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496143557957~ empty]
+[DEBUG 2017-05-30 19:27:22.587] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2711 total:2826      miwallpaper]
+[DEBUG 2017-05-30 19:27:27.591] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5004 total:7830      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:27:28.011] [Thread-47] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:27:37.049] [Thread-47] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:27:37.145] [Thread-47] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:27:37.929] [Thread-47] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:29:59.061] [Thread-57] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:79 total:79      description.xml]
+[DEBUG 2017-05-30 19:30:04.258] [Thread-57] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5197 total:5276      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:30:04.601] [Thread-57] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:30:13.654] [Thread-57] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:30:13.750] [Thread-57] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:30:14.592] [Thread-57] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:34:53.717] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:64 total:64      description.xml]
+[DEBUG 2017-05-30 19:34:53.879] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496143942058~1496143556000]
+[DEBUG 2017-05-30 19:34:56.129] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2412 total:2476      miwallpaper]
+[DEBUG 2017-05-30 19:35:00.734] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4605 total:7081      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:35:01.083] [Thread-67] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:35:09.898] [Thread-67] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:35:09.987] [Thread-67] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:35:10.851] [Thread-67] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:39:07.338] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144343595~1496139376000]
+[DEBUG 2017-05-30 19:39:07.389] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:64 total:64      clock_2x4]
+[DEBUG 2017-05-30 19:39:07.442] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:53 total:117      description.xml]
+[DEBUG 2017-05-30 19:39:07.557] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg8.jpg 1496138410383~1496143430000]
+[DEBUG 2017-05-30 19:39:09.546] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2104 total:2221      miwallpaper]
+[DEBUG 2017-05-30 19:39:13.971] [Thread-77] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4425 total:6646      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:39:14.384] [Thread-77] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:39:22.513] [Thread-77] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:39:22.600] [Thread-77] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:39:23.321] [Thread-77] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:41:53.020] [Thread-87] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144510316~1496144342000]
+[DEBUG 2017-05-30 19:41:53.054] [Thread-87] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:44 total:44      clock_2x4]
+[DEBUG 2017-05-30 19:41:53.117] [Thread-87] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:63 total:107      description.xml]
+[DEBUG 2017-05-30 19:41:57.588] [Thread-87] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4471 total:4578      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:41:58.069] [Thread-87] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:42:06.435] [Thread-87] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:42:06.528] [Thread-87] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:42:07.426] [Thread-87] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:42:33.056] [Thread-97] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:58 total:58      description.xml]
+[DEBUG 2017-05-30 19:42:37.558] [Thread-97] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4501 total:4559      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:42:37.892] [Thread-97] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:42:45.999] [Thread-97] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:42:46.090] [Thread-97] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:42:46.858] [Thread-97] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:43:13.435] [Thread-107] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144590258~1496144510000]
+[DEBUG 2017-05-30 19:43:13.484] [Thread-107] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:58 total:58      clock_2x4]
+[DEBUG 2017-05-30 19:43:13.541] [Thread-107] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:57 total:115      description.xml]
+[DEBUG 2017-05-30 19:43:18.366] [Thread-107] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4825 total:4940      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:43:18.702] [Thread-107] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:43:26.487] [Thread-107] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:43:26.576] [Thread-107] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:43:27.298] [Thread-107] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:46:16.311] [Thread-117] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144773283~1496144590000]
+[DEBUG 2017-05-30 19:46:16.358] [Thread-117] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:58 total:58      clock_2x4]
+[DEBUG 2017-05-30 19:46:16.411] [Thread-117] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:53 total:111      description.xml]
+[DEBUG 2017-05-30 19:46:20.833] [Thread-117] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4422 total:4533      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:46:21.171] [Thread-117] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:25.210] [Thread-123] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-05-30 19:46:26.483] [Thread-117] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:46:26.571] [Thread-117] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:27.296] [Thread-117] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:46:29.789] [Thread-123] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4579 total:4657      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:46:30.126] [Thread-123] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:35.112] [Thread-133] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:68 total:68      description.xml]
+[DEBUG 2017-05-30 19:46:36.558] [Thread-123] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:46:36.646] [Thread-123] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:37.421] [Thread-123] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:46:40.033] [Thread-133] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4921 total:4989      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:46:40.369] [Thread-133] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:45.561] [Thread-143] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144802778~1496144772000]
+[DEBUG 2017-05-30 19:46:45.603] [Thread-143] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:50 total:50      clock_2x4]
+[DEBUG 2017-05-30 19:46:45.662] [Thread-143] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:59 total:109      description.xml]
+[DEBUG 2017-05-30 19:46:46.897] [Thread-133] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:46:46.989] [Thread-133] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:47.782] [Thread-133] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:46:50.312] [Thread-143] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4650 total:4759      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:46:50.668] [Thread-143] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:58.698] [Thread-143] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:46:58.792] [Thread-143] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:46:59.585] [Thread-143] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:47:53.558] [Thread-157] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144867016~1496144802000]
+[DEBUG 2017-05-30 19:47:53.594] [Thread-157] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:43 total:43      clock_2x4]
+[DEBUG 2017-05-30 19:47:53.642] [Thread-157] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:48 total:91      description.xml]
+[DEBUG 2017-05-30 19:47:58.075] [Thread-157] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4433 total:4524      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:47:58.389] [Thread-157] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:03.153] [Thread-163] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:60 total:60      description.xml]
+[DEBUG 2017-05-30 19:48:04.128] [Thread-157] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:48:04.215] [Thread-157] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:04.987] [Thread-157] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:48:07.885] [Thread-163] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4732 total:4792      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:48:08.242] [Thread-163] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:15.897] [Thread-163] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:48:15.984] [Thread-163] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:16.674] [Thread-163] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:48:21.908] [Thread-177] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:63 total:63      description.xml]
+[DEBUG 2017-05-30 19:48:26.403] [Thread-177] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4495 total:4558      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-05-30 19:48:26.719] [Thread-177] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:34.586] [Thread-177] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-30 19:48:34.675] [Thread-177] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-30 19:48:35.441] [Thread-177] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-30 19:51:18.789] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496144957624~1496144866000]
+[DEBUG 2017-05-30 19:51:18.823] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:41 total:41      clock_2x4]
+[DEBUG 2017-05-30 19:51:18.871] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:48 total:89      description.xml]
+[DEBUG 2017-05-30 19:51:23.509] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4638 total:4727      E:\常用文件\MIUI\主题\mine\薛之谦动物世界.mtz]

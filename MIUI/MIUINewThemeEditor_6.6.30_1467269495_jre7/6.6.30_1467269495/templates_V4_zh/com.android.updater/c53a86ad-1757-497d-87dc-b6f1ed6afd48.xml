@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="2.9.16" annotation="">
+    <resource description="miui_title.9.png" x="4" y="53" width="709" height="344" uuid="3a28ba77-f793-45a3-86a8-07f7f6358e74">
+        <path src="res\drawable-xhdpi\miui_title.9.png" description="" />
+    </resource>
+    <resource description="check_update.png" x="332" y="1208" width="54" height="60" uuid="36457a7d-eab0-4ab5-9340-3ee7926764dd">
+        <path src="res\drawable-xhdpi\check_update.png" description="" />
+    </resource>
+    <resource description="action_button_p.9.png" x="4" y="1200" width="709" height="75" uuid="962d7b93-8972-4e67-938b-95c7fa528032">
+        <path src="res\drawable-xhdpi\action_button_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_p.9.png" description="" />
+    </resource>
+    <resource description="arrow_right.png" x="647" y="528" width="48" height="48" uuid="962faa03-f5e8-453a-a4f5-d8ab10e76838">
+        <path src="res\drawable-xhdpi\arrow_right.png" description="" />
+    </resource>
+    <resource description="main_background.9.png" x="6" y="407" width="705" height="782" uuid="b5fea411-d06c-45eb-9948-5d0a7101d24d">
+        <path src="res\drawable-hdpi\main_background.9.png" description="" />
+    </resource>
+    <resource description="login_indicator.png" x="34" y="1098" width="81" height="81" uuid="a35d0ef6-7788-4158-bdc2-19be503bd294">
+        <path src="res\drawable-xhdpi\login_indicator.png" description="" />
+    </resource>
+</screenshot>

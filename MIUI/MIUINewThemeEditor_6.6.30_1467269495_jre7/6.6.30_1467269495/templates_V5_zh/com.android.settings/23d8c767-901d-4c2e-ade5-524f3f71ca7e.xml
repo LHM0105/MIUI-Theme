@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 应用" version="3.2.27" annotation="" tag="设置">
+    <resource description="ic_stop_disable" x="380" y="1146" width="80" height="90" uuid="91d828ad-1498-4883-8bd5-a54ba2be829f">
+        <path src="res\drawable-hdpi\ic_stop_disable.png" description="停止图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_stop_disable.png" description="停止图标 不可按" />
+        <path src="res\drawable-xxhdpi\ic_stop_disable.png" description="停止图标 不可按" />
+        <path src="res\drawable-hdpi\ic_stop_normal.png" description="停止图标" />
+        <path src="res\drawable-xhdpi\ic_stop_normal.png" description="停止图标" />
+        <path src="res\drawable-xxhdpi\ic_stop_normal.png" description="停止图标" />
+        <path src="res\drawable-hdpi\ic_stop_pressed.png" description="停止图标 二态" />
+        <path src="res\drawable-xhdpi\ic_stop_pressed.png" description="停止图标 二态" />
+        <path src="res\drawable-xxhdpi\ic_stop_pressed.png" description="停止图标 二态" />
+    </resource>
+</screenshot>

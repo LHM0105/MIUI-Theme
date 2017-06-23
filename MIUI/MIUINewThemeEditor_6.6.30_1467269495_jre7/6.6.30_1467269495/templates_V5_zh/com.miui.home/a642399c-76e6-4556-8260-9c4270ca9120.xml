@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 缩略图模式" version="2.9.16" annotation="" tag="缩略图模式">
+    <resource description="thumbnail_bg_current.9.png" x="28" y="106" width="214" height="350" uuid="86ee85f8-3c75-4482-980c-8d53d607c1e5">
+        <path src="res\drawable-hdpi\thumbnail_bg_current.9.png" description="当前桌面缩略图背景" />
+        <path src="res\drawable-xhdpi\thumbnail_bg_current.9.png" description="当前桌面缩略图背景" />
+    </resource>
+    <resource description="thumbnail_new_screen_n.png" x="256" y="484" width="208" height="346" uuid="0926dccd-2a2d-476a-8e13-cd6e72b7c4f6">
+        <path src="res\drawable-hdpi\thumbnail_new_screen_n.png" description="新桌面" />
+        <path src="res\drawable-xhdpi\thumbnail_new_screen_n.png" description="新桌面" />
+        <path src="res\drawable-hdpi\thumbnail_new_screen_p.png" description="新桌面 二态" />
+        <path src="res\drawable-xhdpi\thumbnail_new_screen_p.png" description="新桌面 二态" />
+    </resource>
+    <resource description="home_button_sethome_on.png" x="480" y="396" width="205" height="62" uuid="c6962821-9ce2-47fa-b75c-e478a0d21266">
+        <path src="res\drawable-hdpi\home_button_sethome_on.png" description="主桌面" />
+        <path src="res\drawable-xhdpi\home_button_sethome_on.png" description="主桌面" />
+    </resource>
+    <resource description="thumbnail_bg.9.png" x="256" y="105" width="210" height="352" uuid="a6d5738f-9066-4d4a-acd0-0cb2ac7fe0e4">
+        <path src="res\drawable-hdpi\thumbnail_bg.9.png" description="桌面背景" />
+        <path src="res\drawable-xhdpi\thumbnail_bg.9.png" description="桌面背景" />
+    </resource>
+    <resource description="delete_screen_p.png" x="176" y="486" width="60" height="60" uuid="9764fc09-6aa1-4a3f-8ee1-7f0eb4a08b71">
+        <path src="res\drawable-hdpi\delete_screen_n.png" description="删除桌面按钮" />
+        <path src="res\drawable-xhdpi\delete_screen_n.png" description="删除桌面按钮" />
+        <path src="res\drawable-hdpi\delete_screen_p.png" description="删除桌面按钮 二态" />
+        <path src="res\drawable-xhdpi\delete_screen_p.png" description="删除桌面按钮 二态" />
+    </resource>
+</screenshot>

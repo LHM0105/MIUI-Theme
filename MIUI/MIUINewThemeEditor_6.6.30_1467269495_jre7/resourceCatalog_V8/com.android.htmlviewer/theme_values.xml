@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<string name="app_label">HTML浏览器</string>
+<string name="app_version_which_call">应用版本:%s</string>
+<string name="policy_name">协议名称:%s</string>
+<string name="loading">读取中…</string>
+<string name="app_name_which_call">应用名称:%s</string>
+<string name="settings_safetylegal_activity_unreachable">您没有数据连接。要立即查看此信息，请使用联网的计算机访问%s。</string>
+<string name="settings_safetylegal_activity_loading">正在加载...</string>
+<string name="settings_safetylegal_activity_title">安全信息</string>
+<string name="settings_safetylegal_title">安全信息</string>
+<string name="settings_license_activity_loading">正在加载...</string>
+<string name="settings_license_activity_title">开放源代码许可</string>
+<string name="license_host_unreachable">您当前联网失败，请使用其他设备\n访问%s查看协议内容</string>
+<string name="mibi_license">米币用户协议</string>
+<string name="open_wifi_connect_summary">点击管理</string>
+<string name="open_wifi_connect_title">已连接开放网络%1$s</string>
+<string name="settings_license_activity_unavailable">加载许可时出现问题。</string>
+</MIUI_Theme_Values>

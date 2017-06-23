@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.2 主题详情" version="3.10.23" annotation="" tag="新 主题">
+    <resource description="resource_text_item_indicator" x="43" y="314" width="33" height="32" uuid="6b61759a-98db-4568-809d-8876916e9901">
+        <path src="res\drawable-hdpi\resource_text_item_indicator.png" description="资源文本标识" />
+        <path src="res\drawable-xhdpi\resource_text_item_indicator.png" description="资源文本标识" />
+        <path src="res\drawable-xxhdpi\resource_text_item_indicator.png" description="资源文本标识" />
+    </resource>
+    <resource description="resource_info_bg.9" x="30" y="140" width="512" height="952" uuid="15328a7d-4745-4dc1-a4ce-46b680c31f62">
+        <path src="res\drawable-hdpi\resource_info_bg.9.png" description="更新日志背景" />
+        <path src="res\drawable-xxhdpi\resource_info_bg.9.png" description="更新日志背景" />
+    </resource>
+    <resource description="resource_comment_n" x="600" y="1184" width="50" height="54" uuid="b2333be3-2ad5-4667-b57f-260b8a247d6b">
+        <path src="res\drawable-hdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-hdpi\resource_comment_p.png" description="评论按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_comment_p.png" description="评论按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_comment_p.png" description="评论按钮 二态" />
+    </resource>
+    <resource description="resource_share_n" x="62" y="1182" width="60" height="64" uuid="96f65788-5329-4933-ad88-f5857dead194">
+        <path src="res\drawable-hdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-hdpi\resource_share_p.png" description="分享按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_share_p.png" description="分享按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_share_p.png" description="分享按钮 二态" />
+    </resource>
+    <resource description="resource_operation_view_bg.9" x="0" y="1141" width="716" height="137" uuid="10e929b8-e94c-4ce4-873a-fe17c9f56946">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+    </resource>
+    <resource description="resource_detail_left_button_n.9" x="190" y="1156" width="340" height="100" uuid="0fd58823-7cde-4fc4-a420-81fefed4c0e4">
+        <path src="res\drawable-hdpi\resource_detail_left_button_n.9.png" description="更新按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_detail_left_button_n.9.png" description="更新按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_detail_left_button_n.9.png" description="更新按钮 常态" />
+        <path src="res\drawable-hdpi\resource_detail_left_button_p.9.png" description="更新按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_left_button_p.9.png" description="更新按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_detail_left_button_p.9.png" description="更新按钮 二态" />
+        <path src="res\drawable-hdpi\resource_detail_right_button_n.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_detail_right_button_n.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_detail_right_button_n.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-hdpi\resource_detail_right_button_p.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_right_button_p.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_detail_right_button_p.9.png" description="应用按钮 二态" />
+    </resource>
+    <resource description="resource_preview_bg" x="566" y="158" width="154" height="934" uuid="16079f79-f7ec-4a52-975e-6336c2c71b2f">
+        <path src="res\drawable-hdpi\resource_preview_bg.png" description="预览图 加载" />
+        <path src="res\drawable-xhdpi\resource_preview_bg.png" description="预览图 加载" />
+        <path src="res\drawable-xxhdpi\resource_preview_bg.png" description="预览图 加载" />
+        <path src="res\drawable-hdpi\resource_preview_empty.png" description="预览图 失败" />
+        <path src="res\drawable-xhdpi\resource_preview_empty.png" description="预览图 失败" />
+        <path src="res\drawable-xxhdpi\resource_preview_empty.png" description="预览图 失败" />
+    </resource>
+</screenshot>

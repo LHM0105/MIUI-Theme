@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="导航条首字母预览背景" version="2.9.16" annotation="" tag="">
+    <resource description="alphabet_indexer_overlay.png" x="344" y="586" width="141" height="153" uuid="7b515773-b43d-465e-aa79-d40157c1713f">
+        <path src="res\drawable-hdpi\alphabet_indexer_overlay.png" description="" />
+        <path src="res\drawable-xhdpi\alphabet_indexer_overlay.png" description="" />
+    </resource>
+</screenshot>

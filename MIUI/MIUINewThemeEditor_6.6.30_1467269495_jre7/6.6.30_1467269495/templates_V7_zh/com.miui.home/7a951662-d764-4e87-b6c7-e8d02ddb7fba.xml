@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 其他" version="4.8.27" annotation="" tag="桌面">
+    <resource description="uninstall_dialog_right_btn_n.9" x="228" y="494" width="628" height="138" uuid="813eed82-8ed7-4256-ba17-5b0ed35ea001">
+        <path src="res\drawable-xxhdpi\uninstall_dialog_left_btn_n.9.png" description="应用删除确认按钮_左" />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_left_btn_p.9.png" description="应用删除确认按钮_左二态" />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_right_btn_n.9.png" description="应用删除确认按钮_右" />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_right_btn_p.9.png" description="应用删除确认按钮_右二态" />
+    </resource>
+    <resource description="loading_dialog_progress_bar" x="408" y="758" width="272" height="292" uuid="84b6aa60-7c11-4b09-87cc-3c79b0b82f5e">
+        <path src="res\drawable-xxhdpi\loading_dialog_progress_bar.png" description="桌面加载中" />
+        <path src="res\drawable-xxhdpi\loading_dialog_bg.9.png" description="桌面加载框背景" />
+    </resource>
+</screenshot>

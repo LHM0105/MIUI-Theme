@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 权限" version="3.2.27" annotation="" tag="权限管理">
+    <resource description="group_title_bg.9" x="0" y="136" width="720" height="62" uuid="6ecd06c9-64f9-4d4a-b626-417ad21dac9b">
+        <path src="res\drawable-hdpi\group_title_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\group_title_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xxhdpi\group_title_bg.9.png" description="列表背景" />
+    </resource>
+    <resource description="prompt" x="650" y="326" width="40" height="40" uuid="b3e5f45f-b992-4c7d-86c4-569150686af8">
+        <path src="res\drawable-hdpi\prompt.png" description="询问" />
+        <path src="res\drawable-xhdpi\prompt.png" description="询问" />
+        <path src="res\drawable-xxhdpi\prompt.png" description="询问" />
+    </resource>
+    <resource description="reject" x="650" y="696" width="40" height="40" uuid="c1766f5d-37ff-40c6-8408-bb93fd03c7cf">
+        <path src="res\drawable-hdpi\reject.png" description="禁止" />
+        <path src="res\drawable-xhdpi\reject.png" description="禁止" />
+        <path src="res\drawable-xxhdpi\reject.png" description="禁止" />
+    </resource>
+    <resource description="允许" x="648" y="454" width="40" height="40" uuid="454722e3-413c-45b3-bf3f-6336dcdf72b0">
+        <path src="res\drawable-hdpi\accept.png" description="允许" />
+        <path src="res\drawable-xhdpi\accept.png" description="允许" />
+        <path src="res\drawable-xxhdpi\accept.png" description="允许" />
+    </resource>
+</screenshot>

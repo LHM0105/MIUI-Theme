@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.8 移动网络APN" version="3.9.20" annotation="" tag="设置">
+    <resource description="ic_reset_apn_n" x="384" y="1142" width="80" height="90" uuid="af9b806b-b77b-44dc-bd10-95b3d103a83b">
+        <path src="res\drawable-hdpi\ic_reset_apn_n.png" description="重置为默认设置 常态" />
+        <path src="res\drawable-xhdpi\ic_reset_apn_n.png" description="重置为默认设置 常态" />
+        <path src="res\drawable-hdpi\ic_reset_apn_p.png" description="重置为默认设置 二态" />
+        <path src="res\drawable-xhdpi\ic_reset_apn_p.png" description="重置为默认设置 二态" />
+    </resource>
+</screenshot>

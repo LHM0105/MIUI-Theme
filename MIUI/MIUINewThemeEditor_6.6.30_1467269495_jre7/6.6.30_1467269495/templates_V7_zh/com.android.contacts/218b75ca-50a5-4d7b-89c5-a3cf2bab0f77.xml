@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 联系人详情" version="4.8.5" annotation="" tag="联系人">
+    <resource description="contact_detail_title_home_icon_p" x="2" y="70" width="130" height="190" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_n.png" description="联系人返回按钮 常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_n.png" description="联系人返回按钮 常态" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_p.png" description="联系人返回按钮 二态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_p.png" description="联系人返回按钮 二态" />
+    </resource>
+    <resource description="list_item_bg_pressed_light.9" x="0" y="1285" width="1080" height="175" uuid="51112146-4082-4bc0-92f0-30c4455936ed">
+        <path src="res\drawable-xhdpi\list_item_bg_normal_light.9.png" description="详情页面list 常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_normal_light.9.png" description="详情页面list 常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_pressed_light.9.png" description="详情页面list 二态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_pressed_light.9.png" description="详情页面list 二态" />
+    </resource>
+    <resource description="ic_send_sms_p" x="848" y="1142" width="110" height="116" uuid="00cdfb7e-05d3-4a8e-b1e4-566d21f06527">
+        <path src="res\drawable-xhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+        <path src="res\drawable-xhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="短信 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="短信 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="短信 二态" />
+    </resource>
+    <resource description="action_bar_stack_bg_light.9" x="0" y="925" width="1080" height="153" uuid="6bc1ddad-25dd-424b-a550-be508a44b797">
+        <path src="res\drawable-xhdpi\action_bar_stack_bg_light.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-xxhdpi\action_bar_stack_bg_light.9.png" description="联系人详情tab背景" />
+    </resource>
+    <resource description="action_bar_tab_bg_first_selected_light.9" x="358" y="940" width="370" height="126" uuid="488bff0b-f5ea-483b-a3ec-bdfe6de3224f">
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_first_normal_light.9.png" description="标题栏左边按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_normal_light.9.png" description="标题栏左边按钮常态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_first_pressed_light.9.png" description="标题栏左边按钮按下态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_pressed_light.9.png" description="标题栏左边按钮按下态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_first_selected_light.9.png" description="标题栏左边按钮选择态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_selected_light.9.png" description="标题栏左边按钮选择态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_last_normal_light.9.png" description="标题栏右边按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_normal_light.9.png" description="标题栏右边按钮常态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_last_pressed_light.9.png" description="标题栏右边按钮按下态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_pressed_light.9.png" description="标题栏右边按钮按下态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_last_selected_light.9.png" description="标题栏右边按钮选择态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_selected_light.9.png" description="标题栏右边按钮选择态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_middle_normal_light.9.png" description="标题栏中间按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_normal_light.9.png" description="标题栏中间按钮常态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_middle_pressed_light.9.png" description="标题栏中间按钮按下态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_pressed_light.9.png" description="标题栏中间按钮按下态" />
+        <path src="res\drawable-xhdpi\action_bar_tab_bg_middle_selected_light.9.png" description="标题栏中间按钮选择态" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_selected_light.9.png" description="标题栏中间按钮选择态" />
+    </resource>
+    <resource description="contact_detail_pager_bg.9" x="0" y="1078" width="1080" height="842" uuid="22abcfe0-a1a0-47c1-8529-6104b6591f4c">
+        <path src="res\drawable-hdpi\contact_detail_pager_bg.9.png" description="联系人详情页背景" />
+        <path src="res\drawable-xhdpi\contact_detail_pager_bg.9.png" description="联系人详情页背景" />
+        <path src="res\drawable-xxhdpi\contact_detail_pager_bg.9.png" description="联系人详情页背景" />
+    </resource>
+    <resource description="contact_detail_default_photo.9" x="0" y="0" width="1076" height="1072" uuid="1b163419-7e55-48b8-b3c3-d3e5b51d306a">
+        <path src="res\drawable-xhdpi\contact_detail_default_photo.9.png" description="默认大头像" />
+        <path src="res\drawable-xxhdpi\contact_detail_default_photo.9.png" description="默认大头像" />
+    </resource>
+</screenshot>

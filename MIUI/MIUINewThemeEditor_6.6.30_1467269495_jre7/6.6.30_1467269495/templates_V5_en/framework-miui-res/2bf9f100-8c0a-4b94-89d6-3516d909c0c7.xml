@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Volume" version="3.3.1" annotation="" tag="Other">
+    <resource description="v5_ic_audio_ring_notif_vibrate" x="304" y="490" width="110" height="110" uuid="6b622c23-e61b-4a76-afe3-aeb4983a7748">
+        <path src="res\drawable-hdpi\v5_ic_audio_alarm.png" description="闹钟" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_alarm.png" description="闹钟" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_alarm.png" description="闹钟" />
+        <path src="res\drawable-hdpi\v5_ic_audio_alarm_mute.png" description="闹钟关" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_alarm_mute.png" description="闹钟关" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_alarm_mute.png" description="闹钟关" />
+        <path src="res\drawable-hdpi\v5_ic_audio_bt.png" description="蓝牙" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_bt.png" description="蓝牙" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_bt.png" description="蓝牙" />
+        <path src="res\drawable-hdpi\v5_ic_audio_bt_mute.png" description="蓝牙 关" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_bt_mute.png" description="蓝牙 关" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_bt_mute.png" description="蓝牙 关" />
+        <path src="res\drawable-hdpi\v5_ic_audio_media.png" description="媒体音量" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_media.png" description="媒体音量" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_media.png" description="媒体音量" />
+        <path src="res\drawable-hdpi\v5_ic_audio_notification.png" description="通知铃声" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_notification.png" description="通知铃声" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_notification.png" description="通知铃声" />
+        <path src="res\drawable-hdpi\v5_ic_audio_notification_mute.png" description="通知铃声 关" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_notification_mute.png" description="通知铃声 关" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_notification_mute.png" description="通知铃声 关" />
+        <path src="res\drawable-hdpi\v5_ic_audio_phone.png" description="录音音量" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_phone.png" description="录音音量" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_phone.png" description="录音音量" />
+        <path src="res\drawable-hdpi\v5_ic_audio_phone_mute.png" description="录音无声" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_phone_mute.png" description="录音无声" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_phone_mute.png" description="录音无声" />
+        <path src="res\drawable-hdpi\v5_ic_audio_ring_notif.png" description="铃声音量" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_ring_notif.png" description="铃声音量" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_ring_notif.png" description="铃声音量" />
+        <path src="res\drawable-hdpi\v5_ic_audio_ring_notif_mute.png" description="铃声音量 关" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_ring_notif_mute.png" description="铃声音量 关" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_ring_notif_mute.png" description="铃声音量 关" />
+        <path src="res\drawable-hdpi\v5_ic_audio_ring_notif_vibrate.png" description="震动" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_ring_notif_vibrate.png" description="震动" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_ring_notif_vibrate.png" description="震动" />
+    </resource>
+    <resource description="v5_ic_audio_speaker" x="374" y="607" width="24" height="23" uuid="612a57ad-34be-448c-b943-0d6fc6b83490">
+        <path src="res\drawable-hdpi\v5_ic_audio_headset.png" description="音乐" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_headset.png" description="音乐" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_headset.png" description="音乐" />
+        <path src="res\drawable-hdpi\v5_ic_audio_speaker.png" description="铃声" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_speaker.png" description="铃声" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_speaker.png" description="铃声" />
+    </resource>
+    <resource description="v5_ic_audio_divider" x="361" y="606" width="10" height="25" uuid="e9e6672d-8f88-4230-ad87-3ae0a7a9eb3a">
+        <path src="res\drawable-hdpi\v5_ic_audio_divider.png" description="分割线" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_divider.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_divider.png" description="分割线" />
+    </resource>
+    <resource description="v5_ic_audio_bg.9" x="168" y="376" width="372" height="372" uuid="6a4816ea-a718-4f5d-89db-c6089c7b83c7">
+        <path src="res\drawable-hdpi\v5_ic_audio_bg.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_bg.9.png" description="背景" />
+        <path src="res\drawable-hdpi\v5_ic_audio_bg_vibrate.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_bg_vibrate.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_bg_vibrate.9.png" description="背景" />
+    </resource>
+    <resource description="v5_ic_audio_progress_vibrate" x="240" y="430" width="242" height="252" uuid="aeda9209-c223-49fc-82d0-6573cdee8196">
+        <path src="res\drawable-hdpi\v5_ic_audio_progress.png" description="音量条" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_progress.png" description="音量条" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_progress.png" description="音量条" />
+        <path src="res\drawable-hdpi\v5_ic_audio_progress_vibrate.png" description="音量条" />
+        <path src="res\drawable-xhdpi\v5_ic_audio_progress_vibrate.png" description="音量条" />
+        <path src="res\drawable-xxhdpi\v5_ic_audio_progress_vibrate.png" description="音量条" />
+    </resource>
+</screenshot>

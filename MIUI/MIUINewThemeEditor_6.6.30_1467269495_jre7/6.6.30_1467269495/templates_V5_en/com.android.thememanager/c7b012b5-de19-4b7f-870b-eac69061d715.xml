@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Components" version="3.10.23" annotation="" tag="New Components">
+    <resource description="icon_component_lockstyle" x="46" y="274" width="58" height="58" uuid="8d805b59-07e5-4e5b-8c32-30ae636dae50">
+        <path src="res\drawable-hdpi\icon_component_lockstyle.png" description="锁屏" />
+        <path src="res\drawable-xhdpi\icon_component_lockstyle.png" description="锁屏" />
+        <path src="res\drawable-xxhdpi\icon_component_lockstyle.png" description="锁屏" />
+    </resource>
+    <resource description="icon_component_lockscreen" x="392" y="280" width="58" height="58" uuid="727a6680-9610-470c-ac49-c18caff7e562">
+        <path src="res\drawable-hdpi\icon_component_lockscreen.png" description="锁屏壁纸" />
+        <path src="res\drawable-xhdpi\icon_component_lockscreen.png" description="锁屏壁纸" />
+        <path src="res\drawable-xxhdpi\icon_component_lockscreen.png" description="锁屏壁纸" />
+    </resource>
+    <resource description="icon_component_icon" x="46" y="440" width="58" height="58" uuid="79667bda-2ada-4ac4-98e6-ac396d1925b3">
+        <path src="res\drawable-hdpi\icon_component_icon.png" description="图标" />
+        <path src="res\drawable-xhdpi\icon_component_icon.png" description="图标" />
+        <path src="res\drawable-xxhdpi\icon_component_icon.png" description="图标" />
+    </resource>
+    <resource description="icon_component_wallpaper" x="388" y="438" width="58" height="58" uuid="87ac1d14-6873-45c7-a74f-304868d1ff9d">
+        <path src="res\drawable-hdpi\icon_component_wallpaper.png" description="桌面壁纸" />
+        <path src="res\drawable-xhdpi\icon_component_wallpaper.png" description="桌面壁纸" />
+        <path src="res\drawable-xxhdpi\icon_component_wallpaper.png" description="桌面壁纸" />
+    </resource>
+    <resource description="icon_component_ringtone" x="46" y="596" width="58" height="58" uuid="666fbcf7-1f4c-42ac-8b8c-d005910bc42a">
+        <path src="res\drawable-hdpi\icon_component_ringtone.png" description="铃声" />
+        <path src="res\drawable-xhdpi\icon_component_ringtone.png" description="铃声" />
+        <path src="res\drawable-xxhdpi\icon_component_ringtone.png" description="铃声" />
+    </resource>
+    <resource description="icon_component_notication" x="386" y="598" width="58" height="58" uuid="21b99c66-98db-46ab-a503-8b0fc5a62c6c">
+        <path src="res\drawable-hdpi\icon_component_notication.png" description="通知铃声" />
+        <path src="res\drawable-xhdpi\icon_component_notication.png" description="通知铃声" />
+        <path src="res\drawable-xxhdpi\icon_component_notication.png" description="通知铃声" />
+    </resource>
+    <resource description="icon_component_font" x="394" y="764" width="58" height="58" uuid="f2a2b4b7-e628-418a-ba9f-59495f71290b">
+        <path src="res\drawable-hdpi\icon_component_font.png" description="字体" />
+        <path src="res\drawable-xhdpi\icon_component_font.png" description="字体" />
+        <path src="res\drawable-xxhdpi\icon_component_font.png" description="字体" />
+    </resource>
+    <resource description="icon_component_statusbar" x="46" y="1006" width="58" height="58" uuid="073b8b9f-3462-4e5f-a67e-3b7a94dbc28e">
+        <path src="res\drawable-hdpi\icon_component_statusbar.png" description="通知栏" />
+        <path src="res\drawable-xhdpi\icon_component_statusbar.png" description="通知栏" />
+        <path src="res\drawable-xxhdpi\icon_component_statusbar.png" description="通知栏" />
+    </resource>
+    <resource description="icon_component_launcher" x="390" y="1008" width="58" height="58" uuid="acb22da2-b31c-4384-b01f-7e6c76988fa9">
+        <path src="res\drawable-hdpi\icon_component_launcher.png" description="桌面" />
+        <path src="res\drawable-xhdpi\icon_component_launcher.png" description="桌面" />
+        <path src="res\drawable-xxhdpi\icon_component_launcher.png" description="桌面" />
+    </resource>
+    <resource description="icon_component_mms" x="46" y="1170" width="58" height="58" uuid="e76fab5b-020d-4dc6-bf79-07686670ce3b">
+        <path src="res\drawable-hdpi\icon_component_mms.png" description="短信" />
+        <path src="res\drawable-xhdpi\icon_component_mms.png" description="短信" />
+        <path src="res\drawable-xxhdpi\icon_component_mms.png" description="短信" />
+    </resource>
+    <resource description="icon_component_contact" x="390" y="1172" width="58" height="58" uuid="bfca953b-e432-4f2a-9497-752f6e87abd2">
+        <path src="res\drawable-hdpi\icon_component_contact.png" description="拨号联系人" />
+        <path src="res\drawable-xhdpi\icon_component_contact.png" description="拨号联系人" />
+        <path src="res\drawable-xxhdpi\icon_component_contact.png" description="拨号联系人" />
+    </resource>
+    <resource description="icon_component_boot_animation" x="192" y="1214" width="58" height="58" uuid="c7d08d49-7c4d-4c9e-9ef8-a56f4b27daca">
+        <path src="res\drawable-hdpi\icon_component_boot_animation.png" description="开机动画" />
+        <path src="res\drawable-xhdpi\icon_component_boot_animation.png" description="开机动画" />
+        <path src="res\drawable-xxhdpi\icon_component_boot_animation.png" description="开机动画" />
+    </resource>
+    <resource description="icon_component_boot_audio" x="294" y="1214" width="58" height="58" uuid="93a9071c-be28-4f23-a9f9-b1a77ada072d">
+        <path src="res\drawable-hdpi\icon_component_boot_audio.png" description="开机铃声" />
+        <path src="res\drawable-xhdpi\icon_component_boot_audio.png" description="开机铃声" />
+        <path src="res\drawable-xxhdpi\icon_component_boot_audio.png" description="开机铃声" />
+    </resource>
+    <resource description="icon_component_alarmstyle" x="48" y="760" width="58" height="58" uuid="1559538e-f47a-444e-a5ab-2cce380e784e">
+        <path src="res\drawable-hdpi\icon_component_alarmstyle.png" description="百变闹钟" />
+        <path src="res\drawable-xhdpi\icon_component_alarmstyle.png" description="百变闹钟" />
+        <path src="res\drawable-xxhdpi\icon_component_alarmstyle.png" description="百变闹钟" />
+    </resource>
+    <resource description="component_list_item_bg_right_top_p.9" x="360" y="230" width="344" height="160" uuid="46d700de-33e3-46ed-962c-db68fe0b9e30">
+        <path src="res\drawable-hdpi\component_list_item_bg_right_top_n.9.png" description="右上背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_right_top_n.9.png" description="右上背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_right_top_n.9.png" description="右上背景" />
+        <path src="res\drawable-hdpi\component_list_item_bg_right_top_p.9.png" description="右上背景 二态" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_right_top_p.9.png" description="右上背景 二态" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_right_top_p.9.png" description="右上背景 二态" />
+    </resource>
+    <resource description="component_list_item_bg_right_bottom_p.9" x="356" y="708" width="344" height="158" uuid="8b5fa460-6220-4d94-9b2e-4bbb8a96979a">
+        <path src="res\drawable-hdpi\component_list_item_bg_right_bottom_n.9.png" description="右下背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_right_bottom_n.9.png" description="右下背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_right_bottom_n.9.png" description="右下背景" />
+        <path src="res\drawable-hdpi\component_list_item_bg_right_bottom_p.9.png" description="右下背景 二态" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_right_bottom_p.9.png" description="右下背景 二态" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_right_bottom_p.9.png" description="右下背景 二态" />
+    </resource>
+    <resource description="component_list_item_bg_left_top_p.9" x="20" y="228" width="338" height="162" uuid="51dec51c-6635-46ec-95b9-9ad2aa709af9">
+        <path src="res\drawable-hdpi\component_list_item_bg_left_top_n.9.png" description="左上背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_left_top_n.9.png" description="左上背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_left_top_n.9.png" description="左上背景" />
+        <path src="res\drawable-hdpi\component_list_item_bg_left_top_p.9.png" description="左上背景 二态" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_left_top_p.9.png" description="左上背景 二态" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_left_top_p.9.png" description="左上背景 二态" />
+    </resource>
+    <resource description="component_list_item_bg_left_bottom_p.9" x="24" y="712" width="338" height="160" uuid="6ee4d50e-7fd8-465e-9207-ed592e3d3c55">
+        <path src="res\drawable-hdpi\component_list_item_bg_left_bottom_n.9.png" description="左下背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_left_bottom_n.9.png" description="左下背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_left_bottom_n.9.png" description="左下背景" />
+        <path src="res\drawable-hdpi\component_list_item_bg_left_bottom_p.9.png" description="左下背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_left_bottom_p.9.png" description="左下背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_left_bottom_p.9.png" description="左下背景" />
+    </resource>
+    <resource description="component_list_item_bg_centre_p.9" x="24" y="388" width="334" height="158" uuid="3ab561ae-9fea-404b-b786-99013c1c0f6f">
+        <path src="res\drawable-hdpi\component_list_item_bg_centre_n.9.png" description="中间部分背景" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_centre_n.9.png" description="中间部分背景" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_centre_n.9.png" description="中间部分背景" />
+        <path src="res\drawable-hdpi\component_list_item_bg_centre_p.9.png" description="中间部分背景 二态" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_centre_p.9.png" description="中间部分背景 二态" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_centre_p.9.png" description="中间部分背景 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 双页 通知页" version="4.8.5" tag="通知栏">
+    <resource description="notification_list_bg.9.png" x="10" y="410" width="1060" height="1190" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="通知列表背景（与开关背景一致）" />
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="通知列表背景（与开关背景一致）" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="470" y="1680" width="133" height="133" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+    </resource>
+    <resource description="tab_notifications_bg_p" x="513" y="1830" width="25" height="90" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-xhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+    </resource>
+    <resource description="tab_toggles_bg_n" x="539" y="1830" width="25" height="90" uuid="4a038881-14a8-4d7e-a418-686d0722e40d">
+        <path src="res\drawable-xhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+    </resource>
+	<resource description="action_button_bg_n.9.png" x="857" y="1200" width="200" height="100" uuid="38d76277-ee03-4e9e-8561-5f136c16608b">
+        <path src="res\drawable-xhdpi\action_button_bg_n.9.png" description="通知按钮 常态" />
+        <path src="res\drawable-xxhdpi\action_button_bg_n.9.png" description="通知按钮 常态" />
+        <path src="res\drawable-xhdpi\action_button_bg_p.9.png" description="通知按钮 二态" />
+        <path src="res\drawable-xxhdpi\action_button_bg_p.9.png" description="通知按钮 二态" />
+    </resource>
+	<resource description="expanded_notification_enter_edit_mode.png" x="900" y="250" width="128" height="128" uuid="98f138df-ee11-4ba1-8963-657046f72dd1">
+        <path src="res\drawable-xhdpi\expanded_notification_enter_edit_mode.png" description="屏蔽通知" />
+		<path src="res\drawable-xxhdpi\expanded_notification_enter_edit_mode.png" description="屏蔽通知" />
+		<path src="res\drawable-xhdpi\expanded_notification_exit_edit_mode.png" description="屏蔽通知 确认" />
+		<path src="res\drawable-xxhdpi\expanded_notification_exit_edit_mode.png" description="屏蔽通知 确认" />
+		<path src="res\drawable-xhdpi\expanded_notification_manager_bg_n.9.png" description="屏蔽通知 背景" />
+		<path src="res\drawable-xxhdpi\expanded_notification_manager_bg_n.9.png" description="屏蔽通知 背景" />
+		<path src="res\drawable-xhdpi\expanded_notification_filter_unselected.png" description="屏蔽通知 列表未选" />
+		<path src="res\drawable-xxhdpi\expanded_notification_filter_unselected.png" description="屏蔽通知 列表未选" />
+		<path src="res\drawable-xhdpi\expanded_notification_filter_selected.png" description="屏蔽通知 列表选中" />
+		<path src="res\drawable-xxhdpi\expanded_notification_filter_selected.png" description="屏蔽通知 列表选中" />
+    </resource>
+    <resource description="notification_item_first_bg_n.9.png" x="65" y="600" width="970" height="172" uuid="4e3c2de1-2e8e-4034-96c1-91498a7f0e2d">
+        <path src="res\drawable-xhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条 常态" />
+        <path src="res\drawable-xhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 二态" />
+		<path src="res\drawable-xhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分 常态" />
+        <path src="res\drawable-xhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+		<path src="res\drawable-xhdpi\notification_item_last_bg_n.9.png" description="通知栏列表最后一条 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_last_bg_n.9.png" description="通知栏列表最后一条 常态" />
+        <path src="res\drawable-xhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 二态" />
+		<path src="res\drawable-xxhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+		<path src="res\drawable-xhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条 常态" />
+        <path src="res\drawable-xhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 二态" />
+    </resource>
+
+</screenshot>

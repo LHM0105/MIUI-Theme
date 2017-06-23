@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="live_wallpaper_thumbnail_text_color">#ffffffff</color>
+<color name="live_wallpaper_thumbnail_background">#cc666666</color>
+<dimen name="live_wallpaper_thumbnail_width">75.000000dp</dimen>
+<dimen name="live_wallpaper_thumbnail_height">75.000000dp</dimen>
+<dimen name="dialog_content_inset">0.000000dp</dimen>
+<dimen name="live_wallpaper_preview_button_width">160.000000dp</dimen>
+<dimen name="live_wallpaper_thumbnail_text_offset">12.000000dp</dimen>
+<dimen name="live_wallpaper_thumbnail_text_size">14.000000dp</dimen>
+<string name="wallpaper_cancel">取消</string>
+<string name="wallpaper_title_and_author">%1$s提供者：%2$s</string>
+<string name="set_live_wallpaper">设置壁纸</string>
+<string name="live_wallpaper_empty">无动态壁纸。</string>
+<string name="wallpaper_instructions">设置壁纸</string>
+<string name="configure_wallpaper">设置...</string>
+<string name="live_wallpaper_preview_title">动态壁纸预览</string>
+<string name="live_wallpaper_picker_label">动态壁纸</string>
+<string name="live_wallpaper_picker_title">选择动态壁纸</string>
+<string name="application_name">Picker</string>
+<string name="live_wallpaper_loading">正在加载动态壁纸…</string>
+</MIUI_Theme_Values>

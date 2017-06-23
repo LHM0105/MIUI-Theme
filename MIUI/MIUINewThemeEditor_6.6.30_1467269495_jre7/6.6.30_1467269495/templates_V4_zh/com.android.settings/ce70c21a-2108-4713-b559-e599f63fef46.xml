@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 全部设置" version="2.9.21" annotation="" tag="全部设置">
+    <resource description="mobile_network_settings.png" x="42" y="323" width="66" height="66" uuid="6204d7a5-dc65-4462-899b-0f049c0d0e9c">
+        <path src="res\drawable-hdpi\mobile_network_settings.png" description="" />
+        <path src="res\drawable-xhdpi\mobile_network_settings.png" description="" />
+    </resource>
+    <resource description="wireless_more.png" x="42" y="614" width="66" height="66" uuid="ad96e937-6d8d-4535-8588-9d13f7154646">
+        <path src="res\drawable-hdpi\wireless_more.png" description="" />
+        <path src="res\drawable-xhdpi\wireless_more.png" description="" />
+    </resource>
+    <resource description="ic_status_bar_settings.png" x="42" y="980" width="66" height="66" uuid="c81d8f2c-1c0e-4c13-a22a-1f3d99b29c04">
+        <path src="res\drawable-hdpi\ic_status_bar_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_status_bar_settings.png" description="" />
+    </resource>
+    <resource description="ic_settings_security.png" x="42" y="1082" width="66" height="66" uuid="d74cfa68-01bd-404a-a280-c347f85de51d">
+        <path src="res\drawable-hdpi\ic_settings_security.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_security.png" description="" />
+    </resource>
+    <resource description="ic_settings_location.png" x="42" y="1178" width="66" height="66" uuid="380262c0-6e47-4f56-99fe-5852e8e6e9b4">
+        <path src="res\drawable-hdpi\ic_settings_location.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_location.png" description="" />
+    </resource>
+    <resource description="ic_settings_bluetooth2" x="40" y="522" width="64" height="64" uuid="c2cabca5-1ac9-4326-b917-f578cfa3fe62">
+        <path src="res\drawable-hdpi\ic_settings_bluetooth2.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_bluetooth2.png" description="" />
+    </resource>
+    <resource description="airplane_mode" x="44" y="226" width="64" height="64" uuid="6d4bb5e6-9357-42dc-bc2b-128b76d796b0">
+        <path src="res\drawable-hdpi\airplane_mode.png" description="" />
+        <path src="res\drawable-xhdpi\airplane_mode.png" description="" />
+    </resource>
+    <resource description="ic_settings_wireless" x="42" y="426" width="64" height="64" uuid="9155c659-75c4-433b-a47d-c59f625c3fc9">
+        <path src="res\drawable-hdpi\ic_settings_wireless.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_wireless.png" description="" />
+    </resource>
+    <resource description="ic_settings_sound" x="41" y="882" width="64" height="64" uuid="c3b6cbc1-5b13-4825-9981-c0bfd8f8313f">
+        <path src="res\drawable-hdpi\ic_settings_sound.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_sound.png" description="" />
+    </resource>
+    <resource description="ic_settings_display" x="42" y="784" width="64" height="64" uuid="e6086d21-693b-4d8c-a10e-97cd22131cdc">
+        <path src="res\drawable-hdpi\ic_settings_display.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_display.png" description="" />
+    </resource>
+</screenshot>

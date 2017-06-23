@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="菜单" version="3.7.8" annotation="" tag="第三方 弹窗">
+    <resource description="menu_background_fill_parent_width.9" x="0" y="1005" width="720" height="275" uuid="fd900402-d4a6-450f-83e2-6ad360dbd610">
+        <path src="res\drawable-xhdpi\menu_background_fill_parent_width.9.png" description="下弹窗" />
+    </resource>
+</screenshot>

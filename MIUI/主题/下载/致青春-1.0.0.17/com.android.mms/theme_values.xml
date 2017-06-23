@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="text_color_message_in">#e5000001</color>
+<color name="text_color_mi_recipient">#ff000000</color>
+<color name="text_color_message_out">#fffffffe</color>
+<color name="text_color_highlight_inverse">#ffed5136</color>
+<color name="list_secondary_text_color_normal_light">#7f000001</color>
+<color name="conversation_date_color">#4c000001</color>
+<integer name="window_translucent_status" package="miui">#00000002</integer>
+<color name="text_color_attachment_type">#ff498657</color>
+<color name="fab_bg_color">#ff4b92a6</color>
+<color name="text_color_highlight">#ffed5136</color>
+</MIUI_Theme_Values>

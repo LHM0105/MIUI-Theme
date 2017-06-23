@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.1 Theme details" version="3.10.22" annotation="新版下载按钮 已改为framework-miui-res\res\drawable-xhdpi\v5_btn_bg_main_action_disabled_light.9.png &amp;nbsp不可按&lt;br/&gt;&#xA;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp framework-miui-res\res\drawable-xhdpi\v5_btn_bg_main_action_normal_light.9.png &amp;nbsp&amp;nbsp常态&lt;br/&gt;&#xA;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp framework-miui-res\res\drawable-xhdpi\v5_btn_bg_main_action_pressed_light.9.png&amp;nbsp&amp;nbsp二态&lt;br/&gt;&lt;br/&gt;&#xA;&lt;strong&gt;为兼容低版本及稳定版用户，建议新旧版本主题风格全做。&lt;/strong&gt;" tag="New Theme">
+    <resource description="resource_operation_view_bg.9" x="0" y="1136" width="718" height="144" uuid="0f8683fe-46d7-434d-8b39-6146958ad78b">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+    </resource>
+    <resource description="resource_comment_n" x="618" y="1186" width="48" height="50" uuid="08a983c6-5969-4d69-b2fd-223ace36da3b">
+        <path src="res\drawable-hdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-xhdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-xxhdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-hdpi\resource_comment_p.png" description="评论 二态" />
+        <path src="res\drawable-xhdpi\resource_comment_p.png" description="评论 二态" />
+        <path src="res\drawable-xxhdpi\resource_comment_p.png" description="评论 二态" />
+    </resource>
+    <resource description="resource_share_n" x="52" y="1184" width="50" height="52" uuid="ead78bad-1c98-406f-ae48-99f350bdf417">
+        <path src="res\drawable-hdpi\resource_share_n.png" description="分享 常态" />
+        <path src="res\drawable-xhdpi\resource_share_n.png" description="分享 常态" />
+        <path src="res\drawable-xxhdpi\resource_share_n.png" description="分享 常态" />
+        <path src="res\drawable-hdpi\resource_share_p.png" description="分享 二态" />
+        <path src="res\drawable-xhdpi\resource_share_p.png" description="分享 二态" />
+        <path src="res\drawable-xxhdpi\resource_share_p.png" description="分享 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Popup menu list" version="3.3.1" annotation="" tag="Popup window">
+    <resource description="v5_menu_full_bg_light.9" x="0" y="604" width="716" height="676" uuid="427965d3-39f6-4696-9bbd-25b80fa7212b">
+        <path src="res\drawable-hdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+        <path src="res\drawable-land-hdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+        <path src="res\drawable-land-xhdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+        <path src="res\drawable-land-xxhdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+        <path src="res\drawable-xhdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+        <path src="res\drawable-xxhdpi\v5_menu_full_bg_light.9.png" description="类表背景" />
+    </resource>
+    <resource description="v5_dialog_list_item_first_bg_pressed_light.9" x="18" y="638" width="672" height="518" uuid="ea89c12d-fbf9-4518-81e7-8c6554515743">
+        <path src="res\drawable-hdpi\v5_dialog_list_item_bg_normal_light.9.png" description="单独一条列" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_bg_normal_light.9.png" description="单独一条列" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_bg_normal_light.9.png" description="单独一条列" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_bg_pressed_light.9.png" description="单独一条列 二态" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_bg_pressed_light.9.png" description="单独一条列 二态" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_bg_pressed_light.9.png" description="单独一条列 二态" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_first_bg_normal_light.9.png" description="列表第一条" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_first_bg_normal_light.9.png" description="列表第一条" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_first_bg_normal_light.9.png" description="列表第一条" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_first_bg_pressed_light.9.png" description="列表第一条 二态" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_first_bg_pressed_light.9.png" description="列表第一条 二态" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_first_bg_pressed_light.9.png" description="列表第一条 二态" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_middle_bg_normal_light.9.png" description="中间列表" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_middle_bg_normal_light.9.png" description="中间列表" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_middle_bg_normal_light.9.png" description="中间列表" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_middle_bg_pressed_light.9.png" description="中间列表 二态" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_middle_bg_pressed_light.9.png" description="中间列表 二态" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_middle_bg_pressed_light.9.png" description="中间列表 二态" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_last_bg_normal_light.9.png" description="最后一条列表" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_last_bg_normal_light.9.png" description="最后一条列表" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_last_bg_normal_light.9.png" description="最后一条列表" />
+        <path src="res\drawable-hdpi\v5_dialog_list_item_last_bg_pressed_light.9.png" description="最后一条列表 二态" />
+        <path src="res\drawable-xhdpi\v5_dialog_list_item_last_bg_pressed_light.9.png" description="最后一条列表 二态" />
+        <path src="res\drawable-xxhdpi\v5_dialog_list_item_last_bg_pressed_light.9.png" description="最后一条列表 二态" />
+    </resource>
+</screenshot>

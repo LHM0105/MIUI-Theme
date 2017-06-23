@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="弹窗2" version="2.12.27" annotation="" tag="系统弹窗">
+    <resource description="menu_hardkey_panel_holo_light.9" x="0" y="666" width="720" height="614" uuid="aa3a5aa4-6ad3-4b12-be9e-6489905b9a6e">
+        <path src="res\drawable-hdpi\menu_hardkey_panel_holo_light.9.png" description="" />
+        <path src="res\drawable-land-hdpi\menu_hardkey_panel_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\menu_hardkey_panel_holo_light.9.png" description="" />
+    </resource>
+    <resource description="list_divider_holo_light.9" x="0" y="784" width="720" height="12" uuid="0be1826d-d29f-4d4d-9def-63f683f9ef61">
+        <path src="res\drawable-hdpi\list_divider_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_divider_holo_light.9.png" description="" />
+    </resource>
+</screenshot>

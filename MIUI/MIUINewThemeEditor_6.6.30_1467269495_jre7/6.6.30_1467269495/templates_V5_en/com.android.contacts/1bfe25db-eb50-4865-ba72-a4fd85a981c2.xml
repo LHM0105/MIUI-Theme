@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.2 Add contact window" version="3.6.26" annotation="" tag="Contacts">
+    <resource description="pop_up_window_list_bg.9" x="0" y="154" width="718" height="250" uuid="c2fb615e-13ac-41fc-88d7-ec30f5c9bfec">
+        <path src="res\drawable-hdpi\pop_up_window_list_bg.9.png" description="上弹窗" />
+        <path src="res\drawable-xhdpi\pop_up_window_list_bg.9.png" description="上弹窗" />
+        <path src="res\drawable-xxhdpi\pop_up_window_list_bg.9.png" description="上弹窗" />
+    </resource>
+    <resource description="editor_title_bg_n" x="0" y="50" width="720" height="92" uuid="774042ea-41f3-43a7-935c-d319d8424748">
+        <path src="res\drawable-hdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-xhdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-xxhdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-hdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+        <path src="res\drawable-xhdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+        <path src="res\drawable-xxhdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+    </resource>
+    <resource description="dropdown_indicator_up_p" x="514" y="72" width="46" height="44" uuid="d17ea0bd-3ed7-441a-ac09-103adccd865c">
+        <path src="res\drawable-hdpi\dropdown_indicator_down_n.png" description="展开" />
+        <path src="res\drawable-xhdpi\dropdown_indicator_down_n.png" description="展开" />
+        <path src="res\drawable-xxhdpi\dropdown_indicator_down_n.png" description="展开" />
+        <path src="res\drawable-hdpi\dropdown_indicator_down_p.png" description="展开 二态" />
+        <path src="res\drawable-xhdpi\dropdown_indicator_down_p.png" description="展开 二态" />
+        <path src="res\drawable-xxhdpi\dropdown_indicator_down_p.png" description="展开 二态" />
+        <path src="res\drawable-hdpi\dropdown_indicator_up_n.png" description="收起" />
+        <path src="res\drawable-xhdpi\dropdown_indicator_up_n.png" description="收起" />
+        <path src="res\drawable-xxhdpi\dropdown_indicator_up_n.png" description="收起" />
+        <path src="res\drawable-hdpi\dropdown_indicator_up_p.png" description="收起 二态" />
+        <path src="res\drawable-xhdpi\dropdown_indicator_up_p.png" description="收起 二态" />
+        <path src="res\drawable-xxhdpi\dropdown_indicator_up_p.png" description="收起 二态" />
+    </resource>
+</screenshot>

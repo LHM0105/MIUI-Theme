@@ -1,0 +1,2284 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<string name="download_title_full_download">准备下载完整包</string>
+<string name="download_title">正在下载%s</string>
+<string name="continue_update_positive_btn">停止下载</string>
+<string name="continue_update_negative_btn">继续下载</string>
+<string name="cancel_download">取消下载？</string>
+<string name="update_success">更新成功</string>
+<string name="install_failed">更新失败</string>
+<string name="update_success_reboot_immediately">更新成功，请立即重启！</string>
+<string name="download_success_reboot_immediately">请立即重启，完成更新！</string>
+<string name="check_update_policy">检查设置</string>
+<string name="install_file_explorer">请安装文件管理器</string>
+<string name="menu_title_current_version_log">当前版本更新日志</string>
+<string name="menu_title_recovery">重启到恢复模式（Recovery）</string>
+<string name="download_title_first">正在获取更新数据</string>
+<string name="button_text_later_reboot">稍后重启</string>
+<string name="button_text_reboot_hm">重启立即更新</string>
+<string name="button_text_reboot">立即重启</string>
+<string name="install_local">local</string>
+<string name="reboot">Reboot</string>
+<string name="set_auto">automatically</string>
+<string name="uncrypt_title">正在解密%s</string>
+<string name="apply_title">正在更新%s</string>
+<string name="timer_title">%d秒后将自动重启</string>
+<string name="progress_title_checking">正在检查新版本</string>
+<string name="menu_title_download_current_rom">下载最新版本完整包</string>
+<string name="menu_title_pick_rom_file">手动选择安装包</string>
+<string name="miui_summary_now_version">请联网后检查更新</string>
+<string name="miui_summary_updating"></string>
+<string name="button_text_check">检查更新</string>
+<string name="miui_summary_no_new_version">已经是最新版</string>
+<string name="button_text_update">立即更新</string>
+<string name="download_full">full</string>
+<string name="install">Install</string>
+<string name="download_cancel">Cancel</string>
+<string name="dialog_no">否</string>
+<string name="dialog_ok">确定</string>
+<string name="file_not_found_error_message">文件不存在或无权访问，请重新下载</string>
+<string name="dialog_yes">是</string>
+<string name="apply_now_button_text">开始更新</string>
+<string name="downloading_description">更新下载中</string>
+<string name="apply_upload_info_message">点击“立即更新”后，手机会自动重启来应用更新</string>
+<string name="miui_summary_has_new_version"></string>
+<string name="miui_summary_slogan"></string>
+<string name="set_only_wifi">only</string>
+<string name="test">Test</string>
+<string name="get_auto">WLAN</string>
+<string name="download_diff">diff</string>
+<string name="check_new_version">Check</string>
+<string name="get_current">current</string>
+<string name="app_name">系统更新</string>
+<string name="sina_share_fail_content_repeat">内容重复,发送失败</string>
+<string name="sina_token_invalid_warning">微博帐号无效，请重新绑定</string>
+<string name="notification_load_now">立即登录</string>
+<string name="sina_share_pendding">正在发送...</string>
+<string name="sina_share_success">发送成功!</string>
+<string name="sina_share_fail">发送失败!</string>
+<string name="sina_token_expired_warning">微博帐号已过期，请重新绑定</string>
+<string name="sogou_uninstall_negative_button">升级搜狗输入法</string>
+<string name="no_proper_updates">没有找到适用于您当前版本的更新</string>
+<string name="menu_title_check_update">仅在WLAN下检查更新</string>
+<string name="not_open">暂不开启</string>
+<string name="check_local_package_update_title">是否立即更新</string>
+<string name="title_toast_auto">智能自动升级已开启</string>
+<string name="check_local_package_update_msg">您当前选择的更新包的版本为%s,升级过程中将要自动重启您的手机。</string>
+<string name="check_local_package_update_btn">重启并更新</string>
+<string name="check_local_package_wipe_title">擦除数据警告</string>
+<string name="check_local_package_wipe_btn">同意擦除</string>
+<string name="check_local_package_wipe_msg">您当前选择更新包的版本为%s,该版本低于当前手机系统版本，所以在更新的同时需要擦除手机中的数据，请自行备份手机中的数据，并慎重选择。</string>
+<string name="confirm_local_package_wipe_title">擦除并更新？</string>
+<string name="confirm_local_package_wipe_msg">这是最后一次确认操作，本次更新将会擦除您手机中的所有数据，请您慎重选择。</string>
+<string name="update_feedback_need_update">当前你使用的不是最新开发版\n升级至最新开发版方可参加投票</string>
+<string name="update_feedback_end_sum">每周的开启时间为周一的0:00到23:59，请及时参与</string>
+<string name="reboot_to_new_system">重启进入新系统</string>
+<string name="apply_later_button_text">稍后更新</string>
+<string name="update_happy">开心</string>
+<string name="update_feedback_need_network">请联网后再参与四格报告反馈</string>
+<string name="update_feedback_need_account">请登录后再参与四格报告反馈</string>
+<string name="update_feedback_expired">抱歉，你错过了体验四格反馈！\n每周一开放，不要再错过哦～</string>
+<string name="dialog_reboot_message">手机即将更新，5-20分钟后即可使用最新的MIUI，过程中请勿断电或手动重启。</string>
+<string name="dialog_reboot_yes">确定</string>
+<string name="confirm_local_package_wipe_btn">擦除并更新</string>
+<string name="dialog_reboot_title">系统更新</string>
+<string name="update_feel">我的刷机心情</string>
+<string name="best_update">最有爱更新</string>
+<string name="update_general">一般</string>
+<string name="update_sad">痛苦</string>
+<string name="now">即</string>
+<string name="notification_new_version">检查到新版本%s</string>
+<string name="notification_reboot_des">%s，重启后生效</string>
+<string name="auto_check_clause_msg">如果您不接受新的用户协议及隐私条款，将不能更新至最新版，同时“智能更新”功能也将被关闭。</string>
+<string name="update_comment_title">我有话说</string>
+<string name="active_xiaomi_account">激活</string>
+<string name="next">下一步</string>
+<string name="update_comment_hint">（非必填）</string>
+<string name="get_update_error">获取更新信息失败</string>
+<string name="active_xiaomi_account_msg">请到MIUI论坛激活小米帐号：\n</string>
+<string name="active_xiaomi_account_title">激活小米帐号</string>
+<string name="update_feedback_end">本期四格体验报告已经结束</string>
+<string name="update_feedback">四格体验报告</string>
+<string name="expect">更多期待</string>
+<string name="my_update_feel">我的刷机心情</string>
+<string name="my_best_update">我选择的最有爱更新</string>
+<string name="my_worst_update">我选择的最不给力更新</string>
+<string name="worst_update">最不给力更新</string>
+<string name="previous">上一步</string>
+<string name="finish">完成</string>
+<string name="comment_publish">发布</string>
+<string name="submit_success">发布成功</string>
+<string name="submit_progress">正在发送...</string>
+<string name="fourgrid_no_notificaiont">通知栏不再提示</string>
+<string name="fourgrid_notificaiont">在通知栏提示</string>
+<string name="fourgrid_hint_text">感谢您使用MIUI开发版，请告诉我们您使用新版MIUI后的感受，帮助MIUI做得更好。</string>
+<string name="comment_upload_not_logined">您还没登录呢</string>
+<string name="comment_invalid">您还没有评分，请触摸星星评分</string>
+<string name="comment_upload_success">成功提交！</string>
+<string name="my_expect_update">我选择的期待功能</string>
+<string name="comment_upload_failed">评论发送失败了</string>
+<string name="comment_upload_hint">还可以输入%1$d字</string>
+<string name="edit_text_default">请输入评论信息</string>
+<string name="comment_sending">正在发送评论...</string>
+<string name="edit_comment_title">撰写评论</string>
+<string name="edit_comment">撰写评论</string>
+<string name="submit_fail">发布失败</string>
+<string name="submit">发布</string>
+<string name="install_qq">安装腾讯微博</string>
+<string name="share_qq">发布到腾讯微博</string>
+<string name="share_sina">发布到新浪微博</string>
+<string name="view_upgrade_tutorial">查看教程</string>
+<string name="upgrade_kernel_msg">当前内核版本与MIUI版本不匹配，需要手动更新内核。更新教程请参考:\n</string>
+<string name="upgrade_kernel">内核需要更新</string>
+<string name="sogou_uninstall_msg">您当前使用的搜狗输入法（小米版）由于开发者长期没有维护，导致与MIUI7不兼容，您可以使用默认输入法或者升级到最新版的搜狗输入法。</string>
+<string name="update_downfull_no_info_title">无法下载完整包</string>
+<string name="sogou_uninstall_title">输入法兼容性提示</string>
+<string name="auto_update">智能更新</string>
+<string name="welcom_button">开始使用</string>
+<string name="set_auto_update_title">开启智能更新</string>
+<string name="welcom_message">将带您体验全新感受，轻装再出发</string>
+<string name="update_downfull_no_info_sum">当前无法获得完整包信息，请点击检查更新按钮</string>
+<string name="sogou_uninstall_positive_button">使用默认输入法</string>
+<string name="welcom_title">欢迎使用MIUIV7</string>
+<string name="open_now">立即开启</string>
+<string name="set_auto_msg">当有新版本时您无需手动更新，智能更新会在无线网络连接的情况下，选择适当的时候对系统进行自动更新，再也无需漫长的更新等待了。</string>
+<string name="pm_root_notification_download_title">正在下载</string>
+<string name="pm_root_fail_msg">ROOT失败，请重新尝试</string>
+<string name="pm_root_acquired_notification_title">正在获取ROOT权限</string>
+<string name="auto_check_clause_button">我再看看</string>
+<string name="pm_root_acquired_rooting">正在获取ROOT权限%s</string>
+<string name="pm_root_fail_title">获取ROOT失败</string>
+<string name="pm_root_success_title">获取ROOT已完成</string>
+<string name="auto_button_examine_immediately">立即查看</string>
+<string name="auto_dialog_msg_check_again">如果您不处理隐私条款及用户协议，智能更新将被关闭，将无法为您升级系统，强烈建议您“立即查看”并同意协议变更。</string>
+<string name="auto_dialog_title_check_again">真的要取消吗？</string>
+<string name="auto_agree_clause">新的协议已经生效</string>
+<string name="auto_button_sure_cancel">确认取消</string>
+<string name="root_dangerous_msg">ROOT是手机中的超级管理员权限，不建议开发者或用户开启此项功能，如果您将该权限授予其他应用，可能会造成不可知的数据丢失，无法启动手机等风险。请您在开启前确认您具备处理这些问题的能力。成功获取ROOT权限后，将自动重启手机。</string>
+<string name="updater_service_busy_title">系统更新暂时无法使用</string>
+<string name="updater_service_busy_msg">在获取ROOT期间，为了保证您能够正确获取ROOT所需要的资源文件，禁止使用系统更新服务。</string>
+<string name="pm_root_checking">正在确认当前系统信息</string>
+<string name="set_network_root_msg">当前没有网络连接无法ROOT，请先连接网络。</string>
+<string name="particular_build">特别版</string>
+<string name="pm_root_success_msg">请重启完整最后一步</string>
+<string name="about_device">phone</string>
+<string name="root_acquired">开启ROOT</string>
+<string name="stable_build">稳定版</string>
+<string name="root_agree_check_box_title">我愿意承担开启ROOT后的风险</string>
+<string name="unstable_build">不稳定版</string>
+<string name="share_update">分享系统更新信息</string>
+<string name="share">立即分享</string>
+<string name="pm_root_fail_button_retry">重试</string>
+<string name="emegency_build"></string>
+<string name="pm_root_fail_service_busy">您的手机正在更新系统，请完成更新后再尝试ROOT。</string>
+<string name="loading">正在请求...</string>
+<string name="share_update_content_unsign">我已经把MIUI更新到%1$s啦！详细更新日志可以查看%2$s</string>
+<string name="share_update_content_sign">我已经把MIUI更新到%1$s啦！我的升级签到排名是%2$s。详细更新日志可以查看%3$s</string>
+<string name="vote_error_nonetwork">当前网络不可用\n请稍后再试</string>
+<string name="vote_not_recommend">不推荐</string>
+<string name="vote_recommend">推荐</string>
+<string name="vote_submit">立即投票</string>
+<string name="vote_beta">内测投票</string>
+<string name="updater_wait_for_unzip">正在解压升级包，请稍候</string>
+<string name="weekly_build">开发版</string>
+<string name="monthly_build">推荐版</string>
+<string name="experimental_build">体验版</string>
+<string name="daily_build">内测版</string>
+<string name="top_secret_build">绝密版</string>
+<string name="internal_build">内部版</string>
+<string name="pm_root_acquired_button">开启ROOT</string>
+<string name="vote_error5">未知原因\n无法参与投票</string>
+<string name="miui_BBS"></string>
+<string name="vote_error3">登录失败\n请重新登录帐号</string>
+<string name="vote_error4">您已推荐过此版本</string>
+<string name="upgrade_close">关闭</string>
+<string name="vote_join">已经参与投票</string>
+<string name="update_success_title">恭喜您，升级成功啦!</string>
+<string name="vote_experience">已获论坛经验</string>
+<string name="update_success_body">%s</string>
+<string name="vote_error2">投票失败\n请更新后参与投票</string>
+<string name="my_rank">签到排名:</string>
+<string name="vote_hint">有效投票立即获取20经验哦</string>
+<string name="no_log">暂无更新日志</string>
+<string name="notification_fail_msg">建议您使用完整包进行更新</string>
+<string name="vote_error1">非常抱歉\n您尚不具备内测资格</string>
+<string name="log_share">分享</string>
+<string name="notification_restart">重新更新</string>
+<string name="autosetmode">自动检查设置</string>
+<string name="on_checking">正在检查更新</string>
+<string name="unkown_error_title">未知错误</string>
+<string name="check_local_package_validate_error_button">知道了</string>
+<string name="set_installfail_full_msg">寻求帮助。</string>
+<string name="set_installfail_title_full">升级失败</string>
+<string name="check_local_package_validate_error_msg">更新包验证失败，无法正常更新</string>
+<string name="set_installfail_msg">增量升级失败，需要下载完整包，但是由于您当前处在数据网络环境下，完整包尺寸较大，可能产生不必要的流量费用，建议您有WIFI网络时再进行下载。</string>
+<string name="repeat">重试</string>
+<string name="auto_button_examine">查看</string>
+<string name="auto_dialog_msg">检查到新的系统版本中的隐私条款及用户协议变更，“取消”将关闭智能更新，点击“查看”新的隐私条款及用户协议。</string>
+<string name="important_suggestion">隐私条款及用户协议变更</string>
+<string name="check_update_when_wifi_available_sum">将不会在数据网络下自动检查更新</string>
+<string name="user_intertup_download_msg">更新包下载被暂停，建议手动开启更新包下载</string>
+<string name="user_intertup_download_title">更新包下载暂停</string>
+<string name="validate_pkg_failed_msg">下载的更新包与官方数据存在差异，建议您重新下载。</string>
+<string name="validate_pkg_failed_title">更新包验证失败</string>
+<string name="recovery_failed_notification_msg">无法进入Recovery模式</string>
+<string name="recovery_failed_button">知道了</string>
+<string name="recovery_power_not_enough_msg_plugged">您当前的手机电量过低，需要充电至30%才能正常更新</string>
+<string name="recovery_failed_msg">由于系统缓存空间不足无法完成系统更新，请使用电脑下载小米助手进行系统更新，下载网站：\nhttp://zhushou.xiaomi.com/</string>
+<string name="user_begin">手动开启下载</string>
+<string name="recovery_failed_title">请使用小米助手更新系统</string>
+<string name="recovery_power_not_enough_title">电量不足</string>
+<string name="recovery_power_not_enough_msg">您当前的手机电量低于30%，需要连接充电器后才能进行系统更新</string>
+<string name="new_updates_found_notification_title">available</string>
+<string name="notification_load_body_alpha">MIUI体验版必须登录小米帐号，否则无法获取更新</string>
+<string name="network_error">occurred</string>
+<string name="notification_load_title_alpha">需要登录小米帐号</string>
+<string name="updater_nolog">当前暂无更新日志</string>
+<string name="notification_load_body_dev">MIUI开发版会根据帐号的不同权限进行更新</string>
+<string name="notification_load_title_dev">建议您登录小米帐号</string>
+<string name="auto_update_sum">通过智能算法选择适当时候下载并应用更新</string>
+<string name="updater_nonetwork_clause">请联网后获取\n当前版本协议</string>
+<string name="updater_nonetwork">请联网后获取\n当前版本日志</string>
+<string name="check_update_when_wifi_available">仅在WLAN下自动检查更新</string>
+<string name="apply_update_dialog_cancel_button">取消</string>
+<string name="cancel_download_buton_text">取消</string>
+<string name="update_monthly_build_only">仅更新到推荐版</string>
+<string name="apply_update_dialog_update_button">更新</string>
+<string name="later">后</string>
+<string name="download_failed">下载失败</string>
+<string name="download_current_rom">准备进行完整包更新</string>
+<string name="notification_share">立即分享</string>
+<string name="notification_reboot_seccess_des">快把好消息告诉小伙伴们吧</string>
+<string name="notification_auto_reboot_seccess_title">MIUI智能更新成功</string>
+<string name="notification_reboot_seccess_title">恭喜你！更新成功啦！</string>
+<string name="set_network_title">请设置网络</string>
+<string name="notification_updating">系统更新中</string>
+<string name="notification_uncrypting">更新解密中</string>
+<string name="notification_downloading">更新下载中</string>
+<string name="boot_recovery">重启到Recovery</string>
+<string name="notification_update_new_version">发现新版本，请更新！</string>
+<string name="notification_update_now">立即更新</string>
+<string name="notification_reboot_title">更新完成，请重启！</string>
+<string name="notification_reboot_title_hm">系统更新已下载完成</string>
+<string name="notification_reboot_summary_hm">点击“立即重启”完成更新</string>
+<string name="notification_reboot_btn">立即重启</string>
+<string name="set_network_msg">当前没有网络连接无法更新，请先连接网络。</string>
+<string name="set_installfail_title">是否继续下载完整包？</string>
+<string name="space_not_enough_title">系统空间不足</string>
+<string name="download_again">重新下载</string>
+<string name="clean_up_button">立即清理</string>
+<string name="space_not_enough_msg">由于系统空间不足，无法下载更新包，建议您清理垃圾以释放更多存储空间。</string>
+<string name="no_wifi_msg">您当前正在使用数据网络，由于更新包较大，如果继续下载可能会产生额外费用，建议您暂停更新。</string>
+<string name="no_wifi_title">数据网络切换警告</string>
+<string name="pause">暂停</string>
+<string name="go_on_download">继续下载</string>
+<string name="download_error">下载过程中存在异常，建议您重新下载</string>
+<color name="share_sign_in_text">#ffff7e00</color>
+<color name="black">#ff000000</color>
+<color name="text_orange">#fff3590a</color>
+<color name="action_button_color_n">#ffffffff</color>
+<color name="lightgrey">#ff9b9c9e</color>
+<color name="transparent_40_black">#66000000</color>
+<color name="transparent_80_black">#cc000000</color>
+<color name="new_version_title">#ffff7e00</color>
+<color name="action_button_color_p">#ffffffff</color>
+<color name="action_button_color_disable">#ffbdbdbd</color>
+<color name="deepgrey">#ff4f5961</color>
+<color name="green">#ff377924</color>
+<dimen name="notification_subtext_size">12.000000dp</dimen>
+<dimen name="notification_padding_left">11.000000dp</dimen>
+<dimen name="miui_title_text_max_size">45.000000sp</dimen>
+<dimen name="miui_summary_text_max_size">14.000000sp</dimen>
+<dimen name="miui_title_image_max_top">60.000000dp</dimen>
+<dimen name="miui_title_image_max_size">40.000000dp</dimen>
+<dimen name="top_container_min_height">167.000000dp</dimen>
+<dimen name="top_container_max_height">312.000000dp</dimen>
+<dimen name="miui_summary_max_top">13.299988dp</dimen>
+<dimen name="control_container_max_height">300.000000dp</dimen>
+<dimen name="editor_title_button_margin">7.000000dp</dimen>
+<dimen name="version_title_width">180.000000dp</dimen>
+<dimen name="version_show_width">270.000000dp</dimen>
+<dimen name="update_background_move">118.000000dp</dimen>
+<dimen name="move_delta_distance">66.599976dp</dimen>
+<string-array name="animation_data">
+<item>W,4,0,781</item>
+<item>W,4,120,781</item>
+<item>W,4,360,781</item>
+<item>W,4,2400,781</item>
+<item>W,4,3000,781</item>
+<item>W,4,5000,781</item>
+<item>W,4,6000,781</item>
+<item>W,4,8360,781</item>
+<item>W,4,9000,782</item>
+<item>W,4,9160,782</item>
+<item>W,4,9640,782</item>
+<item>W,4,9800,782</item>
+<item>W,4,10360,781</item>
+<item>W,4,10880,781</item>
+<item>W,4,11640,780</item>
+<item>W,4,11800,780</item>
+<item>W,4,15120,780</item>
+<item>W,4,16200,1030</item>
+<item>W,4,17320,1030</item>
+<item>W,4,18240,0</item>
+<item>H,4,0,795</item>
+<item>H,4,120,795</item>
+<item>H,4,360,795</item>
+<item>H,4,2400,796</item>
+<item>H,4,3000,795</item>
+<item>H,4,5000,795</item>
+<item>H,4,6000,795</item>
+<item>H,4,8360,795</item>
+<item>H,4,9000,803</item>
+<item>H,4,9160,803</item>
+<item>H,4,9640,803</item>
+<item>H,4,9800,804</item>
+<item>H,4,10360,771</item>
+<item>H,4,10880,813</item>
+<item>H,4,11640,792</item>
+<item>H,4,11800,793</item>
+<item>H,4,12000,803</item>
+<item>H,4,12160,803</item>
+<item>H,4,12640,803</item>
+<item>H,4,12800,804</item>
+<item>H,4,13360,771</item>
+<item>H,4,13880,813</item>
+<item>H,4,14640,792</item>
+<item>H,4,14800,793</item>
+<item>H,4,15120,792</item>
+<item>H,4,16200,1046</item>
+<item>H,4,17320,1046</item>
+<item>H,4,18240,0</item>
+<item>X,4,0,0</item>
+<item>X,4,120,0</item>
+<item>X,4,360,32</item>
+<item>X,4,2400,32</item>
+<item>X,4,3000,32</item>
+<item>X,4,5000,32</item>
+<item>X,4,6000,32</item>
+<item>X,4,8360,32</item>
+<item>X,4,9000,32.5</item>
+<item>X,4,9160,32.5</item>
+<item>X,4,9640,0.5</item>
+<item>X,4,9800,-3.5</item>
+<item>X,4,10360,0</item>
+<item>X,4,10880,1</item>
+<item>X,4,11640,-0.5</item>
+<item>X,4,11800,-0.5</item>
+<item>X,4,12000,32.5</item>
+<item>X,4,12160,32.5</item>
+<item>X,4,12640,0.5</item>
+<item>X,4,12800,-3.5</item>
+<item>X,4,13360,0</item>
+<item>X,4,13880,1</item>
+<item>X,4,14640,-0.5</item>
+<item>X,4,14800,-0.5</item>
+<item>X,4,15120,-0.5</item>
+<item>X,4,16200,137.5</item>
+<item>X,4,17320,137.5</item>
+<item>X,4,18240,-282.5</item>
+<item>Y,4,0,0</item>
+<item>Y,4,120,0</item>
+<item>Y,4,360,-2168</item>
+<item>Y,4,2400,-2168.5</item>
+<item>Y,4,3000,-2168</item>
+<item>Y,4,5000,-2168</item>
+<item>Y,4,6000,-2168</item>
+<item>Y,4,8360,-2168</item>
+<item>Y,4,9000,-2150</item>
+<item>Y,4,9160,-2150</item>
+<item>Y,4,9640,18</item>
+<item>Y,4,9800,297.5</item>
+<item>Y,4,10360,-97</item>
+<item>Y,4,10880,31</item>
+<item>Y,4,11640,-1.5</item>
+<item>Y,4,11800,-1</item>
+<item>Y,4,12000,-2150</item>
+<item>Y,4,12160,-2150</item>
+<item>Y,4,12640,18</item>
+<item>Y,4,12800,297.5</item>
+<item>Y,4,13360,-97</item>
+<item>Y,4,13880,31</item>
+<item>Y,4,14640,-1.5</item>
+<item>Y,4,14800,-1</item>
+<item>Y,4,15120,-1.5</item>
+<item>Y,4,16200,-223.5</item>
+<item>Y,4,17320,-223.5</item>
+<item>Y,4,18240,-717.5</item>
+<item>W,2,0,1313</item>
+<item>W,2,280,1313</item>
+<item>W,2,520,1234</item>
+<item>W,2,680,1181</item>
+<item>W,2,880,1181</item>
+<item>W,2,1360,1182</item>
+<item>W,2,1880,1182</item>
+<item>W,2,2160,1181</item>
+<item>W,2,2400,1181</item>
+<item>W,2,3000,1181</item>
+<item>W,2,3080,1181</item>
+<item>W,2,3440,1129</item>
+<item>W,2,3640,1130</item>
+<item>W,2,4120,1129</item>
+<item>W,2,5000,1129</item>
+<item>W,2,6000,1129</item>
+<item>W,2,6160,1129</item>
+<item>W,2,6400,1181</item>
+<item>W,2,6560,1181</item>
+<item>W,2,7080,1182</item>
+<item>W,2,7640,1181</item>
+<item>W,2,8360,1181</item>
+<item>W,2,9000,1181</item>
+<item>W,2,9240,1181</item>
+<item>W,2,9480,1182</item>
+<item>W,2,9680,1346</item>
+<item>W,2,9760,1412</item>
+<item>W,2,9800,1445</item>
+<item>W,2,10240,1373</item>
+<item>W,2,10600,1314</item>
+<item>W,2,10960,1313</item>
+<item>W,2,11800,1313</item>
+<item>W,2,12000,1129</item>
+<item>W,2,12240,1129</item>
+<item>W,2,12480,1129</item>
+<item>W,2,12680,1326</item>
+<item>W,2,12760,1406</item>
+<item>W,2,12800,1445</item>
+<item>W,2,13240,1373</item>
+<item>W,2,13600,1314</item>
+<item>W,2,13960,1313</item>
+<item>W,2,14800,1313</item>
+<item>W,2,17360,1313</item>
+<item>W,2,18120,0</item>
+<item>H,2,0,1315</item>
+<item>H,2,280,1315</item>
+<item>H,2,520,1236</item>
+<item>H,2,680,1183</item>
+<item>H,2,880,1184</item>
+<item>H,2,1360,1184</item>
+<item>H,2,1880,1184</item>
+<item>H,2,2160,1183</item>
+<item>H,2,2400,1183</item>
+<item>H,2,3000,1183</item>
+<item>H,2,3080,1183</item>
+<item>H,2,3440,1131</item>
+<item>H,2,3640,1131</item>
+<item>H,2,4120,1131</item>
+<item>H,2,5000,1131</item>
+<item>H,2,6000,1131</item>
+<item>H,2,6160,1131</item>
+<item>H,2,6400,1183</item>
+<item>H,2,6560,1184</item>
+<item>H,2,7080,1183</item>
+<item>H,2,7640,1184</item>
+<item>H,2,8360,1183</item>
+<item>H,2,9000,1183</item>
+<item>H,2,9240,1183</item>
+<item>H,2,9480,1199</item>
+<item>H,2,9680,1376</item>
+<item>H,2,9760,1440</item>
+<item>H,2,9800,1470</item>
+<item>H,2,10240,1350</item>
+<item>H,2,10600,1310</item>
+<item>H,2,10960,1315</item>
+<item>H,2,11800,1315</item>
+<item>H,2,12000,1131</item>
+<item>H,2,12240,1131</item>
+<item>H,2,12480,1146</item>
+<item>H,2,12680,1355</item>
+<item>H,2,12760,1434</item>
+<item>H,2,12800,1470</item>
+<item>H,2,13240,1350</item>
+<item>H,2,13600,1310</item>
+<item>H,2,13960,1315</item>
+<item>H,2,14800,1315</item>
+<item>H,2,17360,1315</item>
+<item>H,2,18120,0</item>
+<item>X,2,0,0</item>
+<item>X,2,280,0</item>
+<item>X,2,520,69.5</item>
+<item>X,2,680,104</item>
+<item>X,2,880,116</item>
+<item>X,2,1360,101.5</item>
+<item>X,2,1880,104.5</item>
+<item>X,2,2160,104</item>
+<item>X,2,2400,104</item>
+<item>X,2,3000,104</item>
+<item>X,2,3080,104</item>
+<item>X,2,3440,120</item>
+<item>X,2,3640,121.5</item>
+<item>X,2,4120,120</item>
+<item>X,2,5000,120</item>
+<item>X,2,6000,119.5</item>
+<item>X,2,6160,120</item>
+<item>X,2,6400,104</item>
+<item>X,2,6560,99</item>
+<item>X,2,7080,104.5</item>
+<item>X,2,7640,104</item>
+<item>X,2,8360,104</item>
+<item>X,2,9000,104</item>
+<item>X,2,9240,104</item>
+<item>X,2,9480,105.5</item>
+<item>X,2,9680,64.5</item>
+<item>X,2,9760,57.5</item>
+<item>X,2,9800,57</item>
+<item>X,2,10240,1</item>
+<item>X,2,10600,2.5</item>
+<item>X,2,10960,0</item>
+<item>X,2,11800,0</item>
+<item>X,2,12000,120</item>
+<item>X,2,12240,120</item>
+<item>X,2,12480,122</item>
+<item>X,2,12680,68.5</item>
+<item>X,2,12760,57.5</item>
+<item>X,2,12800,57</item>
+<item>X,2,13240,1</item>
+<item>X,2,13600,2.5</item>
+<item>X,2,13960,0</item>
+<item>X,2,14800,0</item>
+<item>X,2,17360,0</item>
+<item>X,2,18120,278.5</item>
+<item>Y,2,0,0</item>
+<item>Y,2,280,0</item>
+<item>Y,2,520,-133.5</item>
+<item>Y,2,680,41</item>
+<item>Y,2,880,130</item>
+<item>Y,2,1360,22.5</item>
+<item>Y,2,1880,46.5</item>
+<item>Y,2,2160,42</item>
+<item>Y,2,2400,41</item>
+<item>Y,2,3000,42</item>
+<item>Y,2,3080,42</item>
+<item>Y,2,3440,-446</item>
+<item>Y,2,3640,-493</item>
+<item>Y,2,4120,-436</item>
+<item>Y,2,5000,-446</item>
+<item>Y,2,6000,-446</item>
+<item>Y,2,6160,-446</item>
+<item>Y,2,6400,42</item>
+<item>Y,2,6560,197.5</item>
+<item>Y,2,7080,21</item>
+<item>Y,2,7640,44.5</item>
+<item>Y,2,8360,42</item>
+<item>Y,2,9000,42</item>
+<item>Y,2,9240,42</item>
+<item>Y,2,9480,80</item>
+<item>Y,2,9680,294.5</item>
+<item>Y,2,9760,322.5</item>
+<item>Y,2,9800,314.5</item>
+<item>Y,2,10240,-39.5</item>
+<item>Y,2,10600,33.5</item>
+<item>Y,2,10960,0</item>
+<item>Y,2,11800,0</item>
+<item>Y,2,12000,-446</item>
+<item>Y,2,12240,-446</item>
+<item>Y,2,12480,-409.5</item>
+<item>Y,2,12680,206</item>
+<item>Y,2,12760,322.5</item>
+<item>Y,2,12800,314.5</item>
+<item>Y,2,13240,-39.5</item>
+<item>Y,2,13600,33.5</item>
+<item>Y,2,13960,0</item>
+<item>Y,2,14800,0</item>
+<item>Y,2,17360,0</item>
+<item>Y,2,18120,682.5</item>
+<item>W,1,0,708</item>
+<item>W,1,240,708</item>
+<item>W,1,520,708</item>
+<item>W,1,2400,708</item>
+<item>W,1,3000,708</item>
+<item>W,1,5000,708</item>
+<item>W,1,6000,708</item>
+<item>W,1,8360,708</item>
+<item>W,1,9000,707</item>
+<item>W,1,9400,707</item>
+<item>W,1,9680,707</item>
+<item>W,1,9720,707</item>
+<item>W,1,9840,708</item>
+<item>W,1,9880,707</item>
+<item>W,1,10320,707</item>
+<item>W,1,10360,708</item>
+<item>W,1,10920,708</item>
+<item>W,1,11800,708</item>
+<item>W,1,12000,707</item>
+<item>W,1,12400,707</item>
+<item>W,1,12680,707</item>
+<item>W,1,12720,707</item>
+<item>W,1,12880,707</item>
+<item>W,1,13360,708</item>
+<item>W,1,13880,708</item>
+<item>W,1,14800,708</item>
+<item>W,1,15320,708</item>
+<item>W,1,16280,941</item>
+<item>W,1,17160,941</item>
+<item>W,1,17840,0</item>
+<item>H,1,0,720</item>
+<item>H,1,240,720</item>
+<item>H,1,520,720</item>
+<item>H,1,2400,720</item>
+<item>H,1,3000,720</item>
+<item>H,1,5000,720</item>
+<item>H,1,6000,720</item>
+<item>H,1,8360,720</item>
+<item>H,1,9000,795</item>
+<item>H,1,9400,795</item>
+<item>H,1,9680,772</item>
+<item>H,1,9720,764</item>
+<item>H,1,9840,716</item>
+<item>H,1,9880,709</item>
+<item>H,1,10320,735</item>
+<item>H,1,10360,736</item>
+<item>H,1,10920,720</item>
+<item>H,1,11800,720</item>
+<item>H,1,12000,795</item>
+<item>H,1,12400,795</item>
+<item>H,1,12680,772</item>
+<item>H,1,12720,764</item>
+<item>H,1,12880,709</item>
+<item>H,1,13360,736</item>
+<item>H,1,13880,720</item>
+<item>H,1,14800,720</item>
+<item>H,1,15320,720</item>
+<item>H,1,16280,957</item>
+<item>H,1,17160,957</item>
+<item>H,1,17840,0</item>
+<item>X,1,0,0</item>
+<item>X,1,240,0</item>
+<item>X,1,520,0</item>
+<item>X,1,2400,0</item>
+<item>X,1,3000,0</item>
+<item>X,1,5000,0</item>
+<item>X,1,6000,0</item>
+<item>X,1,8360,0</item>
+<item>X,1,9000,4.5</item>
+<item>X,1,9400,4.5</item>
+<item>X,1,9680,4.5</item>
+<item>X,1,9720,4.5</item>
+<item>X,1,9840,5</item>
+<item>X,1,9880,4.5</item>
+<item>X,1,10320,-1.5</item>
+<item>X,1,10360,-2</item>
+<item>X,1,10920,0</item>
+<item>X,1,11800,0</item>
+<item>X,1,12000,-2181.5</item>
+<item>X,1,12400,-2181.5</item>
+<item>X,1,12680,-1</item>
+<item>X,1,12720,29</item>
+<item>X,1,12880,47.5</item>
+<item>X,1,13360,-5</item>
+<item>X,1,13880,0</item>
+<item>X,1,14800,0</item>
+<item>X,1,15320,0</item>
+<item>X,1,16280,-0.5</item>
+<item>X,1,17160,-0.5</item>
+<item>X,1,17840,39</item>
+<item>Y,1,0,0</item>
+<item>Y,1,240,0</item>
+<item>Y,1,520,-2240</item>
+<item>Y,1,2400,-2240</item>
+<item>Y,1,3000,-2240</item>
+<item>Y,1,5000,-2240</item>
+<item>Y,1,6000,-2240</item>
+<item>Y,1,8360,-2240</item>
+<item>Y,1,9000,-2181.5</item>
+<item>Y,1,9400,-2181.5</item>
+<item>Y,1,9680,-0.5</item>
+<item>Y,1,9720,29</item>
+<item>Y,1,9840,59</item>
+<item>Y,1,9880,47.5</item>
+<item>Y,1,10320,-8.5</item>
+<item>Y,1,10360,-5</item>
+<item>Y,1,10920,0</item>
+<item>Y,1,11800,0</item>
+<item>Y,1,12000,-2181.5</item>
+<item>Y,1,12400,-2181.5</item>
+<item>Y,1,12680,-1</item>
+<item>Y,1,12720,29</item>
+<item>Y,1,12880,47.5</item>
+<item>Y,1,13360,-5</item>
+<item>Y,1,13880,0</item>
+<item>Y,1,14800,0</item>
+<item>Y,1,15320,0</item>
+<item>Y,1,16280,-0.5</item>
+<item>Y,1,17160,-0.5</item>
+<item>Y,1,17840,-38</item>
+<item>W,13,0,962</item>
+<item>W,13,160,962</item>
+<item>W,13,560,962</item>
+<item>W,13,2400,962</item>
+<item>W,13,3000,962</item>
+<item>W,13,3080,962</item>
+<item>W,13,3440,721</item>
+<item>W,13,3760,721</item>
+<item>W,13,3920,721</item>
+<item>W,13,4480,721</item>
+<item>W,13,4920,721</item>
+<item>W,13,5000,721</item>
+<item>W,13,6000,721</item>
+<item>W,13,6160,721</item>
+<item>W,13,6440,962</item>
+<item>W,13,8360,962</item>
+<item>W,13,9000,962</item>
+<item>W,13,9320,962</item>
+<item>W,13,9720,962</item>
+<item>W,13,9880,962</item>
+<item>W,13,10440,962</item>
+<item>W,13,10920,961</item>
+<item>W,13,11400,962</item>
+<item>W,13,11800,960</item>
+<item>W,13,12000,722</item>
+<item>W,13,12320,721</item>
+<item>W,13,12720,961</item>
+<item>W,13,12880,962</item>
+<item>W,13,13440,962</item>
+<item>W,13,13920,961</item>
+<item>W,13,14400,962</item>
+<item>W,13,14800,960</item>
+<item>W,13,15200,960</item>
+<item>W,13,16280,1180</item>
+<item>W,13,17120,1180</item>
+<item>W,13,18040,0</item>
+<item>H,13,0,978</item>
+<item>H,13,160,978</item>
+<item>H,13,560,978</item>
+<item>H,13,2400,978</item>
+<item>H,13,3000,978</item>
+<item>H,13,3080,978</item>
+<item>H,13,3440,734</item>
+<item>H,13,3760,734</item>
+<item>H,13,3920,734</item>
+<item>H,13,4480,734</item>
+<item>H,13,4920,733</item>
+<item>H,13,5000,733</item>
+<item>H,13,6000,734</item>
+<item>H,13,6160,734</item>
+<item>H,13,6440,978</item>
+<item>H,13,8360,978</item>
+<item>H,13,9000,1003</item>
+<item>H,13,9320,1003</item>
+<item>H,13,9720,1003</item>
+<item>H,13,9880,1003</item>
+<item>H,13,10440,932</item>
+<item>H,13,10920,991</item>
+<item>H,13,11400,979</item>
+<item>H,13,11800,976</item>
+<item>H,13,12000,715</item>
+<item>H,13,12320,725</item>
+<item>H,13,12720,1000</item>
+<item>H,13,12880,1003</item>
+<item>H,13,13440,932</item>
+<item>H,13,13920,991</item>
+<item>H,13,14400,978</item>
+<item>H,13,14800,976</item>
+<item>H,13,15200,976</item>
+<item>H,13,16280,1200</item>
+<item>H,13,17120,1200</item>
+<item>H,13,18040,0</item>
+<item>X,13,0,0</item>
+<item>X,13,160,-4</item>
+<item>X,13,560,-4</item>
+<item>X,13,2400,-4</item>
+<item>X,13,3000,-4</item>
+<item>X,13,3080,-4</item>
+<item>X,13,3440,-343.5</item>
+<item>X,13,3760,-343.5</item>
+<item>X,13,3920,-303.5</item>
+<item>X,13,4480,-344.5</item>
+<item>X,13,4920,-343.5</item>
+<item>X,13,5000,-343.5</item>
+<item>X,13,6000,-343.5</item>
+<item>X,13,6160,-343.5</item>
+<item>X,13,6440,-4</item>
+<item>X,13,8360,-4</item>
+<item>X,13,9000,-4</item>
+<item>X,13,9320,-4</item>
+<item>X,13,9720,-4</item>
+<item>X,13,9880,-4</item>
+<item>X,13,10440,-3</item>
+<item>X,13,10920,-3.5</item>
+<item>X,13,11400,-4</item>
+<item>X,13,11800,-4</item>
+<item>X,13,12000,-346</item>
+<item>X,13,12320,-345.5</item>
+<item>X,13,12720,-4.5</item>
+<item>X,13,12880,44</item>
+<item>X,13,13440,-9</item>
+<item>X,13,13920,-2.5</item>
+<item>X,13,14400,-4</item>
+<item>X,13,14800,-4</item>
+<item>X,13,15200,-4</item>
+<item>X,13,16280,11</item>
+<item>X,13,17120,11</item>
+<item>X,13,18040,172</item>
+<item>Y,13,0,0</item>
+<item>Y,13,160,0</item>
+<item>Y,13,560,-2242</item>
+<item>Y,13,2400,-2242</item>
+<item>Y,13,3000,-2242</item>
+<item>Y,13,3080,-2242</item>
+<item>Y,13,3440,-1515</item>
+<item>Y,13,3760,-1515</item>
+<item>Y,13,3920,-1466</item>
+<item>Y,13,4480,-1514</item>
+<item>Y,13,4920,-1514.5</item>
+<item>Y,13,5000,-1515.5</item>
+<item>Y,13,6000,-1515</item>
+<item>Y,13,6160,-1515</item>
+<item>Y,13,6440,-2242</item>
+<item>Y,13,8360,-2242</item>
+<item>Y,13,9000,-2214.5</item>
+<item>Y,13,9320,-2214.5</item>
+<item>Y,13,9720,27.5</item>
+<item>Y,13,9880,345.5</item>
+<item>Y,13,10440,-52</item>
+<item>Y,13,10920,14.5</item>
+<item>Y,13,11400,-0.5</item>
+<item>Y,13,11800,-1</item>
+<item>Y,13,12000,-1511.5</item>
+<item>Y,13,12320,-1506.5</item>
+<item>Y,13,12720,26</item>
+<item>Y,13,12880,242.5</item>
+<item>Y,13,13440,-40</item>
+<item>Y,13,13920,12.5</item>
+<item>Y,13,14400,0</item>
+<item>Y,13,14800,-1</item>
+<item>Y,13,15200,-1</item>
+<item>Y,13,16280,6</item>
+<item>Y,13,17120,6</item>
+<item>Y,13,18040,-523</item>
+<item>W,3,0,1080</item>
+<item>W,3,360,1080</item>
+<item>W,3,600,1213</item>
+<item>W,3,760,1302</item>
+<item>W,3,960,1345</item>
+<item>W,3,1400,1292</item>
+<item>W,3,2080,1303</item>
+<item>W,3,2400,1301</item>
+<item>W,3,3000,1302</item>
+<item>W,3,3080,1302</item>
+<item>W,3,3440,1302</item>
+<item>W,3,3640,1301</item>
+<item>W,3,4120,1302</item>
+<item>W,3,4600,1301</item>
+<item>W,3,5000,1302</item>
+<item>W,3,6000,1302</item>
+<item>W,3,6160,1302</item>
+<item>W,3,6560,1302</item>
+<item>W,3,6800,1301</item>
+<item>W,3,7160,1301</item>
+<item>W,3,7920,1302</item>
+<item>W,3,8360,1302</item>
+<item>W,3,9000,1302</item>
+<item>W,3,9520,1302</item>
+<item>W,3,9800,900</item>
+<item>W,3,9920,1080</item>
+<item>W,3,9960,1114</item>
+<item>W,3,10080,1060</item>
+<item>W,3,10160,1092</item>
+<item>W,3,10280,1068</item>
+<item>W,3,10400,1082</item>
+<item>W,3,10600,1080</item>
+<item>W,3,11800,1080</item>
+<item>W,3,12000,1302</item>
+<item>W,3,12520,1302</item>
+<item>W,3,12800,950</item>
+<item>W,3,12920,1080</item>
+<item>W,3,13080,1050</item>
+<item>W,3,13160,1098</item>
+<item>W,3,13320,1080</item>
+<item>W,3,13480,1076</item>
+<item>W,3,14800,1080</item>
+<item>W,3,17240,1080</item>
+<item>W,3,17840,0</item>
+<item>H,3,0,1098</item>
+<item>H,3,360,1098</item>
+<item>H,3,600,1233</item>
+<item>H,3,760,1324</item>
+<item>H,3,960,1368</item>
+<item>H,3,1400,1313</item>
+<item>H,3,2080,1325</item>
+<item>H,3,2400,1323</item>
+<item>H,3,3000,1324</item>
+<item>H,3,3080,1324</item>
+<item>H,3,3440,1323</item>
+<item>H,3,3640,1324</item>
+<item>H,3,4120,1323</item>
+<item>H,3,4600,1323</item>
+<item>H,3,5000,1323</item>
+<item>H,3,6000,1324</item>
+<item>H,3,6160,1324</item>
+<item>H,3,6560,1324</item>
+<item>H,3,6800,1323</item>
+<item>H,3,7160,1324</item>
+<item>H,3,7920,1323</item>
+<item>H,3,8360,1323</item>
+<item>H,3,9000,1324</item>
+<item>H,3,9520,1324</item>
+<item>H,3,9800,915</item>
+<item>H,3,9920,1098</item>
+<item>H,3,9960,1133</item>
+<item>H,3,10080,1078</item>
+<item>H,3,10160,1111</item>
+<item>H,3,10280,1087</item>
+<item>H,3,10400,1101</item>
+<item>H,3,10600,1099</item>
+<item>H,3,11800,1098</item>
+<item>H,3,12000,1324</item>
+<item>H,3,12520,1324</item>
+<item>H,3,12800,966</item>
+<item>H,3,12920,1098</item>
+<item>H,3,13080,1068</item>
+<item>H,3,13160,1117</item>
+<item>H,3,13320,1098</item>
+<item>H,3,13480,1094</item>
+<item>H,3,14800,1098</item>
+<item>H,3,17240,1098</item>
+<item>H,3,17840,0</item>
+<item>X,3,0,0</item>
+<item>X,3,360,0</item>
+<item>X,3,600,26.5</item>
+<item>X,3,760,-20</item>
+<item>X,3,960,-40.5</item>
+<item>X,3,1400,-15</item>
+<item>X,3,2080,-20.5</item>
+<item>X,3,2400,-19.5</item>
+<item>X,3,3000,-20</item>
+<item>X,3,3080,-20</item>
+<item>X,3,3440,1</item>
+<item>X,3,3640,3.5</item>
+<item>X,3,4120,-2</item>
+<item>X,3,4600,-0.5</item>
+<item>X,3,5000,-1</item>
+<item>X,3,6000,-1</item>
+<item>X,3,6160,-1</item>
+<item>X,3,6560,-20</item>
+<item>X,3,6800,-23.5</item>
+<item>X,3,7160,-19.5</item>
+<item>X,3,7920,-20</item>
+<item>X,3,8360,-20</item>
+<item>X,3,9000,-20</item>
+<item>X,3,9520,-20</item>
+<item>X,3,9800,1</item>
+<item>X,3,9920,0</item>
+<item>X,3,9960,0</item>
+<item>X,3,10080,0</item>
+<item>X,3,10160,0</item>
+<item>X,3,10280,0</item>
+<item>X,3,10400,0</item>
+<item>X,3,10600,0</item>
+<item>X,3,11800,0</item>
+<item>X,3,12000,-1</item>
+<item>X,3,12520,-1</item>
+<item>X,3,12800,1</item>
+<item>X,3,12920,0</item>
+<item>X,3,13080,0</item>
+<item>X,3,13160,0</item>
+<item>X,3,13320,0</item>
+<item>X,3,13480,0</item>
+<item>X,3,14800,0</item>
+<item>X,3,17240,0</item>
+<item>X,3,17840,-345</item>
+<item>Y,3,0,0</item>
+<item>Y,3,360,0</item>
+<item>Y,3,600,-127.5</item>
+<item>Y,3,760,-34</item>
+<item>Y,3,960,13</item>
+<item>Y,3,1400,-44.5</item>
+<item>Y,3,2080,-32.5</item>
+<item>Y,3,2400,-34.5</item>
+<item>Y,3,3000,-34</item>
+<item>Y,3,3080,-34</item>
+<item>Y,3,3440,-880.5</item>
+<item>Y,3,3640,-976</item>
+<item>Y,3,4120,-760.5</item>
+<item>Y,3,4600,-810.5</item>
+<item>Y,3,5000,-799.5</item>
+<item>Y,3,6000,-801</item>
+<item>Y,3,6160,-801</item>
+<item>Y,3,6560,-34</item>
+<item>Y,3,6800,105.5</item>
+<item>Y,3,7160,-62</item>
+<item>Y,3,7920,-30.5</item>
+<item>Y,3,8360,-35.5</item>
+<item>Y,3,9000,-34</item>
+<item>Y,3,9520,-34</item>
+<item>Y,3,9800,72.5</item>
+<item>Y,3,9920,0</item>
+<item>Y,3,9960,-14.5</item>
+<item>Y,3,10080,8</item>
+<item>Y,3,10160,-5.5</item>
+<item>Y,3,10280,2.5</item>
+<item>Y,3,10400,-1.5</item>
+<item>Y,3,10600,-0.5</item>
+<item>Y,3,11800,0</item>
+<item>Y,3,12000,-801</item>
+<item>Y,3,12520,-801</item>
+<item>Y,3,12800,73</item>
+<item>Y,3,12920,0</item>
+<item>Y,3,13080,8</item>
+<item>Y,3,13160,-5.5</item>
+<item>Y,3,13320,0</item>
+<item>Y,3,13480,1</item>
+<item>Y,3,14800,0</item>
+<item>Y,3,17240,0</item>
+<item>Y,3,17840,523</item>
+<item>W,12,0,566</item>
+<item>W,12,160,566</item>
+<item>W,12,480,566</item>
+<item>W,12,2400,566</item>
+<item>W,12,3000,566</item>
+<item>W,12,5000,566</item>
+<item>W,12,6000,566</item>
+<item>W,12,8360,566</item>
+<item>W,12,9000,566</item>
+<item>W,12,9720,566</item>
+<item>W,12,10200,566</item>
+<item>W,12,10360,566</item>
+<item>W,12,10880,566</item>
+<item>W,12,11360,566</item>
+<item>W,12,11800,566</item>
+<item>W,12,12000,566</item>
+<item>W,12,12720,566</item>
+<item>W,12,13200,566</item>
+<item>W,12,13360,566</item>
+<item>W,12,13880,566</item>
+<item>W,12,14360,566</item>
+<item>W,12,14800,566</item>
+<item>W,12,17400,566</item>
+<item>W,12,18200,0</item>
+<item>H,12,0,578</item>
+<item>H,12,160,578</item>
+<item>H,12,480,578</item>
+<item>H,12,2400,578</item>
+<item>H,12,3000,578</item>
+<item>H,12,5000,578</item>
+<item>H,12,6000,578</item>
+<item>H,12,8360,578</item>
+<item>H,12,9000,578</item>
+<item>H,12,9720,578</item>
+<item>H,12,10200,578</item>
+<item>H,12,10360,578</item>
+<item>H,12,10880,578</item>
+<item>H,12,11360,578</item>
+<item>H,12,11800,578</item>
+<item>H,12,12000,578</item>
+<item>H,12,12720,578</item>
+<item>H,12,13200,578</item>
+<item>H,12,13360,578</item>
+<item>H,12,13880,578</item>
+<item>H,12,14360,578</item>
+<item>H,12,14800,578</item>
+<item>H,12,17400,578</item>
+<item>H,12,18200,0</item>
+<item>X,12,0,0</item>
+<item>X,12,160,0</item>
+<item>X,12,480,-264</item>
+<item>X,12,2400,-264</item>
+<item>X,12,3000,-264</item>
+<item>X,12,5000,-264</item>
+<item>X,12,6000,-264</item>
+<item>X,12,8360,-264</item>
+<item>X,12,9000,-264</item>
+<item>X,12,9720,-264</item>
+<item>X,12,10200,0</item>
+<item>X,12,10360,31</item>
+<item>X,12,10880,2</item>
+<item>X,12,11360,5</item>
+<item>X,12,11800,26</item>
+<item>X,12,12000,-264</item>
+<item>X,12,12720,-264</item>
+<item>X,12,13200,0</item>
+<item>X,12,13360,31</item>
+<item>X,12,13880,-2</item>
+<item>X,12,14360,0</item>
+<item>X,12,14800,0</item>
+<item>X,12,17400,0</item>
+<item>X,12,18200,-654</item>
+<item>Y,12,0,0</item>
+<item>Y,12,160,0</item>
+<item>Y,12,480,-1316</item>
+<item>Y,12,2400,-1316</item>
+<item>Y,12,3000,-1316</item>
+<item>Y,12,5000,-1316</item>
+<item>Y,12,6000,-1316</item>
+<item>Y,12,8360,-1316</item>
+<item>Y,12,9000,-1316</item>
+<item>Y,12,9720,-1316</item>
+<item>Y,12,10200,0</item>
+<item>Y,12,10360,156</item>
+<item>Y,12,10880,-4</item>
+<item>Y,12,11360,3</item>
+<item>Y,12,11800,8</item>
+<item>Y,12,12000,-1316</item>
+<item>Y,12,12720,-1316</item>
+<item>Y,12,13200,0</item>
+<item>Y,12,13360,156</item>
+<item>Y,12,13880,-12</item>
+<item>Y,12,14360,1</item>
+<item>Y,12,14800,0</item>
+<item>Y,12,17400,0</item>
+<item>Y,12,18200,790</item>
+<item>W,11,0,631</item>
+<item>W,11,120,631</item>
+<item>W,11,360,631</item>
+<item>W,11,2400,631</item>
+<item>W,11,3000,631</item>
+<item>W,11,5000,631</item>
+<item>W,11,6000,631</item>
+<item>W,11,8360,631</item>
+<item>W,11,9000,631</item>
+<item>W,11,9320,631</item>
+<item>W,11,9640,631</item>
+<item>W,11,9840,631</item>
+<item>W,11,10320,631</item>
+<item>W,11,10800,631</item>
+<item>W,11,11400,631</item>
+<item>W,11,11800,630</item>
+<item>W,11,12000,631</item>
+<item>W,11,12320,631</item>
+<item>W,11,12640,631</item>
+<item>W,11,12840,631</item>
+<item>W,11,13320,631</item>
+<item>W,11,13800,631</item>
+<item>W,11,14400,631</item>
+<item>W,11,14800,630</item>
+<item>W,11,17640,630</item>
+<item>W,11,18440,0</item>
+<item>H,11,0,641</item>
+<item>H,11,120,641</item>
+<item>H,11,360,641</item>
+<item>H,11,2400,642</item>
+<item>H,11,3000,641</item>
+<item>H,11,5000,641</item>
+<item>H,11,6000,641</item>
+<item>H,11,8360,641</item>
+<item>H,11,9000,653</item>
+<item>H,11,9320,653</item>
+<item>H,11,9640,653</item>
+<item>H,11,9840,654</item>
+<item>H,11,10320,634</item>
+<item>H,11,10800,646</item>
+<item>H,11,11400,643</item>
+<item>H,11,11800,641</item>
+<item>H,11,12000,653</item>
+<item>H,11,12320,653</item>
+<item>H,11,12640,653</item>
+<item>H,11,12840,654</item>
+<item>H,11,13320,634</item>
+<item>H,11,13800,646</item>
+<item>H,11,14400,643</item>
+<item>H,11,14800,641</item>
+<item>H,11,17640,640</item>
+<item>H,11,18440,0</item>
+<item>X,11,0,0</item>
+<item>X,11,120,0</item>
+<item>X,11,360,0</item>
+<item>X,11,2400,0</item>
+<item>X,11,3000,0</item>
+<item>X,11,5000,0</item>
+<item>X,11,6000,0</item>
+<item>X,11,8360,0</item>
+<item>X,11,9000,1</item>
+<item>X,11,9320,1</item>
+<item>X,11,9640,1</item>
+<item>X,11,9840,1</item>
+<item>X,11,10320,0</item>
+<item>X,11,10800,-1</item>
+<item>X,11,11400,-1</item>
+<item>X,11,11800,-0.5</item>
+<item>X,11,12000,1</item>
+<item>X,11,12320,1</item>
+<item>X,11,12640,1</item>
+<item>X,11,12840,1</item>
+<item>X,11,13320,0</item>
+<item>X,11,13800,-1</item>
+<item>X,11,14400,-1</item>
+<item>X,11,14800,-0.5</item>
+<item>X,11,17640,-0.5</item>
+<item>X,11,18440,423.5</item>
+<item>Y,11,0,0</item>
+<item>Y,11,120,0</item>
+<item>Y,11,360,-2240</item>
+<item>Y,11,2400,-2241.5</item>
+<item>Y,11,3000,-2240</item>
+<item>Y,11,5000,-2240</item>
+<item>Y,11,6000,-2240</item>
+<item>Y,11,8360,-2240</item>
+<item>Y,11,9000,-2223</item>
+<item>Y,11,9320,-2223</item>
+<item>Y,11,9640,17</item>
+<item>Y,11,9840,446.5</item>
+<item>Y,11,10320,-110.5</item>
+<item>Y,11,10800,25.5</item>
+<item>Y,11,11400,-5</item>
+<item>Y,11,11800,4</item>
+<item>Y,11,12000,-2223</item>
+<item>Y,11,12320,-2223</item>
+<item>Y,11,12640,17</item>
+<item>Y,11,12840,446.5</item>
+<item>Y,11,13320,-110.5</item>
+<item>Y,11,13800,25.5</item>
+<item>Y,11,14400,-5</item>
+<item>Y,11,14800,3.5</item>
+<item>Y,11,17640,2.5</item>
+<item>Y,11,18440,-787.5</item>
+<item>W,10,0,499</item>
+<item>W,10,400,685</item>
+<item>W,10,2400,685</item>
+<item>W,10,3000,685</item>
+<item>W,10,5000,685</item>
+<item>W,10,6000,685</item>
+<item>W,10,8360,685</item>
+<item>W,10,9000,500</item>
+<item>W,10,9560,500</item>
+<item>W,10,10160,499</item>
+<item>W,10,10360,500</item>
+<item>W,10,10840,500</item>
+<item>W,10,11360,500</item>
+<item>W,10,11720,500</item>
+<item>W,10,11800,500</item>
+<item>W,10,12000,686</item>
+<item>W,10,12560,686</item>
+<item>W,10,13160,499</item>
+<item>W,10,13360,500</item>
+<item>W,10,13840,500</item>
+<item>W,10,14360,500</item>
+<item>W,10,14720,500</item>
+<item>W,10,14800,500</item>
+<item>W,10,15320,499</item>
+<item>W,10,16480,499</item>
+<item>W,10,17440,499</item>
+<item>W,10,18360,0</item>
+<item>H,10,0,514</item>
+<item>H,10,400,705</item>
+<item>H,10,2400,705</item>
+<item>H,10,3000,705</item>
+<item>H,10,5000,705</item>
+<item>H,10,6000,705</item>
+<item>H,10,8360,705</item>
+<item>H,10,9000,577</item>
+<item>H,10,9560,577</item>
+<item>H,10,10160,553</item>
+<item>H,10,10360,552</item>
+<item>H,10,10840,497</item>
+<item>H,10,11360,520</item>
+<item>H,10,11720,512</item>
+<item>H,10,11800,512</item>
+<item>H,10,12000,792</item>
+<item>H,10,12560,792</item>
+<item>H,10,13160,553</item>
+<item>H,10,13360,552</item>
+<item>H,10,13840,497</item>
+<item>H,10,14360,520</item>
+<item>H,10,14720,512</item>
+<item>H,10,14800,512</item>
+<item>H,10,15320,511</item>
+<item>H,10,16480,511</item>
+<item>H,10,17440,511</item>
+<item>H,10,18360,0</item>
+<item>X,10,0,0</item>
+<item>X,10,400,-18</item>
+<item>X,10,2400,-18</item>
+<item>X,10,3000,-18</item>
+<item>X,10,5000,-18</item>
+<item>X,10,6000,-18</item>
+<item>X,10,8360,-18</item>
+<item>X,10,9000,-19.5</item>
+<item>X,10,9560,-19.5</item>
+<item>X,10,10160,-3</item>
+<item>X,10,10360,-1.5</item>
+<item>X,10,10840,4.5</item>
+<item>X,10,11360,-0.5</item>
+<item>X,10,11720,-0.5</item>
+<item>X,10,11800,-0.5</item>
+<item>X,10,12000,-19.5</item>
+<item>X,10,12560,-19.5</item>
+<item>X,10,13160,-3</item>
+<item>X,10,13360,-1.5</item>
+<item>X,10,13840,4.5</item>
+<item>X,10,14360,-0.5</item>
+<item>X,10,14720,-0.5</item>
+<item>X,10,14800,-0.5</item>
+<item>X,10,15320,0</item>
+<item>X,10,16480,9</item>
+<item>X,10,17440,9</item>
+<item>X,10,18360,-523.5</item>
+<item>Y,10,0,0</item>
+<item>Y,10,400,-2114.5</item>
+<item>Y,10,2400,-2114.5</item>
+<item>Y,10,3000,-2114.5</item>
+<item>Y,10,5000,-2114.5</item>
+<item>Y,10,6000,-2114.5</item>
+<item>Y,10,8360,-2114.5</item>
+<item>Y,10,9000,-2058.5</item>
+<item>Y,10,9560,-2058.5</item>
+<item>Y,10,10160,24.5</item>
+<item>Y,10,10360,187</item>
+<item>Y,10,10840,-70.5</item>
+<item>Y,10,11360,17</item>
+<item>Y,10,11720,-7</item>
+<item>Y,10,11800,-7</item>
+<item>Y,10,12000,-2036</item>
+<item>Y,10,12560,-2036</item>
+<item>Y,10,13160,24.5</item>
+<item>Y,10,13360,187</item>
+<item>Y,10,13840,-70.5</item>
+<item>Y,10,14360,17</item>
+<item>Y,10,14720,-7</item>
+<item>Y,10,14800,-7</item>
+<item>Y,10,15320,-5.5</item>
+<item>Y,10,16480,-207.5</item>
+<item>Y,10,17440,-207.5</item>
+<item>Y,10,18360,-332</item>
+<item>W,9,0,927</item>
+<item>W,9,360,927</item>
+<item>W,9,560,813</item>
+<item>W,9,680,706</item>
+<item>W,9,880,706</item>
+<item>W,9,1360,706</item>
+<item>W,9,1880,706</item>
+<item>W,9,2400,707</item>
+<item>W,9,3000,706</item>
+<item>W,9,3040,706</item>
+<item>W,9,3440,706</item>
+<item>W,9,3640,706</item>
+<item>W,9,4120,706</item>
+<item>W,9,4600,706</item>
+<item>W,9,5000,706</item>
+<item>W,9,6000,706</item>
+<item>W,9,6160,706</item>
+<item>W,9,6560,706</item>
+<item>W,9,6760,706</item>
+<item>W,9,7280,706</item>
+<item>W,9,7920,706</item>
+<item>W,9,8360,707</item>
+<item>W,9,9000,706</item>
+<item>W,9,9520,706</item>
+<item>W,9,9920,927</item>
+<item>W,9,10080,926</item>
+<item>W,9,10640,926</item>
+<item>W,9,11280,926</item>
+<item>W,9,11640,926</item>
+<item>W,9,11800,927</item>
+<item>W,9,12000,706</item>
+<item>W,9,12520,706</item>
+<item>W,9,12920,927</item>
+<item>W,9,13080,927</item>
+<item>W,9,13680,927</item>
+<item>W,9,14160,927</item>
+<item>W,9,14400,927</item>
+<item>W,9,14800,926</item>
+<item>W,9,17560,927</item>
+<item>W,9,18280,0</item>
+<item>H,9,0,926</item>
+<item>H,9,360,926</item>
+<item>H,9,560,813</item>
+<item>H,9,680,706</item>
+<item>H,9,880,706</item>
+<item>H,9,1360,706</item>
+<item>H,9,1880,707</item>
+<item>H,9,2400,706</item>
+<item>H,9,3000,706</item>
+<item>H,9,3040,706</item>
+<item>H,9,3440,706</item>
+<item>H,9,3640,706</item>
+<item>H,9,4120,706</item>
+<item>H,9,4600,706</item>
+<item>H,9,5000,706</item>
+<item>H,9,6000,706</item>
+<item>H,9,6160,706</item>
+<item>H,9,6560,706</item>
+<item>H,9,6760,707</item>
+<item>H,9,7280,706</item>
+<item>H,9,7920,706</item>
+<item>H,9,8360,706</item>
+<item>H,9,9000,706</item>
+<item>H,9,9520,706</item>
+<item>H,9,9920,926</item>
+<item>H,9,10080,927</item>
+<item>H,9,10640,927</item>
+<item>H,9,11280,927</item>
+<item>H,9,11640,926</item>
+<item>H,9,11800,926</item>
+<item>H,9,12000,706</item>
+<item>H,9,12520,706</item>
+<item>H,9,12920,926</item>
+<item>H,9,13080,927</item>
+<item>H,9,13680,926</item>
+<item>H,9,14160,927</item>
+<item>H,9,14400,927</item>
+<item>H,9,14800,927</item>
+<item>H,9,17560,926</item>
+<item>H,9,18280,0</item>
+<item>X,9,0,0</item>
+<item>X,9,360,0</item>
+<item>X,9,560,-162</item>
+<item>X,9,680,-143.5</item>
+<item>X,9,880,-132.5</item>
+<item>X,9,1360,-146.5</item>
+<item>X,9,1880,-143.5</item>
+<item>X,9,2400,-144</item>
+<item>X,9,3000,-143.5</item>
+<item>X,9,3040,-143.5</item>
+<item>X,9,3440,-215.5</item>
+<item>X,9,3640,-229.5</item>
+<item>X,9,4120,-212.5</item>
+<item>X,9,4600,-216.5</item>
+<item>X,9,5000,-215.5</item>
+<item>X,9,6000,-215.5</item>
+<item>X,9,6160,-215.5</item>
+<item>X,9,6560,-143.5</item>
+<item>X,9,6760,-129.5</item>
+<item>X,9,7280,-146.5</item>
+<item>X,9,7920,-143.5</item>
+<item>X,9,8360,-144</item>
+<item>X,9,9000,-143.5</item>
+<item>X,9,9520,-143.5</item>
+<item>X,9,9920,0</item>
+<item>X,9,10080,19.5</item>
+<item>X,9,10640,-4.5</item>
+<item>X,9,11280,0.5</item>
+<item>X,9,11640,-0.5</item>
+<item>X,9,11800,0</item>
+<item>X,9,12000,-215.5</item>
+<item>X,9,12520,-215.5</item>
+<item>X,9,12920,0</item>
+<item>X,9,13080,30</item>
+<item>X,9,13680,-6</item>
+<item>X,9,14160,1</item>
+<item>X,9,14400,0</item>
+<item>X,9,14800,-0.5</item>
+<item>X,9,17560,0</item>
+<item>X,9,18280,113.5</item>
+<item>Y,9,0,0</item>
+<item>Y,9,360,0</item>
+<item>Y,9,560,-61.5</item>
+<item>Y,9,680,-13</item>
+<item>Y,9,880,14</item>
+<item>Y,9,1360,-19</item>
+<item>Y,9,1880,-11.5</item>
+<item>Y,9,2400,-13</item>
+<item>Y,9,3000,-13</item>
+<item>Y,9,3040,-13</item>
+<item>Y,9,3440,-975</item>
+<item>Y,9,3640,-1163</item>
+<item>Y,9,4120,-932</item>
+<item>Y,9,4600,-984</item>
+<item>Y,9,5000,-974</item>
+<item>Y,9,6000,-975</item>
+<item>Y,9,6160,-975</item>
+<item>Y,9,6560,-13</item>
+<item>Y,9,6760,175.5</item>
+<item>Y,9,7280,-54</item>
+<item>Y,9,7920,-8</item>
+<item>Y,9,8360,-14</item>
+<item>Y,9,9000,-13</item>
+<item>Y,9,9520,-13</item>
+<item>Y,9,9920,0</item>
+<item>Y,9,10080,2.5</item>
+<item>Y,9,10640,-0.5</item>
+<item>Y,9,11280,0.5</item>
+<item>Y,9,11640,0</item>
+<item>Y,9,11800,0</item>
+<item>Y,9,12000,-975</item>
+<item>Y,9,12520,-975</item>
+<item>Y,9,12920,0</item>
+<item>Y,9,13080,138.5</item>
+<item>Y,9,13680,-27</item>
+<item>Y,9,14160,6.5</item>
+<item>Y,9,14400,0.5</item>
+<item>Y,9,14800,-0.5</item>
+<item>Y,9,17560,0</item>
+<item>Y,9,18280,777</item>
+<item>W,8,0,283</item>
+<item>W,8,200,283</item>
+<item>W,8,480,283</item>
+<item>W,8,2400,283</item>
+<item>W,8,3000,283</item>
+<item>W,8,5000,283</item>
+<item>W,8,6000,283</item>
+<item>W,8,8360,283</item>
+<item>W,8,9000,283</item>
+<item>W,8,9320,283</item>
+<item>W,8,9800,283</item>
+<item>W,8,9960,283</item>
+<item>W,8,10480,283</item>
+<item>W,8,10920,283</item>
+<item>W,8,11800,283</item>
+<item>W,8,12000,283</item>
+<item>W,8,12320,283</item>
+<item>W,8,12800,283</item>
+<item>W,8,12960,283</item>
+<item>W,8,13480,283</item>
+<item>W,8,13920,283</item>
+<item>W,8,14800,283</item>
+<item>W,8,17360,283</item>
+<item>W,8,18160,0</item>
+<item>H,8,0,284</item>
+<item>H,8,200,284</item>
+<item>H,8,480,284</item>
+<item>H,8,2400,284</item>
+<item>H,8,3000,284</item>
+<item>H,8,5000,284</item>
+<item>H,8,6000,284</item>
+<item>H,8,8360,284</item>
+<item>H,8,9000,284</item>
+<item>H,8,9320,284</item>
+<item>H,8,9800,284</item>
+<item>H,8,9960,284</item>
+<item>H,8,10480,284</item>
+<item>H,8,10920,284</item>
+<item>H,8,11800,284</item>
+<item>H,8,12000,284</item>
+<item>H,8,12320,284</item>
+<item>H,8,12800,284</item>
+<item>H,8,12960,284</item>
+<item>H,8,13480,284</item>
+<item>H,8,13920,284</item>
+<item>H,8,14800,284</item>
+<item>H,8,17360,284</item>
+<item>H,8,18160,0</item>
+<item>X,8,0,0</item>
+<item>X,8,200,0</item>
+<item>X,8,480,-258</item>
+<item>X,8,2400,-258</item>
+<item>X,8,3000,-258</item>
+<item>X,8,5000,-258</item>
+<item>X,8,6000,-258</item>
+<item>X,8,8360,-258</item>
+<item>X,8,9000,-258</item>
+<item>X,8,9320,-258</item>
+<item>X,8,9800,6</item>
+<item>X,8,9960,19</item>
+<item>X,8,10480,5</item>
+<item>X,8,10920,6</item>
+<item>X,8,11800,6</item>
+<item>X,8,12000,-258</item>
+<item>X,8,12320,-258</item>
+<item>X,8,12800,6</item>
+<item>X,8,12960,19</item>
+<item>X,8,13480,5</item>
+<item>X,8,13920,6</item>
+<item>X,8,14800,6</item>
+<item>X,8,17360,0</item>
+<item>X,8,18160,-540.5</item>
+<item>Y,8,0,0</item>
+<item>Y,8,200,0</item>
+<item>Y,8,480,-1301</item>
+<item>Y,8,2400,-1301</item>
+<item>Y,8,3000,-1301</item>
+<item>Y,8,5000,-1301</item>
+<item>Y,8,6000,-1301</item>
+<item>Y,8,8360,-1301</item>
+<item>Y,8,9000,-1302</item>
+<item>Y,8,9320,-1302</item>
+<item>Y,8,9800,14</item>
+<item>Y,8,9960,79</item>
+<item>Y,8,10480,9</item>
+<item>Y,8,10920,15</item>
+<item>Y,8,11800,15</item>
+<item>Y,8,12000,-1301</item>
+<item>Y,8,12320,-1301</item>
+<item>Y,8,12800,15</item>
+<item>Y,8,12960,79</item>
+<item>Y,8,13480,10</item>
+<item>Y,8,13920,15</item>
+<item>Y,8,14800,15</item>
+<item>Y,8,17360,0</item>
+<item>Y,8,18160,447</item>
+<item>W,7,0,248</item>
+<item>W,7,160,248</item>
+<item>W,7,560,248</item>
+<item>W,7,2400,248</item>
+<item>W,7,3000,248</item>
+<item>W,7,5000,248</item>
+<item>W,7,6000,248</item>
+<item>W,7,8360,248</item>
+<item>W,7,9000,248</item>
+<item>W,7,9160,248</item>
+<item>W,7,10040,248</item>
+<item>W,7,10200,248</item>
+<item>W,7,10680,248</item>
+<item>W,7,11160,248</item>
+<item>W,7,11800,248</item>
+<item>W,7,12000,248</item>
+<item>W,7,12160,248</item>
+<item>W,7,13040,248</item>
+<item>W,7,13240,248</item>
+<item>W,7,13680,248</item>
+<item>W,7,14160,248</item>
+<item>W,7,14800,248</item>
+<item>W,7,17360,248</item>
+<item>W,7,18200,0</item>
+<item>H,7,0,248</item>
+<item>H,7,160,248</item>
+<item>H,7,560,248</item>
+<item>H,7,2400,249</item>
+<item>H,7,3000,248</item>
+<item>H,7,5000,248</item>
+<item>H,7,6000,248</item>
+<item>H,7,8360,248</item>
+<item>H,7,9000,248</item>
+<item>H,7,9160,248</item>
+<item>H,7,10040,248</item>
+<item>H,7,10200,249</item>
+<item>H,7,10680,249</item>
+<item>H,7,11160,249</item>
+<item>H,7,11800,249</item>
+<item>H,7,12000,248</item>
+<item>H,7,12160,248</item>
+<item>H,7,13040,248</item>
+<item>H,7,13240,249</item>
+<item>H,7,13680,249</item>
+<item>H,7,14160,249</item>
+<item>H,7,14800,249</item>
+<item>H,7,17360,248</item>
+<item>H,7,18200,0</item>
+<item>X,7,0,0</item>
+<item>X,7,0,0</item>
+<item>X,7,160,0</item>
+<item>X,7,560,-6</item>
+<item>X,7,2400,-6</item>
+<item>X,7,3000,-6</item>
+<item>X,7,5000,-6</item>
+<item>X,7,6000,-6</item>
+<item>X,7,8360,-6</item>
+<item>X,7,9000,-6</item>
+<item>X,7,9160,-6</item>
+<item>X,7,10040,0</item>
+<item>X,7,10200,0</item>
+<item>X,7,10680,0</item>
+<item>X,7,11160,0</item>
+<item>X,7,11800,0</item>
+<item>X,7,12000,-6</item>
+<item>X,7,12160,-6</item>
+<item>X,7,13040,0</item>
+<item>X,7,13240,0</item>
+<item>X,7,13680,0</item>
+<item>X,7,14160,0</item>
+<item>X,7,14800,0</item>
+<item>X,7,17360,0</item>
+<item>X,7,18200,364</item>
+<item>Y,7,0,0</item>
+<item>Y,7,160,0</item>
+<item>Y,7,560,-2242</item>
+<item>Y,7,2400,-2241.5</item>
+<item>Y,7,3000,-2242</item>
+<item>Y,7,5000,-2242</item>
+<item>Y,7,6000,-2242</item>
+<item>Y,7,8360,-2242</item>
+<item>Y,7,9000,-2242</item>
+<item>Y,7,9160,-2242</item>
+<item>Y,7,10040,0</item>
+<item>Y,7,10200,83.5</item>
+<item>Y,7,10680,-11.5</item>
+<item>Y,7,11160,1.5</item>
+<item>Y,7,11800,-0.5</item>
+<item>Y,7,12000,-2242</item>
+<item>Y,7,12160,-2242</item>
+<item>Y,7,13040,0</item>
+<item>Y,7,13240,80.5</item>
+<item>Y,7,13680,-11.5</item>
+<item>Y,7,14160,1.5</item>
+<item>Y,7,14800,-0.5</item>
+<item>Y,7,17360,0</item>
+<item>Y,7,18200,-430</item>
+<item>W,6,0,442</item>
+<item>W,6,320,442</item>
+<item>W,6,680,609</item>
+<item>W,6,800,664</item>
+<item>W,6,960,665</item>
+<item>W,6,1440,665</item>
+<item>W,6,2040,664</item>
+<item>W,6,2400,664</item>
+<item>W,6,3000,664</item>
+<item>W,6,3040,664</item>
+<item>W,6,3440,664</item>
+<item>W,6,5000,664</item>
+<item>W,6,6000,664</item>
+<item>W,6,6160,664</item>
+<item>W,6,6480,664</item>
+<item>W,6,6640,664</item>
+<item>W,6,7160,664</item>
+<item>W,6,7920,664</item>
+<item>W,6,8360,664</item>
+<item>W,6,9000,664</item>
+<item>W,6,10040,664</item>
+<item>W,6,10280,442</item>
+<item>W,6,10440,443</item>
+<item>W,6,10960,443</item>
+<item>W,6,11400,443</item>
+<item>W,6,11800,443</item>
+<item>W,6,12000,664</item>
+<item>W,6,13040,664</item>
+<item>W,6,13320,443</item>
+<item>W,6,13480,443</item>
+<item>W,6,13920,443</item>
+<item>W,6,14400,443</item>
+<item>W,6,14720,443</item>
+<item>W,6,14800,442</item>
+<item>W,6,17440,442</item>
+<item>W,6,18360,0</item>
+<item>H,6,0,450</item>
+<item>H,6,320,450</item>
+<item>H,6,680,619</item>
+<item>H,6,800,674</item>
+<item>H,6,960,675</item>
+<item>H,6,1440,675</item>
+<item>H,6,2040,675</item>
+<item>H,6,2400,675</item>
+<item>H,6,3000,675</item>
+<item>H,6,3040,674</item>
+<item>H,6,3440,674</item>
+<item>H,6,5000,675</item>
+<item>H,6,6000,675</item>
+<item>H,6,6160,674</item>
+<item>H,6,6480,674</item>
+<item>H,6,6640,675</item>
+<item>H,6,7160,675</item>
+<item>H,6,7920,675</item>
+<item>H,6,8360,675</item>
+<item>H,6,9000,674</item>
+<item>H,6,10040,674</item>
+<item>H,6,10280,450</item>
+<item>H,6,10440,450</item>
+<item>H,6,10960,450</item>
+<item>H,6,11400,450</item>
+<item>H,6,11800,450</item>
+<item>H,6,12000,674</item>
+<item>H,6,13040,674</item>
+<item>H,6,13320,450</item>
+<item>H,6,13480,450</item>
+<item>H,6,13920,450</item>
+<item>H,6,14400,450</item>
+<item>H,6,14720,450</item>
+<item>H,6,14800,450</item>
+<item>H,6,17440,450</item>
+<item>H,6,18360,0</item>
+<item>X,6,0,0</item>
+<item>X,6,320,0</item>
+<item>X,6,680,100.5</item>
+<item>X,6,800,119</item>
+<item>X,6,960,129.5</item>
+<item>X,6,1440,117.5</item>
+<item>X,6,2040,119</item>
+<item>X,6,2400,119</item>
+<item>X,6,3000,118</item>
+<item>X,6,3040,119</item>
+<item>X,6,3440,13</item>
+<item>X,6,5000,118</item>
+<item>X,6,6000,11</item>
+<item>X,6,6160,13</item>
+<item>X,6,6480,119</item>
+<item>X,6,6560,126</item>
+<item>X,6,7040,119</item>
+<item>X,6,7800,119</item>
+<item>X,6,8360,119</item>
+<item>X,6,9000,119</item>
+<item>X,6,10040,119</item>
+<item>X,6,10280,0</item>
+<item>X,6,10440,-28.5</item>
+<item>X,6,10960,3.5</item>
+<item>X,6,11400,-0.5</item>
+<item>X,6,11800,0.5</item>
+<item>X,6,12000,13</item>
+<item>X,6,13040,13</item>
+<item>X,6,13320,-0.5</item>
+<item>X,6,13480,-0.5</item>
+<item>X,6,13920,0.5</item>
+<item>X,6,14400,-0.5</item>
+<item>X,6,14720,-0.5</item>
+<item>X,6,14800,0</item>
+<item>X,6,17440,0</item>
+<item>X,6,18360,583</item>
+<item>Y,6,0,0</item>
+<item>Y,6,320,0</item>
+<item>Y,6,680,-202.5</item>
+<item>Y,6,800,-155</item>
+<item>Y,6,960,-128.5</item>
+<item>Y,6,1440,-158.5</item>
+<item>Y,6,2040,-154.5</item>
+<item>Y,6,2400,-155.5</item>
+<item>Y,6,3000,-153.5</item>
+<item>Y,6,3040,-155</item>
+<item>Y,6,3440,-1867</item>
+<item>Y,6,5000,-1866.5</item>
+<item>Y,6,6000,-1858.5</item>
+<item>Y,6,6160,-1867</item>
+<item>Y,6,6480,-155</item>
+<item>Y,6,6560,-22.5</item>
+<item>Y,6,7040,-155.5</item>
+<item>Y,6,7800,-155</item>
+<item>Y,6,8360,-155</item>
+<item>Y,6,9000,-155</item>
+<item>Y,6,10040,-155</item>
+<item>Y,6,10280,0</item>
+<item>Y,6,10440,37</item>
+<item>Y,6,10960,-5</item>
+<item>Y,6,11400,1</item>
+<item>Y,6,11800,0</item>
+<item>Y,6,12000,-1867</item>
+<item>Y,6,13040,-1867</item>
+<item>Y,6,13320,59</item>
+<item>Y,6,13480,118</item>
+<item>Y,6,13920,-17</item>
+<item>Y,6,14400,2</item>
+<item>Y,6,14720,0</item>
+<item>Y,6,14800,0</item>
+<item>Y,6,17440,0</item>
+<item>Y,6,18360,137</item>
+<item>W,5,0,842</item>
+<item>W,5,280,842</item>
+<item>W,5,640,842</item>
+<item>W,5,2400,842</item>
+<item>W,5,3000,842</item>
+<item>W,5,5000,842</item>
+<item>W,5,9000,842</item>
+<item>W,5,9440,842</item>
+<item>W,5,9760,842</item>
+<item>W,5,9920,842</item>
+<item>W,5,10400,842</item>
+<item>W,5,10840,842</item>
+<item>W,5,11800,842</item>
+<item>W,5,12000,842</item>
+<item>W,5,12440,842</item>
+<item>W,5,12760,842</item>
+<item>W,5,12920,842</item>
+<item>W,5,13400,842</item>
+<item>W,5,13920,842</item>
+<item>W,5,14800,842</item>
+<item>W,5,17800,842</item>
+<item>W,5,18680,0</item>
+<item>H,5,0,842</item>
+<item>H,5,280,842</item>
+<item>H,5,640,842</item>
+<item>H,5,2400,842</item>
+<item>H,5,3000,842</item>
+<item>H,5,5000,842</item>
+<item>H,5,6000,842</item>
+<item>H,5,8360,842</item>
+<item>H,5,9000,842</item>
+<item>H,5,9440,842</item>
+<item>H,5,9760,842</item>
+<item>H,5,9920,842</item>
+<item>H,5,10400,842</item>
+<item>H,5,10840,842</item>
+<item>H,5,11800,842</item>
+<item>H,5,12000,842</item>
+<item>H,5,12440,842</item>
+<item>H,5,12760,842</item>
+<item>H,5,12920,842</item>
+<item>H,5,13400,842</item>
+<item>H,5,13920,842</item>
+<item>H,5,14800,842</item>
+<item>H,5,17800,842</item>
+<item>H,5,18680,0</item>
+<item>X,5,0,0</item>
+<item>X,5,280,0</item>
+<item>X,5,640,256</item>
+<item>X,5,2400,256</item>
+<item>X,5,3000,256</item>
+<item>X,5,5000,256</item>
+<item>X,5,6000,256</item>
+<item>X,5,8360,256</item>
+<item>X,5,9000,256</item>
+<item>X,5,9440,256</item>
+<item>X,5,9760,0</item>
+<item>X,5,9920,-46</item>
+<item>X,5,10400,4</item>
+<item>X,5,10840,0</item>
+<item>X,5,11800,0</item>
+<item>X,5,12000,256</item>
+<item>X,5,12440,256</item>
+<item>X,5,12760,0</item>
+<item>X,5,12920,-46</item>
+<item>X,5,13400,4</item>
+<item>X,5,13920,0</item>
+<item>X,5,14800,0</item>
+<item>X,5,17800,0</item>
+<item>X,5,18680,378</item>
+<item>Y,5,0,0</item>
+<item>Y,5,280,0</item>
+<item>Y,5,640,-1891</item>
+<item>Y,5,2400,-1891</item>
+<item>Y,5,3000,-1891</item>
+<item>Y,5,5000,-1891</item>
+<item>Y,5,6000,-1891</item>
+<item>Y,5,8360,-1891</item>
+<item>Y,5,9000,-1891</item>
+<item>Y,5,9440,-1891</item>
+<item>Y,5,9760,0</item>
+<item>Y,5,9920,336</item>
+<item>Y,5,10400,-28</item>
+<item>Y,5,10840,2</item>
+<item>Y,5,11800,0</item>
+<item>Y,5,12000,-1891</item>
+<item>Y,5,12440,-1891</item>
+<item>Y,5,12760,0</item>
+<item>Y,5,12920,336</item>
+<item>Y,5,13400,-28</item>
+<item>Y,5,13920,2</item>
+<item>Y,5,14800,0</item>
+<item>Y,5,17800,0</item>
+<item>Y,5,18680,621</item>
+<item>W,14,0,0</item>
+<item>W,14,120,0</item>
+<item>W,14,440,341</item>
+<item>W,14,800,723</item>
+<item>W,14,1000,806</item>
+<item>W,14,1480,705</item>
+<item>W,14,2080,727</item>
+<item>W,14,2400,723</item>
+<item>W,14,3000,723</item>
+<item>W,14,3080,723</item>
+<item>W,14,3360,477</item>
+<item>W,14,3560,440</item>
+<item>W,14,4040,486</item>
+<item>W,14,4520,476</item>
+<item>W,14,5000,478</item>
+<item>W,14,6000,477</item>
+<item>W,14,6160,477</item>
+<item>W,14,6560,723</item>
+<item>W,14,6760,786</item>
+<item>W,14,7280,709</item>
+<item>W,14,7720,726</item>
+<item>W,14,8360,723</item>
+<item>W,14,9000,723</item>
+<item>W,14,9400,723</item>
+<item>W,14,9840,0</item>
+<item>W,14,11800,0</item>
+<item>W,14,12000,477</item>
+<item>W,14,12400,477</item>
+<item>W,14,12840,0</item>
+<item>W,14,14800,0</item>
+<item>W,14,17800,0</item>
+<item>W,14,18680,0</item>
+<item>H,14,0,0</item>
+<item>H,14,120,0</item>
+<item>H,14,440,342</item>
+<item>H,14,800,726</item>
+<item>H,14,1000,810</item>
+<item>H,14,1480,707</item>
+<item>H,14,2080,729</item>
+<item>H,14,2400,726</item>
+<item>H,14,3000,726</item>
+<item>H,14,3080,726</item>
+<item>H,14,3360,479</item>
+<item>H,14,3560,443</item>
+<item>H,14,4040,487</item>
+<item>H,14,4520,478</item>
+<item>H,14,5000,480</item>
+<item>H,14,6000,479</item>
+<item>H,14,6160,479</item>
+<item>H,14,6560,726</item>
+<item>H,14,6760,789</item>
+<item>H,14,7280,712</item>
+<item>H,14,7720,729</item>
+<item>H,14,8360,726</item>
+<item>H,14,9000,726</item>
+<item>H,14,9400,726</item>
+<item>H,14,9840,0</item>
+<item>H,14,11800,0</item>
+<item>H,14,12000,479</item>
+<item>H,14,12400,479</item>
+<item>H,14,12840,0</item>
+<item>H,14,14800,0</item>
+<item>X,14,0,0</item>
+<item>X,14,120,0</item>
+<item>X,14,440,0</item>
+<item>X,14,800,0</item>
+<item>X,14,1000,0.5</item>
+<item>X,14,1480,0</item>
+<item>X,14,2080,0</item>
+<item>X,14,2400,0</item>
+<item>X,14,3000,0</item>
+<item>X,14,3080,0</item>
+<item>X,14,3360,-42</item>
+<item>X,14,3560,-48.5</item>
+<item>X,14,4040,-40.5</item>
+<item>X,14,4520,-42.5</item>
+<item>X,14,5000,-42.5</item>
+<item>X,14,6000,-42</item>
+<item>X,14,6160,-42</item>
+<item>X,14,6560,0</item>
+<item>X,14,6760,10.5</item>
+<item>X,14,7280,-2</item>
+<item>X,14,7720,0.5</item>
+<item>X,14,8360,0</item>
+<item>X,14,9000,0</item>
+<item>X,14,9400,0</item>
+<item>X,14,9840,0</item>
+<item>X,14,11800,0</item>
+<item>X,14,12000,-42</item>
+<item>X,14,12400,-42</item>
+<item>X,14,12840,-42</item>
+<item>X,14,14800,-42</item>
+<item>Y,14,0,0</item>
+<item>Y,14,120,0</item>
+<item>Y,14,440,0</item>
+<item>Y,14,800,159</item>
+<item>Y,14,1000,194</item>
+<item>Y,14,1480,151.5</item>
+<item>Y,14,2080,160.5</item>
+<item>Y,14,2400,159</item>
+<item>Y,14,3000,159</item>
+<item>Y,14,3080,159</item>
+<item>Y,14,3360,-488.5</item>
+<item>Y,14,3560,-586</item>
+<item>Y,14,4040,-466.5</item>
+<item>Y,14,4520,-493</item>
+<item>Y,14,5000,-487</item>
+<item>Y,14,6000,-488.5</item>
+<item>Y,14,6160,-488.5</item>
+<item>Y,14,6560,159</item>
+<item>Y,14,6760,325.5</item>
+<item>Y,14,7280,123</item>
+<item>Y,14,7720,167.5</item>
+<item>Y,14,8360,158</item>
+<item>Y,14,9000,159</item>
+<item>Y,14,9400,159</item>
+<item>Y,14,9840,159</item>
+<item>Y,14,11800,159</item>
+<item>Y,14,12000,-488.5</item>
+<item>Y,14,12400,-488.5</item>
+<item>Y,14,12840,-488.5</item>
+<item>Y,14,14800,-488.5</item>
+<item>A,14,0,0</item>
+<item>A,14,120,0</item>
+<item>A,14,440,255</item>
+<item>A,14,800,255</item>
+<item>A,14,1000,255</item>
+<item>A,14,1480,255</item>
+<item>A,14,2080,255</item>
+<item>A,14,2400,255</item>
+<item>A,14,3000,255</item>
+<item>A,14,3080,255</item>
+<item>A,14,3360,255</item>
+<item>A,14,3560,255</item>
+<item>A,14,4040,255</item>
+<item>A,14,4520,255</item>
+<item>A,14,5000,255</item>
+<item>A,14,6000,255</item>
+<item>A,14,6160,255</item>
+<item>A,14,6560,255</item>
+<item>A,14,6760,255</item>
+<item>A,14,7280,255</item>
+<item>A,14,7720,255</item>
+<item>A,14,8360,255</item>
+<item>A,14,9000,255</item>
+<item>A,14,9400,255</item>
+<item>A,14,9840,255</item>
+<item>A,14,11800,255</item>
+<item>A,14,12000,255</item>
+<item>A,14,12400,255</item>
+<item>A,14,12840,255</item>
+<item>A,14,14800,255</item>
+<item>W,15,0,1251</item>
+<item>W,15,360,1251</item>
+<item>W,15,760,1251</item>
+<item>W,15,2400,1251</item>
+<item>W,15,3000,1251</item>
+<item>W,15,3120,1251</item>
+<item>W,15,3280,1251</item>
+<item>W,15,5000,1251</item>
+<item>W,15,6000,1251</item>
+<item>W,15,6560,1251</item>
+<item>W,15,6800,1251</item>
+<item>W,15,8360,1251</item>
+<item>W,15,9000,1251</item>
+<item>W,15,9240,1251</item>
+<item>W,15,9400,1251</item>
+<item>W,15,11800,1251</item>
+<item>W,15,12000,1251</item>
+<item>W,15,14800,1251</item>
+<item>H,15,0,1256</item>
+<item>H,15,360,1256</item>
+<item>H,15,760,1256</item>
+<item>H,15,2400,1256</item>
+<item>H,15,3000,1156</item>
+<item>H,15,3120,1156</item>
+<item>H,15,3280,1156</item>
+<item>H,15,5000,1156</item>
+<item>H,15,6000,1156</item>
+<item>H,15,6560,1156</item>
+<item>H,15,6800,1156</item>
+<item>H,15,8360,1156</item>
+<item>H,15,9000,1156</item>
+<item>H,15,9240,1156</item>
+<item>H,15,9400,1156</item>
+<item>H,15,11800,1156</item>
+<item>H,15,12000,1156</item>
+<item>H,15,14800,1156</item>
+<item>X,15,0,0</item>
+<item>X,15,360,0</item>
+<item>X,15,760,0</item>
+<item>X,15,2400,0</item>
+<item>X,15,3000,0</item>
+<item>X,15,3120,0</item>
+<item>X,15,3280,0</item>
+<item>X,15,5000,0</item>
+<item>X,15,6000,0</item>
+<item>X,15,6560,0</item>
+<item>X,15,6800,0</item>
+<item>X,15,8360,0</item>
+<item>X,15,9000,-6</item>
+<item>X,15,9240,-6</item>
+<item>X,15,9400,-6</item>
+<item>X,15,11800,-6</item>
+<item>X,15,12000,-6</item>
+<item>X,15,14800,-6</item>
+<item>Y,15,0,0</item>
+<item>Y,15,360,0</item>
+<item>Y,15,760,0</item>
+<item>Y,15,2400,0</item>
+<item>Y,15,3000,0</item>
+<item>Y,15,3120,0</item>
+<item>Y,15,3280,0</item>
+<item>Y,15,5000,0</item>
+<item>Y,15,6000,0</item>
+<item>Y,15,6560,0</item>
+<item>Y,15,6800,0</item>
+<item>Y,15,8360,0</item>
+<item>Y,15,9000,-10</item>
+<item>Y,15,9240,-10</item>
+<item>Y,15,9400,-10</item>
+<item>Y,15,11800,-10</item>
+<item>Y,15,12000,-10</item>
+<item>Y,15,14800,-10</item>
+<item>A,15,0,0</item>
+<item>A,15,360,0</item>
+<item>A,15,760,255</item>
+<item>A,15,2400,255</item>
+<item>A,15,3000,255</item>
+<item>A,15,3120,255</item>
+<item>A,15,3280,0</item>
+<item>A,15,5000,0</item>
+<item>A,15,6000,0</item>
+<item>A,15,6560,0</item>
+<item>A,15,6800,255</item>
+<item>A,15,8360,255</item>
+<item>A,15,9000,255</item>
+<item>A,15,9240,255</item>
+<item>A,15,9400,0</item>
+<item>A,15,11800,0</item>
+<item>A,15,12000,0</item>
+<item>A,15,14800,0</item>
+<item>W,16,17480,939</item>
+<item>W,16,18160,0</item>
+<item>H,16,17480,955</item>
+<item>H,16,18160,0</item>
+<item>X,16,17480,0</item>
+<item>X,16,18160,-1250.5</item>
+<item>Y,16,17480,0</item>
+<item>Y,16,18160,-271.5</item>
+<item>W,17,17960,1148</item>
+<item>W,17,18680,0</item>
+<item>H,17,17960,1147</item>
+<item>H,17,18680,0</item>
+<item>X,17,17960,0</item>
+<item>X,17,18680,1761</item>
+<item>Y,17,17960,0</item>
+<item>Y,17,18680,921.5</item>
+<item>W,21,17760,442</item>
+<item>W,21,18680,0</item>
+<item>H,21,17760,450</item>
+<item>H,21,18680,0</item>
+<item>X,21,17760,0</item>
+<item>X,21,18680,1502</item>
+<item>Y,21,17760,0</item>
+<item>Y,21,18680,-364</item>
+<item>W,22,17560,900</item>
+<item>W,22,18160,0</item>
+<item>H,22,17560,915</item>
+<item>H,22,18160,0</item>
+<item>X,22,17560,0</item>
+<item>X,22,18160,-1996</item>
+<item>Y,22,17560,0</item>
+<item>Y,22,18160,1987.5</item>
+<item>W,23,17680,1444</item>
+<item>W,23,18440,0</item>
+<item>H,23,17680,1447</item>
+<item>H,23,18440,0</item>
+<item>X,23,17680,0</item>
+<item>X,23,18440,260</item>
+<item>Y,23,17680,0</item>
+<item>Y,23,18440,1718.5</item>
+<item>W,24,17680,248</item>
+<item>W,24,18520,0</item>
+<item>H,24,17680,248</item>
+<item>H,24,18520,0</item>
+<item>X,24,17680,0</item>
+<item>X,24,18520,-1026</item>
+<item>Y,24,17680,0</item>
+<item>Y,24,18520,-532</item>
+<item>W,25,17800,630</item>
+<item>W,25,18640,0</item>
+<item>H,25,17800,640</item>
+<item>H,25,18640,0</item>
+<item>X,25,17800,0</item>
+<item>X,25,18640,856</item>
+<item>Y,25,17800,0</item>
+<item>Y,25,18640,-1682</item>
+<item>W,26,17440,1180</item>
+<item>W,26,18360,0</item>
+<item>H,26,17440,1200</item>
+<item>H,26,18360,0</item>
+<item>X,26,17440,0</item>
+<item>X,26,18360,1897</item>
+<item>Y,26,17440,0</item>
+<item>Y,26,18360,-1041</item>
+<item>W,27,17800,566</item>
+<item>W,27,18600,0</item>
+<item>H,27,17800,578</item>
+<item>H,27,18600,0</item>
+<item>X,27,17800,0</item>
+<item>X,27,18600,-1278</item>
+<item>Y,27,17800,0</item>
+<item>Y,27,18600,826</item>
+<item>W,28,17720,1030</item>
+<item>W,28,18520,0</item>
+<item>H,28,17720,1046</item>
+<item>H,28,18520,0</item>
+<item>X,28,17720,0</item>
+<item>X,28,18520,-1725</item>
+<item>Y,28,17720,0</item>
+<item>Y,28,18520,-1418</item>
+<item>W,29,17760,499</item>
+<item>W,29,18680,0</item>
+<item>H,29,17760,511</item>
+<item>H,29,18680,0</item>
+<item>X,29,17760,0</item>
+<item>X,29,18680,-2000.5</item>
+<item>Y,29,17760,0</item>
+<item>Y,29,18680,335.5</item>
+<item>C,0,4,822.5,1677.5,7f01d5ab</item>
+<item>C,1,1,501,998,b2ffee00</item>
+<item>C,2,13,368,1483,e5ffa200</item>
+<item>C,3,4,822.5,1677.5,7f00c94c</item>
+<item>C,4,3,885,437,e5fff700</item>
+<item>C,5,12,1194,170,72ffb203</item>
+<item>C,6,11,116.5,1747.5,fffad414</item>
+<item>C,7,1,501,998,4cff4000</item>
+<item>C,8,10,1063.5,1292,a537de00</item>
+<item>C,9,8,1080.5,513,59ffaa00</item>
+<item>C,10,7,176,1390,bfffe500</item>
+<item>C,11,2,261.5,277.5,d8ffe400</item>
+<item>C,12,6,43,823,ffffda19</item>
+<item>C,13,2,261.5,277.5,d8ff5a00</item>
+<item>C,14,5,162,339,14fed42a</item>
+<item>C,15,9,426.5,183,33ff1500</item>
+<item>C,16,3,885,437,33ff2200</item>
+<item>C,17,14,1161.5,682,7202c730</item>
+<item>C,18,15,376.5,1099,7202c730</item>
+<item>C,19,16,1790.5,1231.5,ffff4000</item>
+<item>C,20,17,1221,38.5,66ff1500</item>
+<item>C,21,21,962,1324,ffffda19</item>
+<item>C,22,22,2536,1027.5,99ff2200</item>
+<item>C,23,23,280,758.5,b2ff5a00</item>
+<item>C,24,24,1566,1492,ffffe500</item>
+<item>C,25,25,316,2642,99fad414</item>
+<item>C,26,26,1357,2001,ffffa200</item>
+<item>C,27,27,1818,134,7fffb203</item>
+<item>C,28,28,2265,2378,ff00c94c</item>
+<item>C,29,29,2540.5,624.5,ff37de00</item>
+</string-array>
+</MIUI_Theme_Values>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="action_bar_tab_settings_text_color_normal_light">#99000000</color>
+<color name="action_bar_tab_settings_text_color_pressed_light">#ffe55601</color>
+<color name="action_bar_tab_settings_text_color_disable_light">#66000000</color>
+<color name="action_bar_title_settings_text_color_light">#99000000</color>
+<color name="action_bar_tab_settings_text_color_selected_light">#ffe55601</color>
+</MIUI_Theme_Values>

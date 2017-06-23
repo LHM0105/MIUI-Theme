@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 联系人" version="4.8.4" annotation="" tag="联系人">
+    <resource description="action_button_open_dialpad_pressed_light" x="490" y="1750" width="96" height="96" uuid="ed357d18-2a38-43d8-ab05-f0ef8f294f97">
+        <path src="res\drawable-xhdpi\action_button_open_dialpad_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_open_dialpad_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_open_dialpad_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_open_dialpad_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_back_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_back_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_back_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_back_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_done_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_done_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_done_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_done_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_mark_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_mark_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_mark_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_mark_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_merge_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_merge_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_merge_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_merge_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_ringtone_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_ringtone_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_ringtone_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_ringtone_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_sim_import_disable_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_disable_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_sim_import_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_sim_import_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_pressed_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_sms_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sms_normal_light.png" description="" />
+        <path src="res\drawable-xhdpi\action_button_sms_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sms_pressed_light.png" description="" />
+    </resource>
+    <resource description="frequency_group" x="50" y="876" width="136" height="136" uuid="4f243740-28e7-4665-9145-794ff2c0f8f9">
+        <path src="res\drawable-hdpi\frequency_group.png" description="智能分组_最近联系时间" />
+        <path src="res\drawable-xhdpi\frequency_group.png" description="智能分组_最近联系时间" />
+        <path src="res\drawable-xxhdpi\frequency_group.png" description="智能分组_最近联系时间" />
+    </resource>
+    <resource description="location_group" x="52" y="694" width="136" height="136" uuid="ad5b8ba2-f52c-46fd-8126-f8a752c43b33">
+        <path src="res\drawable-hdpi\location_group.png" description="智能分组_所在地" />
+        <path src="res\drawable-xhdpi\location_group.png" description="智能分组_所在地" />
+        <path src="res\drawable-xxhdpi\location_group.png" description="智能分组_所在地" />
+    </resource>
+    <resource description="company_group" x="54" y="502" width="136" height="136" uuid="c02eac8f-54ec-4e67-be04-aa71b65a25ff">
+        <path src="res\drawable-hdpi\company_group.png" description="智能分组_公司" />
+        <path src="res\drawable-xhdpi\company_group.png" description="智能分组_公司" />
+        <path src="res\drawable-xxhdpi\company_group.png" description="智能分组_公司" />
+    </resource>
+    <resource description="group_photos_container_bg" x="58" y="326" width="142" height="140" uuid="e3b5ddaa-42fe-490b-8394-09ef19e6958d">
+        <path src="res\drawable-hdpi\group_photos_container_bg.png" description="群组头像" />
+        <path src="res\drawable-xhdpi\group_photos_container_bg.png" description="群组头像" />
+        <path src="res\drawable-xxhdpi\group_photos_container_bg.png" description="群组头像" />
+    </resource>
+</screenshot>

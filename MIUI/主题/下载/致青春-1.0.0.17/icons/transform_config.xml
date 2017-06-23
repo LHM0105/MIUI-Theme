@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IconTransform>
+    <PointsMapping>
+        <Point fromX="0.0" fromY="0.0" toX="5.0" toY="7.0" />
+        <Point fromX="0.0" fromY="90.0" toX="3.0" toY="85.0" />
+        <Point fromX="90.0" fromY="90.0" toX="87.0" toY="87.0" />
+        <Point fromX="90.0" fromY="0.0" toX="85.0" toY="2.0" />
+    </PointsMapping>
+    <IconFilters>
+        <Filter name="Hsl">
+            <Param name="SaturationAdjust" value="-30" />
+            <Param name="LightnessAdjust" value="20" />
+        </Filter>
+    </IconFilters>
+</IconTransform>

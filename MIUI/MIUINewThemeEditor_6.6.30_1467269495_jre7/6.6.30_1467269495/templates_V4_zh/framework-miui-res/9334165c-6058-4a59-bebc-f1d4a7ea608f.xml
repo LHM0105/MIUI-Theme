@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 通知栏_开关" version="1.0" annotation="" tag="通知栏开关">
+    <resource description="status_bar_toggle_network_3g2g.png" x="52" y="178" width="82" height="82" uuid="d5d8adb4-7ea1-4fe9-8300-35473a4ca5a0">
+        <path src="res\drawable-xhdpi\status_bar_toggle_network_3g2g.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_privacy_mode_on.png" x="226" y="177" width="81" height="81" uuid="f1ea972f-2b28-4aa6-b175-cf3666be4f8c">
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_torch_on.png" x="408" y="178" width="82" height="82" uuid="c3c95a1f-a01b-4586-9eb6-c69726de79d0">
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_ac.png" x="587" y="177" width="81" height="81" uuid="4fa0d54b-a1e6-4411-b3e1-9d0e9e7f740b">
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_shutdown.png" x="409" y="432" width="81" height="81" uuid="ac05ceb7-0328-420a-9f9a-f797029ebb19">
+        <path src="res\drawable-xhdpi\status_bar_toggle_shutdown.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_reboot.png" x="587" y="432" width="81" height="81" uuid="020c5849-05ba-4f71-bd63-dc9e95b7c38c">
+        <path src="res\drawable-xhdpi\status_bar_toggle_reboot.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_screen_button_enabled.png" x="50" y="688" width="82" height="82" uuid="e9b3d4d0-eb04-4553-8e5b-712753ad853d">
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_disabled.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_enabled.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_lock.png" x="231" y="687" width="81" height="81" uuid="7959a97a-065e-4365-890b-19b443863e44">
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_drive_mode_on" x="54" y="430" width="80" height="80" uuid="934d37f7-11d3-45b7-8976-ea5754b9bab2">
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_power_high" x="232" y="424" width="80" height="80" uuid="d0eaa90a-6b39-4854-a1a8-827ad5713cb5">
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_high.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_low.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_middle.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_brightness_half" x="404" y="684" width="80" height="80" uuid="58692553-e3ed-429d-a478-95d21b45c4df">
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_half.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_on.png" description="" />
+    </resource>
+</screenshot>

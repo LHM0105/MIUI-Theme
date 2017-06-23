@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="新建联系人" version="3.3.1" annotation="" tag="按钮、输入框">
+    <resource description="v5_btn_bg_negative_warn_single_pressed_light.9" x="30" y="1170" width="658" height="100" uuid="e2981449-98bb-4317-a65c-78496ae5e3af">
+        <path src="res\drawable-hdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除按钮 " />
+        <path src="res\drawable-xhdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除按钮 " />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除按钮 " />
+        <path src="res\drawable-hdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除按钮 二态" />
+    </resource>
+    <resource description="v5_btn_bg_single_pressed_light.9" x="32" y="876" width="654" height="94" uuid="03a1c7e0-4974-413b-8265-6154e0e1cb3d">
+        <path src="res\drawable-hdpi\v5_btn_bg_single_normal_light.9.png" description="普通按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_single_normal_light.9.png" description="普通按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_single_normal_light.9.png" description="普通按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_single_pressed_light.9.png" description="普通按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_single_pressed_light.9.png" description="普通按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_single_pressed_light.9.png" description="普通按钮 二态" />
+    </resource>
+    <resource description="v5_group_first_item_bg_light.9" x="28" y="446" width="660" height="94" uuid="461d7a8b-94a4-4a7e-ada5-e882bd307f73">
+        <path src="res\drawable-hdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+        <path src="res\drawable-xhdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+    </resource>
+    <resource description="v5_group_middle_item_bg_light.9" x="208" y="246" width="482" height="94" uuid="6c498f4d-b34d-4e60-bf15-12d01b00aca9">
+        <path src="res\drawable-hdpi\v5_group_middle_item_bg_light.9.png" description="中输入框" />
+        <path src="res\drawable-xhdpi\v5_group_middle_item_bg_light.9.png" description="中输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_middle_item_bg_light.9.png" description="中输入框" />
+    </resource>
+    <resource description="v5_group_last_item_bg_light.9" x="28" y="544" width="660" height="94" uuid="17de268f-c5bc-4ba0-be1e-41e6308e7b5c">
+        <path src="res\drawable-hdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+        <path src="res\drawable-xhdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+    </resource>
+    <resource description="v5_group_single_item_bg_light.9" x="24" y="652" width="668" height="94" uuid="eaa3bf8a-aa7c-4aed-b839-f30afe30f0e2">
+        <path src="res\drawable-hdpi\v5_group_single_item_bg_light.9.png" description="单个输入框" />
+        <path src="res\drawable-xhdpi\v5_group_single_item_bg_light.9.png" description="单个输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_single_item_bg_light.9.png" description="单个输入框" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_default_pressed_light.9" x="598" y="60" width="102" height="64" uuid="62e9ec04-2a3b-429a-bdde-604744824ea7">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_pressed_light.9" x="14" y="61" width="108" height="69" uuid="91a43121-b939-41ba-807c-aa8be2e20ee7">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 二态" />
+    </resource>
+    <resource description="v5_preference_single_item_bg_pressed.9" x="28" y="1040" width="658" height="114" uuid="e8455675-cfdf-419f-9d0f-a9ba77dd56c9">
+        <path src="res\drawable-hdpi\v5_preference_single_item_bg_normal.9.png" description="群组背景" />
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_normal.9.png" description="群组背景" />
+        <path src="res\drawable-xxhdpi\v5_preference_single_item_bg_normal.9.png" description="群组背景" />
+        <path src="res\drawable-hdpi\v5_preference_single_item_bg_pressed.9.png" description="群组背景 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_single_item_bg_pressed.9.png" description="群组背景 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_single_item_bg_pressed.9.png" description="群组背景 二态" />
+    </resource>
+    <resource description="ic_contact_picture" x="25" y="151" width="168" height="163" uuid="277b08b4-000c-424f-97fb-7af657335b50">
+        <path src="res\drawable-hdpi\ic_contact_picture.png" description="联系人头像" />
+        <path src="res\drawable-xhdpi\ic_contact_picture.png" description="联系人头像" />
+        <path src="res\drawable-xxhdpi\ic_contact_picture.png" description="联系人头像" />
+    </resource>
+    <resource description="v5_group_first_item_bg_light.9" x="208" y="146" width="484" height="94" uuid="730d673c-8236-4cf0-9aac-2350f048f71f">
+        <path src="res\drawable-hdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+        <path src="res\drawable-xhdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_first_item_bg_light.9.png" description="上输入框" />
+    </resource>
+    <resource description="v5_group_last_item_bg_light.9" x="204" y="344" width="486" height="94" uuid="692e4f45-fe7f-477d-9d22-0b8f6c4c0753">
+        <path src="res\drawable-hdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+        <path src="res\drawable-xhdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+        <path src="res\drawable-xxhdpi\v5_group_last_item_bg_light.9.png" description="下输入框" />
+    </resource>
+</screenshot>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 桌面更新图标" version="3.4.12" annotation="" tag="">
+    <resource description="update_indicator" x="644" y="646" width="48" height="56" uuid="00660e7f-39f1-4a89-869c-7e6d442541a1">
+        <path src="res\drawable-en-hdpi\update_indicator.png" description="更新提示" />
+        <path src="res\drawable-hdpi\update_indicator.png" description="更新提示" />
+        <path src="res\drawable-zh-TW-hdpi\update_indicator.png" description="更新提示" />
+    </resource>
+</screenshot>

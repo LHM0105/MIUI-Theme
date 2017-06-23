@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 文件夹" version="2.9.16" annotation="" tag="文件夹">
+    <resource description="folder_background.9.png" x="6" y="153" width="704" height="767" uuid="09bf23b8-4b30-49ac-83b5-71013e2b77bc">
+        <path src="res\drawable-hdpi\folder_background.9.png" description="" />
+    </resource>
+    <resource description="folder_title_background.9.png" x="32" y="176" width="647" height="114" uuid="50da6ba6-5a4a-416a-9bd8-9231aa500caf">
+        <path src="res\drawable-hdpi\folder_title_background.9.png" description="" />
+    </resource>
+</screenshot>

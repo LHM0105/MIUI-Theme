@@ -1,0 +1,2156 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<bool name="abc_split_action_bar_is_narrow">true</bool>
+<bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+<bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+<bool name="abc_config_actionMenuItemAllCaps">true</bool>
+<bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+<bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+<color name="cloud_tab_child_url_color">#ff767678</color>
+<color name="cloud_tab_child_url_color_night">#ff24242d</color>
+<color name="cloud_tab_bg">#ff1a1b1e</color>
+<color name="cloud_device_text">#ff5f6062</color>
+<color name="top_bar_tabs_text_color_n">#80000000</color>
+<color name="top_bar_tabs_text_color_p">#ffffffff</color>
+<color name="top_bar_tabs_text_color_special_n">#40ffffff</color>
+<color name="top_bar_tabs_text_color_special_p">#40ffffff</color>
+<color name="v5_text_color_pressed_light">#ffffffff</color>
+<color name="v5_text_color_disable_light">#4d000000</color>
+<color name="v5_text_color_hint_light">#4d000000</color>
+<color name="cloud_tab_title_color_night">#ff46464e</color>
+<color name="cloud_tab_title_color">#ffffffff</color>
+<color name="cloud_tab_time_color_night">#ff303039</color>
+<color name="cloud_tab_time_color">#ff8d8d8f</color>
+<color name="cloud_tab_child_title_color_night">#ff303039</color>
+<color name="cloud_tab_child_title_color">#ffd1d1d2</color>
+<color name="history_item_url_unselected_color">#ffd0d0d0</color>
+<color name="indicated_top_bar_text_selected">#ffe6691e</color>
+<color name="history_item_title_unselected_color">#ffb2b2b2</color>
+<color name="cloud_device_text_night">#ff303039</color>
+<color name="notification_action_button_color_disable">#ffbdbdbd</color>
+<color name="voice_title_text_color">#ffed5137</color>
+<color name="notification_action_button_color_n">#ffffffff</color>
+<color name="notification_action_button_color_p">#ffffffff</color>
+<color name="url_input_suggest_bg_color_night">#ff111214</color>
+<color name="url_input_suggest_bg_color">#fff8f8f8</color>
+<color name="voice_circle_color">#ff000000</color>
+<color name="voice_sub_title_text_color_night">#1affffff</color>
+<color name="voice_title_text_color_night">#33ed5137</color>
+<color name="indicated_top_bar_text_normal">#ff606060</color>
+<color name="miui_history_group_header_txt_color_pressed">#66ffffff</color>
+<color name="miui_history_group_header_txt_color_normal">#66000000</color>
+<color name="voice_circle_color_night">#ffffffff</color>
+<color name="homepage_bg_color">#ffffffff</color>
+<color name="homepage_bg_color_night">#ff111214</color>
+<color name="homepage_divider_bg_color">#ffefeff0</color>
+<color name="homepage_divider_bg_color_night">#ff18191b</color>
+<color name="hitory_item_title_selected_color">#ffff5816</color>
+<color name="bookmark_new_folder_edit_text_color">#ffa5a5a6</color>
+<color name="voice_sub_title_text_color">#80000000</color>
+<color name="webpage_operation_view_bg">#80000000</color>
+<color name="default_browser_dialog_white">#ffffffff</color>
+<color name="backgroud_white">#ffffffff</color>
+<color name="quicklink_group_title">#ff313131</color>
+<color name="default_browser_dialog_txt_summary">#ff7e7e7e</color>
+<color name="quicklink_OKBtn_off">#7f888989</color>
+<color name="quicklink_group_subtitle">#ffb8b8b8</color>
+<color name="quicklink_unClick_Url">#ff979797</color>
+<color name="quicklink_OKBtn_on">#ffffffff</color>
+<color name="adblock_tip_text_color_phish">#ffd9b5af</color>
+<color name="adblock_tip_text_color_incognito">#ff9897a8</color>
+<color name="readmode_divider">#ffb6b6b6</color>
+<color name="backgroud_translucent_dark">#7f000000</color>
+<color name="status_bar_color_normal_phish">#ff721605</color>
+<color name="status_bar_color_normal_incognito">#ff272444</color>
+<color name="adblock_tip_text_color">#ffededed</color>
+<color name="adblock_tip_text_color_night">#ff424345</color>
+<color name="tabs_text_color_special_n">#80ffffff</color>
+<color name="tabs_text_color_special_p">#d8ffffff</color>
+<color name="status_bar_color_normal">#ffefeff0</color>
+<color name="status_bar_color_normal_night">#ff111214</color>
+<color name="quicklink_add_to_desk_title">#ff6f6f6f</color>
+<color name="portrait_menu_text_color_p">#ffffffff</color>
+<color name="portrait_menu_text_color_n">#ff636363</color>
+<color name="readmode_portrait_menu_text_color_night">#ffbbbbbb</color>
+<color name="infoflow_tab_text_default_color_incognito">#ffa28ef3</color>
+<color name="portrait_menu_text_color_night_n">#ff606161</color>
+<color name="portrait_menu_text_color_highlight">#fff35d02</color>
+<color name="portrait_menu_text_color_d">#ffcacaca</color>
+<color name="infoflow_tab_text_default_color">#ff9ceeff</color>
+<color name="title_bar_default_color_incognito">#ff635db0</color>
+<color name="title_bar_default_color">#ff26a3eb</color>
+<color name="portrait_menu_text_color_night_d">#ff1f2022</color>
+<color name="portrait_menu_text_color_night_p">#ffa9a9aa</color>
+<color name="url_input_suggest_indicator_text_color">#ffc4c4c4</color>
+<color name="url_input_suggest_highlight_night">#ff542816</color>
+<color name="quicklink_title_unSelected">#ffaaabab</color>
+<color name="quicklink_title_selected">#ffff5816</color>
+<color name="url_input_suggest_highlight">#ffee5b1a</color>
+<color name="add_quicklink_title">#ff333333</color>
+<color name="landscape_menu_text_color_p">#ff4b4b4b</color>
+<color name="landscape_menu_text_color_d">#ffcacaca</color>
+<color name="landscape_custom_menu_bg_color">#fffafafa</color>
+<color name="quicklink_add_to">#ffadadad</color>
+<color name="navigationbar_rightbutton_actiontext_color_night">#4dffffff</color>
+<color name="quicklink_add_to_desk_title_night">#ff2c2d2f</color>
+<color name="quicklink_panel_title_normal">#ff4c4c4c</color>
+<color name="quicklink_panel_title_night">#ff3f4041</color>
+<color name="navigationbar_rightbutton_actiontext_color">#cc000000</color>
+<color name="home_indicator_bar_bg_color_night">#fff8f8f8</color>
+<color name="home_indicator_bar_bg_color">#fff8f8f8</color>
+<color name="url_input_suggest_indicator_text_color_night">#ff292a2c</color>
+<color name="top_bar_tabs_text_color_night_p">#26ffffff</color>
+<color name="top_bar_tabs_text_color_night_n">#26ffffff</color>
+<color name="tabs_text_color_night_p">#ffaaaaaa</color>
+<color name="tabs_text_color_night_n">#ff414244</color>
+<color name="tabs_text_color_p">#ffffffff</color>
+<color name="v5_primary_text_color_light">#ff000000</color>
+<color name="tabs_text_color_n">#ff000000</color>
+<color name="v5_text_color_hilighted_disabled_light">#ffffaf7e</color>
+<color name="v5_menu_preference_list_color_light">#cc000000</color>
+<color name="v5_text_color_hilighted_light">#fff05000</color>
+<color name="portrait_menu_account_hint_text_color">#ffaeaeae</color>
+<color name="landscape_menu_text_color_n">#ff4b4b4b</color>
+<color name="portrait_menu_text_color_night_highlight">#ff742400</color>
+<color name="portrait_menu_accout_text_color">#ff323232</color>
+<color name="action_mode_title_default_button_text_color_disable_light">#4dffffff</color>
+<color name="action_mode_title_default_button_text_color_pressed_light">#ffffffff</color>
+<color name="action_mode_title_default_button_text_color_pressed_dark">#ffffffff</color>
+<color name="action_mode_title_default_button_text_color_normal_dark">#ffffffff</color>
+<color name="bright_foreground_light">#cc000000</color>
+<color name="action_mode_title_default_button_text_color_disable_dark">#4dffffff</color>
+<color name="bright_foreground_light_inverse"></color>
+<color name="bright_foreground_light_disabled">#4c000000</color>
+<color name="action_mode_title_text_color_light">#9a000000</color>
+<color name="action_mode_title_button_text_color_normal_light">#cc000000</color>
+<color name="action_mode_title_button_text_color_pressed_light">#ffffffff</color>
+<color name="action_mode_title_button_text_color_disable_light">#4d000000</color>
+<color name="action_mode_title_button_text_color_normal_dark">#cc000000</color>
+<color name="action_mode_title_button_text_color_pressed_dark">#ffffffff</color>
+<color name="bright_foreground_dark">#ccffffff</color>
+<color name="bright_foreground_dark_disabled">#4cffffff</color>
+<color name="bright_foreground_dark_inverse"></color>
+<color name="hint_foreground_dark">#4cffffff</color>
+<color name="dim_foreground_dark_inverse"></color>
+<color name="dim_foreground_dark_disabled"></color>
+<color name="dim_foreground_dark">#7fffffff</color>
+<color name="pressed_text_light"></color>
+<color name="link_text_dark">#ccffffff</color>
+<color name="highlighted_text_dark">#4df06410</color>
+<color name="dim_foreground_light">#7f000000</color>
+<color name="hint_foreground_light">#4c000000</color>
+<color name="highlighted_text_light">#4df06410</color>
+<color name="dim_foreground_light_disabled"></color>
+<color name="dim_foreground_light_inverse"></color>
+<color name="link_text_light">#cc000000</color>
+<color name="disabled_text_dark">#4dffffff</color>
+<color name="checked_text_dark">#fff05000</color>
+<color name="selected_text_dark"></color>
+<color name="activated_text_dark"></color>
+<color name="abc_search_url_text_normal">#ff7fa87f</color>
+<color name="action_button_text_color_normal_light">#73000000</color>
+<color name="action_button_text_color_selected_light">#73000000</color>
+<color name="action_button_text_color_pressed_light">#73000000</color>
+<color name="action_button_text_color_disable_light">#4d000000</color>
+<color name="action_bar_subtitle_text_light">#7f000000</color>
+<color name="action_bar_title_text_light">#b2000000</color>
+<color name="abc_search_url_text_pressed"></color>
+<color name="abc_search_url_text_selected"></color>
+<color name="miui_window_background">#fff8f8f8</color>
+<color name="action_mode_title_button_text_color_disable_dark">#4d000000</color>
+<color name="action_mode_title_default_button_text_color_normal_light">#ffffffff</color>
+<color name="preference_category_text_color_light">#66000000</color>
+<color name="list_text_color_disable_light">#66000000</color>
+<color name="list_text_color_normal_light">#ff000000</color>
+<color name="list_text_color_pressed_light">#ff000000</color>
+<color name="list_secondary_text_color_pressed_dark">#73ffffff</color>
+<color name="edit_text_color_light">#cc000000</color>
+<color name="edit_text_color_light_disabled">#4c000000</color>
+<color name="hint_edit_text_color_light">#4c000000</color>
+<color name="dark_miui_text_edit_action_popup_text_normal">#ccffffff</color>
+<color name="color_milink_device_divider">#778d8d8d</color>
+<color name="dark_miui_text_edit_action_popup_text_pressed">#ff0091dc</color>
+<color name="color_milink_device_item_n">#ff8d8d8d</color>
+<color name="color_milink_device_title">#ffdddddd</color>
+<color name="color_milink_playing_message">#ff8d8d8d</color>
+<color name="color_milink_device_item_s">#fff95805</color>
+<color name="list_text_color_normal_dark">#ccffffff</color>
+<color name="list_text_color_disable_dark">#66ffffff</color>
+<color name="color_picker_border_color">#ffb0b0b0</color>
+<color name="dropdown_dark_divider_color">#ffc0c0c0</color>
+<color name="miui_text_edit_action_popup_text_normal">#d9000000</color>
+<color name="color_picker_background_color">#ffffffff</color>
+<color name="tae_sdk_login_qr_colors_highlight">#ffff9900</color>
+<color name="dropdown_divider_color">#ffe5e5e5</color>
+<color name="color_milink_playing_button_s">#ff939393</color>
+<color name="video_seekbar_fr_color">#ffffffff</color>
+<color name="color_milink_playing_button_n">#ff8d8d8d</color>
+<color name="url_high_light_color">#fffdd6b0</color>
+<color name="url_color">#ff7e7e7e</color>
+<color name="label_font_color">#ff999999</color>
+<color name="group_text_night">#bb808080</color>
+<color name="url_hint_color_white">#ffffffff</color>
+<color name="url_hint_color_night">#ff68686a</color>
+<color name="url_hint_color">#ffb0b0b0</color>
+<color name="url_color_night">#ff656565</color>
+<color name="miui_text_edit_action_popup_text_pressed">#ff0091dc</color>
+<color name="selected_text_light"></color>
+<color name="activated_text_light"></color>
+<color name="dialog_list_text_color_disabled_light">#33000000</color>
+<color name="dialog_list_text_color_pressed_light">#cc000000</color>
+<color name="dialog_title_text_color">#cc000000</color>
+<color name="dialog_message_text_color_dark">#e6ffffff</color>
+<color name="dialog_message_text_color_light">#7f000000</color>
+<color name="dialog_list_text_color_normal_light">#cc000000</color>
+<color name="list_divider_color_light">#ffcccccc</color>
+<color name="button_text_color_disabled_light_warning">#4cffffff</color>
+<color name="preference_primary_text_color_light">#cc000000</color>
+<color name="list_item_bg_focused_light">#ffebebeb</color>
+<color name="button_text_color_normal_light_warning">#ffffffff</color>
+<color name="checked_text_light">#fff05000</color>
+<color name="disabled_text_light">#4d000000</color>
+<color name="pressed_text_dark"></color>
+<color name="checked_disabled_text_light">#ffffaf7e</color>
+<color name="action_bar_title_text_color_light">#99000000</color>
+<color name="button_text_color_light">#ff737373</color>
+<color name="dialog_checkbox_text_color_normal_light">#e6000000</color>
+<color name="preference_secondary_text_color_pressed_light">#66000000</color>
+<color name="preference_secondary_text_color_light">#66000000</color>
+<color name="preference_secondary_text_color_disable_light">#4d000000</color>
+<color name="preference_primary_text_color_disable_light">#4d000000</color>
+<color name="preference_primary_text_color_pressed_light">#cc000000</color>
+<color name="list_secondary_text_color_normal_dark">#73ffffff</color>
+<color name="list_secondary_text_color_disable_dark">#33ffffff</color>
+<color name="list_secondary_text_color_pressed_light">#7f000000</color>
+<color name="list_secondary_text_color_normal_light">#7f000000</color>
+<color name="list_secondary_text_color_disable_light">#33000000</color>
+<color name="list_text_color_pressed_dark">#ccffffff</color>
+<color name="button_text_color_disabled_light_positive">#7f4b8d0e</color>
+<color name="button_text_color_normal_light_positive">#ff4b8d0e</color>
+<color name="button_text_color_light_negative">#ffec2700</color>
+<color name="homepage_banner_color_night">#ff161719</color>
+<color name="homepage_banner_text_color">#99000000</color>
+<color name="tabslayout_background_color_dark"></color>
+<color name="tabslayout_background_color_incognito"></color>
+<color name="tabslayout_tabview_text_color_n">#ff9e9e9e</color>
+<color name="tabslayout_background_color"></color>
+<color name="divider_color_incognito">#ff3d3b54</color>
+<color name="tabslayout_tabview_text_color_s">#ffe45000</color>
+<color name="divider_color_dark"></color>
+<color name="hot_words_item_text_color">#b2000000</color>
+<color name="clear_input_history_text_color_night">#ff1d1e20</color>
+<color name="clear_input_history_text_color">#99000000</color>
+<color name="hot_words_bottom_margin_color_night">#ff161719</color>
+<color name="parent_path_text_nomal">#ff424242</color>
+<color name="homepage_banner_color">#ffebebeb</color>
+<color name="path_text_night">#ff5f5f5f</color>
+<color name="homepage_site_text_color">#cc000000</color>
+<color name="path_text_nomal">#ff6a6a6a</color>
+<color name="homepage_search_button_text_color">#ffffffff</color>
+<color name="indicated_viewpager_divider_color_night">#ff292a2c</color>
+<color name="homepage_search_hint_text_color">#4c000000</color>
+<color name="common_use_bottom_bar_paste">#ffdcdbdb</color>
+<color name="parent_path_text_night">#ff7f7f7f</color>
+<color name="homepage_card_bg_color">#ffffffff</color>
+<color name="homepage_card_title_text_color">#b2000000</color>
+<color name="homepage_card_bg_color_night">#ff111214</color>
+<color name="search_engine_menu_text_hightlight">#ffff560c</color>
+<color name="nav_screen_title_text_color_normal">#33ffffff</color>
+<color name="nav_screen_title_text_color_selected">#88ffffff</color>
+<color name="hot_words_bottom_margin_color">#ffebebeb</color>
+<color name="homepage_banner_text_color_night">#33ffffff</color>
+<color name="search_engine_menu_text_normal">#99000000</color>
+<color name="homepage_search_recommend_text_color">#cc000000</color>
+<color name="homepage_top_banner_text_hightlight_color_normal_night">#55ff4501</color>
+<color name="homepage_top_banner_text_hightlight_color_normal">#ffff560c</color>
+<color name="list_item_url_text_color">#ffa9a9a9</color>
+<color name="homepage_search_weather_text_color">#99000000</color>
+<color name="homepage_search_tempturature_text_color">#99000000</color>
+<color name="list_item_url_text_color_night">#ff919191</color>
+<color name="suggestion_text_color_offical_activity_night">#ff601d00</color>
+<color name="list_item_title_text_color_night">#bb808080</color>
+<color name="search_buttun_color_normal">#ff565656</color>
+<color name="suggestion_site_bg_color_website_nav_night">#ff161719</color>
+<color name="list_item_text_pressed_color">#ffffffff</color>
+<color name="suggestion_site_bg_color_website_nav">#ffe9e9e9</color>
+<color name="readmode_divider_night">#ff121314</color>
+<color name="search_hint_color">#66000000</color>
+<color name="indicated_view_pager_text_normal_night">#ff292a2c</color>
+<color name="indicated_view_pager_text_selected_night">#ff414143</color>
+<color name="indicated_view_pager_text_normal">#ff7c7c7c</color>
+<color name="indicated_view_pager_text_selected">#ffff5816</color>
+<color name="no_history_night">#ff5d5d5d</color>
+<color name="history_list_item_separator_color">#ffe0e0e0</color>
+<color name="search_hint_color_night">#33ffffff</color>
+<color name="no_history">#80323232</color>
+<color name="menu_red_dot_color_night">#ff5b2626</color>
+<color name="menu_red_dot_color">#fffb5d5d</color>
+<color name="url_hint_color_edit_mode">#ffcacaca</color>
+<color name="url_hint_color_white_night">#ffcacaca</color>
+<color name="bookmarkListFaviconBackground">#23ffffff</color>
+<color name="select_color_pad">#fff26b22</color>
+<color name="bookmarkWidgetFaviconBackground">#23ffffff</color>
+<color name="fragment_title_color_d">#ffcacaca</color>
+<color name="black">#ff000000</color>
+<color name="white">#ffffffff</color>
+<color name="history_item_url_text_color">#ff959595</color>
+<color name="contextmenu_popup_window_text_n">#cc000000</color>
+<color name="history_item_title_text_color">#ff4a4a4a</color>
+<color name="contextmenu_popup_window_bg">#40000000</color>
+<color name="divider_color_pad">#ffcecece</color>
+<color name="normal_color_pad">#ffffffff</color>
+<color name="divider_color">#ffcecece</color>
+<color name="info_bar_title_color">#ff585858</color>
+<color name="info_bar_url_color">#ff818181</color>
+<color name="contextmenu_popup_window_text_p">#ffffffff</color>
+<color name="operation_view_text_color">#ffa9a9a9</color>
+<color name="contextmenu_popup_window_text_d">#ffdadadb</color>
+<color name="operation_view_text_color_night">#ff808080</color>
+<color name="url_view_container_line_color">#ffcccccc</color>
+<color name="bookmark_list_item_label_null_text_color">#ffa9a9a9</color>
+<color name="url_view_container_line_color_incognito">#ff4e4c6b</color>
+<color name="list_item_title_text_color">#ff636363</color>
+<color name="btn_show_more_and_title_text_color">#ff9e9e9e</color>
+<color name="info_bar_title_highlight_color">#ffeeeeee</color>
+<color name="security_access_tip_color">#ff139c36</color>
+<color name="info_bar_url_highlight_color">#ffe1e1e1</color>
+<color name="security_access_tip_color_night">#ff0b561e</color>
+<color name="info_bar_title_color_night">#33ffffff</color>
+<color name="shortcut_default_color">#ff5b6374</color>
+<color name="info_bar_url_color_night">#1affffff</color>
+<color name="fragment_label_color">#ffcacaca</color>
+<color name="quicklinkpage_bg_color_pad">#ffffffff</color>
+<color name="fragment_title_color_n">#ff585858</color>
+<color name="indicated_viewpager_divider_color">#ffb0b0b0</color>
+<color name="clear_search_history_color_night">#ff1e4a5f</color>
+<color name="clear_search_history_color">#ff323232</color>
+<color name="hot_words_item_text_color_night">#ff353537</color>
+<color name="search_color_night">#ff656565</color>
+<color name="url_hint_color_edit_mode_night">#ff333335</color>
+<color name="hot_words_bg_color_night">#ff111214</color>
+<color name="hot_words_bg_color">#fff8f8f8</color>
+<color name="search_color">#ff000000</color>
+<color name="hot_words_item_text_bg_color_night">#ff1a1b1d</color>
+<color name="url_status_color">#ffffffff</color>
+<color name="hot_words_item_text_bg_color">#ffe9e9e9</color>
+<color name="numberpicker_hint_text">#7f000000</color>
+<color name="find_on_page_bar_divider_color_night">#ff1b1c1e</color>
+<color name="find_on_page_bar_divider_color">#ffe1e1e1</color>
+<color name="device_tip_color">#ffa3a3a3</color>
+<color name="button_text_normal_color">#ff565656</color>
+<color name="button_text_pressed_color">#ffffffff</color>
+<color name="file_picker_root_path_item_text_color">#ff494949</color>
+<color name="file_picker_path_item_text_color">#ffababab</color>
+<color name="qr_button_color_d">#ffcfcfd0</color>
+<color name="action_mode_ok_button_text_color_disable">#4dffffff</color>
+<color name="action_mode_ok_button_text_color_normal_night">#ff4c4c4c</color>
+<color name="action_mode_ok_button_text_color_normal">#ffffffff</color>
+<color name="action_mode_ok_button_text_color_pressed">#ffffffff</color>
+<color name="action_mode_cancle_button_text_color_disable">#4d000000</color>
+<color name="action_mode_cancle_button_text_color_normal_night">#ff3f4041</color>
+<color name="action_mode_cancle_button_text_color_normal">#cc000000</color>
+<color name="action_mode_cancle_button_text_color_pressed">#ffffffff</color>
+<color name="device_title_color">#ff303030</color>
+<color name="dir_tip_color">#ff6c6c6c</color>
+<color name="webpage_operation_color_n_night">#ff3f4041</color>
+<color name="webpage_operation_color_p">#ffe4e4e4</color>
+<color name="webpage_operation_color_p_night">#ff424244</color>
+<color name="info_bar_title_highlight_color_night">#4dffffff</color>
+<color name="webpage_operation_color_n">#ff6c6c6c</color>
+<color name="info_bar_url_highlight_color_night">#33ffffff</color>
+<color name="qr_button_color_n">#ff707070</color>
+<color name="copy_qr_color_p">#ffe4e4e4</color>
+<color name="copy_qr_color_n_night">#ff3f4041</color>
+<color name="copy_qr_color_p_night">#ff424244</color>
+<color name="qr_url_color">#ff989899</color>
+<color name="copy_qr_bg">#80000000</color>
+<color name="copy_qr_splite">#ffc1c1c2</color>
+<color name="copy_qr_splite_night">#ff292a2c</color>
+<color name="copy_qr_color_n">#ff6c6c6c</color>
+<color name="homepage_card_text_color_night">#33ffffff</color>
+<color name="homepage_top_banner_text_pressed_color_night">#556ea7fa</color>
+<color name="homepage_top_banner_text_pressed_color">#ff6ea7fa</color>
+<color name="homepage_top_banner_text_normal_color">#99666666</color>
+<color name="homepage_card_hint_text_color_night">#18ffffff</color>
+<color name="suggestion_title_text_color_night">#ff292a2c</color>
+<color name="suggestion_title_text_color">#b3000000</color>
+<color name="version_update_message_color">#ff959595</color>
+<color name="version_update_title_color">#ff323232</color>
+<color name="miuisearch_divider">#00ffffff</color>
+<color name="miuisearch_window_bg">#00000000</color>
+<color name="suggestion_action_button_music">#ffd94263</color>
+<color name="suggestion_action_button_yellow">#fff8a300</color>
+<color name="suggestion_detail_text_color_night">#ff1d1e20</color>
+<color name="suggestion_action_button_app">#ff62b416</color>
+<color name="quick_search_suggestion_text_color">#3cffffff</color>
+<color name="suggestion_text_color_offical_activity">#ffff560c</color>
+<color name="suggestion_url_text_color_night">#ff1d1e20</color>
+<color name="suggestion_url_text_color">#80000000</color>
+<color name="suggestion_detail_text_color">#9a000000</color>
+<color name="suggestion_action_button_text_color">#ffffffff</color>
+<color name="find_on_page_bar_text_color_p">#ffffffff</color>
+<color name="find_on_page_bar_text_color_n">#ff8a8a8a</color>
+<color name="find_on_page_bar_text_color_n_night">#ff404041</color>
+<color name="find_on_page_bar_text_color_d_night">#ff2b2e2e</color>
+<color name="find_on_page_bar_text_color_p_night">#ff454546</color>
+<color name="find_on_page_bar_text_color_d">#ffd9d9d9</color>
+<color name="numberpicker_highlight_text">#ffdf5600</color>
+<color name="numberpicker_label">#ffdf5600</color>
+<color name="adblock_rules_listview_divider">#ffc0c0c1</color>
+<color name="webview_color_normal">#ffffffff</color>
+<color name="webview_color_night">#ff111214</color>
+<color name="miuisearch_searchengine_text_color">#88ffffff</color>
+<color name="miuisearch_suggest_text_color">#ccffffff</color>
+<dimen name="find_on_page_bar_text_size">13.329987sp</dimen>
+<dimen name="find_on_page_bar_matches_size">10.329987sp</dimen>
+<dimen name="indicator_bar_notification_padding">5.000000dp</dimen>
+<dimen name="indicated_viewpager_divider_height">12.669983dp</dimen>
+<dimen name="indicated_viewpager_item_padding">8.000000dp</dimen>
+<dimen name="indicated_viewpager_item_min_width">67.000000dp</dimen>
+<dimen name="bookmark_new_folder_edittext_margin_top">23.329987dp</dimen>
+<dimen name="popup_filter_item_min_height">40.000000dp</dimen>
+<dimen name="popup_filter_icon_size">32.000000dp</dimen>
+<dimen name="tab_indicator_height">37.329987dp</dimen>
+<dimen name="quick_icon_corner_size">7.000000dp</dimen>
+<dimen name="portrait_custom_menu_indicator_height">13.000000dp</dimen>
+<dimen name="quicklink_icon_top_margin_size">6.000000dp</dimen>
+<dimen name="quick_input_text_size">12.000000sp</dimen>
+<dimen name="landscape_custom_menu_height">96.000000dp</dimen>
+<dimen name="quicklink_close_margin_size">10.000000dp</dimen>
+<dimen name="portrait_custom_menu_height_single_page">169.329987dp</dimen>
+<dimen name="landscape_custom_menu_width">225.000000dp</dimen>
+<dimen name="portrait_custom_menu_height">276.664062dp</dimen>
+<dimen name="portrait_custom_menu_height_multi_page">182.329987dp</dimen>
+<dimen name="spacing_margin_quicklinks_item_land">31.000000dp</dimen>
+<dimen name="spacing_between_quicklinks_item_vertical">7.000000dp</dimen>
+<dimen name="portrait_search_input_left_right">25.000000dp</dimen>
+<dimen name="spacing_margin_quicklinks_item_port">16.000000dp</dimen>
+<dimen name="history_item_icon_height">13.329987dp</dimen>
+<dimen name="history_item_height">56.329987dp</dimen>
+<dimen name="history_item_icon_width">13.329987dp</dimen>
+<dimen name="bookmarkThumbnailHeight">80.000000dp</dimen>
+<dimen name="history_item_padding_left">23.329987dp</dimen>
+<dimen name="add_quicklink_title_size">9.000000sp</dimen>
+<dimen name="quicklink_list_item_size">39.699982dp</dimen>
+<dimen name="quick_link_page_translate_height">65.000000dp</dimen>
+<dimen name="quick_link_panel_top_padding_no_search">7.299988dp</dimen>
+<dimen name="quick_link_panel_top_padding">26.669983dp</dimen>
+<dimen name="quick_link_panel_bottom_padding">10.000000dp</dimen>
+<dimen name="spacing_margin_quicklinks_top">12.599976dp</dimen>
+<dimen name="spacing_margin_quicklinks_top_init">16.599976dp</dimen>
+<dimen name="history_item_url_padding_left">20.000000dp</dimen>
+<dimen name="history_item_title_left_padding">6.669983dp</dimen>
+<dimen name="history_item_title_right_padding">10.000000dp</dimen>
+<dimen name="toolbox_menu_height_single_line">182.000000dp</dimen>
+<dimen name="find_on_page_bar_height">33.329987dp</dimen>
+<dimen name="portrait_custom_menu_left_right_padding">15.000000dp</dimen>
+<dimen name="portrait_menu_text_bottom_margin_first_row">13.669983dp</dimen>
+<dimen name="portrait_menu_text_bottom_margin_second_row">25.329987dp</dimen>
+<dimen name="portrait_menu_text_margin_top">10.000000dp</dimen>
+<dimen name="bookmarkThumbnailWidth">90.000000dp</dimen>
+<dimen name="quicklink_add_margin">24.000000dp</dimen>
+<dimen name="quicklink_add_to_size">11.000000sp</dimen>
+<dimen name="quicklink_add_title_size">13.500000sp</dimen>
+<dimen name="quicklink_height">84.000000dp</dimen>
+<dimen name="quicklink_width">73.000000dp</dimen>
+<dimen name="quicklink_defined_url_size">8.000000sp</dimen>
+<dimen name="quicklink_defined_title_paddingmargin">10.000000dp</dimen>
+<dimen name="history_group_txt_size">13.000000sp</dimen>
+<dimen name="history_item_padding_bottom">7.000000dp</dimen>
+<dimen name="text_font_size_medium">13.329987sp</dimen>
+<dimen name="widgetItemMinHeight">45.000000dp</dimen>
+<dimen name="border_gesture_min_distance">50.000000dp</dimen>
+<dimen name="border_gesture_slot">10.000000dp</dimen>
+<dimen name="estimated_landscape_keyboard_height">230.000000dp</dimen>
+<dimen name="estimated_portrait_keyboard_height">290.000000dp</dimen>
+<dimen name="nav_tab_landscape_mode_info_bar_text_line_spacing">2.000000dp</dimen>
+<dimen name="nav_tab_item_landscape_mode_infobar_height">27.000000dp</dimen>
+<dimen name="nav_tab_item_grid_mode_infobar_height">27.000000dp</dimen>
+<dimen name="nav_tab_item_pave_mode_infobar_height">44.000000dp</dimen>
+<dimen name="nav_tab_info_bar_right_padding">44.000000dp</dimen>
+<dimen name="nav_tab_grid_mode_info_bar_text_line_spacing">2.000000dp</dimen>
+<dimen name="nav_tab_pave_mode_info_bar_text_line_spacing">3.000000dp</dimen>
+<dimen name="text_font_size_small">11.000000sp</dimen>
+<dimen name="tabs_number_text_size">18.669983dp</dimen>
+<dimen name="miui_magnifier_width">106.000000dp</dimen>
+<dimen name="scroll_thumb_height">35.000000dp</dimen>
+<dimen name="scroll_thumb_width">27.000000dp</dimen>
+<dimen name="history_header_padding_left">23.329987dp</dimen>
+<dimen name="history_header_height">40.000000dp</dimen>
+<dimen name="tab_container_padding_bottom">13.000000dp</dimen>
+<dimen name="tab_container_padding_top">13.000000dp</dimen>
+<dimen name="tab_container_padding_right">23.329987dp</dimen>
+<dimen name="indicator_bar_height">32.000000dp</dimen>
+<dimen name="sys_status_bar_height">25.000000dp</dimen>
+<dimen name="tab_scale_animation_value">16777191.000000dp</dimen>
+<dimen name="tab_container_height">53.329987dp</dimen>
+<dimen name="storage_volume_item_icon_paddingleft">13.000000dp</dimen>
+<dimen name="storage_volume_item_icon_paddingright">11.000000dp</dimen>
+<dimen name="miui_magnifier_padding_top">12.000000dp</dimen>
+<dimen name="miui_magnifier_height">53.000000dp</dimen>
+<dimen name="miui_magnifier_padding_left">12.000000dp</dimen>
+<dimen name="ratingbar_size_small">9.000000dp</dimen>
+<dimen name="ratingbar_size_indicator">9.000000dp</dimen>
+<dimen name="keyboard_accessory_half_padding">4.000000dp</dimen>
+<dimen name="keyboard_accessory_fading_edge_length">16.000000dp</dimen>
+<dimen name="keyboard_accessory_padding">8.000000dp</dimen>
+<dimen name="keyboard_accessory_height">48.000000dp</dimen>
+<dimen name="link_preview_overlay_radius">7.000000dp</dimen>
+<dimen name="keyboard_accessory_text_size">14.000000sp</dimen>
+<dimen name="miui_text_edit_action_popup_text_size">14.000000dp</dimen>
+<dimen name="miui_text_action_popup_padding">18.669983dp</dimen>
+<dimen name="toolbar_height">45.000000dp</dimen>
+<dimen name="history_item_url_padding_top">8.000000dp</dimen>
+<dimen name="tab_container_padding_left">23.329987dp</dimen>
+<dimen name="ratingbar_size_large">18.000000dp</dimen>
+<dimen name="color_picker_gradient_margin">14.500000dp</dimen>
+<dimen name="color_button_height">60.000000dp</dimen>
+<dimen name="dropdown_item_height">44.000000dp</dimen>
+<dimen name="preference_fragment_padding_bottom">15.000000dp</dimen>
+<dimen name="progressbar_size">20.000000dp</dimen>
+<dimen name="progressbar_size_small">16.699982dp</dimen>
+<dimen name="progressbar_horizontal_indeterminate_height">10.000000dp</dimen>
+<dimen name="progressbar_horizontal_small_height">25.000000dp</dimen>
+<dimen name="ratingbar_size">9.000000dp</dimen>
+<dimen name="seekbar_height">18.000000dp</dimen>
+<dimen name="progressbar_horizontal_top_padding">13.000000dp</dimen>
+<dimen name="config_min_scaling_touch_major">48.000000dp</dimen>
+<dimen name="keyboard_accessory_chip_height">32.000000dp</dimen>
+<dimen name="dropdown_item_divider_height">1.000000px</dimen>
+<dimen name="config_min_scaling_span">27.000000mm</dimen>
+<dimen name="preference_item_padding_top">13.000000dp</dimen>
+<dimen name="preference_item_padding_bottom">13.000000dp</dimen>
+<dimen name="preference_icon_minWidth">0.000000dp</dimen>
+<dimen name="preference_item_padding_inner">13.000000dp</dimen>
+<dimen name="preference_icon_max_height">47.000000dp</dimen>
+<dimen name="landscape_custom_menu_width_pad">369.000000dp</dimen>
+<dimen name="landscape_custom_menu_paddingleft">30.000000dp</dimen>
+<dimen name="readmode_menu_item_landscape_pad">110.000000dp</dimen>
+<dimen name="customizer_icon_size">64.000000dp</dimen>
+<dimen name="quicklink_icon_size">52.000000dp</dimen>
+<dimen name="download_bottom_bar_padding">21.329987dp</dimen>
+<dimen name="download_list_item_left_padding">5.000000dp</dimen>
+<dimen name="bottom_bar_height">56.000000dp</dimen>
+<dimen name="cloud_tab_top_margin">10.000000dp</dimen>
+<dimen name="tab_pager_info_bar_padding">10.000000dp</dimen>
+<dimen name="cloud_tab_bottom_margin">10.000000dp</dimen>
+<dimen name="activity_horizontal_margin">16.000000dp</dimen>
+<dimen name="cloud_tab_portrait_side_offset_percentage">0.080000%</dimen>
+<dimen name="activity_vertical_margin">16.000000dp</dimen>
+<dimen name="cloud_tab_landscape_side_offset_percentage">0.050000%</dimen>
+<dimen name="download_list_item_height">63.329987dp</dimen>
+<dimen name="url_view_container_line_margin">8.000000dp</dimen>
+<dimen name="app_icon_size">45.000000dp</dimen>
+<dimen name="download_list_title_height">37.329987dp</dimen>
+<dimen name="download_item_vertical_distance">3.000000dp</dimen>
+<dimen name="homepage_search_engine_menu_padding">23.299988dp</dimen>
+<dimen name="top_bar_tabs_size">33.329987dp</dimen>
+<dimen name="tab_width_pad">170.000000dp</dimen>
+<dimen name="homepage_card_height_video">387.000000dp</dimen>
+<dimen name="homepage_card_height_forum">396.000000dp</dimen>
+<dimen name="homepage_card_title_padding">5.000000dp</dimen>
+<dimen name="homepage_card_height_news">437.000000dp</dimen>
+<dimen name="navigationbar_rightbutton_actiontext_size">13.000000sp</dimen>
+<dimen name="custom_head_card_height">168.000000dp</dimen>
+<dimen name="portrait_menu_text_bottom_margin_first_row_pad">6.000000dp</dimen>
+<dimen name="favicon_icon_height">22.599976dp</dimen>
+<dimen name="title_bar_height">45.329987dp</dimen>
+<dimen name="url_right_width">56.659973dp</dimen>
+<dimen name="contextmenu_popupwindow_item_height">50.000000dp</dimen>
+<dimen name="favicon_icon_width">22.599976dp</dimen>
+<dimen name="fragment_padding_pad">10.000000dp</dimen>
+<dimen name="contextmenu_popupwindow_width">220.000000dp</dimen>
+<dimen name="portrait_menu_text_padding_top">6.000000dp</dimen>
+<dimen name="contextmenu_popupwindow_background_round">10.000000dp</dimen>
+<dimen name="homepage_page_search_banner_bottom_margin">12.000000dp</dimen>
+<dimen name="homepage_page_search_banner_height">19.699982dp</dimen>
+<dimen name="homepage_page_translate_height">105.000000dp</dimen>
+<dimen name="homepage_card_height_keyword">252.000000dp</dimen>
+<dimen name="homepage_search_engine_menu_height">51.000000dp</dimen>
+<dimen name="homepage_page_search_banner_text_size">12.000000sp</dimen>
+<dimen name="homepage_card_icon_height">16.699982dp</dimen>
+<dimen name="homepage_card_icon_width">16.699982dp</dimen>
+<dimen name="nav_landscape_top_padding_percentage">0.150000%</dimen>
+<dimen name="nav_landscape_bottom_padding_percentage">0.220000%</dimen>
+<dimen name="list_favicon_corner_radius">3.000000dp</dimen>
+<dimen name="nav_pave_mode_url_text_size">10.000000sp</dimen>
+<dimen name="nav_landscape_mode_title_text_size">9.000000sp</dimen>
+<dimen name="nav_landscape_mode_url_text_size">8.000000sp</dimen>
+<dimen name="nav_pave_item_margin">10.000000dp</dimen>
+<dimen name="nav_grid_item_margin">10.000000dp</dimen>
+<dimen name="nav_landscape_item_margin">8.000000dp</dimen>
+<dimen name="custom_head_card_text_height">45.000000dp</dimen>
+<dimen name="custom_head_card_text_margin_left">20.000000dp</dimen>
+<dimen name="bookmark_icon_width">14.000000dp</dimen>
+<dimen name="custom_head_card_text_margin_top">53.399994dp</dimen>
+<dimen name="cloud_tab_group_title_height_small">35.000000dp</dimen>
+<dimen name="toolbar_tips_height">40.000000dp</dimen>
+<dimen name="list_favicon_padding">0.000000dp</dimen>
+<dimen name="info_flow_tab_height">40.000000dp</dimen>
+<dimen name="bookmark_icon_height">14.000000dp</dimen>
+<dimen name="favicon_size">16.000000dp</dimen>
+<dimen name="common_use_bottom_bar_paste_text_size">12.000000sp</dimen>
+<dimen name="separate_right_width">48.000000dp</dimen>
+<dimen name="cloud_tab_group_title_height_large">62.500000dp</dimen>
+<dimen name="favicon_padded_size">20.000000dp</dimen>
+<dimen name="nav_pave_mode_title_text_size">12.000000sp</dimen>
+<dimen name="nav_grid_mode_title_text_size">9.000000sp</dimen>
+<dimen name="nav_grid_mode_url_text_size">8.000000sp</dimen>
+<dimen name="download_item_status_action_distance">8.000000dp</dimen>
+<dimen name="download_bottom_bar_height">67.000000dp</dimen>
+<dimen name="supermarket_offset_height">30.000000dp</dimen>
+<dimen name="nav_bar_left_right_landscape_edit_padding">20.000000dp</dimen>
+<dimen name="bookshelf_dot_offset">1.000000dp</dimen>
+<dimen name="default_supermarket_webview_height">177.000000dp</dimen>
+<dimen name="add_bookshelf_popup_width">117.000000dp</dimen>
+<dimen name="nav_bar_top_padding">11.329987dp</dimen>
+<dimen name="bookshelf_dot_radius">2.500000dp</dimen>
+<dimen name="incognito_tip_show_alpha_margin">7.000000dp</dimen>
+<dimen name="nav_bar_left_right_bottom_padding">7.000000dp</dimen>
+<dimen name="bookmark_url_padding_left">23.000000dp</dimen>
+<dimen name="nav_bar_left_right_landscape_edit_padding_pad">0.000000dp</dimen>
+<dimen name="nav_tab_info_bar_left_padding">12.000000dp</dimen>
+<dimen name="cloud_tab_landscape_bottom_padding_percentage">0.243000%</dimen>
+<dimen name="cloud_tab_landscape_top_padding_percentage">0.120000%</dimen>
+<dimen name="cloud_tab_portrait_bottom_padding_percentage">0.168000%</dimen>
+<dimen name="cloud_tab_portrait_top_padding_percentage">0.104000%</dimen>
+<dimen name="nav_pave_bottom_padding_percentage">0.222900%</dimen>
+<dimen name="download_item_interval_distance">13.299988dp</dimen>
+<dimen name="nav_pave_top_padding_percentage">0.171900%</dimen>
+<dimen name="download_status_text_size">10.669983sp</dimen>
+<dimen name="nav_pave_screen_offset_percentage">0.125900%</dimen>
+<dimen name="download_text_size">12.329987sp</dimen>
+<dimen name="nav_seekbar_bottom_margin">72.000000dp</dimen>
+<dimen name="download_group_title_size">12.329987sp</dimen>
+<dimen name="nav_landscape_panel_left_right_padding_percentage">0.020000%</dimen>
+<dimen name="nav_grid_bottom_padding_percentage">0.159900%</dimen>
+<dimen name="nav_grid_top_padding_percentage">0.107800%</dimen>
+<dimen name="nav_grid_panel_left_right_padding_percentage">0.042600%</dimen>
+<dimen name="suggestion_website_image_height">50.000000dp</dimen>
+<dimen name="suggestion_website_image_width">80.329987dp</dimen>
+<dimen name="suggestion_icon_height_website_nav">13.329987dp</dimen>
+<dimen name="suggestion_item_height">47.000000dp</dimen>
+<dimen name="suggestion_item_padding">13.299988dp</dimen>
+<dimen name="suggestion_detail_text_size">13.000000sp</dimen>
+<dimen name="suggestion_icon_width_website_nav">13.329987dp</dimen>
+<dimen name="suggestion_icon_height">20.699982dp</dimen>
+<dimen name="suggestion_icon_width">20.699982dp</dimen>
+<dimen name="suggestion_item_star_padding">5.000000dp</dimen>
+<dimen name="hot_words_inner_top_padding">5.329987dp</dimen>
+<dimen name="hot_words_inner_left_padding">13.329987dp</dimen>
+<dimen name="input_history_icon_right_margin">3.329987dp</dimen>
+<dimen name="input_history_title_left_margin">3.329987dp</dimen>
+<dimen name="homepage_padding_left">20.000000dp</dimen>
+<dimen name="input_history_height">40.000000dp</dimen>
+<dimen name="homepage_search_card_weather_padding">5.000000dp</dimen>
+<dimen name="homepage_search_card_icon_width">35.000000dp</dimen>
+<dimen name="homepage_search_card_icon_height">35.000000dp</dimen>
+<dimen name="homepage_site_margin">9.000000dp</dimen>
+<dimen name="homepage_site_padding_left_landscape">5.000000dp</dimen>
+<dimen name="homepage_site_padding_left">5.000000dp</dimen>
+<dimen name="homepage_site_item_width">55.000000dp</dimen>
+<dimen name="homepage_site_padding">5.000000dp</dimen>
+<dimen name="homepage_site_icon_width">23.339996dp</dimen>
+<dimen name="homepage_site_icon_height">23.339996dp</dimen>
+<dimen name="homepage_site_card_raw_height">61.000000dp</dimen>
+<dimen name="abc_dropdownitem_icon_width">32.000000dp</dimen>
+<dimen name="homepage_search_button_width">62.699982dp</dimen>
+<dimen name="homepage_search_input_height">36.699982dp</dimen>
+<dimen name="homepage_search_weather_height">20.000000dp</dimen>
+<dimen name="homepage_search_tempterature_height">40.000000dp</dimen>
+<dimen name="homepage_search_card_padding_top">22.000000dp</dimen>
+<dimen name="homepage_card_height_game">369.000000dp</dimen>
+<dimen name="homepage_card_height_weather">244.000000dp</dimen>
+<dimen name="homepage_card_height_reader">348.000000dp</dimen>
+<dimen name="homepage_card_height_shopping">270.000000dp</dimen>
+<dimen name="homapege_search_card_recommend_padding">5.000000dp</dimen>
+<dimen name="homepage_search_card_recommend_pannel_height">55.000000dp</dimen>
+<dimen name="homepage_search_card_icon_padding">9.000000dp</dimen>
+<dimen name="homapege_search_card_recommend_icon">20.000000dp</dimen>
+<dimen name="homepage_card_title_height">43.000000dp</dimen>
+<dimen name="abc_action_button_min_width">56.000000dp</dimen>
+<dimen name="homepage_card_title_padding_left">13.000000dp</dimen>
+<dimen name="abc_action_bar_stacked_max_height">48.000000dp</dimen>
+<dimen name="homepage_card_title_padding_left_landscape">13.000000dp</dimen>
+<dimen name="abc_action_bar_subtitle_top_margin">16777213.000000dp</dimen>
+<dimen name="abc_action_bar_subtitle_bottom_margin">5.000000dp</dimen>
+<dimen name="abc_action_bar_title_text_size">18.000000dp</dimen>
+<dimen name="abc_action_bar_subtitle_text_size">14.000000dp</dimen>
+<dimen name="abc_action_bar_default_height">48.000000dp</dimen>
+<dimen name="abc_action_bar_icon_vertical_padding">8.000000dp</dimen>
+<dimen name="homepage_search_card_height">173.399994dp</dimen>
+<dimen name="abc_config_prefDialogWidth">320.000000dp</dimen>
+<dimen name="abc_action_bar_stacked_tab_max_width">180.000000dp</dimen>
+<dimen name="suggestion_icon_width_spec">52.000000dp</dimen>
+<dimen name="suggestion_left_padding">5.000000dp</dimen>
+<dimen name="suggestion_space_spec">6.669983dp</dimen>
+<dimen name="suggestion_icon_height_spec">52.000000dp</dimen>
+<dimen name="dialog_custom_horizontal_padding">23.000000dp</dimen>
+<dimen name="suggestion_button_height">28.000000dp</dimen>
+<dimen name="dialog_custom_vertical_padding">23.000000dp</dimen>
+<dimen name="suggestion_icon_corner_size">2.000000dp</dimen>
+<dimen name="abc_action_bar_progress_bar_size">40.000000dp</dimen>
+<dimen name="abc_search_view_text_min_width">160.000000dp</dimen>
+<dimen name="nav_top_bar_top_margin_landscape">15.000000dp</dimen>
+<dimen name="abc_panel_menu_list_width">296.000000dp</dimen>
+<dimen name="abc_dropdownitem_text_padding_left">8.000000dp</dimen>
+<dimen name="abc_search_view_preferred_width">320.000000dp</dimen>
+<dimen name="abc_dropdownitem_text_padding_right">8.000000dp</dimen>
+<dimen name="button_text_size">13.000000sp</dimen>
+<dimen name="suggestion_space_between_activity_official_website">14.000000dp</dimen>
+<dimen name="suggestion_title_text_size_offical_and_nav">15.000000sp</dimen>
+<dimen name="suggestion_offical_activity_text_size">13.329987sp</dimen>
+<dimen name="suggestion_label_text_size">8.669983sp</dimen>
+<dimen name="suggestion_space_top_official_website">16.000000dp</dimen>
+<dimen name="suggestion_space_middle_official_website">19.329987dp</dimen>
+<dimen name="suggestion_space_bottom_official_website">22.669983dp</dimen>
+<dimen name="suggestion_space_inner_item_official_website">7.000000dp</dimen>
+<dimen name="miui_action_bar_height">45.000000dp</dimen>
+<dimen name="action_bar_tab_text_size">16.000000sp</dimen>
+<dimen name="action_button_drawable_padding">3.000000dp</dimen>
+<dimen name="miui_ation_bar_menu_item_height">66.699982dp</dimen>
+<dimen name="large_text_size">18.000000sp</dimen>
+<dimen name="suggestion_space_inner_label">2.000000dp</dimen>
+<dimen name="normal_text_size">15.000000sp</dimen>
+<dimen name="suggestion_item_top_space_spec">21.669983dp</dimen>
+<dimen name="secondary_text_size">12.000000sp</dimen>
+<dimen name="small_text_size">10.000000sp</dimen>
+<dimen name="adblock_text_margin_right">10.000000dp</dimen>
+<dimen name="suggestion_space_bottom_website_nav">18.669983dp</dimen>
+<dimen name="suggestion_space_top_website_nav">16.000000dp</dimen>
+<dimen name="progressbar_horizontal_height">35.000000dp</dimen>
+<dimen name="suggestion_site_interval_vertical_website_nav">16.000000dp</dimen>
+<dimen name="preference_widget_width">10.000000dp</dimen>
+<dimen name="suggestion_image_interval_website_nav">6.000000dp</dimen>
+<dimen name="preference_icon_min_width">48.000000dp</dimen>
+<dimen name="suggestion_item_red_point_size">2.000000dp</dimen>
+<dimen name="dialog_title_horizontal_padding">23.000000dp</dimen>
+<dimen name="homepage_padding">10.000000dp</dimen>
+<dimen name="dialog_title_vertical_padding">23.000000dp</dimen>
+<dimen name="homepage_padding_left_landscape">20.000000dp</dimen>
+<dimen name="dialog_min_width_minor">0.430000%</dimen>
+<dimen name="dialog_min_width_major">0.430000%</dimen>
+<dimen name="dialog_message_horizontal_padding">23.000000dp</dimen>
+<dimen name="dialog_message_vertical_padding">23.000000dp</dimen>
+<dimen name="hot_words_top_bottom_padding">16.669983dp</dimen>
+<dimen name="hot_words_bottom_margin">10.000000dp</dimen>
+<dimen name="hot_words_totle_hight">108.000000dp</dimen>
+<dimen name="hot_words_left_padding">13.329987dp</dimen>
+<dimen name="input_history_title_text_size">12.669983sp</dimen>
+<dimen name="clear_input_history_text_size">12.000000sp</dimen>
+<dimen name="nav_top_bar_top_margin_portrait">50.000000dp</dimen>
+<dimen name="hot_words_item_text_size">12.669983sp</dimen>
+<dimen name="list_preferred_item_height">64.000000dp</dimen>
+<dimen name="list_preferred_item_height_small">51.000000dp</dimen>
+<dimen name="dialog_checkbox_vertical_padding">13.299988dp</dimen>
+<dimen name="dialog_checkbox_horizontal_padding">17.299988dp</dimen>
+<dimen name="list_preferred_item_padding_right">23.299988dp</dimen>
+<dimen name="preference_fragment_padding_side">23.299988dp</dimen>
+<dimen name="list_preferred_item_height_large">70.000000dp</dimen>
+<dimen name="hot_words_interval_between_items">10.000000dp</dimen>
+<dimen name="list_preferred_item_padding_left">23.299988dp</dimen>
+<dimen name="notification_padding_right">0.000000dp</dimen>
+<dimen name="voice_layout_landscape_top_padding">70.000000dp</dimen>
+<dimen name="notification_padding_left">0.000000dp</dimen>
+<dimen name="voice_logo_margin_bottom">104.000000dp</dimen>
+<dimen name="voice_circle_radius_distance">16.000000dp</dimen>
+<dimen name="quick_link_bannar_close_size">16.329987dp</dimen>
+<dimen name="quick_link_bannar_margin_top">16.329987dp</dimen>
+<dimen name="homepage_bannar_padding">6.669983dp</dimen>
+<dimen name="landscape_search_input_left_right">38.000000dp</dimen>
+<dimen name="quicklink_panel_bottom_margin">0.000000dp</dimen>
+<dimen name="quick_title_size">12.000000sp</dimen>
+<dimen name="quick_link_edit_mode_top_mask_height">45.329987dp</dimen>
+<dimen name="voice_logo_center_margin_bottom">137.000000dp</dimen>
+<dimen name="voice_close_btn_margin_bottom">21.000000dp</dimen>
+<dimen name="voice_sub_title_text_size">13.000000sp</dimen>
+<dimen name="voice_title_text_size">18.000000sp</dimen>
+<dimen name="voice_sub_title_margin_top">4.000000dp</dimen>
+<dimen name="numberpicker_text_size_highlight">17.000000sp</dimen>
+<dimen name="numberpicker_label_text_size">10.000000sp</dimen>
+<dimen name="numberpicker_label_padding">15.000000dp</dimen>
+<dimen name="qr_image_view_margin_top_portrait">93.399994dp</dimen>
+<dimen name="notification_content_to_icon_length">13.000000dp</dimen>
+<dimen name="search_input_leftMargin">25.000000dp</dimen>
+<dimen name="search_input_rightMargin">25.000000dp</dimen>
+<dimen name="search_input_topMargin">1.000000dp</dimen>
+<dimen name="voice_title_animation_distance">80.000000dp</dimen>
+<dimen name="homepage_bannar_text_height">26.699982dp</dimen>
+<dimen name="voice_title_margin_top">114.000000dp</dimen>
+<dimen name="download_router_text_size">15.000000sp</dimen>
+<dimen name="readmode_menu_item_landscape">110.000000dp</dimen>
+<dimen name="numberpicker_text_size_hint">12.000000sp</dimen>
+<dimen name="download_file_name_padding_left">10.000000dp</dimen>
+<dimen name="search_log_translate_value">85.000000dp</dimen>
+<dimen name="search_icon_height">34.000000dp</dimen>
+<dimen name="qr_image_view_margin_top_landscape">20.000000dp</dimen>
+<dimen name="suggestion_title_text_size">14.000000sp</dimen>
+<dimen name="suggestion_url_text_size">10.000000sp</dimen>
+<dimen name="qr_button_margin_top_portrait">93.399994dp</dimen>
+<dimen name="qr_button_margin_top_landscape">20.000000dp</dimen>
+<dimen name="search_logo_container_height">82.660004dp</dimen>
+<dimen name="search_input_bottomMargin">4.669983dp</dimen>
+<dimen name="suggestion_action_button_text_size">12.000000sp</dimen>
+<integer name="max_suggest_lines_portrait">#00000005</integer>
+<integer name="max_suggest_lines_landscape">#00000005</integer>
+<integer name="homepage_site_card_site_column">#00000006</integer>
+<integer name="bookmark_folder_max_length">#00000064</integer>
+<integer name="homepage_site_card_site_column_international">#00000005</integer>
+<integer name="titlebar_animation_duration">#0000012c</integer>
+<integer name="bookmark_url_max_length">#00000800</integer>
+<integer name="bookmark_title_max_length">#000000c8</integer>
+<integer name="homepage_site_card_site_raw">#00000002</integer>
+<integer name="animation_duration">#0000015e</integer>
+<integer name="max_tabs">#00000010</integer>
+<integer name="adblock_text_size">#00000009</integer>
+<integer name="readmode_battery_left_padding">#00000004</integer>
+<integer name="homepage_search_card_keyword_number">#00000002</integer>
+<integer name="preference_fragment_scrollbarStyle">#02000000</integer>
+<integer name="indicated_text_size">#0000000d</integer>
+<integer name="abc_max_action_buttons">#00000004</integer>
+<integer name="max_action_buttons_count">#00000004</integer>
+<string name="bottom_bar_tabs_long_click_down_tip_txt">长按下滑关闭当前页面</string>
+<string name="bottom_bar_tabs_long_click_up_tip_txt">长按上滑关闭当前页面</string>
+<string name="navigationbar_rightbutton_actiontext_go">前往</string>
+<string name="navigationbar_rightbutton_actiontext_search">搜索</string>
+<string name="action_menu_text_refresh">刷新</string>
+<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">已经是最后一页了</string>
+<string name="title_bar_loading">正在载入...</string>
+<string name="navigationbar_rightbutton_actiontext_cancle">取消</string>
+<string name="find_on_page_next">下一项</string>
+<string name="find_on_page_cancel">取消</string>
+<string name="action_menu_text_video">我的视频</string>
+<string name="action_menu_text_setting">设置</string>
+<string name="action_menu_text_bandwidth_on">智能无图/开</string>
+<string name="action_menu_text_bandwidth">无图模式</string>
+<string name="action_menu_text_bandwidth_off">智能无图/关</string>
+<string name="action_menu_text_copy_url">复制网址</string>
+<string name="action_menu_text_find_in_page">页面查找</string>
+<string name="action_menu_text_create_qr_code">生成二维码</string>
+<string name="action_menu_text_history">书签/历史</string>
+<string name="action_menu_text_nightmode">夜间模式</string>
+<string name="action_menu_text_nightmode_on">夜间模式/开</string>
+<string name="action_menu_text_nightmode_off">夜间模式/关</string>
+<string name="action_menu_text_exit">退出</string>
+<string name="action_menu_text_download">我的下载</string>
+<string name="action_menu_account_not_login">未登录</string>
+<string name="action_menu_text_snapshot">保存网页</string>
+<string name="action_menu_text_fullscreen">全屏模式</string>
+<string name="save_page_capture_tip">已保存网页截图到本地,可以在状态栏中查看</string>
+<string name="find_on_page_hint">请输入查询内容</string>
+<string name="start_save_page_capture">正在保存网页截图</string>
+<string name="save_page_capture_to_camera">已保存网页截图到本地</string>
+<string name="senddesktop">手机桌面</string>
+<string name="sendstartpage">主页图标</string>
+<string name="save_to">收藏至</string>
+<string name="action_menu_useful_page_added">首页已添加</string>
+<string name="action_menu_useful_page">添加到首页</string>
+<string name="action_menu_bookshelf">我的书架</string>
+<string name="action_menu_text_share">分享</string>
+<string name="action_menu_text_bookmark_added">已加书签</string>
+<string name="action_menu_text_add_bookmark">添加书签</string>
+<string name="contextmenu_savelink">保存链接</string>
+<string name="contextmenu_sharelink">分享链接</string>
+<string name="contextmenu_copy">复制</string>
+<string name="contextmenu_copylink">复制链接网址</string>
+<string name="contextmenu_openlink">打开</string>
+<string name="contextmenu_openlink_newwindow_background">后台窗口中打开</string>
+<string name="contextmenu_download_image_as">保存图片</string>
+<string name="contextmenu_webpage_capture">保存整个页面截图</string>
+<string name="contextmenu_send_mail">发送电子邮件</string>
+<string name="contextmenu_add_contact">添加联系人</string>
+<string name="contextmenu_openlink_newwindow">新窗口中打开</string>
+<string name="contextmenu_map">地图</string>
+<string name="contextmenu_view_image">查看图片</string>
+<string name="contextmenu_dial_dot">拨打…</string>
+<string name="contextmenu_set_wallpaper">设为壁纸</string>
+<string name="action_menu_toolbox">工具箱</string>
+<string name="action_menu_account_not_login_hint">点击登录可以使用云同步</string>
+<string name="contextmenu_webpage_html">保存HTML文件</string>
+<string name="contextmenu_webpage_snapshot">保存网页</string>
+<string name="common_use_phrase_bottom_bar_text_previous">上一项</string>
+<string name="progress_dialog_setting_wallpaper">正在设置壁纸...</string>
+<string name="select_dot">选择文本</string>
+<string name="common_use_phrase_bottom_bar_text_next">下一项</string>
+<string name="suggest_access_item_singer_albums">专辑%d张</string>
+<string name="suggest_access_item_album_songs">%d首歌曲</string>
+<string name="url_find_on_page_result">在网页上查找</string>
+<string name="url_suggest_indicator_mostvisited">最常访问</string>
+<string name="url_suggest_indicator_bookmark">书签/历史</string>
+<string name="url_suggest_indicator_hoturl">热门网站</string>
+<string name="suggest_access_item_singer_pop">热曲%d首</string>
+<string name="suggest_access_item_app_update">%s</string>
+<string name="suggest_access_item_app_size">%.2fMB</string>
+<string name="url_find_on_page_result_item">\ %s\</string>
+<string name="contextmenu_download_image">保存图片</string>
+<string name="suggest_access_btn_install">安装</string>
+<string name="suggest_access_btn_open">打开</string>
+<string name="suggest_access_btn_play">播放</string>
+<string name="suggest_access_btn_view">查看</string>
+<string name="suggest_access_appstore">小米应用商店</string>
+<string name="suggest_access_music">小米音乐</string>
+<string name="router_download_success">已下载，请在小米路由器应用中查看下载进度</string>
+<string name="copy_url">复制网址</string>
+<string name="save_to_camera">保存到相册</string>
+<string name="save_to_camera_success">已保存至相册</string>
+<string name="create_qr_code">生成二维码</string>
+<string name="sdcard_error">请检查sacard状态</string>
+<string name="save_to_camera_failed">保存图片失败</string>
+<string name="download_router_tip">(将文件下载到路由器)</string>
+<string name="download_phone_tip">小米手机</string>
+<string name="qr_code_title">二维码</string>
+<string name="storage_internal">内存设备</string>
+<string name="storage_sd_card">卡</string>
+<string name="save_file_already_exist_alert_message">文件已存在，覆盖吗？</string>
+<string name="filename_empty_alert_message">文件名不能为空</string>
+<string name="filename_illegal_alert_message">文件名包含无效字符，已自动去除</string>
+<string name="download_failed">下载失败</string>
+<string name="storage_usb">存储器</string>
+<string name="save_dialog_title">保存</string>
+<string name="save_button_text">保存</string>
+<string name="save_file_already_exist_alert_title">确认提示</string>
+<string name="file_dir">目录</string>
+<string name="file_name">文件名称</string>
+<string name="router_download_exist">下载地址已存在</string>
+<string name="router_download_failed">下载失败，请稍后重试</string>
+<string name="file_picker">选择路径</string>
+<string name="select_download_device">选择设备</string>
+<string name="download_no_sdcard_dlg_msg">卡才能下载%s。</string>
+<string name="download_default_path_txt">设为默认保存路径，以后不再提醒</string>
+<string name="download_no_sdcard_dlg_title">卡</string>
+<string name="download_pending">开始下载...</string>
+<string name="download_dialog_default_path_invalid">下载路径无效，使用默认下载路径</string>
+<string name="cannot_download">只能从“http”或“https”网址下载。</string>
+<string name="download_dialog_file_length_nolength_error_txt">获取失败</string>
+<string name="download_dialog_file_length_lessthan1kb">小于1K</string>
+<string name="download_dialog_file_length_hint_txt">文件大小：</string>
+<string name="download_dialog_file_length_nolength_txt">获取中...</string>
+<string name="download_complete">文件下载完成</string>
+<string name="modify_download_path_no_sdcard_dlg_msg">卡才能修改</string>
+<string name="download_sdcard_busy_dlg_msg">存储设备”。</string>
+<string name="download_sdcard_busy_dlg_title">卡不可用</string>
+<string name="app_new_version">文件下载完成，该应用已安装了最新版本</string>
+<string name="app_update_install">文件下载完成，该应用可以进行升级安装</string>
+<string name="bookmark_url_not_valid">此网址无效。</string>
+<string name="bookmarks_content_is_null">内容为空</string>
+<string name="google_bookmarks">Google书签：</string>
+<string name="bookmarks_root_folder">根目录</string>
+<string name="add_bookmark_group">添加分组</string>
+<string name="new_folder_name_lable">分组名</string>
+<string name="bookmark_rename_group">更改组名</string>
+<string name="remove_bookmark_group">删除分组</string>
+<string name="delete_bookmark_group_warning">分组内的所有书签也会一起删除。</string>
+<string name="bookmark_title_lable">名称</string>
+<string name="webpage_title">书签/历史</string>
+<string name="notif_install_successful">下载已完成。</string>
+<string name="webpage_bookmark_title">书签列表</string>
+<string name="webpage_history_title">历史记录</string>
+<string name="bookmark_needs_url">书签必须具有网址。</string>
+<string name="bookmark_needs_title">书签必须具有名称。</string>
+<string name="miui_bookmark_action_bar_add_group_title">加入分组</string>
+<string name="download_status_failed">获取失败</string>
+<string name="same_folder_name_warning">此文件夹已存在</string>
+<string name="download_status_pending">等待中</string>
+<string name="add_new_bookmark">添加书签</string>
+<string name="download_in_process">下载中</string>
+<string name="miui_bookmark_action_bar_new_group_title">新建分组</string>
+<string name="download_completed">已下载</string>
+<string name="bookmark_folder_needs_title">文件夹必须具有名称。</string>
+<string name="root_folder_lable">无</string>
+<string name="readmodelist_bookmarks_to_show">阅读列表</string>
+<string name="edit_bookmark">编辑书签</string>
+<string name="bookmark_cannot_save_url">无法将此网址添加到书签。</string>
+<string name="bookmark_url_already_exisit">书签中已存在该网址</string>
+<string name="empty_bookmark">书签为空</string>
+<string name="bookmark_group_lable">分组</string>
+<string name="bookmark_url_lable">地址</string>
+<string name="bookmark_add_to">添加到</string>
+<string name="bookmark_url">http://</string>
+<string name="bookmark_title">书签名</string>
+<string name="add_to_bookmark">书签列表</string>
+<string name="same_bookmarks_warning">此书签已存在</string>
+<string name="bookmark_saved">已保存至书签。</string>
+<string name="bookmark_not_saved">无法保存书签。</string>
+<string name="local_bookmarks">小米书签</string>
+<string name="bookmarks_management">书签管理</string>
+<string name="search_baidu">百度</string>
+<string name="suggest_open_app_failed">打开此应用失败!</string>
+<string name="search_google">谷歌</string>
+<string name="search_sogou">搜狗</string>
+<string name="search_bing">必应</string>
+<string name="search_yahoo">雅虎</string>
+<string name="voice_sub_title">“打开小米网”</string>
+<string name="voice_title">请说话…</string>
+<string name="menu_nightmode">夜间模式/关</string>
+<string name="menu_exit_nightmode">退出阅读模式</string>
+<string name="pref_content_auto_light_mode">自动亮度</string>
+<string name="pref_content_fontsize_setting">字号设置</string>
+<string name="readmode_page_loading">页面加载中，请稍候...</string>
+<string name="readmode_page_load_error">页面加载失败，请点击刷新按钮重试</string>
+<string name="readmode_already_add_to_bookshelf">已经加入书架</string>
+<string name="readmode_login_message">后续章节需要登录方可查看</string>
+<string name="menu_addtodesk">添加桌面</string>
+<string name="quicklink_not_saved">添加常用失败</string>
+<string name="quicklink_bookmark_save">保存到</string>
+<string name="add_to_desk_success">已添加到桌面</string>
+<string name="add_to_desk">拖动到此处，添加到桌面</string>
+<string name="add_quicklinks">添加</string>
+<string name="clear_most_visited">输入记录</string>
+<string name="clear_search_history">清除历史记录</string>
+<string name="miui_search_notification_message">点击快速搜索</string>
+<string name="search_yicha">易查</string>
+<string name="search_easou">宜搜</string>
+<string name="search_s139">139</string>
+<string name="search_taobao">淘宝</string>
+<string name="search_tupian">图片</string>
+<string name="search_sm">神马</string>
+<string name="search_dianping">美食</string>
+<string name="search_shipin">视频</string>
+<string name="add_new_quicklink">添加常用</string>
+<string name="readmode_battery">电量 </string>
+<string name="readmode_refresh">刷新</string>
+<string name="readmode_login">登陆帐号</string>
+<string name="readmode_recommend_message">您已经读完本书所有已出章节,换换口味如何</string>
+<string name="readmode_recommend">查看推荐</string>
+<string name="readmode_pay">订阅章节</string>
+<string name="menu_hv_swap">切换横竖屏</string>
+<string name="menu_theme_setting">主题设置</string>
+<string name="voice_title_speech_again">我没听懂，请再说一次</string>
+<string name="voice_title_listening">正在倾听…</string>
+<string name="voice_title_distinguish">正在识别…</string>
+<string name="voice_title_please">请说话…</string>
+<string name="readmode_pay_message">后续付费章节需要订阅后方可查看</string>
+<string name="close_ads_choice_yes">是</string>
+<string name="close_ads_choice_no">否</string>
+<string name="close_ads_title">操作提示</string>
+<string name="close_ads_message">您将关闭该内容链接。以后是否直接帮您过滤掉该链接？过滤的链接可在“设置&gt;高级&gt;自定义过滤”内查看。</string>
+<string name="block_ads_choice_continue">继续查看</string>
+<string name="block_ads_choice_block">过滤掉</string>
+<string name="block_ads_title">该内容可能是广告链接</string>
+<string name="block_ads_message">您可以选择将该内容过滤掉或者继续查看</string>
+<string name="pref_content_night_read_mode">夜间模式</string>
+<string name="readmode_reach_last_page">已到达最后一页</string>
+<string name="video_project_msg">视频已投射到\ %s\</string>
+<string name="video_project_button">停止投射</string>
+<string name="media_error_failure">视频播放失败</string>
+<string name="media_error_video_not_exist">视频不存在</string>
+<string name="media_error_format">视频格式错误</string>
+<string name="media_error_source">视频源出错</string>
+<string name="media_error_timeout">网络传输超时</string>
+<string name="remove_bookmark">删除书签</string>
+<string name="added_to_bookmarks">已添加到书签。</string>
+<string name="delete_bookmark_warning">要删除书签“%s”吗？</string>
+<string name="bookmark_btn_select_all">全选</string>
+<string name="removed_from_bookmarks">已从书签中删除。</string>
+<string name="error_not_acceptable">服务器状态异常，同步已关闭</string>
+<string name="cloud_tab">云标签</string>
+<string name="cloud_loading_tips">下拉同步</string>
+<string name="cloud_up_to_loading_tips">释放同步</string>
+<string name="video_history_empty">观看历史为空</string>
+<string name="add_quicklink_to_popular">添加到常用</string>
+<string name="error_title">%s同步错误</string>
+<string name="add_to_quicklink">主页常用</string>
+<string name="error_unauthorized">认证失败次数过多，同步已关闭</string>
+<string name="edit_quicklink">编辑常用</string>
+<string name="error_forbidden">您的账户出现问题，同步已关闭</string>
+<string name="quicklink_saved">已添加常用</string>
+<string name="remove_history_item">从历史记录中删除</string>
+<string name="quicklinks_management">常用网站</string>
+<string name="add_ql_bm_title">保存</string>
+<string name="video_subtitle_prefix_message">观看至：</string>
+<string name="user_defined_webpage">添加自定义网站</string>
+<string name="v5_deselect_all">全不选</string>
+<string name="v5_select_all">全选</string>
+<string name="video_float_window_text">小窗</string>
+<string name="v5_edit_mode_title_empty">请选择项目</string>
+<string name="quicklink_user_define_webpage_url">网址</string>
+<string name="quicklink_user_define_webpage_title">名称</string>
+<string name="video_buffering_percent_string">视频缓冲进度</string>
+<string name="media_error_network_unreachable">网络不可达</string>
+<string name="search">搜索</string>
+<string name="bookmarks_search">浏览器</string>
+<string name="miui_search_notification_title">浏览器搜索</string>
+<string name="search_hint">搜索</string>
+<string name="video_download_error">获取失败</string>
+<string name="remove_snapshot">删除已保存的网页</string>
+<string name="video_download_unknown_size">未知大小</string>
+<string name="search_button_text">开始</string>
+<string name="search_settings_description">书签和网络历史记录</string>
+<string name="video_download_complete">视频缓存完成</string>
+<string name="video_download_unsupport">不支持的视频格式</string>
+<string name="video_download_failed">视频缓存失败</string>
+<string name="remove_from_bookmarks">从书签中删除</string>
+<string name="video_download_exists">视频已经缓存</string>
+<string name="video_downloaded_group">已完成</string>
+<string name="clear_history">清除历史</string>
+<string name="video_download_start">视频开始缓存</string>
+<string name="history_saved_webpage">保存网页</string>
+<string name="clear_video_download">清空缓存</string>
+<string name="bookmark_btn_select_none">全不选</string>
+<string name="video_downloading_group">下载中</string>
+<string name="delete_bookmark">删除</string>
+<string name="quicklink_saved_before">此网站已添加</string>
+<string name="quicklinks_group_default_subtitle">尚未添加任何网站到应用</string>
+<string name="quicklinks_most_visited_subtitle">可以快速添加已经访问过的常用候选列表中的网站</string>
+<string name="quicklinks_most_visited_title">快速添加</string>
+<string name="quicklinks_most_visited">添加自定义网站</string>
+<string name="media_error_action_replace_video_source">更换数据源</string>
+<string name="user_defined_webpage_title">添加自定义网站</string>
+<string name="media_error_action_refresh">刷新</string>
+<string name="media_error_nomemory">手机内存已满</string>
+<string name="cloud_sync_closed_toast">同步功能被关闭，无法更新</string>
+<string name="close_cloud_tab_tip">确定关闭当前“%s”上云标签的显示?</string>
+<string name="cloud_no_new_data_toast">当前数据已是最新</string>
+<string name="cloud_sync_failed_toast">更新失败，请稍后重试</string>
+<string name="search_label">Browser</string>
+<string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+<string name="pref_images_preload_value_always">2</string>
+<string name="pref_images_preload_value_wifi_only">1</string>
+<string name="pref_images_preload_value_never">0</string>
+<string name="pref_video_preload_value_always">ALWAYS</string>
+<string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_video_preload_value_never">NEVER</string>
+<string name="pref_images_preload_default_value"></string>
+<string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_link_prefetch_value_never">NEVER</string>
+<string name="pref_video_preload_default_value"></string>
+<string name="cloud_time_tips">上次同步</string>
+<string name="video_download_empty">离线视频为空</string>
+<string name="video_download_wait_for_wifi">等待wifi</string>
+<string name="video_download_error_http_gone">文件地址失效</string>
+<string name="video_download_unknown_name">未知文件</string>
+<string name="video_edit">编辑</string>
+<string name="video_title_prefix_message">离线：</string>
+<string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+<string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+<string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+<string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+<string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+<string name="common_use_phrase_bottom_bar_point_txt">.</string>
+<string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+<string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+<string name="error_console_header_text_maximized">console</string>
+<string name="error_console_header_text_minimized">console</string>
+<string name="pref_link_prefetch_value_always">ALWAYS</string>
+<string name="pref_link_prefetch_default_value"></string>
+<string name="alisdk_message_1_action">下文件</string>
+<string name="alisdk_message_1_type">E</string>
+<string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
+<string name="alisdk_message_1_message">的消息</string>
+<string name="error_console_eval_text_hint">JavaScript</string>
+<string name="pref_data_preload_default_value"></string>
+<string name="error_console_eval_button_text">Evaluate</string>
+<string name="pref_data_preload_value_never">NEVER</string>
+<string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_data_preload_value_always">ALWAYS</string>
+<string name="alisdk_message_2_message">{0}</string>
+<string name="alisdk_message_2_name">MESSAGE_UNKNOWN_ERROR</string>
+<string name="alisdk_message_2_type">E</string>
+<string name="alisdk_message_2_action">下文件</string>
+<string name="alisdk_message_100_message">操作成功</string>
+<string name="alisdk_message_100_name">ACTION_SUCCESS</string>
+<string name="alisdk_message_10010_message">查看更多细节</string>
+<string name="alisdk_message_10010_name">GENERIC_SYSTEM_ERROR</string>
+<string name="alisdk_message_10010_type">E</string>
+<string name="alisdk_message_10010_action">输出以获取更多错误细节，并采取对应操作</string>
+<string name="alisdk_message_10002_action">输出以获取更多错误细节，并采取对应操作</string>
+<string name="alisdk_message_10002_message">{0}</string>
+<string name="alisdk_message_10002_type">E</string>
+<string name="alisdk_message_100_action"></string>
+<string name="alisdk_message_10002_name">INIT_EXCEPTION</string>
+<string name="alisdk_message_100_type">I</string>
+<string name="menu_preferences">设置</string>
+<string name="pref_content_block_popups">阻止弹出式窗口</string>
+<string name="pref_content_javascript">JavaScript</string>
+<string name="pref_content_cloud_speedup">启用云加速</string>
+<string name="pref_setting_title">网页设置</string>
+<string name="pref_other_title">其他</string>
+<string name="pref_extras_send_feedback">意见反馈</string>
+<string name="find_new_version">检测到小米浏览器有新版本!</string>
+<string name="pref_version_info">版本介绍</string>
+<string name="pref_auto_update_under_wifi">WIFI下自动升级</string>
+<string name="pref_extras_title_version">软件版本</string>
+<string name="version_check_button_default">检测更新</string>
+<string name="version_check_failed">更新检测失败，请稍后重试</string>
+<string name="update_no_network_toast">网络未连接，请稍后重试</string>
+<string name="skip_current_version">跳过该版本</string>
+<string name="version_check_button_checking">检测中</string>
+<string name="pref_general_title">常规</string>
+<string name="pref_confirm_for_exit">退出前确认</string>
+<string name="pref_content_search_engine_summary">选择搜索引擎</string>
+<string name="pref_extras_reset_default_title">其它</string>
+<string name="pref_save_bandwidth_mode_title">智能无图</string>
+<string name="adjust_text_zoom_toast">改变文字大小可能会影响网页的显示效果</string>
+<string name="version_update_file_not_found">未找到升级文件</string>
+<string name="version_update_file_download_toast">已开始下载升级文件</string>
+<string name="version_dialog_buttion_update">升级</string>
+<string name="version_check_button_update">升级新版本</string>
+<string name="secure_download_in_xiaomi_market">使用小米应用商店安全下载</string>
+<string name="version_dialog_buttion_ok">确定</string>
+<string name="homepage_more_sites">更多网站</string>
+<string name="homepage_more_cards">更多卡片</string>
+<string name="homepage_top_card_menu">置顶</string>
+<string name="homepage_search_hint">输入关键词</string>
+<string name="version_check_button_downloading">下载中</string>
+<string name="version_check_button_newest">已是最新版</string>
+<string name="version_check_button_no_network">网络未连接</string>
+<string name="version_check_button_install">安装</string>
+<string name="version_check_button_resume_download">继续下载</string>
+<string name="version_check_button_download_failed">重新下载</string>
+<string name="pref_privacy_clear_passwords_summary">清除所有保存的用户名和密码</string>
+<string name="pref_privacy_clear_passwords">清除密码</string>
+<string name="pref_security_save_form_data_summary">记住我在表单中输入的数据以便于以后使用</string>
+<string name="pref_security_save_form_data">记住表单数据</string>
+<string name="pref_privacy_formdata_title">表单数据</string>
+<string name="pref_security_remember_passwords_summary">保存网站的用户名和密码</string>
+<string name="pref_security_remember_passwords">记住密码</string>
+<string name="pref_security_passwords_title">密码</string>
+<string name="pref_security_accept_cookies_summary">数据</string>
+<string name="save_form_data_confirm_message">慎重!关闭保存表单数据会影响使用!</string>
+<string name="positive_confirm_message">继续并接受风险</string>
+<string name="remember_passwords_confirm_message">慎重!关闭记住密码会影响使用!</string>
+<string name="pref_privacy_enable_geolocation_summary">允许网站请求获取您的位置信息</string>
+<string name="pref_privacy_cookies_title">Cookie</string>
+<string name="pref_privacy_location_title">位置</string>
+<string name="pref_privacy_enable_geolocation">启用位置信息功能</string>
+<string name="pref_weather_location_summary">用于浏览器天气服务</string>
+<string name="pref_security_accept_cookies">Cookie</string>
+<string name="pref_key_gesture_title">按键和手势</string>
+<string name="pref_font_size_category">文字大小</string>
+<string name="pref_fling_on_border_enabled">单指滑动切换窗口</string>
+<string name="pref_volume_key_action">音量键上下翻页</string>
+<string name="pref_extras_title">高级</string>
+<string name="js_disable_confirm_message">关闭JavaScript可能会导致部分网页不能正常显示</string>
+<string name="pref_extras_reset_default_dlg">恢复所有设置为默认状态?</string>
+<string name="pref_extras_reset_default">恢复默认设置</string>
+<string name="pref_fling_on_border_enabled_title_summary">从屏幕边缘左右滑动</string>
+<string name="pref_content_search_engine">设置地址栏搜索引擎</string>
+<string name="security_warnings_confirm_message">慎重!关闭显示安全警告会有安全隐患!</string>
+<string name="security_url_confirm_message">慎重!关闭安全网址检测会有安全隐患</string>
+<string name="weather_location_confirm_message">慎重!关闭天气定位会影响使用!</string>
+<string name="js_disable_confirm_title">确认关闭JavaScript?</string>
+<string name="accept_cookies_confirm_message">慎重!关闭接受Cookie会影响使用!</string>
+<string name="enable_geolocation_confirm_message">慎重!关闭启用位置信息功能会影响使用!</string>
+<string name="alisdk_message_10015_message">退出登录</string>
+<string name="pref_clear_all_data_dlg">要删除以上所有保存的数据吗？</string>
+<string name="alisdk_message_10014_type">E</string>
+<string name="alisdk_message_10015_name">USER_LOGOUT</string>
+<string name="pref_privacy_clear_history">清除历史记录</string>
+<string name="pref_privacy_clear_history_summary">清除浏览器导航历史记录,搜索历史记录</string>
+<string name="pref_privacy_clear_history_dlg">要删除浏览器所有的历史记录吗？</string>
+<string name="pref_privacy_clear_history_by_group_dlg">确定要删除当天浏览器的历史记录吗？</string>
+<string name="adblock_rules_updated_toast">规则已更新</string>
+<string name="adblock_rules_not_updated_toast">更新失败，请检查网络</string>
+<string name="alisdk_message_16_action">选项，具体配置请参照在线网站</string>
+<string name="adblock_notification">过滤了%d条广告</string>
+<string name="adblock_force_updating_rules_toast">正在强制更新规则</string>
+<string name="alisdk_message_17_message">的服务</string>
+<string name="alisdk_message_17_action">应用从后台被唤起到前台.</string>
+<string name="alisdk_message_16_type">E</string>
+<string name="alisdk_message_17_name">SERVICE_NOT_AVAILABLE_ERROR</string>
+<string name="alisdk_message_13_type">E</string>
+<string name="alisdk_message_13_action">SDK</string>
+<string name="adblock_websites_settings_empyt_hint">过滤规则为空</string>
+<string name="adblock_websites_settings_title">自定义过滤</string>
+<string name="pref_set_homepage_to">设置为</string>
+<string name="pref_privacy_clear_cookies">数据</string>
+<string name="alisdk_message_18_action"></string>
+<string name="pref_privacy_clear_geolocation_access_dlg">要清除网站获取位置信息的权限吗？</string>
+<string name="alisdk_message_18_message">系统繁忙，请稍后再试</string>
+<string name="pref_privacy_clear_geolocation_access_summary">取消所有网站获取您位置信息的权限</string>
+<string name="alisdk_message_18_name">SERVER_BUSY_ERROR</string>
+<string name="pref_privacy_clear_geolocation_access">取消获取位置信息的权限</string>
+<string name="alisdk_message_10014_action">请检查网络设置后，并重试当前操作</string>
+<string name="alisdk_message_10014_message">当前网络不可用</string>
+<string name="alisdk_message_10014_name">NETWORK_NOT_AVAILABLE</string>
+<string name="pref_privacy_clear_cookies_summary">Cookie</string>
+<string name="alisdk_message_18_type">E</string>
+<string name="alisdk_message_705_message">版本不匹配</string>
+<string name="alisdk_message_705_action">并使用其包含最新的图片文件</string>
+<string name="pref_privacy_clear_passwords_dlg">要删除所有保存的密码吗？</string>
+<string name="pref_privacy_clear_cache">清除缓存</string>
+<string name="pref_privacy_clear_cache_summary">清除存储在本地缓存中的内容和数据库</string>
+<string name="pref_privacy_clear_cache_dlg">要删除本地缓存的内容和数据库吗？</string>
+<string name="pref_check_security_url_title">安全网址检测</string>
+<string name="pref_check_security_url_summary">当访问网站时提交当前网址到服务器检测其安全性</string>
+<string name="adblock_rules_restore">恢复</string>
+<string name="pref_clear_data_title">清除数据</string>
+<string name="pref_clear_all_data_title">全部清除</string>
+<string name="alisdk_message_10015_action"></string>
+<string name="alisdk_message_10015_type">I</string>
+<string name="alisdk_message_701_message">签名不一致</string>
+<string name="alisdk_message_701_action">签名一致。</string>
+<string name="alisdk_message_701_type">E</string>
+<string name="alisdk_message_702_message">目录下</string>
+<string name="alisdk_message_17_type">E</string>
+<string name="pref_privacy_clear_form_data">清除表单数据</string>
+<string name="pref_privacy_clear_cookies_dlg">吗？</string>
+<string name="pref_privacy_clear_form_data_dlg">要删除所有保存的表单数据吗？</string>
+<string name="pref_privacy_clear_form_data_summary">清除所有保存的表单数据</string>
+<string name="pref_security_show_security_warning">显示安全警告</string>
+<string name="alisdk_message_702_type">E</string>
+<string name="pref_privacy_security_title">隐私和安全</string>
+<string name="alisdk_message_702_action">请检查代码中是否有相关调用，若有请做调整，确保与实际存在的图片保持一致。</string>
+<string name="pref_weather_location_title">天气定位</string>
+<string name="alisdk_message_703_action">SDK</string>
+<string name="pref_security_show_security_warning_summary">当网站证书出现问题时显示警告</string>
+<string name="alisdk_message_703_message">的内容不正确</string>
+<string name="alisdk_message_704_message">文件载入出错</string>
+<string name="alisdk_message_703_type">E</string>
+<string name="alisdk_message_704_type">E</string>
+<string name="alisdk_message_704_action">}</string>
+<string name="pref_file_download_default_path_prefix">%s</string>
+<string name="pref_file_download_save_title">文件下载与保存</string>
+<string name="alisdk_message_12_message">{1}</string>
+<string name="enter_developer_mode">您已处于开发者模式</string>
+<string name="alisdk_message_10012_type">E</string>
+<string name="alisdk_message_12_name">RESOURCE_NOT_FOUND</string>
+<string name="alisdk_message_10012_message">尚未被初始化</string>
+<string name="alisdk_message_10012_action">方法并接收到初始化成功的回调</string>
+<string name="alisdk_message_10012_name">SDK_NOT_INIT</string>
+<string name="pref_clear_adblock_statistics">清除广告拦截统计数据</string>
+<string name="alisdk_message_10022_type">E</string>
+<string name="pref_enable_adblock_notification">广告过滤提醒</string>
+<string name="alisdk_message_10022_action">输出以获取更多错误细节，并采取对应操作</string>
+<string name="pref_adblock_title">广告过滤</string>
+<string name="alisdk_message_10022_message">{1}</string>
+<string name="pref_extras_reset_default_summary">还原默认设置</string>
+<string name="alisdk_message_10022_name">PLUGIN_INIT_FAILED</string>
+<string name="pref_file_download_save_modify_default_path">修改存放目录</string>
+<string name="pref_file_downlaod_save_is_reset_default_settings">要恢复保存路径的默认设置吗？</string>
+<string name="pref_file_downlaod_save_reset_default_settings">恢复保存路径的默认设置</string>
+<string name="miui_quicksearch_enable_pref_title">通知栏快速搜索</string>
+<string name="miui_quicksearch_enable_pref_summary">在顶部通知栏启用快速搜索</string>
+<string name="pref_accessibility_title">辅助功能</string>
+<string name="pref_accessibility_url_shortcut_enter_title">网址快捷输入</string>
+<string name="alisdk_message_15_action"></string>
+<string name="alisdk_message_15_type">E</string>
+<string name="alisdk_message_16_name">CLASS_NOT_FOUND_ERROR</string>
+<string name="alisdk_message_16_message">{0}</string>
+<string name="alisdk_message_12_action">至当前开发应用所在项目，请检查是否漏拷文件</string>
+<string name="alisdk_message_12_type">E</string>
+<string name="alisdk_message_13_name">PLUGIN_NOT_FOUND</string>
+<string name="alisdk_message_13_message">{0}</string>
+<string name="pref_clear_adblock_statistics_dlg">要清除所有广告过滤统计吗？</string>
+<string name="pref_adblock_counts">已过滤%d条广告</string>
+<string name="pref_content_homepage">设置起始页</string>
+<string name="alisdk_message_14_type">E</string>
+<string name="pref_accessibility">无障碍</string>
+<string name="alisdk_message_14_action">或者空，请调整输入参数</string>
+<string name="alisdk_message_15_message">{1}</string>
+<string name="alisdk_message_15_name">SERVER_REQUEST_FAILED</string>
+<string name="pref_force_userscalable">强制启用缩放</string>
+<string name="pref_accessibility_url_shortcut_enter_summary">地址栏输入时可以一键输入常用字母组合</string>
+<string name="pref_ua_string">浏览器标识</string>
+<string name="alisdk_message_14_message">或者为空</string>
+<string name="pref_force_userscalable_summary">替换网站的请求以控制缩放行为</string>
+<string name="alisdk_message_14_name">NULL_OR_EMPTY_PARAMETER</string>
+<string name="alisdk_message_10008_message">{0}</string>
+<string name="alisdk_message_10008_action">开发咨询群</string>
+<string name="alisdk_message_10008_type">E</string>
+<string name="alisdk_message_10009_name">QUERY_ORDER_RESULT_EXCEPTION</string>
+<string name="alisdk_message_10009_message">{0}</string>
+<string name="alisdk_message_10009_action">开发咨询群</string>
+<string name="alisdk_message_10009_type">E</string>
+<string name="alisdk_message_10011_action"></string>
+<string name="alisdk_message_10011_type">W</string>
+<string name="alisdk_message_10008_name">GET_ORDER_URL_EXCEPTION</string>
+<string name="alisdk_message_10005_action">开发咨询群</string>
+<string name="alisdk_message_10005_message">{0}</string>
+<string name="alisdk_message_10011_name">USER_ALREADY_LOGOUT</string>
+<string name="alisdk_message_10005_type">E</string>
+<string name="alisdk_message_10011_message">当前用户未登录</string>
+<string name="alisdk_message_10005_name">RSA_DECRYPT_EXCEPTION</string>
+<string name="com_taobao_tae_sdk_back_message">返回</string>
+<string name="com_taobao_tae_sdk_close_message">关闭</string>
+<string name="alisdk_message_803_action">时使用</string>
+<string name="alisdk_message_803_type">W</string>
+<string name="com_taobao_tae_sdk_more_message">更多</string>
+<string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+<string name="alisdk_message_803_name">INVALID_DEFAULT_TAOKE_PID</string>
+<string name="alisdk_message_803_message">pid</string>
+<string name="alisdk_message_802_action">pid，如不确认，请联系淘客相关人员</string>
+<string name="alisdk_message_802_type">E</string>
+<string name="alisdk_message_802_message">为前缀</string>
+<string name="alisdk_message_802_name">INVALID_TAOKE_PID_ERROR</string>
+<string name="alisdk_message_801_type">E</string>
+<string name="alisdk_message_801_action">请调整参数后重试当前操作</string>
+<string name="alisdk_message_801_message">0</string>
+<string name="alisdk_message_801_name">QUANTITY_FORMAT_ERROR</string>
+<string name="alisdk_message_10000_type">E</string>
+<string name="alisdk_message_10003_name">USER_CANCEL</string>
+<string name="alisdk_message_10003_message">当前操作已经取消</string>
+<string name="alisdk_message_10003_action"></string>
+<string name="alisdk_message_651_type">E</string>
+<string name="alisdk_message_10000_name">JS_BRIDGE_MODULE_NOT_FOUND</string>
+<string name="alisdk_message_10000_message">的模块</string>
+<string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
+<string name="alisdk_message_651_action">对原始参数进行加密</string>
+<string name="alisdk_message_651_name">INVALID_OPEN_ITEM_ID</string>
+<string name="alisdk_message_10016_type">E</string>
+<string name="alisdk_message_651_message">未能使用当前应用的信息对参数进行解密</string>
+<string name="alisdk_message_705_type">E</string>
+<string name="alisdk_message_10016_action">输出的异常信息</string>
+<string name="alisdk_message_10016_message">{0}</string>
+<string name="alisdk_message_10003_type">I</string>
+<string name="alisdk_message_101_action">开发咨询群</string>
+<string name="alisdk_message_101_type">W</string>
+<string name="alisdk_message_101_name">REFRESH_SID_EXCEPTION</string>
+<string name="alisdk_message_101_message">{0}</string>
+<string name="alisdk_message_952_action">配置项</string>
+<string name="alisdk_message_952_type">E</string>
+<string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
+<string name="alisdk_message_952_message">标识</string>
+<string name="alisdk_message_951_action">列表中</string>
+<string name="alisdk_message_951_type">E</string>
+<string name="alisdk_message_951_message">{1}</string>
+<string name="alisdk_message_951_name">JS_BRIDGE_METHOD_NOT_FOUND</string>
+<string name="alisdk_message_10004_type">E</string>
+<string name="alisdk_message_10004_action">开发咨询群</string>
+<string name="alisdk_message_10004_message">{0}</string>
+<string name="alisdk_message_10004_name">REQUEST_INIT_SERVER_EXCEPTION</string>
+<string name="no_space_clean_failed">打开清理空间失败</string>
+<string name="no_space_alert_clean">清理空间</string>
+<string name="download_title">下载管理</string>
+<string name="no_space_alert_title">暂停下载</string>
+<string name="no_space_alert_cancel">以后再说</string>
+<string name="no_space_alert_text">您的磁盘空间不足,暂停下载</string>
+<string name="page_info_address">网址：</string>
+<string name="exit_browser_warning">确认退出浏览器？</string>
+<string name="not_remind_again">不再提醒</string>
+<string name="max_tabs_warning">已达到可用窗口数量上限</string>
+<string name="url_copy_done">已经复制此链接网址</string>
+<string name="share_page_text">%2$s</string>
+<string name="tae_sdk_qr_login_icon_password"></string>
+<string name="aqi_quality_index_moderate">空气良</string>
+<string name="tae_sdk_qr_login_icon_scan"></string>
+<string name="com_taobao_tae_sdk_logout_fail_message">登出失败</string>
+<string name="com_taobao_tae_sdk_qr_login_title_bar_text">淘宝账号登录</string>
+<string name="homepage_get_location_failed">定位失败，请点击添加城市</string>
+<string name="homepage_get_location">开始定位</string>
+<string name="aqi_quality_index_good">空气优</string>
+<string name="tae_sdk_login_qr_icon_close"></string>
+<string name="aqi_quality_index_pure">无污染</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_edit">在这里输入您的反馈......</string>
+<string name="homepage_delete_card_menu">删除</string>
+<string name="com_taobao_tae_sdk_trade_title">确认下单</string>
+<string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_email_edit">请输入您的邮件地址或者手机号......</string>
+<string name="com_taobao_tae_sdk_cart_title">购物车</string>
+<string name="pref_notifications_receive">接收通知栏消息</string>
+<string name="pref_category_hint">通知栏消息服务分类</string>
+<string name="com_taobao_tae_sdk_system_exception">系统异常</string>
+<string name="pref_enable_news">接收新闻消息通知</string>
+<string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
+<string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
+<string name="aqi_quality_index_hazardous">严重污染</string>
+<string name="aqi_quality_index_break">爆表</string>
+<string name="pref_notifications_title">消息通知管理</string>
+<string name="pref_notifications_hint">通知栏消息</string>
+<string name="aqi_quality_index_light_pollution">轻度污染</string>
+<string name="aqi_quality_index_unhealthy">中度污染</string>
+<string name="aqi_quality_index_dangerous">重度污染</string>
+<string name="com_taobao_tae_sdk_login_progress_message">登录中</string>
+<string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
+<string name="tae_sdk_login_qr_icon_taobao"></string>
+<string name="search_path_browser">设置/系统应用/浏览器</string>
+<string name="search_keyword_browser">浏览器</string>
+<string name="search_title_browser">浏览器</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_feedbackcomplete">感谢您的反馈，我们会尽快处理</string>
+<string name="nav_screen_container_tab_normal">普通窗口</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontact">您输入的邮箱或手机格式不对</string>
+<string name="nav_bottom_bar_back">返回</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontact">请输入您的邮件地址或者手机号</string>
+<string name="nav_bottom_bar_new_tab">新建窗口</string>
+<string name="nav_bottom_bar_close_all">关闭全部</string>
+<string name="pref_enable_videos">接收视频消息通知</string>
+<string name="pref_enable_novels">接收小说消息通知</string>
+<string name="page_info_view">查看网页信息</string>
+<string name="page_info">网页信息</string>
+<string name="miui_startpage">起始页</string>
+<string name="application_name">浏览器</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_maximages">最多上传5张图片</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nowifi">为了您的流量考虑，请连接Wifi网络后再进行反馈</string>
+<string name="pref_nav_mode_summary_pad">平板模式</string>
+<string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_titlebar_title">报告问题</string>
+<string name="unsecurity_url_toast">钓鱼网站</string>
+<string name="com_taobao_tae_sdk_web_view_activity_basewebviewactivity_strings_menulist_copy">已复制到剪贴板</string>
+<string name="pref_nav_mode_title">浏览模式</string>
+<string name="pref_nav_mode_summary_phone">手机模式</string>
+<string name="current_version_phone">Phone</string>
+<string name="current_version_pc">Pc</string>
+<string name="action_menu_current_version">当前版本</string>
+<string name="current_version_pad">Pad</string>
+<string name="nav_screen_container_tab_incognito">隐私窗口</string>
+<string name="more_option">更多选项</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontent">请输入您的反馈内容</string>
+<string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontent">反馈内容长度应大于3</string>
+<string name="webview_find_on_page">在网页上查找</string>
+<string name="edit">编辑</string>
+<string name="miuichromium_error_page_no_network">网络无连接</string>
+<string name="network_show_wifi_setting_tip_dialog_title">可用热点提示</string>
+<string name="show_check_security_url_check_tip_dialog_description">为了保障您的上网安全，浏览器会提交当前访问的网址，用以检测网站的安全性。如果您不需要此功能，请在设置中关闭“安全网址检测”即可。</string>
+<string name="network_show_wifi_setting_tip_dialog_description">附近有可用WLAN热点，请确认是否尝试连接</string>
+<string name="find_next">下一条结果</string>
+<string name="block">阻止</string>
+<string name="find_previous">上一条结果</string>
+<string name="no_matches">无匹配项</string>
+<string name="show_weather_location_getter_tip_dialog_description">为了您能正常享受天气服务，浏览器会对您所在的位置进行定位，但仅对于天气定位。如果您不需要此功能，请在设置中关闭“天气定位”即可。</string>
+<string name="miuichromium_error_page_title">出错啦！</string>
+<string name="show_security_tip_dialog_title">使用声明</string>
+<string name="miuichromium_error_page_airplane_mode_on">请先关闭飞行模式</string>
+<string name="miuichromium_error_page_server_error">访问人数过多或网络故障</string>
+<string name="empty_history_hint">历史记录为空</string>
+<string name="miuichromium_error_page_network_off">请开启网络连接</string>
+<string name="enter_incongnito_mode">进入隐私模式</string>
+<string name="miuichromium_error_page_reload">刷新试试</string>
+<string name="close_all_tab_alert_title">关闭窗口</string>
+<string name="miuichromium_error_page_airplane_mode">飞行模式</string>
+<string name="close_all_tab_alert_message">确定要关闭所有窗口吗?</string>
+<string name="too_many_windows_dialog_title">已达到可用窗口数量上限</string>
+<string name="miuichromium_error_page_diagnose">网络诊断</string>
+<string name="too_many_windows_dialog_message">无法打开新窗口，请先关闭某个窗口。</string>
+<string name="miuichromium_error_page_network_hijack">访问失败！当前网络不安全</string>
+<string name="sign_in_to">%s1“%s2”</string>
+<string name="miuichromium_error_page_unknown_error">糟糕！页面出错了</string>
+<string name="username">姓名</string>
+<string name="miuichromium_error_page_wlan">设置Wi-Fi</string>
+<string name="password">密码</string>
+<string name="miuichromium_error_page_mobile">移动网络</string>
+<string name="action">登录</string>
+<string name="allow">允许</string>
+<string name="popup_window_attempt">要允许此网站打开一个弹出式窗口吗？</string>
+<string name="ssl_expired">该证书已过期。</string>
+<string name="ssl_mismatch">网站的名称与证书上的名称不一致。</string>
+<string name="private_browsing_warning">不支持该功能。</string>
+<string name="ssl_untrusted">该证书并非来自可信的授权中心。</string>
+<string name="license_activity_title">许可</string>
+<string name="ssl_certificate_is_valid">该证书有效。</string>
+<string name="autofill_popup_content_description">目前显示的是自动填充弹出式窗口</string>
+<string name="ssl_certificate">安全证书</string>
+<string name="password_generation_popup_content_description">目前显示的是密码生成弹出式窗口</string>
+<string name="is_last_history_item">已至最后一个访问记录</string>
+<string name="date_picker_dialog_title">设置日期</string>
+<string name="date_picker_dialog_clear">清除</string>
+<string name="webviewchromium_private_browsing_warning">Android.</string>
+<string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
+<string name="use_cellular_network_alert_title">网络提示</string>
+<string name="js_dialog_before_unload">%s\n\n您确定要离开此页面吗？</string>
+<string name="cancel">取消</string>
+<string name="js_dialog_before_unload_negative_button">留在此页</string>
+<string name="ok">确定</string>
+<string name="js_dialog_before_unload_positive_button">离开此页</string>
+<string name="secureaccess">安全上网</string>
+<string name="js_dialog_before_unload_title">确认离开</string>
+<string name="secureaccess_cancel">忽略</string>
+<string name="js_dialog_title_default">JavaScript</string>
+<string name="switch_proxy_dialog_msg">糟糕！检测到网络劫持，建议启用小米安全代理或向运营商投诉。</string>
+<string name="js_dialog_title">网址为“%s”的网页显示：</string>
+<string name="switch_proxy_dialog_title">网络劫持</string>
+<string name="older">往前</string>
+<string name="use_cellular_network_alert_message">WLAN不可用，是否使用移动网络?</string>
+<string name="last_month">上个月</string>
+<string name="in_secureaccess">请放心浏览吧!</string>
+<string name="date_picker_dialog_other_button_label">其他</string>
+<string name="is_last_tab">已是最后一个窗口</string>
+<string name="is_first_tab">已是第一个窗口</string>
+<string name="is_first_history_item">已至第一个访问记录</string>
+<string name="week_picker_dialog_title">设置星期</string>
+<string name="time_picker_dialog_am">上午</string>
+<string name="save_image_failed">图片保存失败</string>
+<string name="time_picker_dialog_pm">下午</string>
+<string name="time_picker_dialog_title">设置时间</string>
+<string name="browserFrameFileErrorLabel">文件问题</string>
+<string name="accessibility_time_picker_hour">小时</string>
+<string name="browserFrameNetworkErrorLabel">连接问题</string>
+<string name="accessibility_time_picker_minute">分钟</string>
+<string name="browserFrameFormResubmitMessage">您尝试查看的网页中包含已提交的数据（“POSTDATA”）。如果您重新发送这些数据，系统会重复该网页上的表单所执行过的一切操作（如搜索或在线购买）。</string>
+<string name="browserFrameFormResubmitLabel"></string>
+<string name="have_sent_bookmark_to_home_screen">已发送到主屏幕</string>
+<string name="accessibility_time_picker_second">秒</string>
+<string name="accessibility_time_picker_ampm">上午/下午</string>
+<string name="ssl_not_yet_valid">该证书尚未生效。</string>
+<string name="accessibility_time_picker_milli">毫秒</string>
+<string name="ssl_date_invalid">该证书的日期无效。</string>
+<string name="time_picker_dialog_minute_second_separator">:</string>
+<string name="ssl_invalid">该证书无效。</string>
+<string name="time_picker_dialog_hour_minute_separator">:</string>
+<string name="ssl_unknown">未知证书错误。</string>
+<string name="date_time_picker_dialog_title">设置日期和时间</string>
+<string name="ssl_warnings_header">该网站的安全证书有问题。</string>
+<string name="time_picker_dialog_second_subsecond_separator">.</string>
+<string name="ssl_continue">继续</string>
+<string name="accessibility_datetime_picker_time">时间</string>
+<string name="security_warning">安全警告</string>
+<string name="accessibility_datetime_picker_date">日期</string>
+<string name="ssl_go_back">返回</string>
+<string name="save_image_success">保存图片成功</string>
+<string name="alert_tips">此网站可能存在安全风险，请谨慎访问！</string>
+<string name="month_picker_dialog_title">设置月份</string>
+<string name="url_opened_in_background">已在后台窗口中打开</string>
+<string name="accessibility_date_picker_week">周</string>
+<string name="return_to_homepage">已回到起始页</string>
+<string name="color_picker_button_cancel">取消</string>
+<string name="video_download_pause">已经暂停</string>
+<string name="color_picker_dialog_title">选择颜色</string>
+<string name="video_download_fail">获取失败</string>
+<string name="color_picker_button_blue">蓝色</string>
+<string name="video_project_title">视频投射</string>
+<string name="color_picker_button_green">绿色</string>
+<string name="video_push_multi_title">收藏的视频节目更新</string>
+<string name="color_picker_button_red">红色</string>
+<string name="video_push_multi_message">有%1$d个更新</string>
+<string name="color_picker_button_cyan">青色</string>
+<string name="video_push_single_message">已经更新到%1$d集</string>
+<string name="profiler_started_toast">分析器已启动</string>
+<string name="color_picker_button_white">白色</string>
+<string name="clip_dialog_title">是否打开已复制链接?</string>
+<string name="color_picker_button_black">黑色</string>
+<string name="snapshot_failed">无法保存以供离线阅读</string>
+<string name="color_picker_button_yellow">黄色</string>
+<string name="color_picker_button_magenta">洋红色</string>
+<string name="in_incognito">已进入隐身模式，浏览历史将不会被记录。</string>
+<string name="date_picker_dialog_set">设置</string>
+<string name="is_page_top">已至页首</string>
+<string name="accessibility_date_picker_year">年</string>
+<string name="is_page_bottom">已至页尾</string>
+<string name="accessibility_date_picker_month">月</string>
+<string name="snapshot_successed">网页保存成功</string>
+<string name="copy_to_clipboard_failure_message">未能复制到剪贴板</string>
+<string name="maximum_input_alert">最大输入2048个字符</string>
+<string name="delete">删除</string>
+<string name="miuishare_share_done">分享内容已发送。</string>
+<string name="miuishare_publish">发送</string>
+<string name="miuishare_no_network">无网络无法分享</string>
+<string name="miuishare_share_editor_title">分享</string>
+<string name="miuishare_weibo_title">微博</string>
+<string name="tab_quicklinks">常用</string>
+<string name="tab_yellowpage">网址</string>
+<string name="view_certificate">查看证书</string>
+<string name="tab_hotpage">热门</string>
+<string name="video_collect_success">收藏成功</string>
+<string name="video_collect_cancel">取消收藏</string>
+<string name="video_download_success">下载完成</string>
+<string name="account_prifix">帐户:</string>
+<string name="choosertitle_sharevia">分享方式</string>
+<string name="video_fragment_name_historys">观看历史</string>
+<string name="video_fragment_name_offine">离线视频</string>
+<string name="video_group_updates_list">有更新</string>
+<string name="video_group_noupdates_list">无更新</string>
+<string name="video_activity_name">收藏</string>
+<string name="video_fragment_name_collections">我的收藏</string>
+<string name="video_fragment_name_download">离线视频</string>
+<string name="miuishare_app_name">Miui分享</string>
+<string name="up_to_loading_tips">释放刷新</string>
+<string name="loading_tips">下拉刷新</string>
+<string name="video_float_window">小窗</string>
+<string name="video_float_window_playing">视频正在小窗播放</string>
+<string name="video_buffering_percent">视频缓冲进度</string>
+<string name="miuishare_account_need_activate">微博分享服务需要您的小米帐户中已绑定微博帐户，检测到您的小米帐户未激活，请先激活小米帐户。</string>
+<string name="miuishare_wechat_timeline_title">微信朋友圈</string>
+<string name="miuishare_account_activate_confirmation">激活提醒</string>
+<string name="miuishare_account_need_login">微博分享服务需要您的小米帐户中已绑定微博帐户，检测到您尚未登录小米帐户，请先登录小米帐户。</string>
+<string name="miuishare_account_login_cancel">取消</string>
+<string name="miuishare_account_login_confirmation">登录提醒</string>
+<string name="miuishare_account_login_ok">登录</string>
+<string name="miuishare_account_activate_ok">激活</string>
+<string name="miuishare_title_more">更多</string>
+<string name="miuishare_title_share">分享给好友</string>
+<string name="miui_content_open_url">打开网址</string>
+<string name="miui_content_select_all">全选</string>
+<string name="miui_content_cut">剪切</string>
+<string name="save_password_remember">记住</string>
+<string name="miui_content_select">选择</string>
+<string name="save_password_never">永不</string>
+<string name="data_traffic_prompt_title">数据网络提示</string>
+<string name="data_traffic_prompt_message">您目前正在使用数据网络，可能会产生大量的流量费用，是否继续？</string>
+<string name="data_traffic_prompt_change">无WIFI可用，继续观看可能会产生大量的流量费用，是否继续？</string>
+<string name="data_traffic_prompt_message_short">非WIFI网络，继续观看可能产生流量费用</string>
+<string name="video_play_error">视频播放错误</string>
+<string name="miui_content_copy">复制</string>
+<string name="miui_content_paste">粘贴</string>
+<string name="miui_content_web_search">搜索</string>
+<string name="miui_content_share">分享</string>
+<string name="miui_content_extent_select">扩选</string>
+<string name="miuichromium_error_page_btn_refresh">刷新</string>
+<string name="miuichromium_error_page_btn_close">关闭</string>
+<string name="miuichromium_error_page_diagnosing">诊断中</string>
+<string name="miuichromium_error_page_diagnose_banner">网络诊断</string>
+<string name="miuichromium_error_page_safe_network">安全上网</string>
+<string name="miuichromium_error_page_homepage">返回主页</string>
+<string name="miuichromium_error_page_diagnose_certificate">证书认证失败</string>
+<string name="miuichromium_error_page_diagnose_proxy_server">代理服务器错误</string>
+<string name="miuichromium_error_page_diagnose_protocol">网络协议错误</string>
+<string name="miuichromium_error_page_diagnose_connection">网络连接失败</string>
+<string name="save_password_message">是否希望浏览器记住此密码？</string>
+<string name="save_password_notnow">暂不保存</string>
+<string name="miuichromium_error_page_diagnose_dns">网址可能错了</string>
+<string name="miuichromium_error_page_diagnose_website">网站出故障了</string>
+<string name="miuichromium_error_page_diagnose_success">当前网络不佳</string>
+<string name="miuichromium_error_page_diagnose_timeout">网络连接超时</string>
+<string name="login_failed_toast">登录失败，请刷新页面</string>
+<string name="custom_head_card_text">永远相信美好的事情\n即将发生</string>
+<string name="pull_to_refresh_pull_label">下拉刷新…</string>
+<string name="pull_to_refresh_release_label">松开进入推荐，并获取新内容</string>
+<string name="go_supermarket_button">去看看</string>
+<string name="go_supermarket_title">小米应用商店，更多丰富应用极速省流量</string>
+<string name="download_memory_info_total">共%s</string>
+<string name="menu_title_clear_all">清空全部</string>
+<string name="menu_title_open_file_management">打开文件管理</string>
+<string name="menu_title_pause_all">全部暂停</string>
+<string name="menu_title_resume_all">全部开始</string>
+<string name="keep_queued_download">保留</string>
+<string name="dialog_queued_body">该文件已加入队列，供以后下载。</string>
+<string name="dialog_confirm_delete_checkbox_message">同时删除本地文件</string>
+<string name="download_filter_others">其他</string>
+<string name="download_filter_audio">音乐</string>
+<string name="download_filter_image">图片</string>
+<string name="add_shortcut_success">快捷方式添加成功</string>
+<string name="add_bookshelf_popup_text">已将本书添加至书架\n点击菜单查看</string>
+<string name="download_memory_info_avai">可用%s|</string>
+<string name="download_list_open_xl_ok">确定</string>
+<string name="dialog_confirm_delete_the_download_item_message">确定删除该任务?</string>
+<string name="download_btn_select_none">全不选</string>
+<string name="download_btn_select_all">全选</string>
+<string name="dialog_confirm_delete_downloads_message">确定删除%s条任务吗?</string>
+<string name="comment_menu">说两句...</string>
+<string name="custom_head_card_text_incognito">天知地知你知你知\n隐私窗口</string>
+<string name="comment_app_menu">你的评论能开光</string>
+<string name="delete_download">删除</string>
+<string name="dialog_file_already_exists">无法下载,目标文件已存在</string>
+<string name="dialog_insufficient_space_on_external">外部存储器的空间不足</string>
+<string name="retry_download">重试</string>
+<string name="dialog_title_not_available">下载失败</string>
+<string name="download_success">下载完成</string>
+<string name="resume_download">开始</string>
+<string name="pause_download">暂停</string>
+<string name="download_wait_connect">连接中</string>
+<string name="paused_waiting_for_network">等待网络连接</string>
+<string name="paused_queued_for_wifi">等待网络连接</string>
+<string name="open_file_explorer_failed">打开文件管理失败</string>
+<string name="retry_after_network_available">没有网络连接，请开通网络连接后重试</string>
+<string name="download_filter_all">全部</string>
+<string name="download_filter_application">应用</string>
+<string name="download_filter_video">视频</string>
+<string name="download_filter_text">文档</string>
+<string name="dialog_file_missing_title">无法操作文件</string>
+<string name="dialog_file_missing_body">文件可能被移动或删除</string>
+<string name="download_no_application_title">文件可能被移动或删除</string>
+<string name="paused_waiting_to_retry">等待重试</string>
+<string name="paused_unknown">已暂停</string>
+<string name="unknown_title">未知</string>
+<string name="dialog_media_not_found">无法下载,未安装外部媒体</string>
+<string name="dialog_insufficient_space_on_cache">下载失败</string>
+<string name="dialog_failed_body">您想要稍后重新尝试下载该文件，还是将其从队列中删除？</string>
+<string name="dialog_cannot_resume">下载中断,无法继续进行</string>
+<string name="dialog_title_queued_body">文件尚不可用</string>
+<string name="color_picker_button_more">更多</string>
+<string name="color_picker_hue">色调</string>
+<string name="low_memory_error">内存不足，无法完成上一操作</string>
+<string name="opening_file_error">无法打开所选文件</string>
+<string name="profiler_no_storage_toast">外部存储设备尚未准备就绪，无法启动分析器</string>
+<string name="profiler_error_toast">无法启动分析器</string>
+<string name="profiler_stopped_toast">中查看分析结果。</string>
+<string name="media_player_loading_video">加载视频</string>
+<string name="media_player_error_button">确定</string>
+<string name="media_player_error_text_unknown">抱歉，此视频无法播放。</string>
+<string name="media_player_error_text_invalid_progressive_playback">抱歉，此视频无法流式传输到该设备。</string>
+<string name="media_player_error_title">无法播放视频</string>
+<string name="color_picker_button_set">设置</string>
+<string name="color_picker_value">值</string>
+<string name="color_picker_saturation">饱和度</string>
+<string name="abc_action_bar_up_description">转到上一层级</string>
+<string name="abc_action_menu_overflow_description">更多</string>
+<string name="abc_action_mode_select_all">全选</string>
+<string name="back_button_label">上一步</string>
+<string name="abc_action_mode_done">完成</string>
+<string name="abc_action_bar_home_description">转到主屏幕</string>
+<string name="autologin_bar_error">无法登录。</string>
+<string name="miui_autologin_bar_error">无法登录，请重试</string>
+<string name="miui_autologin_bar_title">可以使用系统帐户身份直接登录此网站</string>
+<string name="find_on_page_prev">上一项</string>
+<string name="autologin_bar_login_text">登录</string>
+<string name="autologin_bar_hide_text">隐藏</string>
+<string name="next_button_label">下一步</string>
+<string name="skip_button_label">跳过</string>
+<string name="actionbar_web_search">网页搜索</string>
+<string name="actionbar_share">分享</string>
+<string name="geolocation_permissions_prompt_remember">记住偏好设置</string>
+<string name="geolocation_settings_page_title">取消获取位置信息的权限</string>
+<string name="geolocation_permissions_prompt_share">共享位置信息</string>
+<string name="geolocation_permissions_prompt_dont_share">拒绝</string>
+<string name="geolocation_settings_page_summary_allowed">此网站目前可获取您的位置信息</string>
+<string name="send_comment_button">发表</string>
+<string name="reply_comment_title">%s</string>
+<string name="pay_failed_toast">支付失败</string>
+<string name="add_shortcut">加快捷方式</string>
+<string name="geolocation_permissions_prompt_message">%s需要了解您的位置信息</string>
+<string name="send_comment_title">评论文章</string>
+<string name="pay_success_toast">支付成功</string>
+<string name="geolocation_permissions_prompt_toast_allowed">此网站可以获取您的位置信息。您可以在“设置”&gt;“高级”&gt;“网站数据存储”中更改此设置。</string>
+<string name="geolocation_settings_page_dialog_cancel_button">取消</string>
+<string name="accessibility_button_clear">清除输入内容</string>
+<string name="geolocation_permissions_prompt_toast_disallowed">此网站无法获取您的位置信息。您可以在“设置”&gt;“隐私和安全”&gt;“取消获取位置信息的权限”中清除此操作。</string>
+<string name="url_hint_from_search">输入关键词</string>
+<string name="url_hint">搜索或输入网址</string>
+<string name="autologin_bar_text">使用以下身份登录：</string>
+<string name="geolocation_settings_page_summary_not_allowed">此网站目前不能获取您的位置信息</string>
+<string name="geolocation_settings_page_dialog_ok_button">确定</string>
+<string name="geolocation_settings_page_dialog_message">要取消此网站获取位置信息的权限吗？</string>
+<string name="replace">替换</string>
+<string name="isreplace">文件已经存在，是否替换?</string>
+<string name="rlz_access_point">Y1</string>
+<string name="uploads_disabled">文件上传功能已停用。</string>
+<string name="dont_remind_again">不再提醒</string>
+<string name="empty_snapshot_hint">没有保存的离线网页</string>
+<string-array name="bookmarks_zh">
+<item>小米论坛</item>
+<item>http://bbs.xiaomi.cn/</item>
+<item>百度</item>
+<item>http://m.baidu.com/?from=1269a</item>
+<item>谷歌</item>
+<item>http://www.google.com.hk/</item>
+<item>新浪</item>
+<item>http://3g.sina.com.cn/</item>
+<item>QQ</item>
+<item>http://3g.qq.com/</item>
+<item>凤凰网</item>
+<item>http://i.ifeng.com/?ch=rj_mr</item>
+<item>网易</item>
+<item>http://3g.163.com/</item>
+</string-array>
+<string-array name="search_bar_search_engines_default">
+<item>google</item>
+<item>bing</item>
+</string-array>
+<string-array name="bookmarks_cu_customization">
+<item>沃门户</item>
+<item>http://www.wo.com.cn</item>
+</string-array>
+<string-array name="shortcut_dialog_keep">
+<item>保留</item>
+<item>保留</item>
+</string-array>
+<string-array name="shortcut_dialog_title">
+<item>小米浏览器给您的消息</item>
+<item>小米邀您看奥运</item>
+</string-array>
+<string-array name="bing">
+<item>Bing</item>
+<item>bing.com</item>
+<item>http://www.bing.com/s/wlflag.ico</item>
+<item>http://www.bing.com/search?q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="pref_ua_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="yahoo_in_list">
+<item>search_yahoo</item>
+<item>ic_search_engine_yahoo</item>
+<item>yahoo</item>
+</string-array>
+<string-array name="bing_zh_CN_in_list">
+<item>search_bing</item>
+<item>ic_search_engine_bing</item>
+<item>bing_zh_CN</item>
+</string-array>
+<string-array name="bookmarks">
+<item>Google</item>
+<item>http://www.google.com/</item>
+<item>Picasa</item>
+<item>http://picasaweb.google.com/</item>
+<item>Yahoo!</item>
+<item>http://www.yahoo.com/</item>
+<item>MSN</item>
+<item>http://www.msn.com/</item>
+<item>Twitter</item>
+<item>http://twitter.com/</item>
+<item>Facebook</item>
+<item>http://www.facebook.com/</item>
+<item>Wikipedia</item>
+<item>http://www.wikipedia.org/</item>
+<item>eBay</item>
+<item>http://www.ebay.com/</item>
+<item>CNN</item>
+<item>http://www.cnn.com/</item>
+<item>Times</item>
+<item>http://www.nytimes.com/</item>
+<item>ESPN</item>
+<item>http://espn.com/</item>
+<item>Amazon</item>
+<item>http://www.amazon.com/</item>
+<item>Channel</item>
+<item>http://www.weather.com/</item>
+<item>BBC</item>
+<item>http://www.bbc.co.uk/</item>
+</string-array>
+<string-array name="google_in_list">
+<item>search_google</item>
+<item>ic_search_engine_google</item>
+<item>google</item>
+</string-array>
+<string-array name="pref_nav_mode_summary">
+<item>手机模式</item>
+<item>平板模式</item>
+</string-array>
+<string-array name="yicha">
+<item>易查</item>
+<item>yicha.cn</item>
+<item>http://yicha.cn/favicon.ico</item>
+<item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="s139_in_list">
+<item>search_s139</item>
+<item>ic_search_engine_s139</item>
+<item>s139</item>
+</string-array>
+<string-array name="shipin_in_list">
+<item>search_shipin</item>
+<item>ic_search_engine_shipin</item>
+<item>shipin</item>
+</string-array>
+<string-array name="taobao">
+<item>淘宝</item>
+<item>taobao.com</item>
+<item>http://r.m.taobao.com/favicon.ico</item>
+<item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_nav_mode_summary_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="tupian">
+<item>图片</item>
+<item>baidu.com</item>
+<item>http://image.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="baidu_in_list">
+<item>search_baidu</item>
+<item>ic_search_engine_baidu</item>
+<item>baidu</item>
+</string-array>
+<string-array name="sm">
+<item>神马</item>
+<item>sm.cn</item>
+<item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
+<item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy204461</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_homepage_choices">
+<item>起始页</item>
+<item>自定义</item>
+</string-array>
+<string-array name="sogou_in_list">
+<item>search_sogou</item>
+<item>ic_search_engine_sogou</item>
+<item>sogou</item>
+</string-array>
+<string-array name="dianping">
+<item>团购</item>
+<item>dianping.com</item>
+<item>http://developer.dianping.com/favicon.ico</item>
+<item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_ua_choices">
+<item>默认</item>
+<item>桌面版</item>
+<item>iPhone</item>
+<item>iPad</item>
+</string-array>
+<string-array name="bing_in_list">
+<item>search_bing</item>
+<item>ic_search_engine_bing</item>
+<item>bing</item>
+</string-array>
+<string-array name="bookmarks_cm_customization">
+<item>MM综合门户</item>
+<item>http://mm.10086.cn/a/j/2743/</item>
+<item>手机阅读</item>
+<item>http://wap.cmread.com</item>
+<item>手机游戏</item>
+<item>http://g.10086.cn</item>
+<item>手机视频</item>
+<item>http://wap.cmvideo.cn</item>
+<item>无线音乐</item>
+<item>http://m.10086.cn</item>
+<item>12580</item>
+<item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+<item>飞信首页</item>
+<item>http://f.10086.cn</item>
+<item>139邮箱</item>
+<item>http://mail.10086.cn</item>
+<item>冲浪网址</item>
+<item>http://go.10086.cn/?coc=6GG2GGRq</item>
+</string-array>
+<string-array name="shortcut_dialog_delete">
+<item>移除</item>
+<item>拒绝</item>
+</string-array>
+<string-array name="s139">
+<item>百度</item>
+<item>139.com</item>
+<item>http://s.139.com/favicon.ico</item>
+<item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="taobao_in_list">
+<item>search_taobao</item>
+<item>ic_search_engine_taobao</item>
+<item>taobao</item>
+</string-array>
+<string-array name="search_bar_search_engines_rCN">
+<item>baidu</item>
+<item>sogou</item>
+<item>sm</item>
+<item>google</item>
+</string-array>
+<string-array name="dianping_in_list">
+<item>search_dianping</item>
+<item>ic_search_engine_dianping</item>
+<item>dianping</item>
+</string-array>
+<string-array name="google">
+<item>Google</item>
+<item>google.com</item>
+<item>http://www.google.com/favicon.ico</item>
+<item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="menu_theme_setting">
+<item>默认</item>
+<item>浅黄</item>
+<item>灰白</item>
+<item>棕黄</item>
+<item>青绿</item>
+<item>灰蓝</item>
+</string-array>
+<string-array name="sm_in_list">
+<item>search_sm</item>
+<item>ic_search_engine_sm</item>
+<item>sm</item>
+</string-array>
+<string-array name="pref_text_zoom_values">
+<item>50</item>
+<item>75</item>
+<item>100</item>
+<item>125</item>
+<item>200</item>
+</string-array>
+<string-array name="search_bar_search_engines_cmcc">
+<item>s139</item>
+<item>baidu</item>
+<item>sogou</item>
+<item>taobao</item>
+<item>yicha</item>
+<item>easou</item>
+<item>dianping</item>
+<item>shipin</item>
+<item>tupian</item>
+</string-array>
+<string-array name="tupian_in_list">
+<item>search_tupian</item>
+<item>ic_search_engine_tupian</item>
+<item>tupian</item>
+</string-array>
+<string-array name="pref_text_zoom_choices">
+<item>超小</item>
+<item>小</item>
+<item>(建议)</item>
+<item>大</item>
+<item>超大</item>
+</string-array>
+<string-array name="search_engines_default">
+<item>google</item>
+<item>yahoo</item>
+<item>bing</item>
+</string-array>
+<string-array name="search_engines_cmcc">
+<item>s139</item>
+<item>baidu</item>
+<item>sogou</item>
+<item>google</item>
+</string-array>
+<string-array name="yahoo">
+<item>Yahoo!</item>
+<item>yahoo.com</item>
+<item>http://search.yahoo.com/favicon.ico</item>
+<item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+<item>UTF-8</item>
+<item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+</string-array>
+<string-array name="pref_homepage_values">
+<item>miui_home</item>
+<item>other</item>
+</string-array>
+<string-array name="easou_in_list">
+<item>search_easou</item>
+<item>ic_search_engine_easou</item>
+<item>easou</item>
+</string-array>
+<string-array name="sogou">
+<item>搜狗</item>
+<item>sogou.com</item>
+<item>http://wap.sogou.com/favicon.ico</item>
+<item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="shipin">
+<item>视频</item>
+<item>youku.com</item>
+<item>http://m.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="baidu">
+<item>百度</item>
+<item>baidu.com</item>
+<item>http://m.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="search_engines">
+<item>baidu</item>
+<item>sogou</item>
+<item>google</item>
+<item>bing_zh_CN</item>
+</string-array>
+<string-array name="easou">
+<item>宜搜</item>
+<item>easou.com:8080</item>
+<item>http://ad3.easou.com:8080/favicon.ico</item>
+<item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="yicha_in_list">
+<item>search_yicha</item>
+<item>ic_search_engine_yicha</item>
+<item>yicha</item>
+</string-array>
+<string-array name="search_engines_rCN">
+<item>baidu</item>
+<item>sogou</item>
+<item>sm</item>
+<item>google</item>
+</string-array>
+</MIUI_Theme_Values>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 WLAN" version="3.2.27" annotation="" tag="设置">
+    <resource description="ic_search_n_0" x="254" y="1142" width="80" height="90" uuid="e653c263-8ded-4591-9898-ae71ffabaafb">
+        <path src="res\drawable-hdpi\ic_search_d.png" description="搜索图标 不可按" />
+        <path src="res\drawable-xhdpi\ic_search_d.png" description="搜索图标 不可按" />
+        <path src="res\drawable-xxhdpi\ic_search_d.png" description="搜索图标 不可按" />
+        <path src="res\drawable-hdpi\ic_search_n_0.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_0.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_0.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_1.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_1.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_1.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_2.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_2.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_2.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_3.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_3.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_3.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_4.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_4.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_4.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_5.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_5.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_5.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_6.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_6.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_6.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_n_7.png" description="搜索图标" />
+        <path src="res\drawable-xhdpi\ic_search_n_7.png" description="搜索图标" />
+        <path src="res\drawable-xxhdpi\ic_search_n_7.png" description="搜索图标" />
+        <path src="res\drawable-hdpi\ic_search_p.png" description="搜索图标 二态" />
+        <path src="res\drawable-xhdpi\ic_search_p.png" description="搜索图标 二态" />
+        <path src="res\drawable-xxhdpi\ic_search_p.png" description="搜索图标 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 搜索插件" version="3.5.8" annotation="" tag="普通模式">
+    <resource description="global_search_p.9" x="80" y="124" width="548" height="116" uuid="864cb08a-53f7-4d46-9ac4-7a4818fc3fcc">
+        <path src="res\drawable-hdpi\global_search_n_v5.9.png" description="搜索插件常态" />
+        <path src="res\drawable-xhdpi\global_search_n_v5.9.png" description="搜索插件常态" />
+        <path src="res\drawable-hdpi\global_search_p_v5.9.png" description="搜索插件常态 二态" />
+        <path src="res\drawable-xhdpi\global_search_p_v5.9.png" description="搜索插件常态 二态" />
+    </resource>
+    <resource description="global_search_widget_icon" x="556" y="1086" width="116" height="104" uuid="d0228992-e19e-47e9-856a-3e138dedbfdc">
+        <path src="res\drawable-hdpi\global_search_widget_icon.png" description="全局搜索 插件" />
+        <path src="res\drawable-xhdpi\global_search_widget_icon.png" description="全局搜索 插件" />
+    </resource>
+    <resource description="gadget_clear_button_icon" x="388" y="1088" width="112" height="108" uuid="0d424529-9eee-4434-ba1a-c2e86396692d">
+        <path src="res\drawable-hdpi\gadget_clear_button_icon.png" description="一键清理 插件" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_icon.png" description="一键清理 插件" />
+    </resource>
+    <resource description="gadget_clock_24_icon" x="48" y="1096" width="116" height="100" uuid="d87bc991-1599-4f77-bb41-2a780f5a45d7">
+        <path src="res\drawable-hdpi\gadget_clock_24_icon.png" description="时钟插件" />
+        <path src="res\drawable-xhdpi\gadget_clock_24_icon.png" description="时钟插件" />
+    </resource>
+    <resource description="gadget_toggle_icon" x="216" y="1092" width="116" height="106" uuid="a9d31f81-c29c-4531-9ab0-0862e156956e">
+        <path src="res\drawable-hdpi\gadget_toggle_icon.png" description="开关插件" />
+    </resource>
+</screenshot>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Edit mode 2" version="3.3.1" annotation="" tag="Popup window">
+    <resource description="alphabet_indexer_overlay.9" x="256" y="542" width="214" height="214" uuid="243754fc-dec3-412c-8442-7e60b677c9a5">
+        <path src="res\drawable-hdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-largeui-hdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-largeui-xhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-xhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-xxhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_no_shadow_bg_light.9" x="0" y="44" width="718" height="94" uuid="18782ddc-7536-4a16-93e8-02b20458e369">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+    </resource>
+    <resource description="word_photo_bg" x="6" y="712" width="112" height="110" uuid="ddad4869-7fae-463e-842d-2915c84b3080">
+        <path src="res\drawable-hdpi\word_photo_bg.png" description="" />
+        <path src="res\drawable-xxhdpi\word_photo_bg.png" description="" />
+    </resource>
+    <resource description="v5_list_view_section_item_bg_light.9" x="2" y="480" width="708" height="54" uuid="30247efb-5aee-45ce-bd84-38032d74d4da">
+        <path src="res\drawable-hdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-xhdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-xxhdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-hdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+        <path src="res\drawable-xhdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+        <path src="res\drawable-xxhdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+    </resource>
+</screenshot>

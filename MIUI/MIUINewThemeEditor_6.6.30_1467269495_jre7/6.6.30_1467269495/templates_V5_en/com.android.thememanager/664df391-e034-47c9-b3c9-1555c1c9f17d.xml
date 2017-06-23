@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.4 Theme details" version="3.10.23" annotation="" tag="New Themes">
+    <resource description="resource_detail_category_title_bg.9" x="0" y="598" width="712" height="66" uuid="851e27e9-9a33-487d-821f-775f56da736a">
+        <path src="res\drawable-hdpi\resource_detail_category_title_bg.9.png" description="列表标题背景" />
+        <path src="res\drawable-xhdpi\resource_detail_category_title_bg.9.png" description="列表标题背景" />
+        <path src="res\drawable-xxhdpi\resource_detail_category_title_bg.9.png" description="列表标题背景" />
+    </resource>
+    <resource description="expand_all_bg.9" x="12" y="358" width="690" height="64" uuid="71ff8edd-e97b-4203-b6ae-c070479c45ed">
+        <path src="res\drawable-hdpi\expand_all_bg.9.png" description="展开全文按钮" />
+        <path src="res\drawable-xhdpi\expand_all_bg.9.png" description="展开全文按钮" />
+        <path src="res\drawable-xxhdpi\expand_all_bg.9.png" description="展开全文按钮" />
+    </resource>
+    <resource description="resource_comment_average_score_bg" x="22" y="674" width="190" height="218" uuid="5cddd724-d2c4-4631-ace4-f1d90d25b692">
+        <path src="res\drawable-hdpi\resource_comment_average_score_bg.png" description="平均得分 背景" />
+        <path src="res\drawable-xhdpi\resource_comment_average_score_bg.png" description="平均得分 背景" />
+        <path src="res\drawable-xxhdpi\resource_comment_average_score_bg.png" description="平均得分 背景" />
+    </resource>
+    <resource description="resource_progressbar.9" x="312" y="698" width="306" height="30" uuid="277ee91e-f9c8-42d1-a37c-4a7099fb157c">
+        <path src="res\drawable-hdpi\resource_progressbar.9.png" description="评分进度条" />
+        <path src="res\drawable-xhdpi\resource_progressbar.9.png" description="评分进度条" />
+        <path src="res\drawable-xxhdpi\resource_progressbar.9.png" description="评分进度条" />
+    </resource>
+    <resource description="resource_comment_n" x="622" y="1182" width="50" height="54" uuid="b2333be3-2ad5-4667-b57f-260b8a247d6b">
+        <path src="res\drawable-hdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_comment_n.png" description="评论按钮 常态" />
+        <path src="res\drawable-hdpi\resource_comment_p.png" description="评论按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_comment_p.png" description="评论按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_comment_p.png" description="评论按钮 二态" />
+    </resource>
+    <resource description="resource_share_n" x="50" y="1182" width="60" height="64" uuid="96f65788-5329-4933-ad88-f5857dead194">
+        <path src="res\drawable-hdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-xhdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-xxhdpi\resource_share_n.png" description="分享按钮 常态" />
+        <path src="res\drawable-hdpi\resource_share_p.png" description="分享按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_share_p.png" description="分享按钮 二态" />
+        <path src="res\drawable-xxhdpi\resource_share_p.png" description="分享按钮 二态" />
+    </resource>
+    <resource description="resource_operation_view_bg.9" x="0" y="1142" width="716" height="138" uuid="10e929b8-e94c-4ce4-873a-fe17c9f56946">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+    </resource>
+    <resource description="resource_divider.9" x="0" y="196" width="720" height="16" uuid="f55df4ce-9638-4630-b9ed-f2899dfa65c2">
+        <path src="res\drawable-hdpi\resource_divider.9.png" description="分隔线" />
+        <path src="res\drawable-xhdpi\resource_divider.9.png" description="分隔线" />
+        <path src="res\drawable-xxhdpi\resource_divider.9.png" description="分隔线" />
+    </resource>
+</screenshot>

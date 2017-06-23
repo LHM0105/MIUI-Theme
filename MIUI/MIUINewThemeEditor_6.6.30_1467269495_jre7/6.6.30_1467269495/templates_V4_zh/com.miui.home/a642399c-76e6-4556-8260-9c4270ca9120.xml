@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 缩略图模式" version="2.9.16" annotation="" tag="缩略图模式">
+    <resource description="thumbnail_bg_current.9.png" x="29" y="105" width="213" height="349" uuid="86ee85f8-3c75-4482-980c-8d53d607c1e5">
+        <path src="res\drawable-hdpi\thumbnail_bg_current.9.png" description="" />
+    </resource>
+    <resource description="thumbnail_new_screen_n.png" x="250" y="484" width="213" height="346" uuid="0926dccd-2a2d-476a-8e13-cd6e72b7c4f6">
+        <path src="res\drawable-hdpi\thumbnail_new_screen_n.png" description="" />
+        <path src="res\drawable-hdpi\thumbnail_new_screen_p.png" description="" />
+    </resource>
+    <resource description="home_button_sethome_on.png" x="480" y="396" width="205" height="62" uuid="c6962821-9ce2-47fa-b75c-e478a0d21266">
+        <path src="res\drawable-hdpi\home_button_sethome_on.png" description="" />
+    </resource>
+    <resource description="thumbnail_bg.9.png" x="252" y="105" width="214" height="352" uuid="a6d5738f-9066-4d4a-acd0-0cb2ac7fe0e4">
+        <path src="res\drawable-hdpi\thumbnail_bg.9.png" description="" />
+    </resource>
+    <resource description="delete_screen_p.png" x="176" y="486" width="60" height="60" uuid="9764fc09-6aa1-4a3f-8ee1-7f0eb4a08b71">
+        <path src="res\drawable-hdpi\delete_screen_n.png" description="" />
+        <path src="res\drawable-hdpi\delete_screen_p.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 混搭" version="4.8.29" annotation="" tag="主题风格">
+    <resource description="component_list_item_bg_p.9" x="20" y="314" width="523" height="246" uuid="39cd52c3-f898-4aa1-a0fc-edef7e5b74a0">
+        <path src="res\drawable-xhdpi\component_list_bg.9.png" description="" />
+        <path src="res\drawable-xxhdpi\component_list_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\component_list_item_bg_p.9.png" description="" />
+        <path src="res\drawable-xxhdpi\component_list_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="icon_component_statusbar" x="76" y="387" width="97" height="97" uuid="b19e1d4d-9aae-4129-ba79-2bb9341f4ed0">
+        <path src="res\drawable-xhdpi\icon_component_wallpaper.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_wallpaper.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_alarmstyle.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_alarmstyle.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_boot_animation.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_boot_animation.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_boot_audio.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_boot_audio.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_contact.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_contact.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_font.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_font.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_icon.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_icon.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_launcher.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_launcher.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_lockscreen.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_lockscreen.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_lockstyle.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_lockstyle.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_mms.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_mms.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_notication.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_notication.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_ringtone.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_ringtone.png" description="" />
+        <path src="res\drawable-xhdpi\icon_component_statusbar.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_component_statusbar.png" description="" />
+    </resource>
+</screenshot>

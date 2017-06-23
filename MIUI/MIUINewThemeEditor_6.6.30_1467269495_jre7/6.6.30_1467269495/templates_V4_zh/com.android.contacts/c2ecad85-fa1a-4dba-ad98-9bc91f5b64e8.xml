@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.3 批选通话记录" version="2.9.16" annotation="" tag="拨号">
+    <resource description="ic_menu_send_sms.png" x="15" y="1193" width="83" height="81" uuid="7ab729f8-011f-4e2c-975f-c6921f321401">
+        <path src="res\drawable-xhdpi\ic_menu_send_sms.png" description="发短信" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="24" y="172" width="122" height="118" uuid="b1d7d9d8-2d6b-4bfb-b368-df5e7a07276f">
+        <path src="res\drawable-hdpi\ic_contact_photo_bg.png" description="头像底板" />
+        <path src="res\drawable-hdpi\ic_contact_photo_fg.png" description="头像顶部图层" />
+        <path src="res\drawable-hdpi\ic_contact_photo_mask.png" description="遮罩层 控制头像显示区域" />
+    </resource>
+</screenshot>

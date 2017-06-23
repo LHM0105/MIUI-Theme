@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="task_item_text_shadowColor">#ff663300</color>
+<color name="no_notification_tips_text">#ff999900</color>
+<color name="task_manager_text">#ff663300</color>
+</MIUI_Theme_Values>

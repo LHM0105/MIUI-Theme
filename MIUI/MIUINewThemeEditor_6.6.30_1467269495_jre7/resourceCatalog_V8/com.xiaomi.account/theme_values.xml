@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="passport_checked_text_light">#fff05000</color>
+<color name="passport_title_bar_color_white">#ffefeff0</color>
+<color name="passport_white">#ffffffff</color>
+<color name="passport_text_color_alpha_white_90per">#e6ffffff</color>
+<color name="passport_text_color_alpha_white_40per">#66ffffff</color>
+<color name="passport_text_color_notice">#ff47940f</color>
+<color name="passport_text_color_warn_title">#ffe84700</color>
+<color name="passport_text_color_normal_alpha_black">#b2000000</color>
+<color name="passport_text_color_warn">#ffff2a00</color>
+<color name="passport_text_color_black">#cc000000</color>
+<color name="passport_text_color_gray">#80000000</color>
+<color name="passport_text_color_alpha_black_40per">#64000000</color>
+<color name="passport_alphabet_indexer_highlight_text_color">#ffffffff</color>
+<color name="passport_text_color_alpha_black_45per">#72000000</color>
+<color name="passport_alphabet_indexer_activated_text_color">#a4000000</color>
+<color name="passport_background_light">#ff000000</color>
+<color name="passport_action_bar_title_text_color_disabled_light">#4c000000</color>
+<color name="passport_action_bar_title_text_color_light">#b2000000</color>
+<color name="passport_button_text_color_light_positive">#ff4b8d0e</color>
+<color name="passport_button_text_color_light">#ff737373</color>
+<color name="passport_button_text_color_light_warning">#ffffffff</color>
+<color name="passport_preference_primary_text_color_disable_light">#4d000000</color>
+<color name="text_color_red">#ffee0000</color>
+<color name="passport_dialog_message_text_color_light">#b2000000</color>
+<color name="device_info1_text_color">#ff898989</color>
+<color name="passport_disabled_text_light">#4d000000</color>
+<color name="no_network_text_light">#7f000000</color>
+<color name="passport_bright_foreground_light">#cc000000</color>
+<color name="email_text_color_red">#ffff6d33</color>
+<color name="passport_bright_foreground_light_disabled">#4c000000</color>
+<color name="passport_bright_foreground_light_inverse"></color>
+<color name="passport_bright_foreground_dark">#ccffffff</color>
+<color name="passport_bright_foreground_dark_disabled">#4cffffff</color>
+<color name="passport_preference_primary_text_color_light">#cc000000</color>
+<color name="passport_progress_percent_color">#ffed5137</color>
+<color name="passport_button_text_color_light_guide">#ff33aaff</color>
+<color name="passport_activated_text_dark"></color>
+<color name="passport_selected_text_dark"></color>
+<color name="passport_text_color_alpha_black_90per">#e6000000</color>
+<color name="passport_preference_secondary_text_color_pressed_light">#4d000000</color>
+<color name="passport_miui_provision_gray_background">#fff7f7f7</color>
+<color name="passport_preference_secondary_text_color_disable_light">#4d000000</color>
+<color name="passport_divider_color">#26000000</color>
+<color name="passport_preference_secondary_text_color_light">#4d000000</color>
+<color name="passport_hint_text_color_black">#4d000000</color>
+<color name="passport_preference_primary_text_color_pressed_light">#cc000000</color>
+<color name="passport_text_color_alpha_black_55per">#8c000000</color>
+<color name="passport_text_color_alpha_black_60per">#96000000</color>
+<color name="passport_alphabet_indexer_text_color">#33000000</color>
+<color name="passport_text_color_alpha_black_70per">#b2000000</color>
+<color name="passport_alphabet_indexer_overlay_text_color">#ffffffff</color>
+<color name="passport_list_secondary_text_color_pressed_light">#73000000</color>
+<color name="passport_dialog_list_text_color_pressed_light">#cc000000</color>
+<color name="passport_list_text_color_disable_light">#66000000</color>
+<color name="passport_hint_edit_text_color_light">#4c000000</color>
+<color name="passport_list_secondary_text_color_disable_light">#33000000</color>
+<color name="passport_dialog_list_text_color_normal_light">#cc000000</color>
+<color name="passport_list_secondary_text_color_normal_light">#73000000</color>
+<color name="passport_dialog_list_text_color_disabled_light">#33000000</color>
+<color name="passport_highlighted_text_light">#4df06410</color>
+<color name="passport_dialog_title_text_color">#ff000000</color>
+<color name="passport_list_text_color_normal_light">#cc000000</color>
+<color name="passport_pressed_text_dark"></color>
+<color name="passport_list_text_color_pressed_light">#cc000000</color>
+<bool name="passport_abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+<dimen name="passport_dialog_margin_h">16.000000dp</dimen>
+<dimen name="passport_title_content_margin_v">13.000000dp</dimen>
+<dimen name="passport_editor_height">48.000000dp</dimen>
+<dimen name="passport_content_bottom_margin">13.000000dp</dimen>
+<dimen name="passport_login_status_text_margin_h">17.000000dp</dimen>
+<dimen name="passport_login_find_device_status_text_margin_h">17.000000dp</dimen>
+<dimen name="passport_lines_margin_v">0.000000dp</dimen>
+<dimen name="passport_notice_text_padding_h">25.000000dp</dimen>
+<dimen name="passport_content_horizontal_margin">14.000000dp</dimen>
+<dimen name="passport_content_vertical_margin">15.000000dp</dimen>
+<dimen name="passport_login_reg_padding_top">24.000000dp</dimen>
+<dimen name="passport_login_reg_padding_h">23.000000dp</dimen>
+<dimen name="passport_quick_login_dialog_width">400.000000dp</dimen>
+<dimen name="passport_list_item_margin_right">7.000000dp</dimen>
+<dimen name="passport_list_item_padding_left">20.000000dp</dimen>
+<dimen name="passport_divider">0.330000dp</dimen>
+<dimen name="passport_password_alert_icon_padding_right">60.000000dp</dimen>
+<dimen name="passport_reg_account_goto_email_btn_width">100.000000dp</dimen>
+<dimen name="passport_picker_section_header_text_padding_vertical">3.000000dp</dimen>
+<dimen name="passport_buttons_margin_h">10.000000dp</dimen>
+<dimen name="passport_title_content_margin">11.000000dp</dimen>
+<dimen name="passport_title_text_margin">5.000000dp</dimen>
+<dimen name="passport_title_margin_v">25.000000dp</dimen>
+<dimen name="passport_title_head_icon_size">67.000000dp</dimen>
+<dimen name="passport_login_reg_padding_bottom">11.000000dp</dimen>
+<dimen name="passport_head_icon_size">67.000000dp</dimen>
+<dimen name="passport_alphabet_indexer_overlay_text_size">28.000000dp</dimen>
+<dimen name="passport_large_text_size">18.000000sp</dimen>
+<dimen name="passport_title_text_size">15.000000sp</dimen>
+<dimen name="passport_normal_text_size">14.000000sp</dimen>
+<dimen name="passport_secondary_text_size">12.000000sp</dimen>
+<dimen name="passport_small_text_size">10.000000sp</dimen>
+<dimen name="passport_button_text_size">13.000000sp</dimen>
+<dimen name="passport_action_bar_default_height">68.000000dp</dimen>
+<dimen name="passport_reg_verify_code_notice_width">103.000000dp</dimen>
+<dimen name="passport_reg_content_bottom_margin">37.000000dp</dimen>
+<dimen name="passport_arrow_right_padding_h">13.000000dp</dimen>
+<dimen name="passport_reg_verify_code_margin_h">7.000000dp</dimen>
+<dimen name="passport_password_img_h">40.000000dp</dimen>
+<dimen name="passport_password_img_w">40.000000dp</dimen>
+<dimen name="passport_miui_provision_password_img_h">44.000000dp</dimen>
+<dimen name="passport_miui_provision_password_img_w">44.000000dp</dimen>
+<dimen name="passport_alphabet_indexer_text_size">12.000000dp</dimen>
+<dimen name="passport_area_code_list_height">45.000000dp</dimen>
+<dimen name="passport_alphabet_indexer_overlay_padding_top">0.000000dp</dimen>
+<dimen name="passport_alphabet_indexer_overlay_offset">20.000000dp</dimen>
+<dimen name="passport_area_code_section_header_height">50.000000dp</dimen>
+<dimen name="passport_section_header_divider_margin_h">20.000000dp</dimen>
+<dimen name="passport_list_preferred_item_height_small">48.000000dp</dimen>
+<dimen name="passport_list_preferred_item_height">61.000000dp</dimen>
+<dimen name="passport_dialog_title_horizontal_padding">40.000000dp</dimen>
+<dimen name="passport_dialog_title_vertical_padding">30.000000dp</dimen>
+<dimen name="passport_dialog_min_width_minor">1.000000%</dimen>
+<dimen name="passport_dialog_min_width_major">1.000000%</dimen>
+<dimen name="passport_dialog_custom_horizontal_padding">40.000000dp</dimen>
+<dimen name="passport_dialog_custom_vertical_padding">33.000000dp</dimen>
+<dimen name="passport_dialog_message_horizontal_padding">40.000000dp</dimen>
+<dimen name="passport_dialog_message_vertical_padding">18.000000dp</dimen>
+<dimen name="device_list_margin_h">20.000000dp</dimen>
+<dimen name="device_content_margin_v">7.000000dp</dimen>
+<dimen name="device_info_margin_v">40.000000dp</dimen>
+<dimen name="device_info_margin_h">43.000000dp</dimen>
+<dimen name="passport_progress_dialog_message_horizontal_padding">27.000000dp</dimen>
+<dimen name="passport_buttons_margin_v">10.329987dp</dimen>
+<dimen name="device_image_layout_height">209.000000dp</dimen>
+<dimen name="passport_progressbar_size">32.000000dp</dimen>
+<dimen name="no_network_margin_top">184.000000dp</dimen>
+<dimen name="passport_login_prompt_margin_bottom">18.000000dp</dimen>
+<dimen name="passport_login_forgot_pwd_margin_top">4.669983dp</dimen>
+<dimen name="passport_login_forgot_pwd_margin_bottom">8.329987dp</dimen>
+<dimen name="device_list_item_icon_width">38.000000dp</dimen>
+<dimen name="passport_up_reg_sms_alert_margin_top">4.000000dp</dimen>
+<dimen name="device_list_item_icon_height">56.000000dp</dimen>
+<dimen name="device_button_bottom_margin">23.000000dp</dimen>
+<dimen name="passport_phone_reg_margin_top">40.000000dp</dimen>
+<dimen name="email_image_margin_top">71.329987dp</dimen>
+<dimen name="passport_up_reg_sms_alert_margin_bottom">24.000000dp</dimen>
+<dimen name="device_image_max_width">200.000000dp</dimen>
+<dimen name="device_image_max_height">160.000000dp</dimen>
+<dimen name="passport_miui_provision_login_reg_text_view_margin_h">48.000000dp</dimen>
+<dimen name="passport_miui_provision_login_reg_margin_h">40.329987dp</dimen>
+<dimen name="passport_miui_provision_login_reg_bottom_panel_margin_h">27.000000dp</dimen>
+<dimen name="passport_miui_provision_edit_text_padding_left">16.669983dp</dimen>
+<dimen name="passport_miui_provision_edit_text_height">44.000000dp</dimen>
+<dimen name="passport_miui_provision_bottom_margin">10.000000dp</dimen>
+<dimen name="passport_miui_code_notice_text_size">12.669983sp</dimen>
+<dimen name="passport_miui_provision_login_reg_button_margin_top">38.000000dp</dimen>
+<dimen name="account_settings_content_margin_h">0.000000dp</dimen>
+<dimen name="passport_miui_provision_login_input_area_margin_bottom">19.000000dp</dimen>
+<dimen name="account_settings_title_content_margin">25.000000dp</dimen>
+<dimen name="passport_miui_provision_action_bar_title_text_size">23.329987sp</dimen>
+<dimen name="passport_miui_provision_action_bar_title_margin_bottom">42.000000dp</dimen>
+<dimen name="passport_miui_provision_license_button_margin">8.000000dp</dimen>
+<dimen name="image_value_preference_size">67.000000dp</dimen>
+<dimen name="passport_miui_provision_action_bar_title_margin_left">47.329987dp</dimen>
+<dimen name="account_settings_actionbar_image_size">30.000000dp</dimen>
+<dimen name="passport_miui_provision_action_bar_title_margin_top">63.000000dp</dimen>
+<dimen name="account_settings_button_margin_h">25.000000dp</dimen>
+<dimen name="upload_user_avatar_size">720.000000dp</dimen>
+<dimen name="passport_miui_provision_vcode_padding_h">14.669983dp</dimen>
+<dimen name="quick_login_dialog_width">400.000000dp</dimen>
+<dimen name="passport_miui_provision_reg_edit_and_button_marin_v">53.000000dp</dimen>
+<dimen name="preference_icon_padding_end">26.699982dp</dimen>
+<dimen name="passport_miui_provision_find_device_status_text_margin_bottom">34.000000dp</dimen>
+<dimen name="user_avatar_size">120.000000dp</dimen>
+<dimen name="passport_miui_provision_edit_and_text_margin_v">14.000000dp</dimen>
+<dimen name="preference_item_padding_inner">8.000000dp</dimen>
+<dimen name="device_content_margin_h">9.000000dp</dimen>
+<dimen name="passport_text_size_34px">11.329987sp</dimen>
+<dimen name="passport_miui_provision_circular_btn_size">70.329987dp</dimen>
+<dimen name="bind_icon_logo_margin_h">70.000000dp</dimen>
+<dimen name="passport_miui_provision_account_head_icon_padding_left">32.669983dp</dimen>
+<dimen name="notice_text_padding_h">20.000000dp</dimen>
+<dimen name="passport_miui_provision_account_head_icon_size">61.669983dp</dimen>
+<dimen name="account_large_logo_top_margin">50.000000dp</dimen>
+<dimen name="passport_miui_provision_account_info_text_margin_v">57.000000dp</dimen>
+<dimen name="bind_weibo_title_margin_h">100.000000dp</dimen>
+<dimen name="passport_miui_provision_reg_text_and_button_margin_v">67.000000dp</dimen>
+<integer name="passport_button_exit_fade_duration">#000000c8</integer>
+<string name="current_location_title">当前定位</string>
+<string name="locating_current_location">正在定位</string>
+<string name="location_service_not_working">定位失败</string>
+<string name="select_location_title">手动选择</string>
+<string name="mi_pay_identity">实名认证</string>
+<string name="account_user_using_weibo_avatar">使用新浪微博头像</string>
+<string name="account_user_using_qq_avatar">使用QQ头像</string>
+<string name="account_user_using_facebook_avatar">使用Facebook头像</string>
+<string name="find_device_access_denied">没有权限调用接口，无法获取正确的状态</string>
+<string name="find_device_account_error">帐号检测错误，无法获取正确的状态</string>
+<string name="multi_user_not_show_sync_activity_message_1">您现在登录了和初始空间相同的帐号。手机分身如同一台全新的手机，</string>
+<string name="multi_user_not_show_sync_activity_message_2">为了防止两个分身数据同步混淆，暂无法开启云服务。</string>
+<string name="find_device_null_credential_error">无法获得设备标识，请联系小米客服咨询解决</string>
+<string name="account_user_education">学历</string>
+<string name="find_device_request_prepare_error">获取状态出错，请稍后重试</string>
+<string name="account_user_income">收入</string>
+<string name="account_user_details">个人信息</string>
+<string name="account_no_set">未设置</string>
+<string name="account_none">无</string>
+<string name="find_device_bad_response_error">服务器错误，无法获取查找手机状态，请稍后重试</string>
+<string name="account_none_user_name">请完善</string>
+<string name="find_device_request_error">请求获取状态出错，请稍后重试</string>
+<string name="account_has_been_set">已设置</string>
+<string name="account_user_avatar">头像</string>
+<string name="find_device_unknown_error">无法获取到当前手机状态，请稍后重试</string>
+<string name="find_device_operation_failed_error">操作失败</string>
+<string name="account_error_user_birthday">请输入正确的生日时间</string>
+<string name="find_device_interrupted">检测操作被中断，请稍后重试</string>
+<string name="find_device_io_error">无法连接网络，请检查您的网络连接</string>
+<string name="find_device_remote_exception">RPC错误</string>
+<string name="find_device_operation_failed_error_unknown">操作失败，请稍后重试</string>
+<string name="find_device_error_password_not_confirmed">关闭查找手机失败，需要您重新输入小米帐号密码</string>
+<string name="find_device_error_password_recently_changed">您于3天内修改过小米帐号密码，为了保护设备安全，暂时无法关闭查找手机</string>
+<string name="account_user_birthday">生日</string>
+<string name="account_user_name_dialog_title">设置名字</string>
+<string name="account_user_gender_female">女</string>
+<string name="account_user_gender_male">男</string>
+<string name="account_error_shorter_user_name">您的名字太短了，请输入至少2个字</string>
+<string name="account_error_longer_user_name">您的名字太长了，请输入20字以内</string>
+<string name="account_empty_user_name">名字不能为空</string>
+<string name="account_error_all_space_user_name">名字不能全为空格</string>
+<string name="account_user_gender">性别</string>
+<string name="confirm_unbind">确认解除绑定?</string>
+<string name="unbind_sns_description">解除绑定后，您将无法使用%s登录小米帐号</string>
+<string name="updated_nothing">无可更新的联系人</string>
+<string name="update_contacts_description">新浪微博会使用您小米帐号中的电话号码，对应并同步微博好友头像、生日等信息到通讯录</string>
+<string name="update_contacts">更新通讯录</string>
+<string name="binded_description">已成功绑定%s帐号\n将使用%s中的个人信息完善您的个人资料</string>
+<string name="account_user_id">小米ID</string>
+<string name="account_user_name">名字</string>
+<string name="phone_unknown">未知</string>
+<string name="remove_device_success_notice">取消信任此设备，登录时可能需要安全验证</string>
+<string name="rename_current_device">修改当前设备名称</string>
+<string name="about_device_info">查看当前设备系统详情</string>
+<string name="passport_account_label">小米帐号</string>
+<string name="device_list__header">我的设备</string>
+<string name="device_trust_info">信任设备</string>
+<string name="my_device_title">当前设备</string>
+<string name="passport_find_device_activate_account">激活帐号</string>
+<string name="device_list_title">设备列表</string>
+<string name="passport_reg_prompt">还没有小米帐号?免费注册</string>
+<string name="passport_login_prompt">登录小米帐号，玩转所有小米服务</string>
+<string name="passport_login_using_other_ways">使用其他方式登录</string>
+<string name="passport_reg_using_other_phone">使用其他手机号码注册</string>
+<string name="user_avatar_uploading">正在上传头像...</string>
+<string name="passport_uplink_slot2_reg">使用卡2注册</string>
+<string name="passport_uplink_slot1_reg">使用卡1注册</string>
+<string name="passport_uplink_reg">本机号快速注册</string>
+<string name="photoPickerNotFoundText">手机上没有照片。</string>
+<string name="account_user_avatar_from_album">从手机相册选择</string>
+<string name="sns_access_token_expired_warning">授权已过期，请重新绑定</string>
+<string name="account_xiaomi_service">小米服务</string>
+<string name="account_crop_user_avatar">裁剪头像</string>
+<string name="passport_reg_btn_using_other_phone">使用其他手机号码注册</string>
+<string name="no_sim_card">无SIM卡</string>
+<string name="phone_unactivated">未激活</string>
+<string name="phone_activated">激活：%s</string>
+<string name="account_user_avatar_from_camera">拍照</string>
+<string name="delete_device_btn">删除设备</string>
+<string name="delete_device_notice">删除设备后将会注销此设备的登录状态，在重新登录前将无法访问各种帐号所带数据</string>
+<string name="remove_trust_btn">取消信任设备</string>
+<string name="remove_trust_notice">取消信任同时退出登录</string>
+<string name="other_devices">其他设备</string>
+<string name="change_phone_number">修改号码</string>
+<string name="confirm_phone_number_dialog_title">确认手机号码</string>
+<string name="confirm_phone_number_dialog_message">我们将发送验证码短信至手机:%s</string>
+<string name="multi_user_not_show_sync_activity_title">无法开启云服务</string>
+<string name="update_phone_number_notice_message">更换绑定手机，需要验证您的身份信息</string>
+<string name="failed_dup_secure_phone_number">此号码已经绑定了小米帐号，请换个号码或者解绑后重试</string>
+<string name="account_bind_secure_phone_title">绑定安全手机</string>
+<string name="account_bind_secure_email_title">绑定安全邮箱</string>
+<string name="change_password">修改密码</string>
+<string name="account_none_binded_secure_phone">未绑定安全手机</string>
+<string name="completed">完成</string>
+<string name="account_none_binded_info">未绑定</string>
+<string name="no_network_title">网络不给力</string>
+<string name="passport_use_generated_pwd_message">您的密码，请妥善保存。您可以使用密码登录其他小米服务。</string>
+<string name="user_avatar_update_title">设置头像</string>
+<string name="passport_i_know">我知道了</string>
+<string name="passport_account_hint_text">邮箱/手机号码/小米ID</string>
+<string name="device_delete_loading">请稍后</string>
+<string name="passport_phone_num_hint_text">手机号码</string>
+<string name="device_delete_success_title">此设备成功退出登录</string>
+<string name="passport_login">登录</string>
+<string name="device_delete_success_message">若此设备非本人登录，请立即修改密码</string>
+<string name="passport_login_with_email_or_id">ID</string>
+<string name="passport_verify">验证</string>
+<string name="passport_email_or_id_hint_text">邮箱/小米ID</string>
+<string name="no_network_btn">点此重试</string>
+<string name="account_user_location_title">选择当前所在地</string>
+<string name="passport_register_by_email">邮箱注册</string>
+<string name="account_user_location">所在地</string>
+<string name="passport_register">注册</string>
+<string name="account_user_region">国家或地区</string>
+<string name="account_user_other_info">更多资料</string>
+<string name="account_security_question">密保问题</string>
+<string name="account_limit_update_birthday">抱歉，现在无法执行您的请求</string>
+<string name="cta_declaration_ignore">不再提示</string>
+<string name="cta_declaration_message">登录小米帐号会访问网络，定位并开启云服务，为您备份您的个人数据。备份数据会读取手机中的联系人，短信，彩信，通话记录，照片及通话录音等。小米公司不会将这些信息用于其他商业服务，也不会将该信息以任何形式转让、许可给第三方使用。登录后小米VIP，小米服务号会访问网络。</string>
+<string name="cta_declaration_exit">退出</string>
+<string name="cta_declaration_agree_and_continue">同意并继续</string>
+<string name="delete_device_failed">此设备退出登录失败</string>
+<string name="passport_select_reg_ways_title">请选择注册方式</string>
+<string name="get_device_list_failed">获取设备列表失败</string>
+<string name="passport_downlink_reg">手机号码快速注册</string>
+<string name="cta_declaration_title">声明和条款</string>
+<string name="passport_pwd_generating">正在生成密码...</string>
+<string name="empty_device_list_notice">暂无设备列表</string>
+<string name="passport_auto_generate_pwd">自动生成安全密码</string>
+<string name="passport_error_empty_vcode">验证码不能为空</string>
+<string name="passport_error_empty_captcha_code">图片验证码不能为空</string>
+<string name="passport_error_illegal_pwd">密码格式错误</string>
+<string name="passport_error_empty_phone_num">手机号不能为空</string>
+<string name="reset_security_question_message">修改密保问题需要验证你的身份</string>
+<string name="passport_error_invalid_phone_num">手机号不合法</string>
+<string name="reset_security_question_title">重新设置密保问题</string>
+<string name="passport_error_empty_pwd">密码不能为空</string>
+<string name="forward_to_bind">前往绑定</string>
+<string name="passport_error_empty_username">用户名不能为空</string>
+<string name="ignore">暂不绑定</string>
+<string name="mipay_center">小米钱包</string>
+<string name="mili_center">米币中心</string>
+<string name="success">设置成功</string>
+<string name="passport_wait_for_sms_prompt">短信接收可能需要一段时间，确定要返回重新开始注册吗</string>
+<string name="error_longer_answer_length">答案长度不能超过128个字符</string>
+<string name="passport_restart_register_prompt">重新开始可能需要再次发送验证短信，确定要重新开始注册小米帐号吗</string>
+<string name="passport_imei_permission_denied_message">请求获取IMEI的权限，用于小米帐号的登陆/注册。小米帐号使用您的IMEI来帮助识别您的常用登陆设备，提高帐号安全性。</string>
+<string name="passport_imei_permission_denied_title">请求IMEI权限</string>
+<string name="passport_use_generated_pwd_title">请牢记您的密码</string>
+<string name="passport_registered_phone_user_name">用户名:%s</string>
+<string name="passport_pwd_generate_failure">密码生成失败</string>
+<string name="passport_registered_phone_user_ID">小米ID:%s</string>
+<string name="security_question">请选择密保问题</string>
+<string name="passport_forget_password_no_underline">忘记密码</string>
+<string name="security_question_answer">请输入答案</string>
+<string name="passport_bad_authentication">用户名密码不匹配</string>
+<string name="passport_prev">上一步</string>
+<string name="passport_forget_password">忘记密码</string>
+<string name="error_incomplete_question_or_answer">请完善4项问题及答案</string>
+<string name="error_shorter_answer_length">答案长度不能少于2个字符</string>
+<string name="passport_next">下一步</string>
+<string name="submit_answers">提交</string>
+<string name="error_duplicate_answers">为了您的帐号安全，请勿设置相同的答案</string>
+<string name="activate_email_notice">请于24小时内点击激活链接</string>
+<string name="input_email_address_notice">我们将发送一封带有激活链接的邮件到此邮箱</string>
+<string name="send_email_activate_message">已经成功发送一封验证邮件至邮箱</string>
+<string name="passport_reg_type_other_ways_title">使用其他方式注册</string>
+<string name="passport_email">请输入您的邮箱地址</string>
+<string name="passport_reg_type_other_ways">使用其他方式注册</string>
+<string name="passport_click_email_to_valid">发送了邮件,请点击邮件中的链接完成验证</string>
+<string name="passport_active_email_visit">%s</string>
+<string name="mi_pass">小米卡包</string>
+<string name="passport_delete_account">退出帐号</string>
+<string name="passport_resend_active_email">重发验证邮件</string>
+<string name="cloud_service">云服务</string>
+<string name="passport_error_email">邮箱格式不正确</string>
+<string name="bind_settings">绑定功能</string>
+<string name="passport_error_empty_email">邮箱地址不能为空</string>
+<string name="account_bind_devices">登录设备管理</string>
+<string name="passport_account_not_actived">就差最后一步咯!</string>
+<string name="account_bind_settings">帐号绑定</string>
+<string name="passport_activing_account">正在激活您的帐号，请稍候...</string>
+<string name="activity_not_found_notice">无法找到对应应用</string>
+<string name="authorize_title">授权登录</string>
+<string name="mi_insurance">小米保险</string>
+<string name="passport_reg_new">注册新帐号</string>
+<string name="passport_reg_using_other_phone_number_prompt">您注册的手机号为</string>
+<string name="account_settings">帐号设置</string>
+<string name="passport_reg_via_sms_alert">注册可能会发送一条普通短信，资费由运营商收取</string>
+<string name="barcode_add_account_prompt">登录后请再次扫描二维码确认授权登录</string>
+<string name="passport_reg_sms_send_prompt">%s</string>
+<string name="scan_barcode_title">扫描网页或电视上的二维码，安全登录小米帐号</string>
+<string name="passport_password_req_notice">密码长度8~16位,不能是纯数字/纯字母/纯符号\n(例如:123abc@#或123abc或abc@#)</string>
+<string name="micloud_space_info">剩余:%s</string>
+<string name="loading_micloud_sync_data">数据获取中...</string>
+<string name="account_vip_level">等级</string>
+<string name="passport_reg_type_email">使用邮箱注册</string>
+<string name="account_vip_achievements">成就</string>
+<string name="passport_reg_using_phone_number_prompt">使用本机号码注册</string>
+<string name="set_security_question_title">设置密保问题</string>
+<string name="security_question_prompt">密保问题可用于重置密码或修改密保\n请牢记您设置的问题答案</string>
+<string name="passport_completed">完成</string>
+<string name="passport_title_reg">注册小米帐号</string>
+<string name="passport_error_dup_phone">该电话号码已被注册</string>
+<string name="passport_error_device_id">无法获取设备号</string>
+<string name="passport_error_ssl_hand_shake">无法与服务器建立安全连接</string>
+<string name="passport_error_network">当前网络不可用</string>
+<string name="passport_error_unknown">未知错误</string>
+<string name="passport_error_sim_not_ready">SIM卡未就绪</string>
+<string name="bind_weibo_description">查找并为联系人中的微博好友补充头像，生日等信息。</string>
+<string name="passport_error_server">服务器出错</string>
+<string name="passport_error_phone_error">无效的电话号码</string>
+<string name="account_user_email">安全邮箱</string>
+<string name="account_user_secure_info">密保资料</string>
+<string name="trying_read_verify_code_sms">正在尝试获取验证码</string>
+<string name="account_user_recovery_phone">安全手机</string>
+<string name="just_a_second">请稍后...</string>
+<string name="account_user_phone">绑定手机</string>
+<string name="error_invalid_bind_address">您输入的地址格式不正确</string>
+<string name="access_token_invalid_warning">微博帐号已无效，请重新绑定</string>
+<string name="passport_verification_failed">验证失败</string>
+<string name="error_dup_binded_email">此邮箱已经绑定了小米账号，请换个邮箱或解绑后重试</string>
+<string name="access_token_expired_warning">微博帐号已过期，请重新绑定</string>
+<string name="restart_action">重新开始</string>
+<string name="account_user_base_info">基础资料</string>
+<string name="restart_phone_bind_message">短信接收可能需要一些时间，确定要返回重新开始绑定吗？</string>
+<string name="service_error">服务出现错误</string>
+<string name="phone_send_verify_code_prompt">%s</string>
+<string name="passport_reg_failed">注册失败</string>
+<string name="restart_phone_bind_title">确定重新开始绑定</string>
+<string name="passport_login_instead_reg">用此电话号码登录</string>
+<string name="replace_binded_phone">更换号码</string>
+<string name="delete_action">删除</string>
+<string name="passport_error_no_sms_service">短信服务不可用</string>
+<string name="passport_login_failed">登录失败</string>
+<string name="nobind">未绑定</string>
+<string name="button_unbind">解除绑定</string>
+<string name="passport_login_instead_reg_with_email">用此邮箱登录</string>
+<string name="unbind_weibo_description">解除绑定后，无法将微博好友的信息同步至通讯录，您也无法使用微博登录小米帐号</string>
+<string name="passport_get_back_pwd">找回帐号密码</string>
+<string name="no_response_retry">请求无响应，请换个时间再试</string>
+<string name="removing_account">正在退出帐号...</string>
+<string name="passport_error_invalid_dev_id">无效的设备号</string>
+<string name="sina_weibo">新浪微博</string>
+<string name="bind_sina_weibo">绑定新浪微博</string>
+<string name="turn_off_find_device_failed_title">无法关闭查找手机</string>
+<string name="get_phone_verifycode_exceed_limit">给此号码发送了太多短信，请换个时间再试试</string>
+<string name="passport_quick_login_dialog_step2_title">登录保护</string>
+<string name="passport_quick_login_dialog_title">验证帐号密码</string>
+<string name="exceed_binded_phone_times_notice">此手机在一段时间内绑定了过多的小米帐号，请换个手机号码试试</string>
+<string name="passport_input_captcha_hint">请输入图片验证码</string>
+<string name="mi_account_identity_title">小米帐号身份验证</string>
+<string name="passport_input_password_hint">请输入帐号密码</string>
+<string name="passport_confirm">确定</string>
+<string name="passport_input_vcode_hint">请输入验证码</string>
+<string name="passport_login_check_find_device">正在检查查找手机状态...</string>
+<string name="passport_login_notice">登录中...</string>
+<string name="binded">已绑定</string>
+<string name="security_question_notice_message">请绑定手机后再尝试设置密保问题，以便忘记问题后重新设置</string>
+<string name="bind_facebook">绑定facebook</string>
+<string name="facebook">facebook</string>
+<string name="bind_qq">绑定QQ</string>
+<string name="update_email_address_dialog_title">更换安全邮箱</string>
+<string name="qq">QQ</string>
+<string name="resend_email_reach_limit_message">您短时间内发送了过多邮件。如果长时间没有收到，邮件可能被错误拦截，请检查您的垃圾邮件列表。</string>
+<string name="add_account">添加帐号</string>
+<string name="security_question_notice_title">请优先绑定手机</string>
+<string name="passport_account_name">%1$s</string>
+<string name="bind_sns_description">使用%s中的个人信息完善您的个人资料。</string>
+<string name="update_email_address_dialog_message">更换安全邮箱，需要验证您的身份信息</string>
+<string name="passport_quick_login_step2_title">小米登录保护</string>
+<string name="resend_active_email">重新发送邮件</string>
+<string name="passport_error_user_name">用户名不存在</string>
+<string name="confirm_activate_email">已经完成验证</string>
+<string name="passport_error_verify_code">验证码错误</string>
+<string name="resend_email_success">重新发送成功</string>
+<string name="passport_error_dup_email">该邮箱已被注册</string>
+<string name="resend_email_reach_limit_title">重发邮件过多</string>
+<string name="passport_error_login">登录异常</string>
+<string name="passport_relogin_notice">登录错误，请重新登录</string>
+<string name="logout_failed">退出帐号失败</string>
+<string name="passport_quick_login_title">系统需要验证您的小米帐号，\n请输入您的帐号密码</string>
+<string name="turning_off_find_device">正在关闭查找手机...</string>
+<string name="app_name">我的小米</string>
+<string name="change_activate_email">更换验证邮箱</string>
+<string name="account">帐号</string>
+<string name="passport_login_check_find_device_failed_title">查找手机检测状态出错</string>
+<string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。\n(解锁编号:%2$s)</string>
+<string name="passport_retry">重试</string>
+<string name="passport_login_find_device_bind">此手机已经关联到小米帐号（%s）。</string>
+<string name="passport_find_device_display_id">解锁编号:%s</string>
+<string name="passport_back">返回</string>
+<string name="passport_failed_to_send_activate_email">发送激活邮件失败</string>
+<string name="passport_access_denied">访问受限</string>
+<string name="passport_reging">正在注册，请稍候…</string>
+<string name="passport_area_code_hot">常用</string>
+<string name="passport_user_agreement_p1">同意小米帐号的</string>
+<string name="passport_user_agreement_p2">用户协议</string>
+<string name="passport_reg_success">注册成功</string>
+<string name="passport_reg_success_summary">您的小米帐号密保手机是\n%1$s\n用于登录和找回密码</string>
+<string name="passport_email_reg_success_summary">您的帐号安全邮箱是:\n%1$s\n用于登录小米帐号及找回密码</string>
+<string name="passport_area_code_title">选择国家/地区号码</string>
+<string name="passport_user_agreement_p4">隐私政策</string>
+<string name="passport_user_agreement_p3">和</string>
+<string name="passport_license_host_unreachable">%s。</string>
+<string name="passport_loading">读取中…</string>
+<string name="passport_user_agreement">用户协议</string>
+<string name="passport_privacy_policy">隐私政策</string>
+<string name="passport_remove_unactivated_account_notice">小米帐号还未激活，确认要退出？</string>
+<string name="passport_remove_confirm">确认退出</string>
+<string name="passport_skip_setup_account_title">跳过帐号设置</string>
+<string name="passport_skip_setup_account_msg">使用小米帐号可以同步备份联系人、照片等各种数据。确认要跳过帐号设置吗？</string>
+<string name="passport_button_cancel">取消</string>
+<string name="passport_wrong_captcha">图片验证码错误</string>
+<string name="passport_skip_login">跳过</string>
+<string name="passport_checking_account">正在验证...</string>
+<string name="passport_find_password_on_web_msg">找回密码</string>
+<string name="passport_relogin">重新登录</string>
+<string name="passport_wrong_vcode">验证码错误</string>
+<string name="passport_vcode_prompt_long">请输入小米安全令牌生成的验证码</string>
+<string name="passport_trust_device">我信任此设备</string>
+<string name="passport_checking_input">正在检查输入</string>
+<string name="passport_vcode_notification_title">您的登录验证未完成</string>
+<string name="passport_login_title">登录小米帐号</string>
+<string name="passport_get_verify_code">获取验证码</string>
+<string name="passport_re_get_verify_code">重新获取</string>
+<string name="passport_getting_verify_code">正在获取</string>
+<string name="passport_input_phone_hint">输入手机号码</string>
+<string name="passport_wrong_phone_number_format">手机号码格式错误</string>
+<string name="passport_btn_return">返回</string>
+<string name="passport_re_register">重新注册</string>
+<string name="passport_skip_register">跳过注册</string>
+<string name="passport_account_not_activated">您的帐号还未通过验证！</string>
+<string name="passport_change_account">更改帐号</string>
+<string name="passport_sim_index_info">%2$s</string>
+<string name="passport_notification_title">时出错</string>
+<string name="passport_register_account_goto_email">去邮箱</string>
+<string name="passport_register_account_verified_confirm">我已验证</string>
+<string name="passport_send_too_many_code">已经发送了太多短信，请换个时间再试试</string>
+<string name="passport_choose_which_one_sim">选择要使用的本机手机号</string>
+<string name="passport_register_restricted_title">无法使用此手机号码注册</string>
+<string name="passport_register_restricted">此手机号码近期注册了太多小米帐号，请换个号码再试试</string>
+<string name="passport_confirm_recycle_account">是，立即登录</string>
+<string name="passport_reject_recycle_account">不是，现在帐号</string>
+<string name="passport_change_phone_number">换个号码</string>
+<string name="passport_recycle_account_prompt">这个小米帐号是你的吗?</string>
+<string name="passport_account_identity_title">小米帐号身份验证</string>
+<string name="passport_reset_password_prompt">请输入密码,下次您可以用手机号码+密码直接登录</string>
+<string name="passport_input_password_for_login">此号码已经注册小米帐号，请输入密码登录</string>
+<string name="passport_wrong_password">密码不正确</string>
+<string name="passport_restart_register_title">确定重新开始注册</string>
+<string name="passport_reset_password_title">设置新密码</string>
+<string name="passport_reset_fail_title">设置失败</string>
+<string name="passport_identitfication_expired">验证已过期，请重新开始注册</string>
+<string name="passport_restart">重新开始</string>
+<string name="passport_setting">设置中...</string>
+<string name="change_email_address">修改邮箱</string>
+<string name="checking_phone_num_availible">正在尝试验证手机</string>
+<string name="account_binded_phone">绑定手机%d</string>
+<string name="account_bind_new_phone">添加手机号</string>
+<string name="account_bind_phone_notice">绑定手机号可用于登录小米帐号和找回密码，同时也是您个人资料的一部分，如果更换号码请及时更新</string>
+<string name="continue_action">继续</string>
+<string-array name="question_no2">
+<item>学校信息</item>
+<item>您高中三年级班主任的名字</item>
+<item>您小学六年级班主任的名字</item>
+<item>您大学时的学号</item>
+<item>您大学本科时的上/下铺叫什么名字</item>
+<item>您大学的导师叫什么名字</item>
+</string-array>
+<string-array name="question_no3">
+<item>个人信息</item>
+<item>您父母称呼您的昵称</item>
+<item>您身份证号后六位</item>
+<item>您出生的医院名称</item>
+<item>您最好的朋友叫什么名字</item>
+</string-array>
+<string-array name="question_no4">
+<item>各种第一次</item>
+<item>您第一个宠物的名字</item>
+<item>您的第一任男朋友/女朋友姓名</item>
+<item>您第一家任职的公司名字</item>
+</string-array>
+<string-array name="question_no5">
+<item>婚姻相关</item>
+<item>您领结婚证的日子</item>
+<item>您配偶的名字</item>
+<item>您配偶的生日</item>
+</string-array>
+<string-array name="income">
+<item>2000</item>
+<item>2001~4000</item>
+<item>4001~6000</item>
+<item>6001~8000</item>
+<item>8001~12000</item>
+<item>12000</item>
+</string-array>
+<string-array name="education">
+<item>初中及以下</item>
+<item>中专/技校</item>
+<item>高中</item>
+<item>大专</item>
+<item>本科</item>
+<item>硕士</item>
+<item>博士及以上</item>
+</string-array>
+<string-array name="passport_alphabet_table">
+<item>#</item>
+<item>A</item>
+<item>B</item>
+<item>C</item>
+<item>D</item>
+<item>E</item>
+<item>F</item>
+<item>G</item>
+<item>H</item>
+<item>I</item>
+<item>J</item>
+<item>K</item>
+<item>L</item>
+<item>M</item>
+<item>N</item>
+<item>O</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>S</item>
+<item>T</item>
+<item>U</item>
+<item>V</item>
+<item>W</item>
+<item>X</item>
+<item>Y</item>
+<item>Z</item>
+</string-array>
+<string-array name="question_no1">
+<item>家属信息</item>
+<item>您外婆的姓名</item>
+<item>您外公的姓名</item>
+<item>您爷爷的姓名</item>
+<item>您奶奶的姓名</item>
+<item>您父亲的生日</item>
+<item>您母亲的生日</item>
+<item>您父母的生日相差几年几个月</item>
+</string-array>
+</MIUI_Theme_Values>

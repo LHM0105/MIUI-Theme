@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Install page 2" version="3.3.1" annotation="" tag="Installer">
+    <resource description="v5_progress_indeterminate5" x="52" y="678" width="618" height="54" uuid="c7953cdf-a17e-412f-b566-9e9ec0cfc712">
+        <path src="res\drawable-hdpi\v5_progress_indeterminate1.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate1.png" description="等待条" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate1.png" description="等待条" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate1_small.png" description="等待条 细" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate1_small.png" description="等待条 细" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate1_small.png" description="等待条 细" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate2.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate2.png" description="等待条" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate2.png" description="等待条" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate2_small.png" description="等待条 细" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate2_small.png" description="等待条 细" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate2_small.png" description="等待条 细" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate3.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate3.png" description="等待条" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate3.png" description="等待条" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate3_small.png" description="等待条 细" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate3_small.png" description="等待条 细" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate3_small.png" description="等待条 细" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate4.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate4.png" description="等待条" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate4.png" description="等待条" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate4_small.png" description="等待条 细" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate4_small.png" description="等待条 细" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate4_small.png" description="等待条 细" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate5.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate5.png" description="等待条" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate5.png" description="等待条" />
+        <path src="res\drawable-hdpi\v5_progress_indeterminate5_small.png" description="等待条 细" />
+        <path src="res\drawable-xhdpi\v5_progress_indeterminate5_small.png" description="等待条 细" />
+        <path src="res\drawable-xxhdpi\v5_progress_indeterminate5_small.png" description="等待条 细" />
+    </resource>
+    <resource description="v5_btn_bg_first_pressed_light.9" x="18" y="1132" width="328" height="110" uuid="acefdc48-9086-45bf-9860-d9da805debd6">
+        <path src="res\drawable-hdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+    </resource>
+    <resource description="v5_btn_bg_last_normal_light.9" x="370" y="1134" width="318" height="110" uuid="2b19cac9-b9a6-43be-b65c-865986f49fe5">
+        <path src="res\drawable-hdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+    </resource>
+</screenshot>

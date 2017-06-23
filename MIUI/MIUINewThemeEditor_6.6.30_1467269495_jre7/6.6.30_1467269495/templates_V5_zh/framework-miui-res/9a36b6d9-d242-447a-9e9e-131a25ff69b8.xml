@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="忘记密码" version="3.4.23" annotation="" tag="锁屏密码">
+    <resource description="miui_account_unlock_screen_cancel_btn_p.9" x="48" y="600" width="310" height="100" uuid="f982945f-9796-4ee8-92b9-dabec2d29df8">
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_cancel_btn_n.9.png" description="取消按钮" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_cancel_btn_n.9.png" description="取消按钮" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_cancel_btn_n.9.png" description="取消按钮" />
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_cancel_btn_p.9.png" description="取消按钮 二态" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_cancel_btn_p.9.png" description="取消按钮 二态" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_cancel_btn_p.9.png" description="取消按钮 二态" />
+    </resource>
+    <resource description="miui_account_unlock_screen_login_btn_p.9" x="363" y="600" width="295" height="98" uuid="6e6cb5cc-688e-4d9d-bf94-bd419329ba12">
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_login_btn_n.9.png" description="登录按钮" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_login_btn_n.9.png" description="登录按钮" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_login_btn_n.9.png" description="登录按钮" />
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_login_btn_p.9.png" description="登录按钮 二态" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_login_btn_p.9.png" description="登录按钮 二态" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_login_btn_p.9.png" description="登录按钮 二态" />
+    </resource>
+    <resource description="miui_password_unlock_screen_input_field_bg.9" x="20" y="464" width="682" height="104" uuid="36bab601-0764-45fa-bf46-c25b68197536">
+        <path src="res\drawable-hdpi\miui_password_unlock_screen_input_field_bg.9.png" description="输入框" />
+        <path src="res\drawable-xhdpi\miui_password_unlock_screen_input_field_bg.9.png" description="输入框" />
+        <path src="res\drawable-xxhdpi\miui_password_unlock_screen_input_field_bg.9.png" description="输入框" />
+        <path src="res\drawable-hdpi\miui_password_unlock_screen_input_field_bg_error.9.png" description="输入框 出错" />
+        <path src="res\drawable-xhdpi\miui_password_unlock_screen_input_field_bg_error.9.png" description="输入框 出错" />
+        <path src="res\drawable-xxhdpi\miui_password_unlock_screen_input_field_bg_error.9.png" description="输入框 出错" />
+    </resource>
+    <resource description="miui_account_unlock_screen_spinner_pressed.9" x="21" y="344" width="679" height="100" uuid="9c8de6af-e4ec-4439-8236-9e6d59666cb0">
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_spinner_drop_down_showing.9.png" description="收起" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_spinner_drop_down_showing.9.png" description="收起" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_spinner_drop_down_showing.9.png" description="收起" />
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_spinner_normal.9.png" description="展开" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_spinner_normal.9.png" description="展开" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_spinner_normal.9.png" description="展开" />
+        <path src="res\drawable-hdpi\miui_account_unlock_screen_spinner_pressed.9.png" description="展开 二态" />
+        <path src="res\drawable-xhdpi\miui_account_unlock_screen_spinner_pressed.9.png" description="展开 二态" />
+        <path src="res\drawable-xxhdpi\miui_account_unlock_screen_spinner_pressed.9.png" description="展开 二态" />
+    </resource>
+</screenshot>

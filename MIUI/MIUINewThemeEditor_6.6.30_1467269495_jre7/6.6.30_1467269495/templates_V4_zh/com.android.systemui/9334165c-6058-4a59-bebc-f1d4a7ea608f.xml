@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 通知栏_开关" version="1.0" annotation="" tag="单页模式">
+    <resource description="status_bar_toggle_network_3g2g.png" x="51" y="177" width="81" height="81" uuid="d5d8adb4-7ea1-4fe9-8300-35473a4ca5a0" />
+    <resource description="status_bar_toggle_privacy_mode_on.png" x="226" y="177" width="81" height="81" uuid="f1ea972f-2b28-4aa6-b175-cf3666be4f8c" />
+    <resource description="status_bar_toggle_torch_on.png" x="408" y="177" width="81" height="81" uuid="c3c95a1f-a01b-4586-9eb6-c69726de79d0" />
+    <resource description="status_bar_toggle_ac.png" x="587" y="177" width="81" height="81" uuid="4fa0d54b-a1e6-4411-b3e1-9d0e9e7f740b" />
+    <resource description="status_bar_toggle_shutdown.png" x="409" y="432" width="81" height="81" uuid="ac05ceb7-0328-420a-9f9a-f797029ebb19" />
+    <resource description="status_bar_toggle_reboot.png" x="587" y="432" width="81" height="81" uuid="020c5849-05ba-4f71-bd63-dc9e95b7c38c" />
+    <resource description="status_bar_toggle_screen_button_enabled.png" x="49" y="687" width="81" height="81" uuid="e9b3d4d0-eb04-4553-8e5b-712753ad853d" />
+    <resource description="status_bar_toggle_lock.png" x="231" y="687" width="81" height="81" uuid="7959a97a-065e-4365-890b-19b443863e44" />
+    <resource description="notification_header_bg.9.png" x="0" y="0" width="720" height="104" uuid="e3a6bcb6-e475-4401-bd77-fd6a53da4b57">
+        <path src="res\drawable-hdpi\notification_header_bg.9.png" description="" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="622" y="6" width="88" height="82" uuid="08928555-f356-47b3-a3ed-f98d5e42ddfe">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="" />
+    </resource>
+</screenshot>

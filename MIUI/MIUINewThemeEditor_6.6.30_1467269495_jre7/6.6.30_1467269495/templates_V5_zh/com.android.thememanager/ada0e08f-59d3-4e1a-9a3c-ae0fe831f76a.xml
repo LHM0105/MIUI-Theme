@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 我的主题" version="3.10.22" annotation="" tag="新 主题">
+    <resource description="action_bar_logo" x="16" y="58" width="78" height="64" uuid="72d75d91-6425-4e02-9ce2-c17f9f28d7fa">
+        <path src="res\drawable-hdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xhdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xxhdpi\action_bar_logo.png" description="主题图标" />
+    </resource>
+    <resource description="flag_using" x="178" y="756" width="52" height="54" uuid="7629cfff-06ad-4a7b-b95f-3105cea96052">
+        <path src="res\drawable-hdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-xhdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-xxhdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-hdpi\flag_using.png" description="当前主题" />
+        <path src="res\drawable-xhdpi\flag_using.png" description="当前主题" />
+        <path src="res\drawable-xxhdpi\flag_using.png" description="当前主题" />
+    </resource>
+    <resource description="flag_update" x="632" y="852" width="74" height="78" uuid="86e671b4-61c1-44cc-a1b8-217e76412c97">
+        <path src="res\drawable-hdpi\flag_update.png" description="主题更新提示" />
+        <path src="res\drawable-xhdpi\flag_update.png" description="主题更新提示" />
+        <path src="res\drawable-xxhdpi\flag_update.png" description="主题更新提示" />
+    </resource>
+    <resource description="new_update" x="652" y="160" width="54" height="50" uuid="0bca7d78-b471-4021-a5fe-0368099a98b5">
+        <path src="res\drawable-hdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+        <path src="res\drawable-xhdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+    </resource>
+    <resource description="theme_oper_info_bar_bg.9" x="0" y="228" width="716" height="112" uuid="0aa6e204-9a9c-44c7-969a-2da02636dd73">
+        <path src="res\drawable-hdpi\theme_oper_info_bar_bg.9.png" description="信息栏背景" />
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg.9.png" description="信息栏背景" />
+    </resource>
+    <resource description="theme_oper_info_bar_bg.9" x="0" y="340" width="716" height="112" uuid="0aa6e204-9a9c-44c7-969a-2da02636dd73">
+        <path src="res\drawable-hdpi\theme_oper_info_bar_bg.9.png" description="信息栏背景" />
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg.9.png" description="信息栏背景" />
+    </resource>
+    <resource description="batch_update_btn_p.9" x="552" y="356" width="138" height="76" uuid="d978b51d-43a4-4248-b920-d8ef920569cf">
+        <path src="res\drawable-hdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-xxhdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-hdpi\batch_update_btn_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\batch_update_btn_p.9.png" description="" />
+        <path src="res\drawable-xxhdpi\batch_update_btn_p.9.png" description="" />
+    </resource>
+</screenshot>

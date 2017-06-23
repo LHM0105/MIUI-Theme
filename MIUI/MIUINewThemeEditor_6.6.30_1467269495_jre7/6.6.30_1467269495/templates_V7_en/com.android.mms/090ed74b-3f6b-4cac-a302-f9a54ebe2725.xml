@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 Private messaging" version="3.3.1" annotation="" tag="Messaging">
+    <resource description="private_lock_icon" x="393" y="593" width="273" height="253" uuid="864ac112-5a4a-498e-94c8-8c3a6106ad2d">
+        <path src="res\drawable-xxhdpi\private_lock_icon.png" description="Private messaging icon" />
+    </resource>
+    <resource description="sp_contact_pic" x="72" y="1110" width="126" height="126" uuid="f04c8b8c-a612-42b2-81f3-c262d3068243">
+        <path src="res\drawable-xxhdpi\sp_contact_pic.png" description="Notification message icon" />
+    </resource>
+    <resource description="conversation_stuck_indicator" x="1038" y="900" width="42" height="44" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+        <path src="res\drawable-xxhdpi\conversation_stuck_indicator.png" description="Pinned conversation icon" />
+    </resource>
+    <resource description="conversation_attachment_indicator" x="764" y="940" width="100" height="58" uuid="feedd720-411a-4777-83ec-354ad97ae05d">
+        <path src="res\drawable-xxhdpi\conversation_attachment_indicator.png" description="Attachment icon" />
+        <path src="res\drawable-xxhdpi\conversation_timed_indicator.png" description="Send later icon" />
+        <path src="res\drawable-xxhdpi\conversation_error_indicator.png" description="Failed to send icon" />
+        <path src="res\drawable-xxhdpi\conversation_draft_indicator.png" description="Edit icon" />
+    </resource>
+</screenshot>

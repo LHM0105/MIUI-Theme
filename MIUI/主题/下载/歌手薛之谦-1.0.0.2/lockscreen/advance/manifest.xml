@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lockscreen frameRate="30" screenWidth="1080" screenHeight="1920" displayDesktop="true">
+	<Wallpaper alpha="#wallpaper_alpha"/>
+	<ExternalCommands>
+		<Trigger action="resume,pause">
+			<VariableCommand name="ani_flag" expression="0"/>
+			<VariableCommand name="un_flag" expression="0"/>
+			<VariableCommand name="bounce_flag" expression="0"/>
+			<Command target="arrow.animation" value="play"/>
+			<Command target="arrow1.animation" value="play" />
+			<Command target="arrow2.animation" value="play" />
+			<Command target="arrow3.animation" value="play" />
+			<Command target="arrow4.animation" value="play" />
+			<Command target="guide.animation" value="play"/>
+		</Trigger>
+	</ExternalCommands>
+	<Var name="my" expression="#unlocker1.move_y+#unlocker2.move_y"/>
+	<Var name="wallpaper_alpha_m" expression="255*ifelse(#my,0,-#my)/1700"/>
+	<Var name="wallpaper_alpha" expression="255-min(#wallpaper_alpha_m,255)+#un_offset_y*0.35"/>
+	
+	<Var name="time0" expression="int(#hour/10)" threshold="1">
+		<Trigger>
+			<VariableCommand name="hour0_old" expression="#time0.old_value"/>
+			<Command target="timg0.visibility" value="false"/>
+			<Command target="timg0.visibility" value="true" delay="400"/>
+			<Command target="timg0_old.animation" value="play"  />
+			<Command target="timg0.animation" value="play" />
+			<Command target="timg0_flip.animation" value="play" delay="400"  />
+			<Command target="timg0_flip_old.animation" value="play"  />
+		</Trigger>
+	</Var>
+	<Var name="timg0_flip">
+		<VariableAnimation>
+			<AniFrame value="90" time="0"/>
+			<AniFrame value="0" time="400"/>
+			<AniFrame value="0" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="timg0_flip_old">
+		<VariableAnimation>
+			<AniFrame value="0" time="0"/>
+			<AniFrame value="-90" time="400"/>
+			<AniFrame value="-90" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="time1" expression="int(#hour%10)" threshold="1">
+		<Trigger>
+			<VariableCommand name="hour1_old" expression="#time1.old_value"/>
+			<Command target="timg1.visibility" value="false"/>
+			<Command target="timg1.visibility" value="true" delay="400"/>
+			<Command target="timg1_old.animation" value="play"/>
+			<Command target="timg1.animation" value="play"/>
+			<Command target="timg1_flip.animation" value="play" delay="400"/>
+			<Command target="timg1_flip_old.animation" value="play"/>
+		</Trigger>
+	</Var>
+	<Var name="timg1_flip">
+		<VariableAnimation>
+			<AniFrame value="90" time="0"/>
+			<AniFrame value="0" time="400"/>
+			<AniFrame value="0" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="timg1_flip_old">
+		<VariableAnimation>
+			<AniFrame value="0" time="0"/>
+			<AniFrame value="-90" time="400"/>
+			<AniFrame value="-90" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="time2" expression="#minute/10" threshold="1">
+		<Trigger>
+			<VariableCommand name="minute0_old" expression="#time2.old_value"/>
+			<Command target="timg2.visibility" value="false"/>
+			<Command target="timg2.visibility" value="true" delay="400"/>
+			<Command target="timg2_old.animation" value="play"/>
+			<Command target="timg2.animation" value="play"/>
+			<Command target="timg2_flip.animation" value="play" delay="400"/>
+			<Command target="timg2_flip_old.animation" value="play"/>
+		</Trigger>
+	</Var>
+	<Var name="timg2_flip">
+		<VariableAnimation>
+			<AniFrame value="90" time="0"/>
+			<AniFrame value="0" time="400"/>
+			<AniFrame value="0" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="timg2_flip_old">
+		<VariableAnimation>
+			<AniFrame value="0" time="0"/>
+			<AniFrame value="-90" time="400"/>
+			<AniFrame value="-90" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="time3" expression="#minute%10" threshold="1">
+		<Trigger>
+			<VariableCommand name="minute1_old" expression="#time3.old_value"/>
+			<Command target="timg3.visibility" value="false"/>
+			<Command target="timg3.visibility" value="true" delay="400"/>
+			<Command target="timg3_old.animation" value="play"/>
+			<Command target="timg3.animation" value="play"/>
+			<Command target="timg3_flip.animation" value="play" delay="400"/>
+			<Command target="timg3_flip_old.animation" value="play"/>
+		</Trigger>
+	</Var>
+	<Var name="timg3_flip">
+		<VariableAnimation>
+			<AniFrame value="90" time="0"/>
+			<AniFrame value="0" time="400"/>
+			<AniFrame value="0" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="timg3_flip_old">
+		<VariableAnimation>
+			<AniFrame value="0" time="0"/>
+			<AniFrame value="-90" time="400"/>
+			<AniFrame value="-90" time="1000000000000"/>
+		</VariableAnimation>
+	</Var>
+
+<Group visibility="not(#music_control.visibility)" >
+
+	<Group alpha="#wallpaper_alpha">
+		<Var name="hour" expression="ifelse(#time_format,#hour24,#hour12,#hour12,12)"/>
+		<Var name="flag" expression="eq(int(#hour/10),1)"/>
+		<Group frameRate="30">
+			<Var name="offset_x" expression="433+ifelse(#flag,-20,0)"/>
+			<Var name="cubic_ani" expression="ifelse(#cubic_flag,8*#cubic_factor*#cubic_factor*#cubic_factor,1-8*#cubic_factor*#cubic_factor*#cubic_factor)"/>
+			<Var name="cubic_factor">
+				<VariableAnimation>
+					<AniFrame value="0" time="100"/>
+					<AniFrame value="0.5" time="700"/>
+					<AniFrame value="0" time="700"/>
+					<AniFrame value="0.5" time="1600"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="cubic_flag">
+				<VariableAnimation>
+					<AniFrame value="1" time="0"/>
+					<AniFrame value="1" time="700"/>
+					<AniFrame value="0" time="700"/>
+					<AniFrame value="0" time="1600"/>
+				</VariableAnimation>
+			</Var>
+
+		
+		<Var name="ani_flag" expression="#ani_flag+1"/>
+		<Var name="vis" expression="ge(#ani_flag,50)"/>
+
+	<Image  x="0" y="0"  src="bbg.png"/>
+		<Group  visibility="not(#vis)"   >
+			<!-- time0: 1x:xx -->
+			<Image name="timg00"  x="411" y="1455"  src="time/l.png" srcid="#hour/10"/>
+			<!-- time1: x1:xx -->
+			<Image name="timg11"   x="411+#timg00.bmp_width" y="1455" src="time/l.png" srcid="#hour%10" />	
+			<!-- time2: xx:1x -->
+			<Image name="timg22"   x="411+#timg00.bmp_width+#timg11.bmp_width+#dot0.bmp_width" y="1455"  src="time/s.png" srcid="#minute/10" />
+			<!-- time3: xx:x1 -->
+			<Image name="timg33"   x="411+#timg00.bmp_width+#timg11.bmp_width+#dot0.bmp_width+#timg22.bmp_width" y="1455"  src="time/s.png" srcid="#minute%10" />
+		</Group>
+<Image x="0"  y="0"   src="bg.png" />
+		
+		<Group  visibility="#vis">
+
+		<!-- time0: 1x:xx -->
+		<Image name="timg0_old"   x="411" y="1455" antiAlias="true" src="time/l.png" srcid="#hour0_old" pivotX="#timg0_old.bmp_width/2" pivotY="#timg0_old.bmp_height/2" rotationX="#timg0_flip_old" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="255" time="0"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="0" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<Image name="timg0"   x="411" y="1455" antiAlias="true" src="time/l.png" srcid="#time0" pivotX="#timg0.bmp_width/2" pivotY="#timg0.bmp_height/2" rotationX="#timg0_flip" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="0" time="0"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="255" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<!-- time1: x1:xx -->
+		<Image name="timg1_old"   x="411+#timg0.bmp_width" y="1455" antiAlias="true" src="time/l.png" srcid="#hour1_old" pivotX="#timg1_old.bmp_width/2" pivotY="#timg1_old.bmp_height/2" rotationX="#timg1_flip_old" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="255" time="0"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="0" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<Image name="timg1"   x="411+#timg0.bmp_width" y="1455" antiAlias="true" src="time/l.png" srcid="#time1" pivotX="#timg1.bmp_width/2" pivotY="#timg1.bmp_height/2" rotationX="#timg1_flip" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="0" time="0"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="255" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<!-- time2: xx:1x -->
+		<Image name="timg2_old"   x="411+#timg0.bmp_width+#timg1.bmp_width+#dot.bmp_width" y="1455" antiAlias="true" src="time/s.png" srcid="#minute0_old" pivotX="#timg2.bmp_width/2" pivotY="#timg2.bmp_height/2" rotationX="#timg2_flip_old" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="255" time="0"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="0" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<Image name="timg2"   x="411+#timg0.bmp_width+#timg1.bmp_width" y="1455" antiAlias="true" src="time/s.png" srcid="#time2" pivotX="#timg2.bmp_width/2" pivotY="#timg2.bmp_height/2" rotationX="#timg2_flip" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="0" time="0"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="255" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<!-- time3: xx:x1 -->
+		<Image name="timg3_old"   x="411+#timg0.bmp_width+#timg1.bmp_width+#timg2.bmp_width" y="1455" antiAlias="true" src="time/s.png" srcid="#minute1_old" pivotX="#timg3_old.bmp_width/2" pivotY="#timg3_old.bmp_height/2" rotationX="#timg3_flip_old" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="255" time="0"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="0" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		<Image name="timg3"   x="411+#timg0.bmp_width+#timg1.bmp_width+#timg2.bmp_width" y="1455" antiAlias="true" src="time/s.png" srcid="#time3" pivotX="#timg3.bmp_width/2" pivotY="#timg3.bmp_height/2" rotationX="#timg3_flip" visibility="true">
+			<AlphaAnimation>
+				<Alpha a="0" time="0"/>
+				<Alpha a="0" time="400"/>
+				<Alpha a="255" time="400"/>
+				<Alpha a="255" time="100000000000"/>
+			</AlphaAnimation>
+		</Image>
+		</Group>
+		</Group>
+
+
+		<Image name="arrow1" x="540" y="796"  src="yi.png" align="center" alignV="center" >
+					<AlphaAnimation delay="350"> 
+					   <Alpha a="10" time="0"/>
+					   <Alpha a="50" time="90"/>
+					   <Alpha a="80" time="180"/>
+					   <Alpha a="110" time="270"/>
+					   <Alpha a="200" time="360"/>
+					   <Alpha a="255" time="450"/>
+					   <Alpha a="255" time="100000000000"/>
+					</AlphaAnimation>
+		</Image>
+		<Image name="arrow2" x="540" y="301"  src="yi_1.png" align="center" alignV="center">
+					<AlphaAnimation delay="300"> 
+					   <Alpha a="10" time="0"/>
+					   <Alpha a="50" time="90"/>
+					   <Alpha a="80" time="180"/>
+					   <Alpha a="110" time="270"/>
+					   <Alpha a="200" time="360"/>
+					   <Alpha a="255" time="450"/>
+					   <Alpha a="255" time="100000000000"/>
+					</AlphaAnimation>
+		</Image>
+		<Image name="arrow3" x="540" y="1296"  src="mx.png" align="center" alignV="center">
+					<SizeAnimation delay="400">
+					   <Size w="0" h="0" time="0"/>
+					   <Size w="0" h="0" time="350"/>
+					   <Size w="430" h="46" time="600"/>
+					   <Size w="430" h="46" time="1000000000000"/>
+					</SizeAnimation>
+					<AlphaAnimation delay="400"> 
+					   <Alpha a="0" time="0"/>
+					   <Alpha a="0" time="350"/>
+					   <Alpha a="255" time="600"/>
+					   <Alpha a="255" time="100000000000"/>
+					</AlphaAnimation>
+		</Image>
+
+		<Image name="arrow4" x="540" y="1168"  src="miui.png" align="center" alignV="center">
+					<SizeAnimation delay="350">
+					   <Size w="0" h="0" time="0"/>
+					   <Size w="0" h="0" time="300"/>
+					   <Size w="198" h="74" time="600"/>
+					   <Size w="198" h="74" time="1000000000000"/>
+					</SizeAnimation>
+					<AlphaAnimation delay="350"> 
+					   <Alpha a="0" time="0"/>
+					   <Alpha a="0" time="300"/>
+					   <Alpha a="255" time="600"/>
+					   <Alpha a="255" time="100000000000"/>
+					</AlphaAnimation>
+		</Image>
+
+	<Image name="month"  x="501" y="1648"   src="m.png" srcid="#month+1" align="right"/>
+	<Image name="day0"  x="501+23" y="1648"    src="t.png" srcid="int(#date/10)" align="right"/>
+	<Image name="day1"  x="501+23+23" y="1648"   src="t.png" srcid="#date%10" align="right"/>
+ 
+
+	<Image name="week" x="501+23+23+10"  y="1648"   src="week.png" srcid="#day_of_week" />
+
+</Group>
+
+		<!-- 充电 -->
+		<Group  alpha="100" >
+			<Text x="540" y="1873" category="Charging" color="#ffffff" size="42"    textExp="@charging+' '+#battery_level+'%'"    align="center" alignV="center"/>
+			<Text x="540" y="1873" category="BatteryFull" color="#ffffff" size="42" textExp="@battery_full" align="center" alignV="center"/>
+			<Text x="540" y="1873" category="BatteryLow" color="#ffffff" size="42"    textExp="@battery_Low"  align="center" alignV="center"/>
+		</Group>
+
+
+
+
+	</Group>
+
+
+<MusicControl name="music_control" autoShow="true" visibility="false" enableLyric="true" updateLyricInterval="70" defAlbumCover="music/album_default.png">
+<Image  x="0" y="0" src="music/bg.png" />
+<Image  x="540" y="828" src="music/music_bg.png" alignV="center" align="center"/>
+	<!--专辑封面-->
+	<Image x="540" y="828"  src="music/album_mask.png"  alignV="center" align="center"/>	
+	<Image name="music_album_cover" x="251" y="538"   w="581" h="581" antiAlias="true">
+		<Mask x="251" y="538"   w="581" h="581"  src="music/album_mask.png" align="absolute"/>
+	</Image>	
+
+
+	<Image x="540" y="828" align="right" alignV="center" src="music/music_small_l.png">
+	<Mask w="394" h="787" src="music/music_l_mask.png" centerX="394" centerY="394" angle="max(#music_control.music_position-(#music_control.music_duration/2),0)/(#music_control.music_duration/2)*180"/>
+	</Image>
+
+	<Image x="540" y="828" alignV="center" src="music/music_small_r.png">
+	<Mask w="394" h="787" src="music/music_r_mask.png" centerX="0" centerY="394" angle="min(#music_control.music_position,(#music_control.music_duration/2))/(#music_control.music_duration/2)*180"/>
+	</Image>
+			
+	<!-- 歌曲名 -->
+<Text name="t_title" text="@music_control.title" x="540" y="243" alpha="255" color="#ffffff" size="60" w="600" alignV="center" align="center" marqueeSpeed="60"/>
+<Text name="t_artist" text="@music_control.artist" x="540" y="330" alpha="100" color="#ffffff" size="31" w="600" alignV="center" align="center" marqueeSpeed="60"/>
+	
+
+	<!--上一首-->
+	<Button name="music_prev" x="286" y="1248" w="153" h="153">
+		<Normal>
+		<Image src="music/btn_prev_n.png" x="286" y="1248"/>
+		</Normal>
+		<Pressed>
+		<Image src="music/btn_prev_p.png" x="286" y="1248"/> 
+		</Pressed>
+	</Button>
+	<!--下一首-->
+	<Button name="music_next" x="637" y="1248" w="153" h="153">
+		<Normal>
+		<Image src="music/btn_next_n.png" x="637" y="1248"/>
+		</Normal>
+		<Pressed>
+		<Image src="music/btn_next_p.png" x="637" y="1248"/> 
+		</Pressed>
+	</Button>
+	<!--播放-->
+	<Button name="music_play" x="461" y="1248" w="153" h="153">
+		<Normal>
+		<Image src="music/btn_play_n.png" x="461"  y="1248"/>
+		</Normal>
+		<Pressed>
+		<Image src="music/btn_play_p.png" x="461"  y="1248"/> 
+		</Pressed>
+	</Button>
+	<!--暂停-->
+	<Button name="music_pause" x="461"  y="1248" w="153" h="153">
+               <Normal>
+		<Image src="music/btn_pause_n.png" x="461"  y="1248"/>	
+	</Normal>
+		<Pressed>
+		<Image src="music/btn_pause_p.png" x="461"  y="1248"/> 
+		</Pressed>
+	</Button>
+</MusicControl>
+
+     <Button x="0" y="0" w="1080" h="1920">
+            <Triggers>
+                  <Trigger action="double" target="music_control" property="visibility" value="toggle"/>
+            </Triggers>
+        </Button>
+
+	<!--桌面 -->
+<Image name="arrow" x="540" src="arrow.png" y="1777" align="center" alpha="200">
+		<PositionAnimation>
+			<Position x="0" y="0" time="0"/>
+			<Position x="0" y="-20" time="1500"/>
+			<Position x="0" y="-20" time="1700"/>
+			<Position x="0" y="0" time="3200"/>
+			<Position x="0" y="0" time="3400"/>
+		</PositionAnimation>
+		<AlphaAnimation>
+			<Alpha a="0" time="0"/>
+			<Alpha a="255" time="1500"/>
+			<Alpha a="255" time="1700"/>
+			<Alpha a="0" time="3200"/>
+			<Alpha a="0" time="3400"/>
+		</AlphaAnimation>
+	</Image>
+	 
+	 <Var name="un_flag" expression="0" const="true"/>
+	<Var name="un_offset">
+		<VariableAnimation>
+			<AniFrame value="0" time="0"/>
+			<AniFrame value="-700" time="100"/>
+			<AniFrame value="-700" time="100000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="un_offset_y" expression="#un_offset*#un_flag"/>
+	 
+	<Unlocker name="unlocker1"    bounceInitSpeed="2000" bounceAcceleration="3000" alwaysShow="true">
+		<StartPoint x="0" y="0" w="#screen_width" h="#screen_height-225">
+		</StartPoint>
+		<EndPoint x="-#screen_width" y="-#screen_height-150" w="3*#screen_width" h="#screen_height-225">
+			<Trigger>
+				<VariableCommand name="bounce_flag" expression="1"/>
+				<Command target="bounce_offset.animation" value="play"/>
+				<VariableCommand name="un_flag" expression="1"/>
+				<Command target="un_offset.animation" value="play"/>
+			</Trigger>	
+		</EndPoint>
+		
+	</Unlocker>
+
+	
+	<Unlocker name="unlocker2"    bounceInitSpeed="2000" bounceAcceleration="3000" alwaysShow="true">
+		<StartPoint x="0" y="#screen_height-225" w="#screen_width-255" h="225">
+		</StartPoint>
+		<EndPoint x="-#screen_width" y="-225" w="3*#screen_width" h="#screen_height-150">
+			<Trigger>
+				<VariableCommand name="bounce_flag" expression="1"/>
+				<Command target="bounce_offset.animation" value="play"/>
+				<VariableCommand name="un_flag" expression="1"/>
+				<Command target="un_offset.animation" value="play"/>
+			</Trigger>	
+		</EndPoint>
+		
+	</Unlocker>
+
+	
+</Lockscreen>

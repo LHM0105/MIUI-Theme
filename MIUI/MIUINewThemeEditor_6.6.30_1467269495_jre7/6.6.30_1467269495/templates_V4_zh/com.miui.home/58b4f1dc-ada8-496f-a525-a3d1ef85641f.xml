@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.3 删除页面" version="2.9.16" annotation="" tag="编辑模式">
+    <resource description="editing_delete_screen_p.png" x="548" y="108" width="104" height="92" uuid="416634ae-f8f0-42f2-87f9-5edcacc4ba8d">
+        <path src="res\drawable-hdpi\editing_delete_screen_n.png" description="" />
+        <path src="res\drawable-hdpi\editing_delete_screen_p.png" description="" />
+    </resource>
+</screenshot>

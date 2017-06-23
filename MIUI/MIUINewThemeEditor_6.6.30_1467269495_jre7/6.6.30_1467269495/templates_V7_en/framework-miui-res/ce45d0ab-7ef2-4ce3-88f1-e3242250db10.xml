@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 System framework" version="4.8.6" annotation="" tag="System controls">
+    <resource description="btn_inline_detail_pressed_light" x="920" y="858" width="96" height="96" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-sw600dp-xhdpi\btn_inline_detail_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\btn_inline_detail_normal_light.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_inline_detail_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\btn_inline_detail_pressed_light.png" description="" />
+    </resource>
+    <resource description="action_bar_bg_light.9" x="10" y="8" width="1055" height="188" uuid="02c102ee-ef81-4e0b-a82e-5a920069e7cb">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_bg_light.9.png" description="" />
+    </resource>
+    <resource description="action_bar_tab_bg_first_selected_light.9" x="166" y="60" width="238" height="136" uuid="6503de79-8e2d-4f31-b9a1-ff4605787791">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_first_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_first_selected_light.9.png" description="" />
+    </resource>
+    <resource description="action_bar_tab_bg_last_selected_light.9" x="658" y="58" width="250" height="136" uuid="137d9a8d-16e8-4acc-923c-4e67dfadbebe">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_last_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_last_selected_light.9.png" description="" />
+    </resource>
+    <resource description="action_bar_tab_bg_middle_selected_light.9" x="410" y="58" width="236" height="136" uuid="ea38bea2-6754-442b-8df8-a832782e1168">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_tab_bg_middle_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_tab_bg_middle_selected_light.9.png" description="" />
+    </resource>
+    <resource description="window_bg_light.9" x="0" y="0" width="1080" height="1920" uuid="b21c8fdc-7a68-4f4b-9938-f582a7af120b">
+        <path src="res\drawable-sw600dp-xhdpi\window_bg_light.9.png" description="" />
+        <path src="res\drawable-sw720dp-xhdpi\window_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\window_bg_light.9.png" description="" />
+    </resource>
+    <resource description="action_bar_split_bg_light.9" x="10" y="1410" width="1060" height="228" uuid="d674604d-d1c9-447d-a14c-c197b9527e20">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_split_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_split_bg_light.9.png" description="" />
+    </resource>
+    <resource description="action_button_bg_first_selected_pressed_light.9" x="173" y="1415" width="168" height="203" uuid="11bb389f-a02d-48be-a59a-69cc65b5766d">
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_first_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_first_disable_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_first_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_first_selected_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_first_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_first_selected_pressed_light.9.png" description="" />
+    </resource>
+    <resource description="action_button_bg_middle_selected_pressed_light.9" x="373" y="1423" width="353" height="203" uuid="2eadf7a1-87a8-41a6-9490-d2293372b2f3">
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_middle_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_middle_selected_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_middle_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_middle_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_middle_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_middle_disable_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_single_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_single_disable_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_single_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_single_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_single_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_single_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_single_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_single_selected_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_single_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_single_selected_pressed_light.9.png" description="" />
+    </resource>
+    <resource description="action_button_bg_last_selected_pressed_light.9" x="738" y="1423" width="168" height="203" uuid="9df4961a-bd5d-4a27-8d04-83b410c74bf6">
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_last_selected_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_last_selected_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_last_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_last_selected_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_button_bg_last_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_bg_last_disable_light.9.png" description="" />
+    </resource>
+    <resource description="word_photo_bg" x="62" y="842" width="128" height="136" uuid="b0d10b4c-a1b0-4f98-b47f-ab79666781c5">
+        <path src="res\drawable-sw600dp-xhdpi\word_photo_bg.png" description="" />
+        <path src="res\drawable-xxhdpi\word_photo_bg.png" description="" />
+    </resource>
+    <resource description="spinner_dropdown_selector_bg.9" x="10" y="206" width="1060" height="102" uuid="dfd36fb2-64be-48b3-ab04-610e2018657e">
+        <path src="res\drawable-sw600dp-xhdpi\spinner_dropdown_selector_bg.9.png" description="" />
+        <path src="res\drawable-xxhdpi\spinner_dropdown_selector_bg.9.png" description="" />
+    </resource>
+    <resource description="btn_radio_on_light" x="10" y="348" width="56" height="72" uuid="3cbd1778-25a5-4aaf-b74c-18864af98931">
+        <path src="res\drawable-sw600dp-xhdpi\btn_radio_off_light.png" description="" />
+        <path src="res\drawable-sw720dp-xhdpi\btn_radio_off_light.png" description="" />
+        <path src="res\drawable-xxhdpi\btn_radio_off_light.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_radio_on_light.png" description="" />
+        <path src="res\drawable-sw720dp-xhdpi\btn_radio_on_light.png" description="" />
+        <path src="res\drawable-xxhdpi\btn_radio_on_light.png" description="" />
+    </resource>
+    <resource description="list_menu_item_bg_single_normal_light.9" x="24" y="1662" width="1032" height="114" uuid="bbd80bce-4725-49f8-aff7-0a1fa5951f33">
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_single_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_single_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_first_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_last_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_item_bg_single_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_single_normal_light.9.png" description="" />
+    </resource>
+    <resource description="list_menu_bg_light.9" x="8" y="1648" width="1060" height="264" uuid="5ce29a86-0b91-4022-a575-97b7bfadf9d2">
+        <path src="res\drawable-sw600dp-xhdpi\list_menu_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_menu_bg_light.9.png" description="" />
+    </resource>
+    <resource description="list_item_bg_dialog_first_pressed_light.9" x="6" y="324" width="1062" height="118" uuid="bfb51ad5-11c4-46a7-9418-09a1da349d4e">
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_first_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_first_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_first_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_last_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_last_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_last_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_middle_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_middle_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_single_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_single_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dialog_single_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dialog_single_pressed_light.9.png" description="" />
+    </resource>
+</screenshot>

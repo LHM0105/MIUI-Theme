@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.3 通知栏设置" version="2.9.16" annotation="" tag="其他">
+    <resource description="status_bar_toggle_style_text_bg_p.9.png" x="432" y="589" width="154" height="62" uuid="013788e9-c4c8-4deb-8c6c-2c525c271a28">
+        <path src="res\drawable-hdpi\status_bar_toggle_style_text_bg_p.9.png" description="通知栏样式背景" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_style_text_bg_p.9.png" description="通知栏样式背景" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_style_text_bg_p.9.png" description="通知栏样式背景" />
+    </resource>
+    <resource description="status_bar_toggle_style_single_page.png" x="408" y="274" width="202" height="302" uuid="34e3679b-d996-479c-b43d-3655da887ba5">
+        <path src="res\drawable-hdpi\status_bar_toggle_style_single_page.png" description="单页模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_style_single_page.png" description="单页模式" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_style_single_page.png" description="单页模式" />
+    </resource>
+    <resource description="status_bar_toggle_style_compact.png" x="108" y="276" width="206" height="294" uuid="a2b2689d-7140-4a75-ae3d-bc4efe0e76be">
+        <path src="res\drawable-hdpi\status_bar_toggle_style_compact.png" description="简洁模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_style_compact.png" description="简洁模式" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_style_compact.png" description="简洁模式" />
+    </resource>
+    <resource description="status_bar_background_fullscreen.9" x="0" y="0" width="720" height="52" uuid="98b6e6b6-3424-4485-94f6-71bd0c802bf3">
+        <path src="res\drawable-hdpi\status_bar_background.9.png" description="其他界面" />
+        <path src="res\drawable-hdpi\status_bar_background_keyguard.9.png" description="锁屏状态" />
+        <path src="res\drawable-hdpi\status_bar_background_transparent.9.png" description="桌面" />
+        <path src="res\drawable-hdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-hdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+        <path src="res\drawable-xxhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+    </resource>
+</screenshot>

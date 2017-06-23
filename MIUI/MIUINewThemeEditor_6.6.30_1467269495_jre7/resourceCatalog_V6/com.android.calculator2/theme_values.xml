@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="show_screen_history_color">#ff969ba3</color>
+<color name="show_screen_display_color">#ff46494d</color>
+<color name="button_text">#ff979ca4</color>
+<color name="button_equal_text_color">#f2ffffff</color>
+<color name="calculator_background">#ffe3e7e9</color>
+<integer name="max_digits">#0000000e</integer>
+<dimen name="screen_display_margin_bottom">0.000000dp</dimen>
+<dimen name="screen_top_history_margin_top">90.000000dp</dimen>
+<dimen name="screen_text_margin_border">40.000000dp</dimen>
+<dimen name="history_display_off_set">23.000000dp</dimen>
+<dimen name="display_text_size">75.000000dp</dimen>
+<dimen name="history_text_size">40.000000dp</dimen>
+<dimen name="button_clear_size">40.000000dp</dimen>
+<dimen name="button_fun_size">50.000000dp</dimen>
+<dimen name="button_divider">0.500000dp</dimen>
+<dimen name="display_text_view_width">632.000000dp</dimen>
+<dimen name="display_history_margin_result">0.000000dp</dimen>
+<dimen name="button_fun_scientific_size">24.000000dp</dimen>
+<dimen name="screen_switch_btn_margin_border">27.000000dp</dimen>
+<dimen name="button_normal_scientific_pad_size">20.000000dp</dimen>
+<dimen name="button_scien_fun_size">25.000000dp</dimen>
+<dimen name="button_normal_size">45.000000dp</dimen>
+<string name="plus">+</string>
+<string name="digit6">6</string>
+<string name="digit7">7</string>
+<string name="digit4">4</string>
+<string name="digit5">5</string>
+<string name="digit2">2</string>
+<string name="digit3">3</string>
+<string name="digit0">0</string>
+<string name="digit1">1</string>
+<string name="app_name">计算器</string>
+<string name="error">出错</string>
+<string name="equalDesc">等于</string>
+<string name="lg_mathematical_value">lg</string>
+<string name="piDesc">圆周率</string>
+<string name="lg">log</string>
+<string name="digit8">8</string>
+<string name="del">DEL</string>
+<string name="digit9">9</string>
+<string name="div">÷</string>
+<string name="clear">C</string>
+<string name="mul">×</string>
+<string name="tan">tan</string>
+<string name="minus">−</string>
+<string name="dot">.</string>
+<string name="equal">=</string>
+<string name="enter">↓</string>
+<string name="sin">sin</string>
+<string name="sin_mathematical_value">sin</string>
+<string name="cos">cos</string>
+<string name="cos_mathematical_value">cos</string>
+<string name="minusDesc">减</string>
+<string name="rightParenDesc">右括号</string>
+<string name="plusDesc">加</string>
+<string name="mulDesc">乘</string>
+<string name="tanDesc">正切</string>
+<string name="e_mathematical_value">e</string>
+<string name="clearDesc">清除</string>
+<string name="e">e</string>
+<string name="powerDesc">幂</string>
+<string name="pi">π</string>
+<string name="dotDesc">小数点</string>
+<string name="tan_mathematical_value">tan</string>
+<string name="eDesc">欧拉数</string>
+<string name="cosDesc">余弦</string>
+<string name="ln_mathematical_value">ln</string>
+<string name="sinDesc">正弦</string>
+<string name="ln">ln</string>
+<string name="sqrt">√</string>
+<string name="lgDesc">对数</string>
+<string name="power">^</string>
+<string name="sqrtDesc">平方根</string>
+<string name="leftParen">(</string>
+<string name="factorialDesc">阶乘</string>
+<string name="rightParen">)</string>
+<string name="lnDesc">自然对数</string>
+<string name="text_copied_toast">文本已复制。</string>
+<string name="leftParenDesc">左括号</string>
+<string name="factorial">!</string>
+<string name="divDesc">除</string>
+<string name="clear_history">清除历史记录</string>
+<string-array name="operatorDescs">
+<item>左括号</item>
+<item>右括号</item>
+<item>阶乘</item>
+<item>自然对数</item>
+<item>对数</item>
+<item>平方根</item>
+<item>除以</item>
+<item>乘</item>
+<item>加</item>
+<item>减</item>
+<item>点</item>
+<item>幂</item>
+<item>正切</item>
+<item>正弦</item>
+<item>余弦</item>
+<item>圆周率</item>
+<item>等于</item>
+</string-array>
+<string-array name="operators">
+<item>(</item>
+<item>)</item>
+<item>!</item>
+<item>ln</item>
+<item>log</item>
+<item>√</item>
+<item>÷</item>
+<item>×</item>
+<item>+</item>
+<item>−</item>
+<item>.</item>
+<item>^</item>
+<item>tan</item>
+<item>sin</item>
+<item>cos</item>
+<item>π</item>
+<item>=</item>
+</string-array>
+</MIUI_Theme_Values>

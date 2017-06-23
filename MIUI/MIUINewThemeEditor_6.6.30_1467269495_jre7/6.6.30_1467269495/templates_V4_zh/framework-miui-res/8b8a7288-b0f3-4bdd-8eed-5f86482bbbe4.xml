@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="系统音量调节" version="2.9.21" annotation="" tag="">
+    <resource description="ic_audio_ring_notif.png" x="35" y="180" width="57" height="61" uuid="a828ab7f-addb-4773-818c-c71bffafd22f">
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif.png" description="" />
+    </resource>
+    <resource description="ic_audio_alarm.png" x="35" y="302" width="57" height="61" uuid="759c75dd-97c8-4c6b-ad3c-dc6946b5da53">
+        <path src="res\drawable-xhdpi\ic_audio_alarm.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_alarm_mute.png" description="" />
+    </resource>
+    <resource description="ic_audio_phone.png" x="35" y="425" width="57" height="61" uuid="26c7dde7-79c9-4893-9827-d01690f10424">
+        <path src="res\drawable-xhdpi\ic_audio_phone.png" description="" />
+    </resource>
+    <resource description="ic_audio_media.png" x="37" y="550" width="57" height="61" uuid="bc0707a9-ccf5-4223-bc43-3f6d6f356464">
+        <path src="res\drawable-xhdpi\ic_audio_media.png" description="" />
+    </resource>
+    <resource description="ic_audio_bt_mute.png" x="37" y="795" width="57" height="61" uuid="2f457e01-ad62-4ff1-b259-2fbf1015f181">
+        <path src="res\drawable-xhdpi\ic_audio_bt.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_bt_mute.png" description="" />
+    </resource>
+    <resource description="ic_audio_system_mute.png" x="35" y="674" width="57" height="61" uuid="5f233096-cde9-47f6-aa37-8f2d11242386">
+        <path src="res\drawable-xhdpi\ic_audio_system.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_system_mute.png" description="" />
+    </resource>
+</screenshot>

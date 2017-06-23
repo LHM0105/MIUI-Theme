@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="4.8.29" annotation="" tag="">
+    <resource description="resource_thumbnail_bg_round_border.9" x="374" y="976" width="324" height="516" uuid="ec33154c-8aa3-4f5f-9998-f9349ef3f90e">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg_round_border.9.png" description="Thumbnail background border, visable when loading" />
+        <path src="res\drawable-xhdpi\resource_thumbnail_bg_round_border.9.png" description="Thumbnail background border, visable when loading" />
+        <path src="res\drawable-xxhdpi\resource_thumbnail_bg_round_border.9.png" description="Thumbnail background border, visable when loading" />
+    </resource>
+    <resource description="loading_view_bg.9" x="0" y="1780" width="1080" height="140" uuid="b01e37ff-51c5-458d-bdec-15f1783d1d30">
+        <path src="res\drawable-hdpi\loading_view_bg.9.png" description="Loading list bottom mask" />
+        <path src="res\drawable-xxhdpi\loading_view_bg.9.png" description="Loading list bottom mask" />
+    </resource>
+</screenshot>

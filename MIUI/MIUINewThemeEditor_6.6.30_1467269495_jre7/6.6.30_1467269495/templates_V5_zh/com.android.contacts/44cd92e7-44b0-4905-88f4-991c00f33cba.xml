@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="7.1 红米拨号键盘" version="HBJ2.2" annotation="" tag="红米">
+    <resource description="btn_call_sim1_disable.9" x="164" y="1138" width="196" height="120" uuid="98cf92b4-4e63-4c78-826e-0f4c3ba53aeb" />
+    <resource description="btn_call_sim2_disable.9" x="360" y="1138" width="196" height="120" uuid="fe9bb566-73e5-4d09-b226-37a2031e8a2f" />
+    <resource description="sim1" x="159" y="232" width="28" height="33" uuid="25d8ad23-1b27-4d73-a104-b87c481eb4df" />
+    <resource description="sim2" x="158" y="375" width="32" height="31" uuid="27cc95da-e6b6-491e-90e5-4f19beddfb87" />
+    <resource description="simx" x="159" y="519" width="26" height="32" uuid="8c6bc898-21a5-490a-80c1-1b99975a1aad" />
+    <resource description="dual_dialer_btn_close_dialpad_normal" x="14" y="1132" width="136" height="142" uuid="79046957-807b-4a56-9348-8087e5424a36" />
+    <resource description="dual_dialer_btn_delete_normal" x="578" y="1128" width="136" height="142" uuid="f60cf686-31a2-47be-a585-18b09571017f" />
+</screenshot>

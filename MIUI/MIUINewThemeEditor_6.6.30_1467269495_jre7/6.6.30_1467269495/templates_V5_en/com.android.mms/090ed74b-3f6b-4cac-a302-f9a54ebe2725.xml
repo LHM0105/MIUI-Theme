@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 Private messaging" version="3.3.1" annotation="" tag="Message list">
+    <resource description="private_lock_icon" x="282" y="386" width="160" height="160" uuid="864ac112-5a4a-498e-94c8-8c3a6106ad2d">
+        <path src="res\drawable-xhdpi\private_lock_icon.png" description="私密短信" />
+        <path src="res\drawable-xxhdpi\private_lock_icon.png" description="私密短信" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="12" y="782" width="124" height="126" uuid="a80ea157-cfd6-4a67-b6f5-a97b164f5179">
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="头像顶部图层" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg.png" description="头像顶部图层" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="遮罩层，控制头像显示" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask.png" description="遮罩层，控制头像显示" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg.png" description="头像背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg.png" description="头像背景" />
+    </resource>
+</screenshot>

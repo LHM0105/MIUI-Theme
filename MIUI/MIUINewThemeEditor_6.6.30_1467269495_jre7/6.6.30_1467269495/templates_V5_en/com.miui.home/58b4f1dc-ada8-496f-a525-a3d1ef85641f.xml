@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.3 Delete Home screen" version="2.9.16" annotation="" tag="Edit mode">
+    <resource description="editing_delete_screen_p.png" x="552" y="108" width="90" height="90" uuid="416634ae-f8f0-42f2-87f9-5edcacc4ba8d">
+        <path src="res\drawable-xhdpi\editing_delete_screen_n.png" description="删除当前桌面按钮" />
+        <path src="res\drawable-xhdpi\editing_delete_screen_p.png" description="删除当前桌面按钮 二态" />
+    </resource>
+    <resource description="editing_screen_bg.9" x="48" y="88" width="618" height="822" uuid="4e992fea-9aed-4111-b179-ef8fdb5b1016">
+        <path src="res\drawable-xhdpi\editing_screen_bg.9.png" description="编辑模式桌面背景" />
+    </resource>
+    <resource description="editing_bg" x="12" y="0" width="690" height="1268" uuid="9a5b4265-1382-4132-8da2-039c778834d3">
+        <path src="res\drawable-hdpi\editing_bg.png" description="编辑模式背景" />
+    </resource>
+</screenshot>

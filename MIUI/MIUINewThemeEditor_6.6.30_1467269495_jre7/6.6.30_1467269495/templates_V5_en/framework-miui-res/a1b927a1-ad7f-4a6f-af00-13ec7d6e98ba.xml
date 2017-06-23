@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Tab, Bottom bar, Placeholders" version="3.4.23" annotation="" tag="Other">
+    <resource description="tab 占位图" x="6" y="540" width="696" height="92" uuid="5a557efa-17d0-4e69-92bd-070fc1897bb9">
+        <path src="res\drawable-hdpi\v5_tab_indicator_placeholder.9.png" description="tab占位图，控制tab按钮与下方位置" />
+        <path src="res\drawable-xhdpi\v5_tab_indicator_placeholder.9.png" description="tab占位图，控制tab按钮与下方位置" />
+        <path src="res\drawable-xxhdpi\v5_tab_indicator_placeholder.9.png" description="tab占位图，控制tab按钮与下方位置" />
+    </resource>
+    <resource description="底部占位图" x="6" y="1110" width="710" height="160" uuid="19de88a9-03b8-49c8-a1d8-91aadbe9f5e8">
+        <path src="res\drawable-hdpi\v5_bottom_bar_placeholder.9.png" description="底拦占位图" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_placeholder.9.png" description="底拦占位图" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_placeholder.9.png" description="底拦占位图" />
+    </resource>
+</screenshot>

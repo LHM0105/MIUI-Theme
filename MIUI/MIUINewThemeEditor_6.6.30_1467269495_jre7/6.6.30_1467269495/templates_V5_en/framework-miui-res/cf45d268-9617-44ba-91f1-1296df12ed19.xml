@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Installer UI" version="3.3.1" annotation="" tag="App installer">
+    <resource description="v5_expander_group_bg_pressed_light.9" x="0" y="594" width="718" height="92" uuid="e92c6fb7-91ea-4858-86d3-125e8e08dd77">
+        <path src="res\drawable-hdpi\v5_expander_group_bg_normal_light.9.png" description="群组" />
+        <path src="res\drawable-xhdpi\v5_expander_group_bg_normal_light.9.png" description="群组" />
+        <path src="res\drawable-xxhdpi\v5_expander_group_bg_normal_light.9.png" description="群组" />
+        <path src="res\drawable-hdpi\v5_expander_group_bg_pressed_light.9.png" description="群组 二态" />
+        <path src="res\drawable-xhdpi\v5_expander_group_bg_pressed_light.9.png" description="群组 二态" />
+        <path src="res\drawable-xxhdpi\v5_expander_group_bg_pressed_light.9.png" description="群组 二态" />
+    </resource>
+    <resource description="v5_expander_open_light.9" x="18" y="620" width="36" height="46" uuid="32be39d0-3e00-4a87-b206-a8edc379cccd">
+        <path src="res\drawable-hdpi\v5_expander_close_light.9.png" description="展开" />
+        <path src="res\drawable-xhdpi\v5_expander_close_light.9.png" description="展开" />
+        <path src="res\drawable-xxhdpi\v5_expander_close_light.9.png" description="展开" />
+        <path src="res\drawable-hdpi\v5_expander_open_light.9.png" description="收起" />
+        <path src="res\drawable-xhdpi\v5_expander_open_light.9.png" description="收起" />
+        <path src="res\drawable-xxhdpi\v5_expander_open_light.9.png" description="收起" />
+    </resource>
+    <resource description="v5_btn_bg_first_pressed_light.9" x="18" y="1132" width="328" height="110" uuid="eb3a0956-3ad0-4a8b-85aa-45996900f5ea">
+        <path src="res\drawable-hdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_pressed_light.9.png" description="左按钮 二态" />
+    </resource>
+    <resource description="v5_btn_bg_last_normal_light.9" x="370" y="1134" width="318" height="110" uuid="6645428b-16e3-4971-9bba-1a01c4adf7f4">
+        <path src="res\drawable-hdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_pressed_light.9.png" description="右按钮 二态" />
+    </resource>
+</screenshot>

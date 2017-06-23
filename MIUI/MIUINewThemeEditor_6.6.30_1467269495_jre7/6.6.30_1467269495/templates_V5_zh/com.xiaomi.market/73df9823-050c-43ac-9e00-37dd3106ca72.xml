@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="专题页面" version="3.5.9" annotation="" tag="">
+    <resource description="subject_description_bg.9" x="0" y="142" width="718" height="194" uuid="4b5575da-f2b3-43aa-bfb7-f4750620e06d">
+        <path src="res\drawable-xhdpi\subject_description_bg.9.png" description="介绍内容背景" />
+    </resource>
+    <resource description="icon_pattern" x="22" y="826" width="136" height="136" uuid="9af11349-0230-48a6-90b8-14ac5f402893">
+        <path src="res\drawable-xhdpi\icon_background.png" description="变色背景" />
+        <path src="res\drawable-xhdpi\icon_border.png" description="图标顶部遮罩" />
+        <path src="res\drawable-xhdpi\icon_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\icon_pattern.png" description="不变色背景" />
+    </resource>
+    <resource description="loading_view_bg.9" x="0" y="1110" width="718" height="170" uuid="5a5cb5e7-9ba1-41a8-9cba-cf8388191b50">
+        <path src="res\drawable-xhdpi\loading_view_bg.9.png" description="载入中背景" />
+    </resource>
+</screenshot>

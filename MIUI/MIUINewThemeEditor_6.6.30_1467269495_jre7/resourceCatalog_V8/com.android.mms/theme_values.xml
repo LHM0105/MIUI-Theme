@@ -1,0 +1,1134 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="sms_card_button_color3">#ff20b07c</color>
+<color name="sms_card_button_color2">#ff2f78c3</color>
+<color name="sms_card_button_color9">#ffeb7d35</color>
+<color name="sms_card_button_color7">#ffe3603d</color>
+<color name="list_secondary_text_color_normal_light">#7f000000</color>
+<color name="list_secondary_text_color_disable_light">#33000000</color>
+<color name="cloud_state_view_text_color">#7f000000</color>
+<color name="list_secondary_text_color_pressed_light">#7f000000</color>
+<color name="color_primary">#fff0f2f2</color>
+<color name="sim_indicator_color_normal"></color>
+<color name="sim_indicator_color_selected">#ff33b4ff</color>
+<color name="web_view_activity_bg_color">#fff6f6f6</color>
+<color name="text_color_message_red_highlight">#ffffffff</color>
+<color name="text_color_message_red_highlight_pressed">#ffffffff</color>
+<color name="fab_bg_color">#fff7ad3c</color>
+<color name="recommend_msg_color">#ff0e75f3</color>
+<color name="list_text_color_normal_light">#ff000000</color>
+<color name="sms_card_body_primary"></color>
+<color name="sms_card_title_right">#ccffffff</color>
+<color name="sms_card_title_left"></color>
+<color name="sms_card_button_color1">#ff1ba598</color>
+<color name="sms_card_information_payment">#fff16e5f</color>
+<color name="sms_card_information_income">#ff20b07c</color>
+<color name="sms_card_detail_text_background">#fff8f8f8</color>
+<color name="sms_card_detail_text_highlight_color">#ff0d90ff</color>
+<color name="button_text_color_normal_light_positive">#ff4b8d0e</color>
+<color name="button_text_color_disabled_light_positive">#7f4b8d0e</color>
+<color name="pressed_text_light">#ffffffff</color>
+<color name="bright_foreground_light_disabled">#4c000000</color>
+<color name="list_text_color_disable_light">#66000000</color>
+<color name="list_text_color_pressed_light">#ff000000</color>
+<color name="sms_card_sub_body2">#66000000</color>
+<color name="sms_card_body_secondary">#66000000</color>
+<color name="sms_card_sub_body">#b3000000</color>
+<color name="float_notification_button_color_p">#ff000000</color>
+<color name="float_notification_button_color_n">#ff000000</color>
+<color name="audio_item_in_default_color">#ffe5e5e5</color>
+<color name="audio_item_in_color">#ff0d90ff</color>
+<color name="audio_item_out_default_color">#ff1b6bb2</color>
+<color name="audio_item_out_color">#ff0d90ff</color>
+<color name="understand_float_text_color">#ff0d90ff</color>
+<color name="understand_button_text">#ff339204</color>
+<color name="sms_card_sub_body3">#cc000000</color>
+<color name="passenger_divider_color">#26000000</color>
+<color name="sms_card_detail_title_primary">#ffffffff</color>
+<color name="sms_card_detail_title_secondary">#88ffffff</color>
+<color name="sms_card_detail_text_color">#e5000000</color>
+<color name="float_notification_button_color_disable">#ffbdbdbd</color>
+<color name="light_black_line">#10000000</color>
+<color name="link_foreground_color">#ff0f5ac8</color>
+<color name="image_info_text_color">#80ffffff</color>
+<color name="message_button_alert_text_color"></color>
+<color name="text_color_message_desc_date_pressed">#ffffffff</color>
+<color name="text_color_message_desc_date">#5a000000</color>
+<color name="text_color_message_desc_pressed"></color>
+<color name="text_color_message_desc"></color>
+<color name="hint_edit_text_color_light">#4c000000</color>
+<color name="text_color_mi_recipient_pressed"></color>
+<color name="text_color_mi_recipient">#ff1e90ff</color>
+<color name="audio_bottom_color">#ff0d90ff</color>
+<color name="audio_bottom_default_color">#ffe5e5e5</color>
+<color name="image_info_background_color">#c0000000</color>
+<color name="resend_divider_color">#33000000</color>
+<color name="background">#dd000000</color>
+<color name="link_text_color_normal">#ff0f5ac8</color>
+<color name="flatshow_pageno_text_color">#ffffffff</color>
+<color name="flatshow_pageno_text_shadow_color">#80000000</color>
+<color name="private_entry_background_color">#ff000000</color>
+<color name="text_color_message_out_mx">#ffffffff</color>
+<color name="text_color_message_in_highlight">#ff0d90ff</color>
+<color name="text_color_message_in_highlight_pressed">#ff0d90ff</color>
+<color name="text_color_message_in">#e5000000</color>
+<color name="text_color_message_in_pressed">#e5000000</color>
+<color name="text_color_highlight_disabled">#80ff7e00</color>
+<color name="text_color_highlight_inverse">#ffed5137</color>
+<color name="text_color_disabled"></color>
+<color name="text_color_highlight">#ffed5137</color>
+<color name="text_color_secondary"></color>
+<color name="text_color_secondary_inverse">#ffffffff</color>
+<color name="nickname_placeholder_fg">#ffffffff</color>
+<color name="text_color_mipub_body">#7f000000</color>
+<color name="text_color_message_out">#ffffffff</color>
+<color name="text_color_message_out_highlight">#ffffffff</color>
+<color name="text_color_message_out_pressed">#ffffffff</color>
+<color name="text_color_message_out_sendtitle">#9affffff</color>
+<color name="text_color_message_out_highlight_pressed">#ffffffff</color>
+<color name="text_color_message_out_sendtitle_pressed">#9affffff</color>
+<color name="text_color_message_alert_sendtitle_pressed">#5f000000</color>
+<color name="text_color_message_out_mx_pressed">#ffffffff</color>
+<color name="text_color_message_alert">#7f000000</color>
+<color name="text_color_message_alert_pressed">#7f000000</color>
+<color name="text_color_message_alert_highlight">#ff0d90ff</color>
+<color name="text_color_message_alert_highlight_pressed">#ff0d90ff</color>
+<color name="text_color_message_alert_secondary">#5f000000</color>
+<color name="text_color_message_alert_secondary_pressed">#5f000000</color>
+<color name="text_color_message_alert_sendtitle">#5f000000</color>
+<color name="recipient_secondary_text_color"></color>
+<color name="text_color_recipient_item">#cc000000</color>
+<color name="text_color_recipient">#cc000000</color>
+<color name="text_color_hypertext_message">#60000000</color>
+<color name="cloud_state_unsynced_text_color">#ffee5b1a</color>
+<color name="text_color_card_secondary_tag"></color>
+<color name="text_color_recent_contact"></color>
+<color name="text_color_attachment_type">#ff4d4d4d</color>
+<color name="card_divider_color">#26000000</color>
+<color name="text_color_message_red">#ffffffff</color>
+<color name="security_alert_hint_text_color">#99000000</color>
+<color name="text_color_mipub_detail">#ff666666</color>
+<color name="security_alert_color">#ffcf1616</color>
+<color name="text_color_mipub_subject">#ff666666</color>
+<color name="text_color_message_red_pressed">#ffffffff</color>
+<color name="fetion_prefix_text_color"></color>
+<color name="drag_background_color">#ff98a2ab</color>
+<color name="nickname_placeholder_bg">#ff50a01e</color>
+<color name="conversation_unread_text_color"></color>
+<color name="text_color_message_desc_primary">#99000000</color>
+<color name="text_color_message_desc_sub"></color>
+<color name="drag_text_color">#ffffffff</color>
+<color name="conversation_date_color">#4c000000</color>
+<string name="forward_from">转发自：</string>
+<string name="pref_forward_title">转发</string>
+<string name="pref_title_fwd_sender_info">转发时显示信息来源</string>
+<string name="saved_to_sim">已保存</string>
+<string name="mx_recommend_msg">我已启用免费网络短信，点此开通和我免费发短信</string>
+<string name="sim_card1">SIM卡1</string>
+<string name="sim_card2">SIM卡2</string>
+<string name="sim_card_cloud">(网络短信)</string>
+<string name="select_local_audio">选择本地音频...</string>
+<string name="select_local_video">选择本地视频...</string>
+<string name="cloud_state_disabled">小米云同步未开启</string>
+<string name="cloud_state_syncing">小米云同步中…</string>
+<string name="search_show_more_results">显示更多</string>
+<string name="sms_content">短信内容</string>
+<string name="cloud_state_sync_finished">小米云已完成同步</string>
+<string name="hint_search_sms">搜索%d条短信</string>
+<string name="importing_progress_private_message">正在导入短信到私密信箱</string>
+<string name="enable_password_protect">启用密码保护</string>
+<string name="enable_visible_pattern_title">使图案可见</string>
+<string name="private_protect">私密保护</string>
+<string name="private_new_notification">新短信通知</string>
+<string name="prvate_contact">私密联系人</string>
+<string name="private_message">私密短信</string>
+<string name="del_private_contact">移除所有私密联系人</string>
+<string name="private_settings">私密设置</string>
+<string name="add_private_contact">添加私密联系人</string>
+<string name="bcc_label"></string>
+<string name="to_address_label"></string>
+<string name="from_label"></string>
+<string name="multimedia_notification">彩信通知</string>
+<string name="multimedia_message">彩信</string>
+<string name="text_message">短信</string>
+<string name="in_sms">来信息了</string>
+<string name="unknown_num">未知号码</string>
+<string name="pref_collapse_sp_messages_summary">折叠通知类短信为一个会话条目</string>
+<string name="sp_conversation_title">通知类消息</string>
+<string name="title_show_sms_template">开启短信智能识别</string>
+<string name="pref_show_sms_template_summary">开启后，可在短信中一键充值、复制验证码、查询快递等</string>
+<string name="title_show_sms_template_in">开启短信验证码识别</string>
+<string name="pref_show_sms_template_in_summary">开启后，可在短信中自动检测验证码</string>
+<string name="confirm_add_blacklist_dialog_dspt">确定要把该号码加入黑名单吗？</string>
+<string name="batch_adding_progress_message">正在加入黑名单</string>
+<string name="invalid_private_contact">无效私密联系人</string>
+<string name="title_collapse_sp_messages">折叠通知类短信</string>
+<string name="restore_to_phone_memory_failed">恢复失败</string>
+<string name="restored_to_phone_memory">已恢复到手机内存</string>
+<string name="pref_title_miui_card">使用MIUI名片发送</string>
+<string name="pref_title_card_format">名片分享方式</string>
+<string name="pref_title_vcard">使用vCard文件发送</string>
+<string name="save_to_sim_failed">保存失败</string>
+<string name="reply_button_msg">回复短信</string>
+<string name="restore_blocked_message">恢复到短信</string>
+<string name="restore_all_button_msg">全部恢复到短信</string>
+<string name="no_block_button_msg">不再拦截</string>
+<string name="select_recipient">选择收信人</string>
+<string name="overwrite_edited_content">将会覆盖已编辑的内容，是否继续？</string>
+<string name="back_to_message_list">返回短信列表</string>
+<string name="add_slide_before">在前面添加幻灯片</string>
+<string name="context_menu_add_to_browser_favorite">添加到浏览器收藏</string>
+<string name="type_vcard">vCard</string>
+<string name="number_add_hint">输入电话号码</string>
+<string name="confirm_export_dialog_description">将移除您选中的1个私密联系人，并将其短信会话恢复到普通短信中，是否继续?</string>
+<string name="confirm_export_dialog_title">移除私密联系人</string>
+<string name="exporting_progress_private_message">正在导出私密短信从私密信箱</string>
+<string name="menu_pick_from_contact">从通话和联系人中选择…</string>
+<string name="menu_new_manual">手动添加</string>
+<string name="menu_edit">编辑</string>
+<string name="error_code_label"></string>
+<string name="menu_lock">收藏</string>
+<string name="menu_delete_messages">删除信息</string>
+<string name="sim_copy_to_phone_memory">复制到手机内存</string>
+<string name="menu_unlock">取消收藏</string>
+<string name="attach_slideshow">幻灯片</string>
+<string name="select_bottom_text">底部文本</string>
+<string name="select_top_text">顶部文本</string>
+<string name="delivery_toast_body">%s已接收消息</string>
+<string name="notification_multiple">[%s条]</string>
+<string name="notification_multiple_title">新信息</string>
+<string name="notification_failed_multiple">条信息无法发送。</string>
+<string name="notification_failed_multiple_title">信息未发送</string>
+<string name="sim_full_body">删除部分信息以腾出更多空间。</string>
+<string name="sms_full_title">短信内存已满</string>
+<string name="message_class_label"></string>
+<string name="sim_delete">删除</string>
+<string name="sim_view">查看</string>
+<string name="status_received">已收到</string>
+<string name="status_failed">失败</string>
+<string name="status_pending">待发送</string>
+<string name="status_read">阅读</string>
+<string name="recipient_label"></string>
+<string name="status_label"></string>
+<string name="status_unread">未读</string>
+<string name="status_rejected">已拒绝</string>
+<string name="loading_all_messages">正在加载所有信息...</string>
+<string name="show_all_messages">显示所有信息</string>
+<string name="mx_offline">当前离线</string>
+<string name="mx_online">当前在线</string>
+<string name="mx_btn_enable_now">现在开启</string>
+<string name="mx_enable_popup_msg">现在开启，即可在MIUI设备之间通过互联网免费发送信息。</string>
+<string name="add_number_to_sender">添加到%s</string>
+<string name="loading_mms">正在载入...</string>
+<string name="sent_label"></string>
+<string name="priority_label"></string>
+<string name="priority_high">高</string>
+<string name="priority_normal">正常</string>
+<string name="priority_low">低</string>
+<string name="received_label"></string>
+<string name="saved_label"></string>
+<string name="subject_label"></string>
+<string name="message_size_label">彩信大小：</string>
+<string name="remove_text">删除文本</string>
+<string name="to_send_wrapper">发出</string>
+<string name="error_timed_msg">时间早于现在</string>
+<string name="add_video">添加视频</string>
+<string name="remove_music">删除音乐</string>
+<string name="title_timed_message_dialog">请设定发送时间</string>
+<string name="add_music">添加音乐</string>
+<string name="pref_summary_off_system_mms_priority">允许第三方应用先截获短信通知</string>
+<string name="remove_picture">删除图片</string>
+<string name="pref_summary_on_system_mms_priority">系统短信优先独占处理短信通知</string>
+<string name="add_picture">添加图片</string>
+<string name="pref_title_system_mms_priority">系统短信优先</string>
+<string name="subject_hint">主题</string>
+<string name="mx_msg_pageview_setting_title">免费网络短信</string>
+<string name="discard">舍弃草稿</string>
+<string name="mx_enable">MIUI免费网络短信</string>
+<string name="processing">正在处理...</string>
+<string name="remove_video">删除视频</string>
+<string name="mx_msg">免费网络短信</string>
+<string name="compressing">图片过大。正在压缩…</string>
+<string name="group_message">群发短信</string>
+<string name="close">关闭</string>
+<string name="mms">彩信</string>
+<string name="type_to_compose_text_enter_to_send">输入内容</string>
+<string name="remove">删除</string>
+<string name="timed_message_to">发给</string>
+<string name="send">发送</string>
+<string name="timed_message_in_total">等%d人</string>
+<string name="view">查看</string>
+<string name="timed_message_expired_title">您有%d条定时短信没有按时发出。</string>
+<string name="replace">替换</string>
+<string name="timed_message_expired_title_2">是否还发送?</string>
+<string name="activity_not_found_uri">找不到程序</string>
+<string name="activity_not_found">找不到打开附件的程序</string>
+<string name="fetion_prefix">[飞信]</string>
+<string name="copy_message_text">复制文本</string>
+<string name="insufficient_drm_rights">权限不足。</string>
+<string name="menu_forward">转发</string>
+<string name="attach_subject">主题</string>
+<string name="undelivered_sms_dialog_body">无法发送此信息。</string>
+<string name="downloading">正在下载</string>
+<string name="prepare_send">正在准备发送...</string>
+<string name="download">下载</string>
+<string name="flatshow_page_no">%1$d</string>
+<string name="guild_add_attachments">点此可以给短信插入附件和更多内容</string>
+<string name="privacy_mode_hint">无法在访客模式下发送信息</string>
+<string name="copy_message_text_success">复制文本成功</string>
+<string name="wap_push_title"></string>
+<string name="done">完成</string>
+<string name="message_too_big_for_audio">该信息太大，无法附加音频。</string>
+<string name="add_timing">定时</string>
+<string name="add_slide_hint">选择以创建新幻灯片</string>
+<string name="discard_slideshow">舍弃幻灯片</string>
+<string name="slide_show_part">部分</string>
+<string name="select_copy_text">选择复制文本</string>
+<string name="chenghu_disable_mms">彩信中无法使用称呼，移除称呼吗?</string>
+<string name="move_up">上移</string>
+<string name="non_english_subject_limit">包含中文的主题最多可编辑13个字</string>
+<string name="move_down">下移</string>
+<string name="english_subject_limit">只包含英文的主题最多可编辑40个字</string>
+<string name="remove_slide">删除幻灯片</string>
+<string name="text_in_popup_saved_to_clipboard">弹窗中输入的文字已存入剪贴板</string>
+<string name="add_slide">在后面添加幻灯片</string>
+<string name="guild_add_recipients">点此可以添加通讯录中的联系人</string>
+<string name="cannot_send_message">无法发送此信息</string>
+<string name="pref_title_hide_festival">隐藏“推荐”选项卡</string>
+<string name="invalid_recipient_message">请更正收信人，否则他们将无法收到信息。</string>
+<string name="pref_summary_show_recent_contacts">新建短信时显示最近联系人</string>
+<string name="service_network_problem">错误：网络出现问题。</string>
+<string name="pref_title_show_recent_contacts">最近联系人</string>
+<string name="pref_summary_allow_si_sl_push">允许接收和提醒WAP推送消息(SI/SL)</string>
+<string name="pref_title_allow_si_sl_push">允许WAP推送</string>
+<string name="converting_to_picture_message">正在转换为彩信…</string>
+<string name="pref_edit_smsc_address">设置短信中心号码</string>
+<string name="cannot_forward_drm_obj">对象。</string>
+<string name="cannot_send_message_reason">您的信息没有有效的收信人。</string>
+<string name="converting_to_text_message">正在转换为短信…</string>
+<string name="batch_deleting_progress_message">正在删除选中的会话</string>
+<string name="batch_deleting_message_progress_message">正在删除选中的信息</string>
+<string name="message_saved_as_draft">信息已存为草稿。</string>
+<string name="check_all">全选</string>
+<string name="too_many_recipients">个。</string>
+<string name="batch_delete_confirm_dialog_message">确定要删除所选的%1$s条信息吗？</string>
+<string name="cannot_add_slide_anymore">无法再添加幻灯片。</string>
+<string name="send_signature_confirm_dialog_message">您未输入正文内容，确认发送吗？</string>
+<string name="cannot_add_picture_and_video">无法将视频和图片添加到同一张幻灯片。</string>
+<string name="enter_edit_mode">编辑模式</string>
+<string name="adding_attachments">正在向幻灯片添加项，请稍候。</string>
+<string name="pref_cell_broadcast">小区广播</string>
+<string name="over_max_mms_size">彩信大小超过限制，无法继续添加文字。</string>
+<string name="send_signature_confirm_dialog_title">确认发送</string>
+<string name="too_many_attachments">个。</string>
+<string name="pref_summary_hide_festival">对非简体中文语言隐藏“推荐”选项卡</string>
+<string name="adding_attachments_title">正在添加附件</string>
+<string name="pref_message_recovery_introduction_title">短信恢复功能介绍</string>
+<string name="recipients_over_size">收信人超过50，无法发送信息。</string>
+<string name="pref_title_wake_up_screen">点亮屏幕</string>
+<string name="pref_title_notification_body_enabled">显示预览</string>
+<string name="phrase_empty">无常用语</string>
+<string name="select_different_media">请选择另一个%1$s。</string>
+<string name="pref_summary_notification_body_enabled_when_secure">当前设置了短信访问限制，将不会预览新短信内容</string>
+<string name="unsupported_media_format">不支持%1$s格式</string>
+<string name="pref_summary_notification_body_enabled">收到短信时显示预览内容(锁屏、状态栏)</string>
+<string name="exceed_message_text_limitation">已达到信息字数上限。</string>
+<string name="exceed_message_size_limitation">已达到信息大小上限。</string>
+<string name="message_too_big_for_video">该信息太大，无法附加视频。</string>
+<string name="phrase_from">收藏自%1s</string>
+<string name="exceed_message_size_limitation_add_slide">剩余空间不足以添加新的幻灯片</string>
+<string name="pref_other_title">其他</string>
+<string name="pref_system_title">系统</string>
+<string name="pref_advanced_settings_title">高级设置</string>
+<string name="failed_to_add_media">抱歉，您无法将此%1$s添加到信息。</string>
+<string name="pref_title_send_delivery_reports">允许发送报告</string>
+<string name="failed_to_resize_image">未调整图片大小。</string>
+<string name="pref_summary_send_delivery_reports">收到对方彩信后返回报告</string>
+<string name="resize_image_error_information">抱歉，此图片缩小后仍太大，无法发送。</string>
+<string name="pref_title_ringtone_repeat">铃音提醒次数</string>
+<string name="forward_prefix"></string>
+<string name="pref_title_ringtone_repeat_summary">手机暗屏且有新短信时，铃声提醒</string>
+<string name="discard_message">舍弃草稿</string>
+<string name="discard_message_reason">您的信息没有有效的收信人，将被舍弃。</string>
+<string name="pref_summary_wake_up_screen">收到新短信时点亮屏幕</string>
+<string name="has_invalid_recipient">无效收信人：&lt;%1$s&gt;</string>
+<string name="pref_title_delivery_reports">送达报告</string>
+<string name="invalid_destination">输入的地址无效。</string>
+<string name="pref_summary_delivery_reports">对方收到短信后返回报告</string>
+<string name="service_not_activated">该服务尚未在网络上激活。</string>
+<string name="service_message_not_found">彩信已过期或无法查看。</string>
+<string name="mx_filter_message_from_stranger_summary">开启后陌生人将只能给您发送普通短信</string>
+<string name="mx_filter_message_from_stranger_dialog_title">屏蔽来自陌生人的网络短信</string>
+<string name="mx_b2c_message_server">服务器</string>
+<string name="mx_filter_message_from_stranger">屏蔽陌生人的网络短信</string>
+<string name="msg_type_hint_mx_b2c_omit">联网回复</string>
+<string name="pref_summary_mms_read_reports">要求每次发送信息后都返回已读回执</string>
+<string name="pref_notification_settings_title">提醒和通知</string>
+<string name="pref_mms_settings_title">彩信</string>
+<string name="card_insert_to_contact">添加联系人</string>
+<string name="try_to_send">尝试发送</string>
+<string name="preferences_title">设置</string>
+<string name="wild_msg_title">sync</string>
+<string name="select_message_send_sim">请选择</string>
+<string name="edit">编辑</string>
+<string name="mx_filter_message_from_stranger_dialog_desc">点击确认，陌生人将只能给您发送普通短信。您也可以在短信设置中关闭此功能。</string>
+<string name="wild_msg_processing">处理中…</string>
+<string name="networking_allow_continue">同意并继续</string>
+<string name="networking_allow_desc">智能短信需要您同意《%1$s》和《%2$s》方可使用。智能短信在提供免费网络通信、短信号码识别、垃圾短信过滤等服务时，需要使用黄页功能并可能连接网络。您是否同意？</string>
+<string name="networking_allow_title">声明与条款</string>
+<string name="pref_title_mms_auto_retrieval">自动下载彩信</string>
+<string name="prefDefault_vibrate_false">never</string>
+<string name="prefDefault_vibrate_true">always</string>
+<string name="prefDefault_vibrateWhen">never</string>
+<string name="pref_title_storage_status">信息所占空间</string>
+<string name="pref_messages_to_save">设置要保存的信息数量</string>
+<string name="pref_title_mms_delete">彩信条数限制</string>
+<string name="pref_title_sms_delete">短信条数限制</string>
+<string name="msg_type_hint_mx_b2c">联网回复消息</string>
+<string name="pref_title_mms_read_reports">彩信已读报告</string>
+<string name="mx_b2c_message_resend_not_online">网络短信不在线，无法重发</string>
+<string name="pref_summary_delete_limit">条</string>
+<string name="mx_activate_allow_notice">首次激活网络通信可能会发送一条普通短信，资费由运营商收取。</string>
+<string name="mx_activate_status_desc_request_activation_sms_phone_error">输入的电话号码无效</string>
+<string name="mx_activate_status_desc_prepare_sending_sms">在等待系统短信服务就绪</string>
+<string name="found_wild_messages_title">短信同步管理</string>
+<string name="mx_activate_status_desc_check_net_connection">激活失败，请检查你的网络连接</string>
+<string name="found_wild_messages_guide_settings_desc">您可以在短信设置中，继续下载云端SIM卡的短信。</string>
+<string name="voip_enable">开启免费网络通信</string>
+<string name="found_wild_messages_guide_cloud_desc">请登录小米帐号，并开启短信云同步，即可下载云端SIM的短信。</string>
+<string name="found_wild_messages_guide_sync_not_started">短信同步尚未开始，无法获取信息</string>
+<string name="duration_selector_title"></string>
+<string name="found_old_messages_title">短信上传</string>
+<string name="layout_selector_title"></string>
+<string name="found_old_messages">在本机发现属于帐号%1$s的短信，您要将它们上传至当前帐号%2$s吗？</string>
+<string name="mx_and_voip_enable_popup_msg2">隐私政策</string>
+<string name="preview">预览</string>
+<string name="mx_b2c_message_desc">网络通知</string>
+<string name="preview_slideshow">预览</string>
+<string name="replace_image">替换图片</string>
+<string name="duration_sec">秒）</string>
+<string name="voip_enable_popup_msg">现在开启，即可在MIUI设备之间通过互联网免费打电话。开启时无需发送短信，不会产生资费。免费电话由微会提供技术支持，请查看微会的隐私政策。</string>
+<string name="voip_enable_popup_msg2">隐私政策</string>
+<string name="mx_and_voip_enable">开启免费网络通信</string>
+<string name="mx_and_voip_enable_popup_msg">现在开启，即可在MIUI设备之间通过互联网打电话、发信息。免费电话由微会提供技术支持，请查看微会的隐私政策。</string>
+<string name="sms_report_success">举报消息已发送</string>
+<string name="sms_report_failed">举报消息发送失败</string>
+<string name="no">取消</string>
+<string name="yes">确定</string>
+<string name="play">播放</string>
+<string name="set">设置</string>
+<string name="secs">秒</string>
+<string name="duration_zero">秒</string>
+<string name="hidden_sender_address">隐藏的发送者地址</string>
+<string name="menu_view_contact">查看联系人</string>
+<string name="mx_activate_status_desc_fail">激活失败，请稍后重试</string>
+<string name="mx_activate_status_desc_query_activte_info">正在联网检测手机卡激活状态</string>
+<string name="mx_activate_status_desc_wait_for_sms_fail">激活失败，请检查手机卡短信服务</string>
+<string name="duration_not_a_number">时长必须为数字</string>
+<string name="mx_activate_status_desc_activating_now">正在激活</string>
+<string name="type_to_compose_text_or_leave_blank">输入文字或保留空白</string>
+<string name="add_to_browser_favorite_failed">收藏失败</string>
+<string name="mx_reactivate">重新启用免费网络短信</string>
+<string name="i_know">我知道了</string>
+<string name="mx_activate_error_title">无法启用免费网络短信</string>
+<string name="msg_type_hint_mx">免费网络短信</string>
+<string name="add_to_browser_favorite_success">收藏成功</string>
+<string name="msg_type_hint_mx_omit">免费短信</string>
+<string name="mx_activate_notice">系统将发送一条短信来激活同步服务，是否继续？</string>
+<string name="msg_type_hint_sms_omit">短信</string>
+<string name="msg_type_hint_mms_omit">彩信</string>
+<string name="second_mms_introduction">请切换至手机分身中查看私密短信数据</string>
+<string name="second_mms_switch">切换分身</string>
+<string name="confirm_restore_positive">恢复</string>
+<string name="delete_unlocked">同时删除选中的收藏的信息</string>
+<string name="confirm_restore_message">确定要恢复选中的短信吗？</string>
+<string name="unstick">取消置顶</string>
+<string name="delete">删除</string>
+<string name="stick">置顶</string>
+<string name="url_fraud_risky_alert">您尝试访问的网站可能有风险，确认要继续?\n%s</string>
+<string name="mx_activate_hint_server">请求被服务器拒绝，启用免费网络短信失败。需要重新发送一条普通短信以启用免费网络短信，可能产生的短信费用由运营商收取。是否重新启用？</string>
+<string name="mx_activate_int_hint_malformed_info">您的信息发生变化，需要重新发送一条国际短信以启用免费网络短信，产生的国际短信费用由运营商收取。是否现在启用？</string>
+<string name="mx_activate_hint_malformed_info">您的信息发生变化，需要重新发送一条普通短信以启用免费网络短信，可能产生的短信费用由运营商收取。是否现在启用？</string>
+<string name="mx_activate_int_hint_sim_change">SIM卡发生变化，需要重新发送一条国际短信以启用免费网络短信，产生的国际短信费用由运营商收取。是否现在启用？</string>
+<string name="message_type_label"></string>
+<string name="sms_card_partner_label">短信合作方：</string>
+<string name="mx_activate_hint_sim_change">SIM卡发生变化，需要重新发送一条普通短信以启用免费网络短信，可能产生的短信费用由运营商收取。是否现在启用？</string>
+<string name="url_fraud_insurance">开启电信诈骗防护</string>
+<string name="mx_activate_error_server">当前服务器繁忙，启用免费网络短信失败</string>
+<string name="url_fraud_visit">继续访问</string>
+<string name="mx_activate_error_malformed_info">您的信息发生变化，需要重新启用免费网络短信</string>
+<string name="url_fraud_dangerous_alert">您尝试访问的网站是危险网站，会影响您的手机安全与财产安全，确认要继续？\n%s</string>
+<string name="mx_activate_error_sim_change">SIM卡发生变化，需要重新启用免费网络短信</string>
+<string name="invalid_conversation">无效会话</string>
+<string name="unsticked_conversation">已取消置顶此会话</string>
+<string name="sticked_conversation">已置顶此会话</string>
+<string name="sms_card_teddy_mobile">泰迪熊移动科技</string>
+<string name="unstick_conversation">取消置顶此会话</string>
+<string name="message_details_title">消息详情</string>
+<string name="cannot_get_details">无法获取详细信息</string>
+<string name="need_download">等待同步...</string>
+<string name="loading_conversations">正在载入会话...</string>
+<string name="mx_activate_int_hint_server">请求被服务器拒绝，启用免费网络短信失败。需要重新发送一条国际短信以启用免费网络短信，产生的国际短信费用由运营商收取。是否重新启用？</string>
+<string name="no_conversations">无会话</string>
+<string name="mx_on_sim_1">免费网络短信(SIM卡1)</string>
+<string name="mx_on_sim_2">免费网络短信(SIM卡2)</string>
+<string name="fake_cell_safe_hint">本条短信安全</string>
+<string name="mx_btn_enable">启用</string>
+<string name="fake_cell_checking_hint">安全检查中…</string>
+<string name="ex_type_sms">短信/彩信</string>
+<string name="fake_cell_timeout_hint">安全检查失败</string>
+<string name="fake_cell_detection_entry">伪基站防护</string>
+<string name="delete_wild_sims">删除号码</string>
+<string name="delete_wild_sims_title">确认删除选中的号码吗？</string>
+<string name="stick_conversation">置顶此会话</string>
+<string name="mx_enable_ex">MIUI免费网络通信</string>
+<string name="delete_wild_sims_confirm">本机所选号码下的短信都将被删除。\n您可以在i.mi.com中找回这些短信。</string>
+<string name="url_scanning">网址安全检测中…</string>
+<string name="url_result_safe">网址检测为安全</string>
+<string name="pref_summary_mms_auto_retrieval">自动下载彩信</string>
+<string name="url_fraud_title">风险提示</string>
+<string name="pref_title_mms_retrieval_during_roaming">漫游时自动下载</string>
+<string name="pref_summary_mms_retrieval_during_roaming">漫游时自动下载彩信</string>
+<string name="ex_type_mx">免费网络短信</string>
+<string name="to_label"></string>
+<string name="confirm_dialog_title">删除</string>
+<string name="confirm_dialog_locked_title">删除收藏信息</string>
+<string name="mx_auto_resend_sms">自动转为短信</string>
+<string name="confirm_restore_title">恢复短信</string>
+<string name="mx_count_dspt">条免费网络短信，%2$d条免费网络彩信</string>
+<string name="confirm_restore_checkbox">不再拦截该号码短信</string>
+<string name="mx_auto_resend_mms">自动转为彩信</string>
+<string name="mx_auto_resend_sms_summary">使用免费网络短信发送短信失败时转为通过运营商发送，可能要缴纳运营商费用</string>
+<string name="snippet_red_package">[红包]</string>
+<string name="mx_dspt_listview">MIUI手机之间优先通过互联网发送免费网络短信</string>
+<string name="red_package_btn">红包</string>
+<string name="title_send_red_package">查看红包</string>
+<string name="mx_current_status">网络短信设置</string>
+<string name="title_red_package">恭喜发财，万事如意!</string>
+<string name="mx_dspt">MIUI手机之间优先通过互联网发送免费网络短信</string>
+<string name="fake_cell_alert_hint">上条短信疑似他人伪装本号码发送，涉及扣费、转账等信息，切勿轻易相信。</string>
+<string name="confirm_delete_all_conversations">确定要删除所有会话吗？</string>
+<string name="title_recv_red_package">领取红包</string>
+<string name="confirm_delete_conversation">确定要删除该会话吗？</string>
+<string name="confirm_delete_message">确定要删除该信息吗？</string>
+<string name="confirm_delete_group_message">确定要删除该群发信息吗？</string>
+<string name="msg_type_hint_sms">短信</string>
+<string name="confirm_restore_all_title">确定要将被拦截的全部短信恢复到短信收件箱中吗？</string>
+<string name="mx_auto_resend_mms_summary">使用免费网络短信发送彩信失败时转为通过运营商发送，可能要缴纳运营商费用</string>
+<string name="confirm_delete_locked_message">确定要删除该收藏的信息吗？</string>
+<string name="confirm_no_block_positive">不再拦截</string>
+<string name="msg_type_hint_mms">彩信</string>
+<string name="confirm_no_block_title">确定不再拦截该号码短信，并将被拦截短信恢复到短信收件箱中吗？</string>
+<string name="confirm_send_mms">由于您的收件人中含有电子邮件地址，本条信息将转为彩信发送给所有收件人，可能会消耗额外的彩信费用。建议您更改收件人以节约费用。</string>
+<string name="quick_reply">回复</string>
+<string name="menu_yellowpage">查看%s服务号</string>
+<string name="menu_more">更多</string>
+<string name="menu_add_black">加入黑名单</string>
+<string name="menu_mark">标记</string>
+<string name="msglist_no_more_to_refresh">没有更多数据了...</string>
+<string name="msglist_more_refreshing">正在刷新数据...</string>
+<string name="msglist_release_to_more">松开之后刷新数据...</string>
+<string name="msglist_continue_to_pull_for_more">继续下拉刷新数据...</string>
+<string name="cloud_recommend_msg">点击开启小米云服务，短信数据永不丢失。</string>
+<string name="yellowpage_recommend_msg">点击开启垃圾短信过滤、智能识别功能。</string>
+<string name="send_message_notification_tickerText">增强售后服务权限请求</string>
+<string name="send_message_notification_title">增强售后服务</string>
+<string name="confirm_dlg__msg">中国移动提示：您取消后，中国移动将不再向您提供永久免费的增强售后服务，您确定要取消该服务？</string>
+<string name="alert_dlg_ok_button">确定</string>
+<string name="alert_dlg_cancel_button">取消</string>
+<string name="send_message_dlg_title">增强售后服务</string>
+<string name="manage_permission_app_label">增强售后服务权限</string>
+<string name="send_message_dlg_mgs">中国移动提示：为了向您提供免费的增强售后服务（增强售后服务是由中国移动建立终端管理平台来实现对终端的管理。随时为您提供终端远程参数设置和软件版本升级的服务），需要将您的设备免费注册到中国移动终端管理平台。注册将通过短信方式发送设备信息，该短信免费，仅发送一次（在港澳台及国际漫游情况下不发送）。如选择确认，视为您同意注册并使用增强售后服务；如选择取消，视为您不同意注册，中国移动将不向您提供该服务。</string>
+<string name="send_message_dlg_check_hint">始终按此方式操作</string>
+<string name="app_name">增强售后服务</string>
+<string name="view_hms_details">查看详情</string>
+<string name="send_message_notification_msg">增强售后服务请求获取发送短信权限</string>
+<string name="xiaomi_service_number">小米服务号</string>
+<string name="mx_activate_dlg_title_ex">激活免费网络通信</string>
+<string name="add_nickname">群发称呼</string>
+<string name="mx_activate_dlg_title">激活免费网络短信</string>
+<string name="add_contact">名片</string>
+<string name="add_smiley">表情</string>
+<string name="edit_nickname_for_nocontact">您还没有添加任何收信人。请先添加收信人，然后再点击进行群发称呼编辑。</string>
+<string name="add_nickname_title">编辑短信群发称呼</string>
+<string name="add_redpackage">红包</string>
+<string name="add_festival">推荐</string>
+<string name="storage_dialog_mms">%d条</string>
+<string name="message_number">:</string>
+<string name="message_contact">联系人:</string>
+<string name="mipub_messaging_entry_title">服务号消息</string>
+<string name="block_messaging_entry_title">拦截短信</string>
+<string name="open_url_with_web">是否允许使用浏览器访问该网址？</string>
+<string name="pref_title_mms_validity_period">彩信有效期</string>
+<string name="pref_title_sms_validity_period">短信有效期</string>
+<string name="me">本机号码</string>
+<string name="mx_dspt_provision_ex">现在开启，即可在MIUI设备之间通过互联网打电话、发信息。首次激活此服务可能会发送一条普通短信，资费由运营商收取。其中，免费电话由微会提供技术支持，请查看微会的隐私政策。</string>
+<string name="edit_nickname_for_nocontact_by_robot">等您添加了收信人后，点击”称呼“便可以编辑群发称呼。</string>
+<string name="mx_dspt_provision_ex2">隐私政策</string>
+<string name="nickname_placeholder">称呼</string>
+<string name="mx_type_guide">免费网络短信可以让MIUI用户之间通过WIFI或移动数据网络发送免费短信</string>
+<string name="mx_dspt_provision">现在开启，即可在MIUI设备之间通过互联网免费发送信息。首次激活此服务可能会发送一条普通短信，资费由运营商收取。</string>
+<string name="view_hms_attachment_fail">下载原图失败</string>
+<string name="hms_uri_param_err">不能为空</string>
+<string name="remind_follow">确定要关注吗？</string>
+<string name="database_corruption">数据库损坏，正在重建数据库……</string>
+<string name="refresh_failed">刷新失败</string>
+<string name="follow_finished">关注成功</string>
+<string name="send_to_count">已发出%1$s条</string>
+<string name="network_error">哎呀，网络出错了。请检查网络后重新尝试</string>
+<string name="send_to">发给：</string>
+<string name="message_received">送达</string>
+<string name="send_to_index_contact">%1$s/%2$s</string>
+<string name="message_pending">发送中</string>
+<string name="message_failed">未送达</string>
+<string name="security_alert_dialog_title">举报</string>
+<string name="security_alert_desc_highlight">立即举报</string>
+<string name="security_alert_dialog_desc">确认举报此号码和短信内容？点击确定，需要您提供号码%s和此对应的短信内容，并上传至服务器进行分析。</string>
+<string name="already_followed">您已经关注了该服务号</string>
+<string name="service_unavailiable">无法提供服务</string>
+<string name="security_alert_desc"></string>
+<string name="follow_forbidden">抱歉，该服务号禁止被关注</string>
+<string name="to_count">%d人</string>
+<string name="storage_dialog_mms_size">彩信大小:</string>
+<string name="recipient_editor_count_format">%d人</string>
+<string name="new_message_arrived">有新信息</string>
+<string name="festival_sms_category_count_format">%s</string>
+<string name="festival_sms_loading">正在加载...</string>
+<string name="refresh">刷新</string>
+<string name="storage_unavailable">没有剩余可用空间</string>
+<string name="message_readed">已读</string>
+<string name="message_rejected">已拒绝</string>
+<string name="storage_dialog_attachments">彩信附件:</string>
+<string name="storage_dialog_sms">%d条</string>
+<string name="storage_dialog_database">数据库:</string>
+<string name="storage_dialog_available_space">可用空间:</string>
+<string name="context_menu_view_contact">查看联系人</string>
+<string name="context_menu_add_contact">添加到联系人</string>
+<string name="context_menu_new_contact">新建联系人</string>
+<string name="confirm_dlg_title">增强售后服务</string>
+<string name="context_menu_copy_notice">文本已复制到剪贴板</string>
+<string name="context_menu_copy">复制</string>
+<string name="context_menu_send_mail">发送邮件</string>
+<string name="context_menu_browse_web">访问</string>
+<string name="context_menu_send_sms">发送短信</string>
+<string name="festival_networking_desc">为了使用推荐短信，短信在使用中需要连接网络。您是否同意？</string>
+<string name="context_menu_call">拨打</string>
+<string name="festival_networking_title">提示</string>
+<string name="file_title">标题：</string>
+<string name="file_size">大小：</string>
+<string name="resource_price_free">免费</string>
+<string name="pref_title_festival_networking">推荐短信联网提醒</string>
+<string name="festival_never_remind">不再提示</string>
+<string name="festival_continue">同意并继续</string>
+<string name="context_menu_view_mms">查看彩信</string>
+<string name="menu_send_as_common">转成短消息发送</string>
+<string name="nosend_message">不发了</string>
+<string name="message_sent">发出</string>
+<string name="group_message_failed_title">给%d人发送失败,选择并重发?</string>
+<string name="resent_message">重发</string>
+<string name="group_resend_message">重发(%d)</string>
+<string name="message_expired">超时</string>
+<string name="retrive_hms_tips">获取中...</string>
+<string name="hms_first_use_tips">和普通短信不同，服务号消息只能联网接受哦</string>
+<string name="file_width_height">尺寸：</string>
+<string name="file_create_time">创建时间：</string>
+<string name="send_hms_editor_hints">免费网络消息</string>
+<string name="context_menu_contact">联系人:%1$s</string>
+<string name="share_img">分享</string>
+<string name="new_phrase_hint">输入常用语</string>
+<string name="edit_phrase">编辑常用语</string>
+<string name="phrase_confirm_delete_message">将会删除该常用语</string>
+<string name="delete_phrase">删除常用语</string>
+<string name="bookmark_empty">无收藏</string>
+<string name="bookmark_confirm_delete_message">将会取消该收藏</string>
+<string name="playing_failed">播放失败</string>
+<string name="new_phrase">新建常用语</string>
+<string name="phrase_list_title">常用短语</string>
+<string name="recording_failed">录音失败</string>
+<string name="cannot_resend_audio">无法重发语音</string>
+<string name="guild_msim_switcher">点此可切换sim卡</string>
+<string name="view_bookmark">查看原信息</string>
+<string name="downloading_file_can_not_play">录音文件正在下载中，暂时无法播放！</string>
+<string name="delete_bookmark">取消收藏</string>
+<string name="snippet_audio">[语音]</string>
+<string name="sdcard_has_not_enough_space">first</string>
+<string name="audio_download_failed">下载失败，无法播放</string>
+<string name="snippet_picture">[图片]</string>
+<string name="hms_add_image_progress_message">正在处理，请稍候...</string>
+<string name="pref_time_auto_group_disabled_summary">当前字体下不支持时间智能分段</string>
+<string name="bookmark_list_title">我的收藏</string>
+<string name="context_menu_add_calendar">添加到日历提醒项</string>
+<string name="pref_sms_theme_title">显示</string>
+<string name="pref_time_auto_group_title">时间智能分段</string>
+<string name="pref_time_auto_group_summary">时间临近的短信只显示一个时间</string>
+<string name="mx2_type_description">[%s]</string>
+<string name="left_cancel">左滑取消</string>
+<string name="release_cancel">松手取消</string>
+<string name="press_recording">长按右边话筒录制语音→_→</string>
+<string name="warning_show">%d秒后发送</string>
+<string name="audio_playing_seconds">%d\</string>
+<string name="too_many_unsent_mms">目前不能发送消息。未发送的彩信过多。</string>
+<string name="undelivered_msg_dialog_body">无法发送此信息。\n尝试发送的时间：%s。</string>
+<string name="storage_limits_setting_dismiss">无限制</string>
+<string name="adding_recipients">正在添加收件人...</string>
+<string name="pick_too_many_recipients">收件人过多</string>
+<string name="new_message">写短信</string>
+<string name="save">保存</string>
+<string name="app_label">短信</string>
+<string name="search_empty">没有搜索结果</string>
+<string name="storage_limits_setting">设置限制</string>
+<string name="menu_compose_new">撰写</string>
+<string name="storage_limits_message">是否要限制每个会话存储的短信数？</string>
+<string name="sim_empty">卡中无信息。</string>
+<string name="save_to_sim">保存到SIM卡</string>
+<string name="search_setting_description">消息中的文字</string>
+<string name="sim_full_title">卡已满</string>
+<string name="search">短信</string>
+<string name="menu_preferences">设置</string>
+<string name="download_later">当前无法下载。请稍后再试。</string>
+<string name="select_audio">选择音频</string>
+<string name="copy_to_sdcard">保存附件</string>
+<string name="delete_message">删除</string>
+<string name="expire_on">过期时间：%s</string>
+<string name="message_download_failed_title">信息未下载</string>
+<string name="kilobyte">KB</string>
+<string name="message_send_failed_title">信息未发送</string>
+<string name="undelivered_msg_dialog_title">信息未传送出去</string>
+<string name="message_failed_body">选择以检查信息并重试。</string>
+<string name="refreshing">正在刷新...</string>
+<string name="no_subject_view">（无主题）</string>
+<string name="messagelist_sender_self">我</string>
+<string name="view_message_details">详情</string>
+<string name="sim_manage_messages_title">卡上的短信</string>
+<string name="confirm_delete_SIM_message">确定要删除该SIM卡信息吗？</string>
+<string name="search_label">正在传递短信</string>
+<string name="search_hint">搜索短信</string>
+<string name="pref_title_manage_sim_messages">卡中的信息</string>
+<string name="slideshow_activity">幻灯片</string>
+<string name="confirm_delete_all_SIM_messages">确定要删除SIM卡上所有的信息吗？</string>
+<string name="class_0_message_activity">闪信</string>
+<string name="search_path_mms">设置/系统应用/短信</string>
+<string name="edit_slideshow_activity">编辑幻灯片</string>
+<string name="pref_summary_manage_sim_messages">卡中存储的信息</string>
+<string name="edit_slide_activity">编辑幻灯片</string>
+<string name="search_title_mms">短信</string>
+<string name="search_keyword_mms">短信</string>
+<string name="conversation_style">bubble</string>
+<string name="prefDefault_ringtone_repeat">1</string>
+<string name="no_subject">（无主题）</string>
+<string name="fdn_check_failure">您只能向固定拨号号码发送信息。</string>
+<string name="dl_failure_notification">下载来自%2$s的%1$s信息失败。</string>
+<string name="unknown_sender">未知发送者</string>
+<string name="confirm_rate_limit">即将发送多条彩信。确定要这样做吗？</string>
+<string name="rate_limit_surpassed">确认</string>
+<string name="confirm">确认</string>
+<string name="type_attachment">附件</string>
+<string name="message_queued">当前无法发送信息，将在服务恢复后发送。</string>
+<string name="message_send_read_report">将会发送已读报告。</string>
+<string name="attach_take_photo">拍照</string>
+<string name="attach_video">视频</string>
+<string name="attach_record_video">拍摄</string>
+<string name="attach_sound">音频</string>
+<string name="attach_record_sound">录音</string>
+<string name="attach_image">图片</string>
+<string name="storage_limits_activity">存储限制</string>
+<string name="delivery_report_activity"></string>
+<string name="slide_number">%s</string>
+<string name="select_link_title">请选择要操作的内容</string>
+<string name="change_duration_activity">更改持续时间</string>
+<string name="copy_to_sdcard_success">附件已保存为%s</string>
+<string name="saved_ringtone_fail">无法保存铃声</string>
+<string name="saved_ringtone">铃声已保存</string>
+<string name="save_ringtone">另存为铃声</string>
+<string name="copy_to_sdcard_fail">无法保存附件</string>
+<string name="type_picture">图片</string>
+<string name="type_video">视频</string>
+<string name="sms_rejected_body">由于未知的原因，导致传入的短信被拒收。</string>
+<string name="type_audio">音频</string>
+<string name="sms_full_body">存储空间已满，无法接收传入的短信，请删除旧短信。</string>
+<string name="sms_rejected_title">短信遭拒</string>
+<string name="add_attachment">添加附件</string>
+<string name="send_sms">发送短信</string>
+<string name="show_sender">显示发件人信息</string>
+<string name="call_sender">给发件人拨打电话</string>
+<string name="file_share_message_description">我向你分享的文件</string>
+<string name="addBlackList">加入黑名单</string>
+<string name="sp_mark_as_read_progress">正在全部设为已读...</string>
+<string name="sp_category_title_prefix">显示%s</string>
+<string name="sp_mark_as_read_menu_title">全部已读</string>
+<string name="sp_category_bank">银行类消息</string>
+<string name="sp_category_all">全部通知类消息</string>
+<string name="action_firewall_setting">骚扰拦截</string>
+<string name="refill_now">立刻充值</string>
+<string name="user_agreement2">用户协议</string>
+<string name="user_agreement1">您将使用小米提供的系统和在线服务，请阅读</string>
+<string name="user_agreement3">和</string>
+<string name="pref_allow_network_access_summary">开启后，我们会把最新的快递数据、更优惠的充值商家等更新给用户。</string>
+<string name="title_show_blocked_messages">显示拦截短信</string>
+<string name="title_allow_network_access">开启数据更新</string>
+<string name="sp_mark_as_read">全部设为已读?</string>
+<string name="pref_show_blocked_messages_summary">开启后，可在短信会话列表中显示骚扰拦截会话</string>
+<string name="sp_mark_as_read_title">全部设为已读</string>
+<string name="user_agreement4">隐私政策</string>
+<string name="user_agreement5">，点击确定表示您同意以上内容并愿意遵守，点击取消退出</string>
+<string name="menu_call">呼叫</string>
+<string name="menu_contact">查看联系人</string>
+<string name="menu_new_contact">新建联系人</string>
+<string name="menu_add_contact">添加到联系人</string>
+<string name="error_state">状态不一致</string>
+<string name="disable_notifications_dialog_message">app?</string>
+<string name="error_state_text">android-sms-bugs@google.com</string>
+<string name="bookmark">收藏</string>
+<string name="conversation">短信</string>
+<string name="festival">推荐</string>
+<dimen name="conversation_list_item_height">88.000000dp</dimen>
+<dimen name="conversation_list_item_2_row_height">74.000000dp</dimen>
+<dimen name="avatar_size_small">53.000000dp</dimen>
+<dimen name="card_body_bottom_margin">2.500000dp</dimen>
+<dimen name="red_package_title_width">130.000000dp</dimen>
+<dimen name="message_item_fav_icon_margin_end">3.500000dp</dimen>
+<dimen name="message_item_fav_icon_margin_top">6.000000dp</dimen>
+<dimen name="vertical_divider_marginLeft">5.000000dp</dimen>
+<dimen name="vertical_divider_marginTop">2.500000dp</dimen>
+<dimen name="mms_attachment_padding_width">90.000000dp</dimen>
+<dimen name="mms_attachment_pic_height">106.000000px</dimen>
+<dimen name="mms_attachment_padding_height">64.000000dp</dimen>
+<dimen name="avatar_size_large">36.669983dp</dimen>
+<dimen name="text_font_size_small">12.000000sp</dimen>
+<dimen name="text_font_size_tiny">10.000000sp</dimen>
+<dimen name="mms_attachment_pic_width">100.000000px</dimen>
+<dimen name="message_body_line_spacing_multiplier">1.2</dimen>
+<dimen name="bubble_body_line_spacing_multiplier">1.2</dimen>
+<dimen name="hms_message_body_line_spacing_multiplier">#00000002</dimen>
+<dimen name="flatshow_padding_top">5.000000dp</dimen>
+<dimen name="flatshow_padding_left">42.500000dp</dimen>
+<dimen name="flatshow_header_padding_right">5.000000dp</dimen>
+<dimen name="flatshow_list_header_height">20.000000dp</dimen>
+<dimen name="mms_download_padding_width">48.000000dp</dimen>
+<dimen name="timed_message_padding_width">46.699982dp</dimen>
+<dimen name="max_bubble_group_title_width">200.000000dp</dimen>
+<dimen name="bubble_checkbox_distance">16777201.000000dp</dimen>
+<dimen name="bubble_text_extra_padding">2.500000dp</dimen>
+<dimen name="bubble_text_top_padding">0.000000dp</dimen>
+<dimen name="max_bubble_text_width">237.000000dp</dimen>
+<dimen name="max_bubble_text_width_checkbox_diff">0.000000dp</dimen>
+<dimen name="flatshow_pageno_font_size">11.000000sp</dimen>
+<dimen name="recipient_row_padding">10.000000px</dimen>
+<dimen name="soft_keyboard_min_height">50.000000dp</dimen>
+<dimen name="flatshow_title_font_size">27.000000sp</dimen>
+<dimen name="contact_panel_height_new_message_two_row">93.000000sp</dimen>
+<dimen name="add_attachment_button_margin">0.000000dp</dimen>
+<dimen name="bubble_body_view_bottom_padding">0.000000dp</dimen>
+<dimen name="sms_card_button_text_size">15.000000dp</dimen>
+<dimen name="list_item_padding_outer">20.000000dp</dimen>
+<dimen name="list_item_padding_outer_v">15.000000dp</dimen>
+<dimen name="list_item_padding_inner">6.699982dp</dimen>
+<dimen name="audio_bubble_width_max">217.000000dp</dimen>
+<dimen name="audio_bubble_height">25.000000dp</dimen>
+<dimen name="audio_bubble_width">250.000000dp</dimen>
+<dimen name="audio_isread_margin_top">14.000000dp</dimen>
+<dimen name="audio_isread_margin_right">20.000000dp</dimen>
+<dimen name="audio_bottom_text_size">13.000000sp</dimen>
+<dimen name="check_box_width">40.000000dp</dimen>
+<dimen name="audio_bottom_progress_margin_left">13.000000dp</dimen>
+<dimen name="audio_bottom_progress_interval">2.000000dp</dimen>
+<dimen name="bookmark_list_item_padding_h">23.000000dp</dimen>
+<dimen name="list_item_subject_padding">1.000000dp</dimen>
+<dimen name="recent_contact_height_2_rows">50.000000dp</dimen>
+<dimen name="bookmark_list_item_padding_v">13.000000dp</dimen>
+<dimen name="recent_contact_text_size">14.000000sp</dimen>
+<dimen name="recent_contact_height_1_rows">50.000000dp</dimen>
+<dimen name="contact_panel_height_new_message_one_row">65.000000sp</dimen>
+<dimen name="contact_panel_height">80.000000dp</dimen>
+<dimen name="conversation_list_item_padding_avatar">15.000000dp</dimen>
+<dimen name="festival_list_item_padding_inner">3.000000dp</dimen>
+<dimen name="contact_panel_height_new_message_three_row">122.000000sp</dimen>
+<dimen name="conversation_list_item_padding_inner">4.000000dp</dimen>
+<dimen name="festival_list_item_padding_outer">10.000000dp</dimen>
+<dimen name="festival_list_item_count_font_size">11.000000sp</dimen>
+<dimen name="datetime_text_size">10.000000sp</dimen>
+<dimen name="conversation_list_item_drag_text_size">14.000000sp</dimen>
+<dimen name="smiley_row_height">60.000000dp</dimen>
+<dimen name="attachment_type_row_height">116.000000dp</dimen>
+<dimen name="smiley_screen_height">206.000000dp</dimen>
+<dimen name="attachment_type_screen_height">260.000000dp</dimen>
+<dimen name="conversation_indicator_margin">5.000000dp</dimen>
+<dimen name="attachment_pharse_list_item_height">58.500000dp</dimen>
+<dimen name="pharse_list_item_height">58.500000dp</dimen>
+<dimen name="seekbar_point_height">7.000000dp</dimen>
+<dimen name="audio_item_progress_height">18.000000dp</dimen>
+<dimen name="message_edit_bottom_text_size">14.000000sp</dimen>
+<dimen name="datetime_group_margin_v">6.699982dp</dimen>
+<dimen name="audio_item_progress_margin_bottom">4.000000dp</dimen>
+<dimen name="private_entry_view_height">600.000000dp</dimen>
+<dimen name="message_edit_bottom_popup_menu_width">95.000000dp</dimen>
+<dimen name="message_edit_bottom_popup_menu_height">50.000000dp</dimen>
+<dimen name="button_margin_bottom">12.000000dp</dimen>
+<dimen name="select_sim_text_size">12.000000sp</dimen>
+<dimen name="private_sms_unlock_distance">200.000000dp</dimen>
+<dimen name="min_scale_font_size">8.000000dp</dimen>
+<dimen name="max_scale_font_size">37.500000dp</dimen>
+<dimen name="button_margin_default">15.000000dp</dimen>
+<dimen name="security_alert_width">221.000000dp</dimen>
+<dimen name="send_button_text_font_size">12.000000sp</dimen>
+<dimen name="understand_btn_region_paddingBottom">1.500000dp</dimen>
+<dimen name="understand_btn_region_paddingLeft">20.000000dp</dimen>
+<dimen name="bubble_indicator_top_margin">7.000000dp</dimen>
+<dimen name="conversation_actionbar_size">60.000000dp</dimen>
+<dimen name="bubble_top_margin_minimum">0.000000dp</dimen>
+<dimen name="message_content_panel_min_height">42.000000px</dimen>
+<dimen name="favorite_icon_padding">7.000000dp</dimen>
+<dimen name="home_button_extra_margin">5.659973dp</dimen>
+<dimen name="security_alert_margin">10.000000dp</dimen>
+<dimen name="bubble_thumbnail_padding">13.329987dp</dimen>
+<dimen name="bubble_attachement_image_min_size">50.000000px</dimen>
+<dimen name="bubble_thumbnail_zoom_size">10.000000dp</dimen>
+<dimen name="conversation_fab_margin">18.000000dp</dimen>
+<dimen name="bubble_date_indicator_right_margin">25.000000dp</dimen>
+<dimen name="conversation_fab_size">43.299988dp</dimen>
+<dimen name="bubble_date_indicator_left_margin">25.000000dp</dimen>
+<dimen name="bubble_attachment_view_bottom_margin">8.000000dp</dimen>
+<dimen name="bubble_attachment_view_top_margin">4.000000dp</dimen>
+<dimen name="bubble_thumbnail_large_long_edge">133.329987dp</dimen>
+<dimen name="bubble_thumbnail_large_short_edge">106.660004dp</dimen>
+<dimen name="audio_bubble_width_min">58.000000dp</dimen>
+<dimen name="audio_bubble_margin_top">2.000000dp</dimen>
+<dimen name="bubble_thumbnail_normal_size">80.000000dp</dimen>
+<dimen name="bubble_item_attachment_preview_margin">10.000000dp</dimen>
+<dimen name="bubble_thumbnail_small_long_edge">63.329987dp</dimen>
+<dimen name="bubble_thumbnail_small_short_edge">56.659973dp</dimen>
+<dimen name="message_body_text_font_size">40.000000px</dimen>
+<dimen name="dialog_title_vertical_padding">23.000000dp</dimen>
+<dimen name="bubble_message_resend_padding_v">0.000000dp</dimen>
+<dimen name="message_select_copy_text_v_margin">4.000000dp</dimen>
+<dimen name="bubble_message_resend_padding_h">9.000000dp</dimen>
+<dimen name="dialog_custom_horizontal_padding">23.000000dp</dimen>
+<dimen name="bubble_special_margin">0.000000dp</dimen>
+<dimen name="dialog_title_horizontal_padding">23.000000dp</dimen>
+<dimen name="select_sim_divider_padding">23.000000dp</dimen>
+<dimen name="b2c_edit_container_margin_left">7.329987dp</dimen>
+<dimen name="select_sim_max_width">96.000000dp</dimen>
+<dimen name="select_sim_vertical_space">27.000000dp</dimen>
+<dimen name="card_item_divider_margin_bottom">1.699982dp</dimen>
+<dimen name="card_item_divider_margin_top">13.299988dp</dimen>
+<dimen name="mms_editor_top_padding">2.500000dp</dimen>
+<dimen name="message_header_title_text_font_size">15.000000sp</dimen>
+<dimen name="message_edit_counter_text_font_size">11.000000sp</dimen>
+<dimen name="message_select_copy_text_h_margin">18.000000dp</dimen>
+<dimen name="message_bubble_understand_font_size">15.000000dp</dimen>
+<dimen name="audio_item_text_size">12.000000sp</dimen>
+<dimen name="audio_item_progress_margin_left">3.000000dp</dimen>
+<dimen name="audio_item_text_margin">12.000000dp</dimen>
+<dimen name="audio_unread_dot_margin_left">7.500000dp</dimen>
+<dimen name="audio_unread_dot_margin_top">12.000000dp</dimen>
+<dimen name="audio_readed_margin_top">18.000000dp</dimen>
+<dimen name="edit_text_size"></dimen>
+<dimen name="contact_photo_width">134.000000px</dimen>
+<dimen name="mipub_contact_image_width">30.669983dp</dimen>
+<dimen name="edit_text_size_small">12.000000sp</dimen>
+<dimen name="mipub_contact_image_marginRight">13.329987dp</dimen>
+<dimen name="mipub_contact_image_height">30.669983dp</dimen>
+<dimen name="mipub_tpl_message_unique_height">50.000000dp</dimen>
+<dimen name="mipub_attachment_picture_width">286.664062dp</dimen>
+<dimen name="mipub_attachment_picture_height">133.329987dp</dimen>
+<dimen name="mipub_image_marginBottom">13.329987dp</dimen>
+<dimen name="mipub_message_detail_height">33.669983dp</dimen>
+<dimen name="follow_alert_logo_width">28.000000dp</dimen>
+<dimen name="follow_alert_logo_height">28.000000dp</dimen>
+<dimen name="follow_alert_custom_title_height">35.000000dp</dimen>
+<dimen name="follow_alert_logo_marginRight">7.000000dp</dimen>
+<dimen name="audio_readed_margin_left">15.000000dp</dimen>
+<dimen name="slide_edit_padding_top">23.000000dp</dimen>
+<dimen name="slide_edit_audio_bottom">20.000000dp</dimen>
+<dimen name="slide_edit_image_max_size">193.000000dp</dimen>
+<dimen name="slide_edit_image_bottom">17.000000dp</dimen>
+<dimen name="slide_edit_padding_horizontal">39.000000dp</dimen>
+<dimen name="slide_edit_audio_text_padding_horizontal">15.000000dp</dimen>
+<dimen name="message_list_footer_height">11.500000dp</dimen>
+<dimen name="message_list_more_status_progress_size">10.000000dp</dimen>
+<dimen name="slide_list_image_size">39.000000dp</dimen>
+<dimen name="hms_extra_line_width">1.000000dp</dimen>
+<dimen name="hms_divider_line_margin_vertical">13.329987dp</dimen>
+<dimen name="hms_subject_text_size">44.000000px</dimen>
+<dimen name="hms_extra_line_padding">22.500000dp</dimen>
+<dimen name="default_thumb_size">150.000000px</dimen>
+<dimen name="hms_subject_divider_line_margin_bottom">20.000000dp</dimen>
+<dimen name="hms_detail_margin_vertical">5.500000dp</dimen>
+<dimen name="sms_card_understand_button_height">47.000000dp</dimen>
+<dimen name="sms_card_margin">20.000000dp</dimen>
+<dimen name="card_sms_secondary_size_smaller">16.599976dp</dimen>
+<dimen name="card_sms_secondary_size_bigger">24.599976dp</dimen>
+<dimen name="card_body_padding_top">20.000000dp</dimen>
+<dimen name="card_body_padding">32.000000dp</dimen>
+<dimen name="card_body_line_margin">4.000000dp</dimen>
+<dimen name="sms_card_width">270.000000dp</dimen>
+<dimen name="smiley_item_width">180.000000px</dimen>
+<dimen name="smiley_item_height">136.000000px</dimen>
+<dimen name="card_body_padding_bottom">15.000000dp</dimen>
+<dimen name="card_body_divider_margin">16.000000dp</dimen>
+<dimen name="action_bar_custom_padding_h">13.000000dp</dimen>
+<dimen name="action_bar_custom_padding_v">11.000000dp</dimen>
+<dimen name="floatpanel_padding_h">3.000000dp</dimen>
+<dimen name="floatpanel_padding_v">2.000000dp</dimen>
+<dimen name="card_text_font_size_primary">14.000000sp</dimen>
+<dimen name="card_text_font_size_name">14.659973sp</dimen>
+<dimen name="card_item_detail_margin_top">11.599976dp</dimen>
+<dimen name="card_group_send_view_padding_right">37.000000dp</dimen>
+<dimen name="card_text_font_size_second">10.659973sp</dimen>
+<dimen name="card_text_font_size_import">13.329987sp</dimen>
+<dimen name="message_fullscreen_width">302.000000dp</dimen>
+<dimen name="message_fullscreen_textsize">28.000000dp</dimen>
+<dimen name="card_item_height">61.000000dp</dimen>
+<dimen name="message_understand_button_height">46.666992sp</dimen>
+<dimen name="card_item_name_height">48.000000dp</dimen>
+<dimen name="card_sms_secondary_size">12.599976dp</dimen>
+<dimen name="card_sms_title_margin">18.000000dp</dimen>
+<dimen name="card_sms_primary_size">20.000000dp</dimen>
+<dimen name="card_sms_title_size">14.000000dp</dimen>
+<dimen name="card_sms_title_height">46.599976dp</dimen>
+<bool name="miui_font_scale_switch">true</bool>
+<bool name="enable_emoji">true</bool>
+<bool name="enable_smsc_setting">true</bool>
+<integer name="attachment_type_column_count">#00000003</integer>
+<integer name="smiley_row_count">#00000003</integer>
+<integer name="floating_notification_sub_text_suggest_count">#0000001e</integer>
+<integer name="attachment_type_row_count">#00000002</integer>
+<integer name="smiley_column_count">#00000005</integer>
+<string-array name="entries_mms_validity_period">
+<item>最长</item>
+<item>两天</item>
+</string-array>
+<string-array name="wild_msg_sync_options">
+<item>同步全部SIM卡的短信</item>
+<item>同步部分SIM卡的短信</item>
+</string-array>
+<string-array name="contact_values">
+<item>vnd.android.cursor.item/name</item>
+<item>vnd.android.cursor.item/nickname</item>
+<item>vnd.android.cursor.item/phone_v2</item>
+<item>vnd.android.cursor.item/email_v2</item>
+<item>vnd.android.cursor.item/organization</item>
+<item>vnd.android.cursor.item/im</item>
+<item>vnd.android.cursor.item/sip_address</item>
+<item>vnd.android.cursor.item/contact_event</item>
+<item>vnd.android.cursor.item/website</item>
+<item>vnd.android.cursor.item/postal-address_v2</item>
+<item>vnd.android.cursor.item/note</item>
+<item>vnd.android.cursor.item/relation</item>
+</string-array>
+<string-array name="default_smiley_names">
+<item>Happy</item>
+<item>Sad</item>
+<item>Winking</item>
+<item>out</item>
+<item>Surprised</item>
+<item>Kissing</item>
+<item>Yelling</item>
+<item>Cool</item>
+<item>mouth</item>
+<item>mouth</item>
+<item>Embarrassed</item>
+<item>Angel</item>
+<item>Undecided</item>
+<item>Crying</item>
+<item>sealed</item>
+<item>Laughing</item>
+<item>Confused</item>
+<item>Heart</item>
+<item>Mad</item>
+<item>Smirk</item>
+<item>face</item>
+</string-array>
+<string-array name="select_dialog_items">
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>秒</item>
+<item>其他…</item>
+</string-array>
+<string-array name="entryvalues_date_type">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="default_smiley_texts">
+<item>:-)</item>
+<item>:-(</item>
+<item>;-)</item>
+<item>:-P</item>
+<item>=-O</item>
+<item>:-*</item>
+<item>:O</item>
+<item>B-)</item>
+<item>:-$</item>
+<item>:-!</item>
+<item>:-[</item>
+<item>O:-)</item>
+<item>:-\\</item>
+<item>:'(</item>
+<item>:-X</item>
+<item>:-D</item>
+<item>o_O</item>
+<item>&lt;3</item>
+<item>x-(</item>
+<item>:-/</item>
+<item>:-I</item>
+</string-array>
+<string-array name="contact_entries">
+<item>姓名</item>
+<item>昵称</item>
+<item>电话</item>
+<item>邮件</item>
+<item>公司</item>
+<item>即时消息</item>
+<item>网络电话</item>
+<item>生日</item>
+<item>网址</item>
+<item>地址</item>
+<item>备注</item>
+<item>关系</item>
+</string-array>
+<string-array name="resent_via_entries_sms">
+<item>通过短信</item>
+<item>通过网络短信</item>
+</string-array>
+<string-array name="resent_via_entries_mms">
+<item>通过彩信</item>
+<item>通过网络短信</item>
+</string-array>
+<string-array name="entries_mms_validity_period_value">
+<item>0</item>
+<item>172800</item>
+</string-array>
+<string-array name="prefValues_vibrateWhen">
+<item>always</item>
+<item>silent</item>
+<item>never</item>
+</string-array>
+<string-array name="prefEntries_vibrateWhen">
+<item>始终</item>
+<item>仅在静音时</item>
+<item>一律不</item>
+</string-array>
+<string-array name="entries_sms_validity_period_value">
+<item>-1</item>
+<item>60</item>
+<item>360</item>
+<item>720</item>
+<item>1440</item>
+<item>635040</item>
+</string-array>
+<string-array name="entries_sms_validity_period">
+<item>不设置</item>
+<item>1小时</item>
+<item>6小时</item>
+<item>12小时</item>
+<item>1天</item>
+<item>最长</item>
+</string-array>
+</MIUI_Theme_Values>

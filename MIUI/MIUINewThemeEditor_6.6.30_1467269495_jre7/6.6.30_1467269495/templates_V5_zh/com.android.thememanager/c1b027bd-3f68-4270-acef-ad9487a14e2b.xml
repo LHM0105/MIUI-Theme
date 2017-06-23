@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.7 内容分类" version="3.4.10" annotation="" tag="旧 主题">
+    <resource description="list_group_bg_p.9" x="0" y="134" width="722" height="102" uuid="468508c2-3bf9-4c89-948f-e6367b080214">
+        <path src="res\drawable-hdpi\list_group_bg_n.9.png" description="分类 常态" />
+        <path src="res\drawable-xhdpi\list_group_bg_n.9.png" description="分类 常态" />
+        <path src="res\drawable-xxhdpi\list_group_bg_n.9.png" description="分类 常态" />
+        <path src="res\drawable-hdpi\list_group_bg_p.9.png" description="分类 按下" />
+        <path src="res\drawable-xhdpi\list_group_bg_p.9.png" description="分类 按下" />
+        <path src="res\drawable-xxhdpi\list_group_bg_p.9.png" description="分类 按下" />
+    </resource>
+    <resource description="arrow_up" x="647" y="168" width="59" height="38" uuid="4e4f2de2-be0c-4ddb-8718-0938c7a2de3f">
+        <path src="res\drawable-hdpi\arrow_down.png" description="展开" />
+        <path src="res\drawable-xhdpi\arrow_down.png" description="展开" />
+        <path src="res\drawable-xxhdpi\arrow_down.png" description="展开" />
+        <path src="res\drawable-hdpi\arrow_up.png" description="收起" />
+        <path src="res\drawable-xhdpi\arrow_up.png" description="收起" />
+        <path src="res\drawable-xxhdpi\arrow_up.png" description="收起" />
+    </resource>
+</screenshot>

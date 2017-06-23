@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="三段式 弹窗2" version="3.7.8" annotation="" tag="第三方 弹窗">
+    <resource description="popup_top_dark.9" x="28" y="496" width="660" height="108" uuid="55903c54-d17d-4a9b-b3c0-decd34cf2d7d">
+        <path src="res\drawable-xhdpi\popup_top_dark.9.png" description="弹窗 上" />
+    </resource>
+    <resource description="popup_bottom_medium.9" x="34" y="710" width="658" height="116" uuid="2f3d2640-f5d9-488e-bd5e-084d17163250">
+        <path src="res\drawable-xhdpi\btn_default_normal.9.png" description="按钮 常态" />
+        <path src="res\drawable-xhdpi\btn_default_pressed.9.png" description="按钮 按下" />
+        <path src="res\drawable-xhdpi\btn_default_selected.9.png" description="按钮 选择" />
+        <path src="res\drawable-xhdpi\bottom_bar.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\popup_bottom_medium.9.png" description="弹窗 下" />
+    </resource>
+    <resource description="popup_center_dark.9" x="29" y="616" width="661" height="86" uuid="5fa660cd-7e54-49b3-b46d-64c2c595c3c4">
+        <path src="res\drawable-xhdpi\popup_center_dark.9.png" description="弹窗 中" />
+    </resource>
+</screenshot>

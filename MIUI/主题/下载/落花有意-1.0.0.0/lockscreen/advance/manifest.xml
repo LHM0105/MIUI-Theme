@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="25" displayDesktop="true" screenWidth="1080"  >
+<VariableBinders>
+<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,temperature,weather_type" countName="hasweather" denpendency="selected_city">
+<Variable name="weather_city" type="string" column="city_name"/>
+<Variable name="weather_temperature" type="int" column="temperature"/>
+<Variable name="weather_id" type="int" column="weather_type"/>
+</ContentProviderBinder>
+</VariableBinders>
+
+<VarArray type="string">
+<Vars>
+<Var name="weather_description" index="#weather_id"/>
+</Vars>
+<Items>
+<Item expression="@wd00"/>
+<Item expression="@wd01"/>
+<Item expression="@wd02"/>
+<Item expression="@wd03"/>
+<Item expression="@wd04"/>
+<Item expression="@wd05"/>
+<Item expression="@wd06"/>
+<Item expression="@wd07"/>
+<Item expression="@wd08"/>
+<Item expression="@wd09"/>
+<Item expression="@wd10"/>
+<Item expression="@wd11"/>
+<Item expression="@wd12"/>
+<Item expression="@wd13"/>
+<Item expression="@wd14"/>
+<Item expression="@wd15"/>
+<Item expression="@wd16"/>
+<Item expression="@wd17"/>
+<Item expression="@wd18"/>
+<Item expression="@wd19"/>
+<Item expression="@wd20"/>
+<Item expression="@wd21"/>
+<Item expression="@wd22"/>
+<Item expression="@wd23"/>
+<Item expression="@wd24"/>
+</Items>
+</VarArray>
+
+
+
+	
+
+
+
+
+
+
+
+
+
+			<Unlocker name="unlocker_01" bounceInitSpeed="10" bounceAcceleration="1500">
+			
+		
+		 <Wallpaper name="wp" x="0" y="0">		
+	    </Wallpaper>
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+	
+		<Image x="0" y="0" src="bj_1.png"/>
+		
+		<DateTime x="800" y="1356" color="#000000" size="200" align="center" format="H:mm"/>
+		<DateTime x="240" y="1401" color="#000000" size="60" align="center" format="yyyy年M月d日"/>
+		<DateTime x="200" y="1579" color="#000000" size="50" align="center" format="EEEE"/>
+		<DateTime x="835" y="1579" color="#000000" size="50" align="center" format="aa"/>
+		<DateTime x="220" y="1480" color="#000000" size="60" align="center" format="N月e"/>
+		
+		<Text x="816" y="1579"  align="center"  color="#000000" size="50"  format="%s %s             %d℃" paras="@weather_city,@weather_description,#weather_temperature" marqueeSpeed="40" marqueeGap="2"/>
+		
+		<Group x="184" align="" y="250">
+		
+		
+		
+		
+		<Var name="that_year" expression="#year" const="true" />
+		<Var name="that_month" expression="#month+1" const="true" />
+		<Var name="that_month_start_week" expression="(#day_of_week+36-#date)%7" const="true" />
+		<Var name="date_X1" expression="540-80*3" const="true" />
+		<Var name="date_X2" expression="540-80*2" const="true" />
+		<Var name="date_X3" expression="540-80" const="true" />
+		<Var name="date_X4" expression="540" const="true" />
+		<Var name="date_X5" expression="540+80" const="true" />
+		<Var name="date_X6" expression="540+80*2" const="true" />
+		<Var name="date_X7" expression="540+80*3" const="true" />
+		<Var name="date_Y1" expression="589" const="true" />
+		<Var name="date_Y2" expression="589+70" const="true" />
+		<Var name="date_Y3" expression="589+70*2" const="true" />
+		<Var name="date_Y4" expression="589+70*3" const="true" />
+		<Var name="date_Y5" expression="589+70*4" const="true" />
+		<Var name="date_Y6" expression="589+70*5" const="true" />
+		
+		<Var name="month2_days" expression="ifelse(eq(#that_year%4,0),29,28)" />
+		<Var name="that_month_max_day" expression="ifelse(eq(#that_month,1)+eq(#that_month,3)+eq(#that_month,5)+eq(#that_month,7)+eq(#that_month,8)+eq(#that_month,10)+eq(#that_month,12),31,eq(#that_month,4)+eq(#that_month,6)+eq(#that_month,9)+eq(#that_month,11),30,#month2_days)" />
+		<VarArray type="number">
+			<Vars>
+				<Var name="x1" index="#that_month_start_week" />
+				<Var name="x2" index="(#that_month_start_week+1)%7" />
+				<Var name="x3" index="(#that_month_start_week+2)%7" />
+				<Var name="x4" index="(#that_month_start_week+3)%7" />
+				<Var name="x5" index="(#that_month_start_week+4)%7" />
+				<Var name="x6" index="(#that_month_start_week+5)%7" />
+				<Var name="x7" index="(#that_month_start_week+6)%7" />
+				<Var name="x8" index="(#that_month_start_week+7)%7" />
+				<Var name="x9" index="(#that_month_start_week+8)%7" />
+				<Var name="x10" index="(#that_month_start_week+9)%7" />
+				<Var name="x11" index="(#that_month_start_week+10)%7" />
+				<Var name="x12" index="(#that_month_start_week+11)%7" />
+				<Var name="x13" index="(#that_month_start_week+12)%7" />
+				<Var name="x14" index="(#that_month_start_week+13)%7" />
+				<Var name="x15" index="(#that_month_start_week+14)%7" />
+				<Var name="x16" index="(#that_month_start_week+15)%7" />
+				<Var name="x17" index="(#that_month_start_week+16)%7" />
+				<Var name="x18" index="(#that_month_start_week+17)%7" />
+				<Var name="x19" index="(#that_month_start_week+18)%7" />
+				<Var name="x20" index="(#that_month_start_week+19)%7" />
+				<Var name="x21" index="(#that_month_start_week+20)%7" />
+				<Var name="x22" index="(#that_month_start_week+21)%7" />
+				<Var name="x23" index="(#that_month_start_week+22)%7" />
+				<Var name="x24" index="(#that_month_start_week+23)%7" />
+				<Var name="x25" index="(#that_month_start_week+24)%7" />
+				<Var name="x26" index="(#that_month_start_week+25)%7" />
+				<Var name="x27" index="(#that_month_start_week+26)%7" />
+				<Var name="x28" index="(#that_month_start_week+27)%7" />
+				<Var name="x29" index="(#that_month_start_week+28)%7" />
+				<Var name="x30" index="(#that_month_start_week+29)%7" />
+				<Var name="x31" index="(#that_month_start_week+30)%7" />
+				<Var name="y1" index="7" />
+				<Var name="y2" index="ifelse(ge(#x1,#date_X7),8,7)" />
+				<Var name="y3" index="ifelse(ge(#x1,#date_X6),8,7)" />
+				<Var name="y4" index="ifelse(ge(#x1,#date_X5),8,7)" />
+				<Var name="y5" index="ifelse(ge(#x1,#date_X4),8,7)" />
+				<Var name="y6" index="ifelse(ge(#x1,#date_X3),8,7)" />
+				<Var name="y7" index="ifelse(ge(#x1,#date_X2),8,7)" />
+				<Var name="y8" index="8" />
+				<Var name="y9" index="ifelse(ge(#x1,#date_X7),9,8)" />
+				<Var name="y10" index="ifelse(ge(#x1,#date_X6),9,8)" />
+				<Var name="y11" index="ifelse(ge(#x1,#date_X5),9,8)" />
+				<Var name="y12" index="ifelse(ge(#x1,#date_X4),9,8)" />
+				<Var name="y13" index="ifelse(ge(#x1,#date_X3),9,8)" />
+				<Var name="y14" index="ifelse(ge(#x1,#date_X2),9,8)" />
+				<Var name="y15" index="9" />
+				<Var name="y16" index="ifelse(ge(#x1,#date_X7),10,9)" />
+				<Var name="y17" index="ifelse(ge(#x1,#date_X6),10,9)" />
+				<Var name="y18" index="ifelse(ge(#x1,#date_X5),10,9)" />
+				<Var name="y19" index="ifelse(ge(#x1,#date_X4),10,9)" />
+				<Var name="y20" index="ifelse(ge(#x1,#date_X3),10,9)" />
+				<Var name="y21" index="ifelse(ge(#x1,#date_X2),10,9)" />
+				<Var name="y22" index="10" />
+				<Var name="y23" index="ifelse(ge(#x1,#date_X7),11,10)" />
+				<Var name="y24" index="ifelse(ge(#x1,#date_X6),11,10)" />
+				<Var name="y25" index="ifelse(ge(#x1,#date_X5),11,10)" />
+				<Var name="y26" index="ifelse(ge(#x1,#date_X4),11,10)" />
+				<Var name="y27" index="ifelse(ge(#x1,#date_X3),11,10)" />
+				<Var name="y28" index="ifelse(ge(#x1,#date_X2),11,10)" />
+				<Var name="y29" index="11" />
+				<Var name="y30" index="ifelse(ge(#x1,#date_X7),12,11)" />
+				<Var name="y31" index="ifelse(ge(#x1,#date_X6),12,11)" />
+				<Var name="today_x" index="#day_of_week%7" />
+			</Vars>
+			<Items>
+				<Item expression="#date_X7" />
+				<Item expression="#date_X1" />
+				<Item expression="#date_X2" />
+				<Item expression="#date_X3" />
+				<Item expression="#date_X4" />
+				<Item expression="#date_X5" />
+				<Item expression="#date_X6" />
+				<Item expression="#date_Y1" />
+				<Item expression="#date_Y2" />
+				<Item expression="#date_Y3" />
+				<Item expression="#date_Y4" />
+				<Item expression="#date_Y5" />
+				<Item expression="#date_Y6" />
+			</Items>
+		</VarArray>
+		<VarArray>
+			<Vars>
+				<Var name="today_y" index="#date-1" />
+			</Vars>
+			<Items>
+				<Item expression="#y1" />
+				<Item expression="#y2" />
+				<Item expression="#y3" />
+				<Item expression="#y4" />
+				<Item expression="#y5" />
+				<Item expression="#y6" />
+				<Item expression="#y7" />
+				<Item expression="#y8" />
+				<Item expression="#y9" />
+				<Item expression="#y10" />
+				<Item expression="#y11" />
+				<Item expression="#y12" />
+				<Item expression="#y13" />
+				<Item expression="#y14" />
+				<Item expression="#y15" />
+				<Item expression="#y16" />
+				<Item expression="#y17" />
+				<Item expression="#y18" />
+				<Item expression="#y19" />
+				<Item expression="#y20" />
+				<Item expression="#y21" />
+				<Item expression="#y22" />
+				<Item expression="#y23" />
+				<Item expression="#y24" />
+				<Item expression="#y25" />
+				<Item expression="#y26" />
+				<Item expression="#y27" />
+				<Item expression="#y28" />
+				<Item expression="#y29" />
+				<Item expression="#y30" />
+				<Item expression="#y31" />
+			</Items>
+		</VarArray>
+		
+		
+		
+			</Group >	
+
+		
+<Group  x="0" y="0" w="1080" h="1920" >
+	
+
+
+
+ 
+ <Button x="774" y="1761"  w="140" h="170" >
+  <Triggers>
+   
+  <Trigger action="up">
+	
+ <IntentCommand action="android.intent.action.MAIN" package="com.android.systemui" class="com.android.systemui.TorchActivity"/>
+
+	 <ExternCommand command="unlock"/>
+
+	 </Trigger>
+
+  </Triggers>
+
+</Button>
+
+
+ <Button x="57" y="1761"  w="140" h="170" >
+ 
+ <Triggers>
+  
+   <Trigger action="up">
+	
+ <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity"/>
+
+	 <ExternCommand command="unlock"/>
+	
+ </Trigger>
+ 
+ </Triggers>
+
+</Button>
+ 
+ 
+ 
+ 
+ <Button x="181" y="1761"  w="140" h="170" >
+
+  <Triggers>
+  
+   <Trigger action="up">
+	
+<IntentCommand action="android.intent.action.MAIN" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.SplashActivity"/>
+
+	<ExternCommand command="unlock"/>
+	
+ </Trigger>
+ 
+ </Triggers>
+
+</Button>
+
+
+ 
+ 
+ <Button x="306" y="1761"  w="140" h="170" >
+ 
+ <Triggers>
+   
+  <Trigger action="up">
+  
+  <IntentCommand action="android.intent.action.MAIN" package="com.tencent.mm" class="com.tencent.mm.ui.LauncherUI"/>	
+
+	<ExternCommand command="unlock"/>
+
+	 </Trigger>
+ 
+ </Triggers>
+
+</Button>
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</Group >
+
+
+		<Button x="933" y="1842" w="120" h="140">
+		<Image x="933" y="1842" />
+		
+			<Triggers>
+				<Trigger action="up" target="zhuti" property="visibility" visibility="true"  value="toggle">
+				</Trigger>
+			</Triggers>
+		</Button>
+		<!-- 模式切换 -->
+	<Group name="zhuti"  visibility="false" >
+	<Wallpaper name="wp" x="0" y="0"  blur="25" />
+	<Image x="0" y="0" src="3.png"/>
+
+
+
+	
+	
+	
+	
+	
+		<DateTime x="#screen_width/2" y="1800" color="#ffffff" size="110" align="center" format="H:mm"/>
+		
+	
+      <Rectangle x="260" y="360" w="570" h="140" alpha="30" align=""  cornerRadius="16,16"  fillColor="#6cd4ff"  />
+		
+		<DateTime x="280" y="370" size="40" color="#ffffff" format="yyyy年MM月" />
+		<DateTime x="280" y="430" size="40" color="#ffffff" format="EE NNNN" />
+		<DateTime x="520" y="370" size="100" color="#ffffff" format="d号" />
+		
+	
+		<Image x="550" y="516"  align="center" src="xingqi.png"/>
+		<Text x="570" y="950"  alignV="center"  align="center"  color="#ffffff" size="70"  format="%s %s %d℃" paras="@weather_city,@weather_description,#weather_temperature" marqueeSpeed="40" marqueeGap="2"/>
+		
+		 <Rectangle x="260" y="900" w="570" h="140" alpha="30" align=""  cornerRadius="16,16"  fillColor="#6cd4ff"  />
+
+		
+<Group x="184" align="" y="250">
+		
+		
+		
+		
+		<Var name="that_year" expression="#year" const="true" />
+		<Var name="that_month" expression="#month+1" const="true" />
+		<Var name="that_month_start_week" expression="(#day_of_week+36-#date)%7" const="true" />
+		<Var name="date_X1" expression="540-80*3" const="true" />
+		<Var name="date_X2" expression="540-80*2" const="true" />
+		<Var name="date_X3" expression="540-80" const="true" />
+		<Var name="date_X4" expression="540" const="true" />
+		<Var name="date_X5" expression="540+80" const="true" />
+		<Var name="date_X6" expression="540+80*2" const="true" />
+		<Var name="date_X7" expression="540+80*3" const="true" />
+		<Var name="date_Y1" expression="589" const="true" />
+		<Var name="date_Y2" expression="589+70" const="true" />
+		<Var name="date_Y3" expression="589+70*2" const="true" />
+		<Var name="date_Y4" expression="589+70*3" const="true" />
+		<Var name="date_Y5" expression="589+70*4" const="true" />
+		<Var name="date_Y6" expression="589+70*5" const="true" />
+		
+		<Var name="month2_days" expression="ifelse(eq(#that_year%4,0),29,28)" />
+		<Var name="that_month_max_day" expression="ifelse(eq(#that_month,1)+eq(#that_month,3)+eq(#that_month,5)+eq(#that_month,7)+eq(#that_month,8)+eq(#that_month,10)+eq(#that_month,12),31,eq(#that_month,4)+eq(#that_month,6)+eq(#that_month,9)+eq(#that_month,11),30,#month2_days)" />
+		<VarArray type="number">
+			<Vars>
+				<Var name="x1" index="#that_month_start_week" />
+				<Var name="x2" index="(#that_month_start_week+1)%7" />
+				<Var name="x3" index="(#that_month_start_week+2)%7" />
+				<Var name="x4" index="(#that_month_start_week+3)%7" />
+				<Var name="x5" index="(#that_month_start_week+4)%7" />
+				<Var name="x6" index="(#that_month_start_week+5)%7" />
+				<Var name="x7" index="(#that_month_start_week+6)%7" />
+				<Var name="x8" index="(#that_month_start_week+7)%7" />
+				<Var name="x9" index="(#that_month_start_week+8)%7" />
+				<Var name="x10" index="(#that_month_start_week+9)%7" />
+				<Var name="x11" index="(#that_month_start_week+10)%7" />
+				<Var name="x12" index="(#that_month_start_week+11)%7" />
+				<Var name="x13" index="(#that_month_start_week+12)%7" />
+				<Var name="x14" index="(#that_month_start_week+13)%7" />
+				<Var name="x15" index="(#that_month_start_week+14)%7" />
+				<Var name="x16" index="(#that_month_start_week+15)%7" />
+				<Var name="x17" index="(#that_month_start_week+16)%7" />
+				<Var name="x18" index="(#that_month_start_week+17)%7" />
+				<Var name="x19" index="(#that_month_start_week+18)%7" />
+				<Var name="x20" index="(#that_month_start_week+19)%7" />
+				<Var name="x21" index="(#that_month_start_week+20)%7" />
+				<Var name="x22" index="(#that_month_start_week+21)%7" />
+				<Var name="x23" index="(#that_month_start_week+22)%7" />
+				<Var name="x24" index="(#that_month_start_week+23)%7" />
+				<Var name="x25" index="(#that_month_start_week+24)%7" />
+				<Var name="x26" index="(#that_month_start_week+25)%7" />
+				<Var name="x27" index="(#that_month_start_week+26)%7" />
+				<Var name="x28" index="(#that_month_start_week+27)%7" />
+				<Var name="x29" index="(#that_month_start_week+28)%7" />
+				<Var name="x30" index="(#that_month_start_week+29)%7" />
+				<Var name="x31" index="(#that_month_start_week+30)%7" />
+				<Var name="y1" index="7" />
+				<Var name="y2" index="ifelse(ge(#x1,#date_X7),8,7)" />
+				<Var name="y3" index="ifelse(ge(#x1,#date_X6),8,7)" />
+				<Var name="y4" index="ifelse(ge(#x1,#date_X5),8,7)" />
+				<Var name="y5" index="ifelse(ge(#x1,#date_X4),8,7)" />
+				<Var name="y6" index="ifelse(ge(#x1,#date_X3),8,7)" />
+				<Var name="y7" index="ifelse(ge(#x1,#date_X2),8,7)" />
+				<Var name="y8" index="8" />
+				<Var name="y9" index="ifelse(ge(#x1,#date_X7),9,8)" />
+				<Var name="y10" index="ifelse(ge(#x1,#date_X6),9,8)" />
+				<Var name="y11" index="ifelse(ge(#x1,#date_X5),9,8)" />
+				<Var name="y12" index="ifelse(ge(#x1,#date_X4),9,8)" />
+				<Var name="y13" index="ifelse(ge(#x1,#date_X3),9,8)" />
+				<Var name="y14" index="ifelse(ge(#x1,#date_X2),9,8)" />
+				<Var name="y15" index="9" />
+				<Var name="y16" index="ifelse(ge(#x1,#date_X7),10,9)" />
+				<Var name="y17" index="ifelse(ge(#x1,#date_X6),10,9)" />
+				<Var name="y18" index="ifelse(ge(#x1,#date_X5),10,9)" />
+				<Var name="y19" index="ifelse(ge(#x1,#date_X4),10,9)" />
+				<Var name="y20" index="ifelse(ge(#x1,#date_X3),10,9)" />
+				<Var name="y21" index="ifelse(ge(#x1,#date_X2),10,9)" />
+				<Var name="y22" index="10" />
+				<Var name="y23" index="ifelse(ge(#x1,#date_X7),11,10)" />
+				<Var name="y24" index="ifelse(ge(#x1,#date_X6),11,10)" />
+				<Var name="y25" index="ifelse(ge(#x1,#date_X5),11,10)" />
+				<Var name="y26" index="ifelse(ge(#x1,#date_X4),11,10)" />
+				<Var name="y27" index="ifelse(ge(#x1,#date_X3),11,10)" />
+				<Var name="y28" index="ifelse(ge(#x1,#date_X2),11,10)" />
+				<Var name="y29" index="11" />
+				<Var name="y30" index="ifelse(ge(#x1,#date_X7),12,11)" />
+				<Var name="y31" index="ifelse(ge(#x1,#date_X6),12,11)" />
+				<Var name="today_x" index="#day_of_week%7" />
+			</Vars>
+			<Items>
+				<Item expression="#date_X7" />
+				<Item expression="#date_X1" />
+				<Item expression="#date_X2" />
+				<Item expression="#date_X3" />
+				<Item expression="#date_X4" />
+				<Item expression="#date_X5" />
+				<Item expression="#date_X6" />
+				<Item expression="#date_Y1" />
+				<Item expression="#date_Y2" />
+				<Item expression="#date_Y3" />
+				<Item expression="#date_Y4" />
+				<Item expression="#date_Y5" />
+				<Item expression="#date_Y6" />
+			</Items>
+		</VarArray>
+		<VarArray>
+			<Vars>
+				<Var name="today_y" index="#date-1" />
+			</Vars>
+			<Items>
+				<Item expression="#y1" />
+				<Item expression="#y2" />
+				<Item expression="#y3" />
+				<Item expression="#y4" />
+				<Item expression="#y5" />
+				<Item expression="#y6" />
+				<Item expression="#y7" />
+				<Item expression="#y8" />
+				<Item expression="#y9" />
+				<Item expression="#y10" />
+				<Item expression="#y11" />
+				<Item expression="#y12" />
+				<Item expression="#y13" />
+				<Item expression="#y14" />
+				<Item expression="#y15" />
+				<Item expression="#y16" />
+				<Item expression="#y17" />
+				<Item expression="#y18" />
+				<Item expression="#y19" />
+				<Item expression="#y20" />
+				<Item expression="#y21" />
+				<Item expression="#y22" />
+				<Item expression="#y23" />
+				<Item expression="#y24" />
+				<Item expression="#y25" />
+				<Item expression="#y26" />
+				<Item expression="#y27" />
+				<Item expression="#y28" />
+				<Item expression="#y29" />
+				<Item expression="#y30" />
+				<Item expression="#y31" />
+			</Items>
+		</VarArray>
+		</Group>
+		<Group visibility="eq(#that_year,#year)*eq(#that_month,#month+1)">
+			<Image x="#today_x" align="center" y="#today_y+2" alignV="center" src="today.png" />
+		</Group>
+		<Group>
+			<Text x="#x1" y="#y1" align="center" alignV="center" size="38" color="#ffffff" text="1" />
+			<Text x="#x2" y="#y2" align="center" alignV="center" size="38" color="#ffffff" text="2" />
+			<Text x="#x3" y="#y3" align="center" alignV="center" size="38" color="#ffffff" text="3" />
+			<Text x="#x4" y="#y4" align="center" alignV="center" size="38" color="#ffffff" text="4" />
+			<Text x="#x5" y="#y5" align="center" alignV="center" size="38" color="#ffffff" text="5" />
+			<Text x="#x6" y="#y6" align="center" alignV="center" size="38" color="#ffffff" text="6" />
+			<Text x="#x7" y="#y7" align="center" alignV="center" size="38" color="#ffffff" text="7" />
+			<Text x="#x8" y="#y8" align="center" alignV="center" size="38" color="#ffffff" text="8" />
+			<Text x="#x9" y="#y9" align="center" alignV="center" size="38" color="#ffffff" text="9" />
+			<Text x="#x10" y="#y10" align="center" alignV="center" size="38" color="#ffffff" text="10" />
+			<Text x="#x11" y="#y11" align="center" alignV="center" size="38" color="#ffffff" text="11" />
+			<Text x="#x12" y="#y12" align="center" alignV="center" size="38" color="#ffffff" text="12" />
+			<Text x="#x13" y="#y13" align="center" alignV="center" size="38" color="#ffffff" text="13" />
+			<Text x="#x14" y="#y14" align="center" alignV="center" size="38" color="#ffffff" text="14" />
+			<Text x="#x15" y="#y15" align="center" alignV="center" size="38" color="#ffffff" text="15" />
+			<Text x="#x16" y="#y16" align="center" alignV="center" size="38" color="#ffffff" text="16" />
+			<Text x="#x17" y="#y17" align="center" alignV="center" size="38" color="#ffffff" text="17" />
+			<Text x="#x18" y="#y18" align="center" alignV="center" size="38" color="#ffffff" text="18" />
+			<Text x="#x19" y="#y19" align="center" alignV="center" size="38" color="#ffffff" text="19" />
+			<Text x="#x20" y="#y20" align="center" alignV="center" size="38" color="#ffffff" text="20" />
+			<Text x="#x21" y="#y21" align="center" alignV="center" size="38" color="#ffffff" text="21" />
+			<Text x="#x22" y="#y22" align="center" alignV="center" size="38" color="#ffffff" text="22" />
+			<Text x="#x23" y="#y23" align="center" alignV="center" size="38" color="#ffffff" text="23" />
+			<Text x="#x24" y="#y24" align="center" alignV="center" size="38" color="#ffffff" text="24" />
+			<Text x="#x25" y="#y25" align="center" alignV="center" size="38" color="#ffffff" text="25" />
+			<Text x="#x26" y="#y26" align="center" alignV="center" size="38" color="#ffffff" text="26" />
+			<Text x="#x27" y="#y27" align="center" alignV="center" size="38" color="#ffffff" text="27" />
+			<Text x="#x28" y="#y28" align="center" alignV="center" size="38" color="#ffffff" text="28" />
+			<Text x="#x29" y="#y29" align="center" alignV="center" size="38" color="#ffffff" text="29" visibility="ge(#that_month_max_day,29)" />
+			<Text x="#x30" y="#y30" align="center" alignV="center" size="38" color="#ffffff" text="30" visibility="ge(#that_month_max_day,30)" />
+			<Text x="#x31" y="#y31" align="center" alignV="center" size="38" color="#ffffff" text="31" visibility="ge(#that_month_max_day,31)" />
+		</Group>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		</Group>	
+	
+	
+
+
+
+
+
+
+		
+
+	
+
+
+	
+			
+			<StartPoint x="0" y="0" w="#screen_width" h="#screen_height">
+			
+			
+			 <text x="#screen_width/2"  y="#screen_height-80"  align="center"  alignV="center" size="40" color="#000000" text="上滑解锁" >
+ <AlphaAnimation> 
+  <Alpha a="255" time="0"/>
+  <Alpha a="60" time="1100"/>
+  <Alpha a="255" time="2200"/>
+</AlphaAnimation>
+			  </text>
+			<Image x="#screen_width/2" y="#screen_height-30" align="center"  alignV="center" src="zhishi.png">
+			
+			<AlphaAnimation> 
+  <Alpha a="255" time="0"/>
+  <Alpha a="60" time="1100"/>
+  <Alpha a="255" time="2200"/>
+</AlphaAnimation>
+			
+			</Image>
+			
+			
+		</StartPoint>
+			<EndPoint x="0" y="-#screen_height" w="#screen_width" h="1820">		
+				<Path tolerance="350">
+					<Position x="0" y="0" />
+					<Position x="0" y="-1920" />
+				</Path>
+			</EndPoint>
+	</Unlocker>
+	
+	
+		<Image src="1.png" x="100" y="-600">
+		<PositionAnimation>
+			<Position x="100" y="800" time="22000"/>
+			<Position x="0" y="1600" time="32000"/>
+		</PositionAnimation>
+	</Image>
+	<Image src="2.png" x="230" y="-450" w="60" h="60" Alpha="200">
+		<PositionAnimation>
+			<Position x="400" y="800" time="19000"/>
+			<Position x="300" y="1600" time="30000"/>
+		</PositionAnimation>
+	</Image>
+	
+	<Image src="4.png" x="220" y="-330" Alpha="120">
+		<PositionAnimation>
+			<Position x="100" y="1000" time="15000"/>
+			<Position x="10" y="2000" time="25000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="5.png" x="500" y="-200" >
+		<PositionAnimation>
+			<Position x="100" y="800" time="14000"/>
+			<Position x="200" y="1700" time="32000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="1.png" x="0" y="-290" w="70" h="70">
+		<PositionAnimation>
+			<Position x="300" y="800" time="18000"/>
+			<Position x="100" y="1900" time="25000"/>
+		</PositionAnimation>
+	</Image>
+	<!---->
+	<Image src="2.png" x="104" y="-400" Alpha="140">
+		<PositionAnimation>
+			<Position x="200" y="400" time="10000"/>
+			<Position x="50" y="1800" time="27000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="4.png" x="150" y="-70">
+		<PositionAnimation>
+			<Position x="200" y="800" time="7000"/>
+			<Position x="300" y="1900" time="18000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="5.png" x="120" y="-360" w="65" h="65" >
+		<PositionAnimation>
+			<Position x="100" y="700" time="16000"/>
+			<Position x="20" y="1600" time="27000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="1.png" x="230" y="-200" w="65" h="65" Alpha="150">
+		<PositionAnimation>
+			<Position x="200" y="800" time="12000"/>
+			<Position x="100" y="1500" time="28000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="2.png" x="110" y="-130" w="70" h="70" Alpha="170">
+		<PositionAnimation>
+			<Position x="100" y="800" time="9000"/>
+			<Position x="100" y="1600" time="22000"/>
+		</PositionAnimation>
+	</Image>
+	
+  
+	
+	<Image src="6.png" x="150" y="-250">
+		<PositionAnimation>
+			<Position x="100" y="800" time="9000"/>
+			<Position x="40" y="1400" time="18000"/>
+		</PositionAnimation>
+	</Image>
+	<Image src="7.png" x="280" y="-50" w="60" h="60" Alpha="200">
+		<PositionAnimation>
+			<Position x="200" y="600" time="10000"/>
+			<Position x="150" y="1700" time="22000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="8.png" x="370" y="-330" Alpha="120">
+		<PositionAnimation>
+			<Position x="100" y="700" time="11000"/>
+			<Position x="30" y="1600" time="25000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="9.png" x="550" y="-200" w="65" h="65">
+		<PositionAnimation>
+			<Position x="100" y="800" time="14000"/>
+			<Position x="200" y="1700" time="31000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="6.png" x="460" y="-130" w="70" h="70">
+		<PositionAnimation>
+			<Position x="300" y="600" time="8000"/>
+			<Position x="200" y="2300" time="28000"/>
+		</PositionAnimation>
+	</Image>
+	<Image src="6.png" x="60" y="-430" w="70" h="70">
+		<PositionAnimation>
+			<Position x="200" y="800" time="12000"/>
+			<Position x="100" y="1600" time="25000"/>
+		</PositionAnimation>
+	</Image>
+	<!---->
+	<Image src="7.png" x="190" y="-100" Alpha="140">
+		<PositionAnimation>
+			<Position x="200" y="400" time="8000"/>
+			<Position x="200" y="1600" time="16000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="8.png" x="100" y="-470" w="60" h="60">
+		<PositionAnimation>
+			<Position x="100" y="800" time="14000"/>
+			<Position x="50" y="1600" time="24000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="9.png" x="180" y="-230" w="60" h="60" >
+		<PositionAnimation>
+			<Position x="100" y="800" time="14000"/>
+			<Position x="30" y="1600" time="22000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="6.png" x="280" y="0" w="65" h="65" Alpha="150">
+		<PositionAnimation>
+			<Position x="350" y="400" time="10000"/>
+			<Position x="450" y="1600" time="24000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image src="7.png" x="150" y="-130" w="70" h="70" Alpha="170">
+		<PositionAnimation>
+			<Position x="100" y="300" time="9000"/>
+			<Position x="100" y="1600" time="28000"/>
+		</PositionAnimation>
+	 </Image>
+
+	
+</Lockscreen>

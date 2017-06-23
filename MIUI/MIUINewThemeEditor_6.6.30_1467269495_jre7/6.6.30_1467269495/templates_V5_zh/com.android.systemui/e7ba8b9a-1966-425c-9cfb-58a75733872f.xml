@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.4 安全移除otg" version="3.4.20" annotation="" tag="其他">
+    <resource description="notification_otg_safe_remove_bg_p.9" x="516" y="136" width="170" height="84" uuid="fdd03b85-5f99-4846-8544-b62ada44f02f">
+        <path src="res\drawable-xhdpi\notification_otg_safe_remove_bg_n.9.png" description="安全移除按钮" />
+        <path src="res\drawable-xxhdpi\notification_otg_safe_remove_bg_n.9.png" description="安全移除按钮" />
+        <path src="res\drawable-xhdpi\notification_otg_safe_remove_bg_p.9.png" description="安全移除按钮 二态" />
+        <path src="res\drawable-xxhdpi\notification_otg_safe_remove_bg_p.9.png" description="安全移除按钮 二态" />
+    </resource>
+    <resource description="status_bar_close_on.9.png" x="8" y="1228" width="700" height="44" uuid="f19e10e3-74a3-46ac-ac47-5e27023ef6c4">
+        <path src="res\drawable-hdpi\status_bar_close_on.9.png" description="下拉框" />
+        <path src="res\drawable-xhdpi\status_bar_close_on.9.png" description="下拉框" />
+        <path src="res\drawable-xxhdpi\status_bar_close_on.9.png" description="下拉框" />
+    </resource>
+    <resource description="tab_toggles_bg_p.9.png" x="380" y="1114" width="330" height="114" uuid="7da5ef77-34ad-44a3-8c79-2768a22d1a1f">
+        <path src="res\drawable-hdpi\tab_toggles_bg_n.9.png" description="开关分页按钮" />
+        <path src="res\drawable-xhdpi\tab_toggles_bg_n.9.png" description="开关分页按钮" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.9.png" description="开关分页按钮" />
+        <path src="res\drawable-hdpi\tab_toggles_bg_p.9.png" description="开关分页按钮 二态" />
+        <path src="res\drawable-xhdpi\tab_toggles_bg_p.9.png" description="开关分页按钮 二态" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.9.png" description="开关分页按钮 二态" />
+    </resource>
+    <resource description="tab_notifications_bg_n.9" x="8" y="1116" width="344" height="112" uuid="0214ae98-c9ac-4fd5-830c-0161032470d7">
+        <path src="res\drawable-hdpi\tab_notifications_bg_n.9.png" description="通知栏分页按钮" />
+        <path src="res\drawable-xhdpi\tab_notifications_bg_n.9.png" description="通知栏分页按钮" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.9.png" description="通知栏分页按钮" />
+        <path src="res\drawable-hdpi\tab_notifications_bg_p.9.png" description="通知栏分页按钮 二态" />
+        <path src="res\drawable-xhdpi\tab_notifications_bg_p.9.png" description="通知栏分页按钮 二态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.9.png" description="通知栏分页按钮 二态" />
+    </resource>
+    <resource description="tab_indicator" x="138" y="1108" width="92" height="40" uuid="5bce9020-368f-4323-abfe-a1baaaa610be">
+        <path src="res\drawable-hdpi\tab_indicator.png" description="分页指示" />
+        <path src="res\drawable-xhdpi\tab_indicator.png" description="分页指示" />
+        <path src="res\drawable-xxhdpi\tab_indicator.png" description="分页指示" />
+    </resource>
+    <resource description="clock_0" x="29" y="20" width="148" height="72" uuid="5b0c8da9-ea27-483b-a148-dd83ce35e154">
+        <path src="res\drawable-hdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_colon.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_colon.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_colon.png" description="通知栏时间" />
+    </resource>
+    <resource description="tracking_view_page_style_bg.9" x="10" y="4" width="702" height="1012" uuid="2c10c502-9fea-4b55-874b-96a8b715656b">
+        <path src="res\drawable-hdpi\tracking_view_page_style_bg.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+    </resource>
+</screenshot>

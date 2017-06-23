@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Edit Home screen" version="4.8.26" annotation="" tag="Home screen">
+    <resource description="Change wallpaper" x="424" y="1578" width="230" height="230" uuid="088ecb2a-60ae-44da-8455-bc967c03cf49">
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg.png" description="Edit item mask foreground: only use for wallpaper" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="Edit Home screen wallpaper icon" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_mask.png" description="Edit item mask: only use for wallpaper" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg_dark.png" description="Edit Home screen foreground: only use for wallpaper" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="Edit Home screen background: light color" />
+    </resource>
+    <resource description="Clock widget thumbnail" x="652" y="1574" width="230" height="230" uuid="c3e805e1-198b-439d-9b84-9424298b2803">
+        <path src="res\drawable-xxhdpi\gadget_clock_24_icon.png" description="2x4 clock widget thumbnail" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="Edit item background" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="Edit item background: light color" />
+        <path src="res\drawable-xxhdpi\gadget_clock_22_icon.png" description="2x2 clock widget thumbnail" />
+        <path src="res\drawable-xxhdpi\gadget_clock_12_icon.png" description="2x1 clock widget thumbnail" />
+    </resource>
+    <resource description="Screen transition effects" x="190" y="1576" width="230" height="230" uuid="2233c055-fcd6-4acc-a078-314f802821f0">
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="Edit Home screen background" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="Edit Home screen light background" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic.png" description="Overslide" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic_no_over_shoot.png" description="Slide" />
+        <path src="res\drawable-xxhdpi\transition_effect_cube.png" description="Cube" />
+        <path src="res\drawable-xxhdpi\transition_effect_fade_out.png" description="Fade out" />
+        <path src="res\drawable-xxhdpi\transition_effect_fall_down.png" description="Tumble" />
+        <path src="res\drawable-xxhdpi\transition_effect_left_page.png" description="Page" />
+        <path src="res\drawable-xxhdpi\transition_effect_rotate.png" description="Rotate" />
+        <path src="res\drawable-xxhdpi\transition_effect_stack.png" description="Cascade" />
+    </resource>
+    <resource description="Edit Home screen" x="444" y="774" width="194" height="194" uuid="0d6b6d83-f4eb-4f2c-99d1-a13be02e98af">
+        <path src="res\drawable-xxhdpi\editing_new_screen_btn_n.png" description="Add new Home screen button: normal" />
+        <path src="res\drawable-xxhdpi\editing_new_screen_btn_p.png" description="Add new Home screen button: pressed" />
+        <path src="res\drawable-xxhdpi\editing_delete_screen_n.png" description="Delete Home screen button: normal" />
+        <path src="res\drawable-xxhdpi\editing_delete_screen_p.png" description="Delete Home screen button: pressed" />
+    </resource>
+    <resource description="editing_mode_slidebar_fg.9" x="0" y="1904" width="636" height="16" uuid="250caf83-04ff-469c-aa1b-13cb3a17b22f">
+        <path src="res\drawable-xxhdpi\editing_mode_slidebar_fg.9.png" description="Scroll bar for edit mode" />
+    </resource>
+</screenshot>

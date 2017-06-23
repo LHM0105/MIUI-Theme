@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 计时器1" version="3.4.12" annotation="" tag="">
+    <resource description="duration_large_with_hour_dot" x="112" y="408" width="526" height="170" uuid="74479f93-3932-40dc-8391-2dccbb81ee24">
+        <path src="res\drawable-hdpi\duration_large_with_hour_0.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_0.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_1.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_1.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_2.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_2.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_3.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_3.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_4.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_4.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_5.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_5.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_6.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_6.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_7.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_7.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_8.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_8.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_9.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_9.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_colon.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_colon.png" description="计时器时间" />
+        <path src="res\drawable-hdpi\duration_large_with_hour_dot.png" description="计时器时间" />
+        <path src="res\drawable-xhdpi\duration_large_with_hour_dot.png" description="计时器时间" />
+    </resource>
+    <resource description="ic_arrow" x="636" y="903" width="36" height="40" uuid="753f12a6-aaca-4b13-a011-dd13d618362f">
+        <path src="res\drawable-hdpi\ic_arrow.png" description="指示" />
+        <path src="res\drawable-xhdpi\ic_arrow.png" description="指示" />
+    </resource>
+    <resource description="timer_bg" x="0" y="138" width="714" height="716" uuid="ea132f82-4442-4cbf-b44c-b88902bca400">
+        <path src="res\drawable-xhdpi\timer_bg.png" description="计时器分页背景" />
+        <path src="res\drawable-hdpi\timer_bg.9.png" description="计时器分页背景" />
+    </resource>
+    <resource description="bottom_button_bar_bg" x="8" y="1128" width="700" height="140" uuid="8666a78a-f279-410e-9c4e-0d973583b1fc">
+        <path src="res\drawable-hdpi\bottom_button_bar_bg.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\bottom_button_bar_bg.png" description="按钮背景" />
+    </resource>
+</screenshot>

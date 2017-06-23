@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- calendar -->
+<Icon version="1" frameRate="0" width="192" height="192" screenWidth="1080" useVariableUpdater="DateTime.Hour">
+	<Image src="calendar_bg.png"/>
+ <Image name="month" x="96" y="53" align="center" alignV="center" src="month/month.png" srcid="#month+1" />
+	
+	<Group name="day_part" y="124">
+<!-- 		<Image name="date_day_1" x="104"  src="num/num.png" srcid="#date/10"    />
+		<Image name="date_day_2" x="104+#date_day_1.bmp_width"  src="num/num.png" srcid="#date%10" />
+ -->		
+		<ImageNumber name="date" x="96-10" src="num/n.png" align="center" alignV="center"  number="#date"/>
+	</Group>
+</Icon>

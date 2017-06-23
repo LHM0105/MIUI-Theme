@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 设置列表" version="4.8.27" annotation="" tag="全局列表">
+    <resource description="preference_category_background_first.9" x="0" y="335" width="1080" height="100" uuid="5304f6bf-914a-465e-8c74-6ec3abcd2f7f">
+        <path src="res\drawable-xxhdpi\preference_category_background_first.9.png" description="列表类型 有标题 第一条" />
+        <path src="res\drawable-xxhdpi\preference_category_background_first_no_title.9.png" description="列表类型 无标题 第一条" />
+    </resource>
+	<resource description="preference_category_background.9" x="0" y="1235" width="1080" height="100" uuid="5304f6bf-914a-465e-8c74-6ec3abcd2f7f">
+        <path src="res\drawable-xxhdpi\preference_category_background.9.png" description="列表类别 有标题 非第一条" />
+        <path src="res\drawable-xxhdpi\preference_category_background_no_title.9.png" description="列表类型 无标题 第一条" />
+    </resource>
+
+
+    <resource description="preference_first_item_bg_normal.9" x="0" y="740" width="1080" height="170" uuid="e6ee0c0b-8e3b-4de3-b89b-f20f752df33d">
+        <path src="res\drawable-xxhdpi\preference_first_item_bg_normal.9.png" description="设置列表_无图标_上_常态" />
+        <path src="res\drawable-xxhdpi\preference_first_item_bg_pressed.9.png" description="设置列表_无图标_上_二态" />
+        <path src="res\drawable-xxhdpi\preference_first_item_with_icon_bg_normal.9.png" description="设置列表_有图标_上_常态" />
+        <path src="res\drawable-xxhdpi\preference_first_item_with_icon_bg_pressed.9.png" description="设置列表_有图标_上_二态" />
+
+        <path src="res\drawable-xxhdpi\preference_middle_item_bg_normal.9.png" description="设置列表_无图标_中_常态" />
+        <path src="res\drawable-xxhdpi\preference_middle_item_bg_pressed.9.png" description="设置列表_无图标_中_二态" />
+        <path src="res\drawable-xxhdpi\preference_middle_item_with_icon_bg_normal.9.png" description="设置列表_有图标_中_常态" />
+        <path src="res\drawable-xxhdpi\preference_middle_item_with_icon_bg_pressed.9.png" description="设置列表_有图标_中_二态" />
+
+        <path src="res\drawable-xxhdpi\preference_last_item_bg_normal.9.png" description="设置列表_无图标_下_常态" />
+        <path src="res\drawable-xxhdpi\preference_last_item_bg_pressed.9.png" description="设置列表_无图标_下_二态" />
+        <path src="res\drawable-xxhdpi\preference_last_item_with_icon_bg_normal.9.png" description="设置列表_有图标_下_常态" />
+        <path src="res\drawable-xxhdpi\preference_last_item_with_icon_bg_pressed.9.png" description="设置列表_有图标_下_二态" />
+
+        <path src="res\drawable-xxhdpi\preference_single_item_bg_normal.9.png" description="设置列表_无图标_单列_常态" />
+        <path src="res\drawable-xxhdpi\preference_single_item_bg_pressed.9.png" description="设置列表_无图标_单列_二态" />
+        <path src="res\drawable-xxhdpi\preference_single_item_with_icon_bg_normal.9.png" description="设置列表_有图标_单列_常态" />
+        <path src="res\drawable-xxhdpi\preference_single_item_with_icon_bg_pressed.9.png" description="设置列表_有图标_单列_二态" />
+    </resource>
+
+    <resource description="action_bar_bg_light.9" x="0" y="0" width="1080" height="192" uuid="017b8dca-cfdc-4c65-8847-3b80b587f7d7">
+        <path src="res\drawable-xxhdpi\action_bar_bg_light.9.png" description="" />
+    </resource>
+    <resource description="settings_window_bg_light.9" x="0" y="0" width="1080" height="1920" uuid="017b8dca-cfdc-4c65-8847-3b80b587f7d7">
+        <path src="res\drawable-xxhdpi\settings_window_bg_light.9.png" description="设置列表背景" />
+    </resource>
+</screenshot>

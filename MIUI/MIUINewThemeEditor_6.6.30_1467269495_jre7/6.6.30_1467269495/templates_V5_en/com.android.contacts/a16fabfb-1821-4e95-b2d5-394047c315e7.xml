@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.5 Add to contacts" version="3.4.10" annotation="" tag="Contacts">
+    <resource description="ic_add_contact" x="6" y="372" width="116" height="120" uuid="e2c73408-92d4-4995-b718-a6b253e9fb63">
+        <path src="res\drawable-hdpi\ic_add_contact.png" description="新建联系人" />
+        <path src="res\drawable-xhdpi\ic_add_contact.png" description="新建联系人" />
+    </resource>
+    <resource description="picker_tab_indicator_bg.9" x="4" y="140" width="710" height="88" uuid="48c2e3f7-fe85-421a-bf6e-e7cf9b440755">
+        <path src="res\drawable-hdpi\picker_tab_indicator_bg.9.png" description="添加收藏，tab背景" />
+        <path src="res\drawable-xhdpi\picker_tab_indicator_bg.9.png" description="添加收藏，tab背景" />
+    </resource>
+    <resource description="ic_starred_contact" x="70" y="440" width="44" height="44" uuid="5bda65d7-a8da-4d21-abeb-4fae195f454d">
+        <path src="res\drawable-hdpi\ic_starred_contact.png" description="" />
+        <path src="res\drawable-xhdpi\ic_starred_contact.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_starred_contact.png" description="" />
+    </resource>
+    <resource description="contact_list_item_view_section_bg_p.9" x="0" y="498" width="718" height="52" uuid="d8a8e6f7-ecc6-4aa2-a1f6-7387e14dc731">
+        <path src="res\drawable-hdpi\contact_list_item_view_section_bg_p.9.png" description="分类列表 二态图" />
+        <path src="res\drawable-xhdpi\contact_list_item_view_section_bg_p.9.png" description="分类列表 二态图" />
+        <path src="res\drawable-xxhdpi\contact_list_item_view_section_bg_p.9.png" description="分类列表 二态图" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="2" y="552" width="116" height="118" uuid="bdbdd5a2-d124-4b4a-b82d-bf7069e7b025">
+        <path src="res\drawable-hdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+    </resource>
+</screenshot>

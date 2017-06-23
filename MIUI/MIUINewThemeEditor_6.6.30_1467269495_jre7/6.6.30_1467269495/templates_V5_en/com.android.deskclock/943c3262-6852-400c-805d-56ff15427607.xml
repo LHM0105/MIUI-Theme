@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 Timer 2" version="3.4.12" annotation="" tag="">
+    <resource description="duration_large_dot" x="88" y="396" width="546" height="212" uuid="911499b8-8157-4b69-ba37-d082ed3e889c" />
+    <resource description="ic_arrow" x="636" y="903" width="36" height="40" uuid="8502c2f9-2a8e-4933-ac13-8ffff77f26c8">
+        <path src="res\drawable-hdpi\ic_arrow.png" description="指示" />
+        <path src="res\drawable-xhdpi\ic_arrow.png" description="指示" />
+    </resource>
+    <resource description="bottom_button_bar_bg" x="8" y="1128" width="700" height="140" uuid="1eb7e1b3-715f-4413-b580-0cec130dbaf0">
+        <path src="res\drawable-hdpi\bottom_button_bar_bg.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\bottom_button_bar_bg.png" description="按钮背景" />
+    </resource>
+    <resource description="timer_bg" x="0" y="138" width="714" height="716" uuid="267fba2c-f678-412f-af68-c7cafa40f49e">
+        <path src="res\drawable-xhdpi\timer_bg.png" description="计时器分页背景" />
+        <path src="res\drawable-hdpi\timer_bg.9.png" description="" />
+    </resource>
+</screenshot>

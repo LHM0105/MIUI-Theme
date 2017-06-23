@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 软件卸载界面" version="3.2.27" annotation="" tag="卸载">
+    <resource description="uninstall_dialog_bg_pt" x="12" y="0" width="690" height="330" uuid="4e1535e0-c96c-4905-83d3-ceca3302848b">
+        <path src="res\drawable-hdpi\uninstall_dialog_bg_pt.png" description="卸载背景" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_bg_pt.png" description="卸载背景" />
+    </resource>
+    <resource description="screen_disable_top_mask.9" x="14" y="342" width="690" height="402" uuid="5911ae95-93f2-43ee-9249-4f5d94155d2e">
+        <path src="res\drawable-hdpi\screen_disable_top_mask.9.png" description="遮罩层" />
+        <path src="res\drawable-xhdpi\screen_disable_top_mask.9.png" description="遮罩层" />
+    </resource>
+    <resource description="uninstall_dialog_left_btn_n.9" x="29" y="187" width="317" height="92" uuid="b5824938-70c1-4980-93c3-231bb99b1553">
+        <path src="res\drawable-hdpi\uninstall_dialog_left_btn_n.9.png" description="左边按钮" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_left_btn_n.9.png" description="左边按钮" />
+        <path src="res\drawable-hdpi\uninstall_dialog_left_btn_p.9.png" description="左边按钮" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_left_btn_p.9.png" description="左边按钮" />
+    </resource>
+    <resource description="uninstall_dialog_right_btn_n.9" x="376" y="188" width="308" height="87" uuid="d5ad5f4c-1793-497f-a953-eccb4bcf37c4">
+        <path src="res\drawable-hdpi\uninstall_dialog_right_btn_n.9.png" description="右边按钮" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_right_btn_n.9.png" description="右边按钮" />
+        <path src="res\drawable-hdpi\uninstall_dialog_right_btn_p.9.png" description="右边按钮 二态" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_right_btn_p.9.png" description="右边按钮 二态" />
+    </resource>
+    <resource description="uninstall_dialog_btn_divider.9" x="353" y="169" width="14" height="126" uuid="79c8d92f-cd0c-4815-9719-da32e8383953">
+        <path src="res\drawable-hdpi\uninstall_dialog_btn_divider.9.png" description="分割线" />
+        <path src="res\drawable-xhdpi\uninstall_dialog_btn_divider.9.png" description="分割线" />
+    </resource>
+</screenshot>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 连网控制" version="3.2.27" annotation="" tag="流量排行">
+    <resource description="new_install_app_highlight" x="320" y="1136" width="80" height="90" uuid="31e3447d-0aaf-4e4c-a24f-23a56865da54">
+        <path src="res\drawable-hdpi\new_install_app_highlight.png" description="设置图标 二态" />
+        <path src="res\drawable-hdpi\new_install_app_normal.png" description="设置图标" />
+        <path src="res\drawable-xhdpi\new_install_app_highlight.png" description="设置图标 二态" />
+        <path src="res\drawable-xhdpi\new_install_app_normal.png" description="设置图标" />
+    </resource>
+    <resource description="list_divider" x="0" y="348" width="720" height="23" uuid="ac8d7657-d794-413a-82ac-5bb042a97bfd">
+        <path src="res\drawable-xhdpi\list_divider.png" description="分割线" />
+    </resource>
+    <resource description="internet_disable_partial" x="562" y="156" width="40" height="40" uuid="45a5a2c0-0c06-4e80-9b3a-af5f7964d087">
+        <path src="res\drawable-hdpi\internet_disable.png" description="不可用连网图标" />
+        <path src="res\drawable-hdpi\internet_disable_partial.png" description="不可用连网图标 不可按" />
+        <path src="res\drawable-xhdpi\internet_disable.png" description="不可用连网图标" />
+        <path src="res\drawable-xhdpi\internet_disable_partial.png" description="不可用连网图标 不可按" />
+    </resource>
+    <resource description="internet_enable_partial" x="653" y="157" width="40" height="40" uuid="c746f85a-f734-453e-8c89-0d59edd13228">
+        <path src="res\drawable-hdpi\internet_enable.png" description="可用连网图标" />
+        <path src="res\drawable-hdpi\internet_enable_partial.png" description="可用连网图标 不可按" />
+        <path src="res\drawable-xhdpi\internet_enable.png" description="可用连网图标" />
+        <path src="res\drawable-xhdpi\internet_enable_partial.png" description="可用连网图标 不可按" />
+    </resource>
+    <resource description="network_bg.9" x="537" y="478" width="90" height="123" uuid="c3c4ec5a-06fe-4b97-8d27-82f76ea68f33">
+        <path src="res\drawable-hdpi\network_bg.9.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\network_bg.9.png" description="按钮背景" />
+    </resource>
+</screenshot>

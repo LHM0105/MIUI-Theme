@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 在线主题" version="3.2.27" annotation="" tag="旧 主题">
+    <resource description="loading_view_bg.9" x="0" y="1114" width="720" height="166" uuid="de813efe-eae7-4a76-b948-9e49a1e9a767">
+        <path src="res\drawable-hdpi\loading_view_bg.9.png" description="载入白色阴影" />
+        <path src="res\drawable-xxhdpi\loading_view_bg.9.png" description="载入白色阴影" />
+    </resource>
+    <resource description="resource_thumbnail_bg.9" x="250" y="533" width="218" height="345" uuid="f9a32779-f23c-413e-af92-b825d1a35515">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+        <path src="res\drawable-xhdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+        <path src="res\drawable-xxhdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+    </resource>
+    <resource description="resource_list_title.9" x="0" y="454" width="722" height="64" uuid="c397b6d3-c6da-4a82-a977-8af4aed6906a">
+        <path src="res\drawable-hdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xhdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xxhdpi\resource_list_title.9.png" description="列表标题背景" />
+    </resource>
+</screenshot>

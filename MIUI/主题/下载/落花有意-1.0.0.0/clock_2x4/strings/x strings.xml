@@ -1,0 +1,31 @@
+<strings>
+	<string name="no_artist" value="Music" />
+	<string name="no_title" value="Open music player" />
+	<string name="date_format" value="MMMM  dd, yyyy" />
+	<string name="wd00" value="Clear" />
+	<string name="wd01" value="Cloudy" />
+	<string name="wd02" value="Hazy" />
+	<string name="wd03" value="Foggy" />
+	<string name="wd04" value="Severe rainstorm" />
+	<string name="wd05" value="Rainstorm" />
+	<string name="wd06" value="Very heavy rainfall" />
+	<string name="wd07" value="Thunderstorm" />
+	<string name="wd08" value="Shower" />
+	<string name="wd09" value="Heavy rainfall" />
+	<string name="wd10" value="Rain" />
+	<string name="wd11" value="Drizzle" />
+	<string name="wd12" value="Sleet" />
+	<string name="wd13" value="Snowstorm" />
+	<string name="wd14" value="Patches of snowfall" />
+	<string name="wd15" value="Heavy snowfall" />
+	<string name="wd16" value="Snowfall" />
+	<string name="wd17" value="Light snowfall" />
+	<string name="wd18" value="Strong sandstorm" />
+	<string name="wd19" value="Sandstorm" />
+	<string name="wd20" value="Light sandstorm" />
+	<string name="wd21" value="Sandstorm" />
+	<string name="wd22" value="Hail" />
+	<string name="wd23" value="Floating Dust" />
+	<string name="wd24" value="Haze" />
+	<string name="language" value="en" />
+</strings>

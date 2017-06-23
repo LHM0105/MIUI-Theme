@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2.1 联系人详情1" version="2.9.16" annotation="部分图片仅在设置联系人照片后显示" tag="联系人">
+    <resource description="type_icon_phone" x="42" y="790" width="63" height="61" uuid="cdbfda76-01a0-43c1-baae-c99fbc1d4ccb">
+        <path src="res\drawable-hdpi\type_icon_calllog.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_calllog.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_calllog.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_email.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_email.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_email.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_event.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_event.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_event.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_group.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_group.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_group.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_im.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_im.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_im.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_lunar_birthday.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_lunar_birthday.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_lunar_birthday.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_network.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_network.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_network.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_nickname.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_nickname.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_nickname.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_note.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_note.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_note.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_orgnization.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_orgnization.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_orgnization.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_phone.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phone.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_phone.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_phonetic.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phonetic.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_phonetic.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_relation.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_relation.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_relation.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_ringtone.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_ringtone.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_ringtone.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_sip_address.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_sip_address.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_sip_address.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_structured_postal.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_structured_postal.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_structured_postal.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_unknown.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_unknown.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_unknown.png" description="联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_website.png" description="联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_website.png" description="联系人小图标" />
+        <path src="res\drawable-xxhdpi\type_icon_website.png" description="联系人小图标" />
+    </resource>
+    <resource description="contact_detail_title_home_icon_single_n" x="12" y="66" width="74" height="131" uuid="6c39f5bc-0629-4490-945a-7fdc730f0c4a">
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+    </resource>
+    <resource description="contact_detail_tab_left_n.9" x="15" y="513" width="685" height="117" uuid="66e768c2-a8fe-4967-9ba7-18a682395f88">
+        <path src="res\drawable-hdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-hdpi\contact_detail_tab_container_bg_mask.9.png" description="联系人详情tab背景（有头像时）" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_container_bg_mask.9.png" description="联系人详情tab背景（有头像时）" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_container_bg_mask.9.png" description="联系人详情tab背景（有头像时）" />
+    </resource>
+    <resource description="contact_detail_tab_indicator" x="501" y="597" width="59" height="30" uuid="cd55d0bd-127c-4303-b2fc-0e0524306066">
+        <path src="res\drawable-hdpi\contact_detail_tab_indicator.png" description="指示标志" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_indicator.png" description="指示标志" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_indicator.png" description="指示标志" />
+    </resource>
+    <resource description="contact_detail_detail_list_item_n.9" x="22" y="768" width="678" height="106" uuid="beb89e64-5828-47bc-b537-ad16ebb16376">
+        <path src="res\drawable-hdpi\contact_detail_detail_list_item_n.9.png" description="详情页面list" />
+        <path src="res\drawable-xhdpi\contact_detail_detail_list_item_n.9.png" description="详情页面list" />
+        <path src="res\drawable-xxhdpi\contact_detail_detail_list_item_n.9.png" description="详情页面list" />
+        <path src="res\drawable-hdpi\contact_detail_detail_list_item_p.9.png" description="详情页面list 二态" />
+        <path src="res\drawable-xhdpi\contact_detail_detail_list_item_p.9.png" description="详情页面list 二态" />
+        <path src="res\drawable-xxhdpi\contact_detail_detail_list_item_p.9.png" description="详情页面list 二态" />
+    </resource>
+    <resource description="contact_detail_pager_bg.9" x="3" y="653" width="710" height="618" uuid="dc3a4f0c-b52f-406b-99d1-165e4ae4561f">
+        <path src="res\drawable-hdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+        <path src="res\drawable-xhdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+        <path src="res\drawable-xxhdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+    </resource>
+    <resource description="ic_send_sms_n" x="587" y="662" width="73" height="75" uuid="8cc57229-b516-4002-976b-9367386b52c4">
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+    </resource>
+    <resource description="contact_detail_with_photo_title_mask.9" x="4" y="59" width="698" height="164" uuid="adaed8ed-ad65-4f69-8b40-048ca14d85c5">
+        <path src="res\drawable-hdpi\contact_detail_with_photo_title_mask.9.png" description="标题遮罩" />
+        <path src="res\drawable-xhdpi\contact_detail_with_photo_title_mask.9.png" description="标题遮罩" />
+        <path src="res\drawable-xxhdpi\contact_detail_with_photo_title_mask.9.png" description="标题遮罩" />
+    </resource>
+    <resource description="contact_detail_with_photo_photo_mask.9" x="2" y="53" width="713" height="590" uuid="6bc52b66-b4ef-40cc-a8b3-608a69d0ddad">
+        <path src="res\drawable-hdpi\contact_detail_with_photo_photo_mask.9.png" description="照片遮罩" />
+        <path src="res\drawable-xhdpi\contact_detail_with_photo_photo_mask.9.png" description="照片遮罩" />
+        <path src="res\drawable-xxhdpi\contact_detail_with_photo_photo_mask.9.png" description="照片遮罩" />
+    </resource>
+</screenshot>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Emojis" version="2.9.20" annotation="Attached emojis" tag="Messaging">
+    <resource description="smiley_tab_text_normal" x="594" y="1818" width="76" height="64" uuid="bdf099c3-c8a2-466e-81eb-81939f865ab5">
+        <path src="res\drawable-xxhdpi\smiley_tab_image_smiley.png" description="Emoji" />
+    </resource>
+    <resource description="smiley_tab_image_creature" x="226" y="1818" width="84" height="72" uuid="942a8720-50b5-4ec4-a105-3b8757031857">
+        <path src="res\drawable-xxhdpi\smiley_tab_image_creature.png" description="Emoji tab icon: left most" />
+    </resource>
+    <resource description="smiley_tab_image_lifestyle" x="406" y="1818" width="86" height="70" uuid="0735bddf-fc28-4684-992e-90509c707169">
+        <path src="res\drawable-xxhdpi\smiley_tab_image_lifestyle.png" description="Emoji tab icon: lifestyle" />
+    </resource>
+    <resource description="smiley_tab_image_smiley_normal" x="50" y="1818" width="80" height="72" uuid="06655eb4-0b51-4134-882f-b3460f7b0fb2">
+        <path src="res\drawable-xxhdpi\smiley_tab_text.png" description="Emoji tab icon: text" />
+    </resource>
+    <resource description="smiley_tab_symbol" x="772" y="1818" width="76" height="66" uuid="8c0d129b-b46e-4578-a1ba-e67f3b1c0b9b">
+        <path src="res\drawable-xxhdpi\smiley_tab_symbol.png" description="Emoji tab icon: symbols" />
+    </resource>
+    <resource description="smiley_back" x="952" y="1818" width="78" height="68" uuid="ecab0be9-a53a-475c-af99-1e7e959809d6">
+        <path src="res\drawable-xxhdpi\smiley_back.png" description="Delete icon on Emoji tab" />
+    </resource>
+    <resource description="smiley_item_bg_p.9" x="22" y="1258" width="168" height="128" uuid="05b1fc63-4073-4048-ac85-61359858cc85">
+        <path src="res\drawable-xxhdpi\smiley_item_bg_p.9.png" description="Pressed" />
+    </resource>
+    <resource description="dash_h" x="0" y="1546" width="1072" height="32" uuid="5f11604c-6d74-4549-93d3-aa951ccfd666">
+        <path src="res\drawable-xxhdpi\dash_h.png" description="Horizontal dashed line in lower panel" />
+    </resource>
+    <resource description="dash_v" x="412" y="1230" width="38" height="504" uuid="f5e5c02c-1090-4fde-b7e1-f50a9d7397ea">
+        <path src="res\drawable-xxhdpi\dash_v.png" description="Vertical dashed line in lower panel" />
+    </resource>
+    <resource description="smiley_tab_bg.9" x="0" y="1782" width="1080" height="138" uuid="fba47f3e-55a0-40c9-bea1-91d0f71b3245">
+        <path src="res\drawable-xxhdpi\smiley_tab_bg.9.png" description="Smiley tab background" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="1238" width="1078" height="682" uuid="c8eca794-4a64-4b4b-b0f4-f89a008a45b8">
+        <path src="res\drawable-xxhdpi\attachment_screen_bg.9.png" description="Attachment background" />
+    </resource>
+    <resource description="compose_mi_msg_editor_bg.9" x="128" y="1112" width="824" height="112" uuid="d5139071-3bf6-4a9e-9c8a-5513a8d0f869">
+        <path src="res\drawable-xxhdpi\compose_mi_msg_editor_bg.9.png" description="Mi Message" />
+        <path src="res\drawable-xxhdpi\compose_msg_editor_bg.9.png" description="SMS" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1102" width="1076" height="140" uuid="74c9dc1f-c900-4414-8fcb-c1b49c34bf9c">
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="Bottom panel background" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="0" y="58" width="1076" height="140" uuid="55ad49e4-6115-4d1c-9436-8e66710cf577">
+        <path src="res\drawable-xxhdpi\title_bar_tall_bg.9.png" description="Action bar background" />
+    </resource>
+    <resource description="insert_attachment_button_n" x="30" y="1120" width="80" height="96" uuid="4c1f16f2-20b0-44d7-8228-c5c504f14cc0">
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="Attachment button: selected" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="Attachment button: normal" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="Attachment button: pressed" />
+    </resource>
+    <resource description="send_btn_p.png" x="964" y="1122" width="84" height="98" uuid="7dc2f773-db29-47f1-83b9-bb0850f54374">
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="Send button: disabled" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="Send button: normal" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="Send button: pressed" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_n.png" description="Send Mi Message button: normal" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_p.png" description="Send Mi Message button: pressed" />
+    </resource>
+    <resource description="smiley_item_bg_p.9" x="6" y="1786" width="170" height="128" uuid="36d08f24-fa8d-43bf-a0e0-bddfadcd27d1">
+        <path src="res\drawable-xxhdpi\smiley_item_bg_p.9.png" description="Small icon tab: pressed" />
+    </resource>
+</screenshot>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 普通模式" version="2.9.16" annotation="" tag="普通模式">
+    <resource description="workspace_seekpoint_highlight.png" x="320" y="1030" width="81" height="37" uuid="04302688-aa0d-423a-b625-8876da230b21">
+        <path src="res\drawable-hdpi\workspace_seekpoint_highlight.png" description="指示点 选中" />
+        <path src="res\drawable-xhdpi\workspace_seekpoint_highlight.png" description="指示点 选中" />
+        <path src="res\drawable-hdpi\workspace_seekpoint_normal.png" description="指示点常态" />
+        <path src="res\drawable-xhdpi\workspace_seekpoint_normal.png" description="指示点常态" />
+    </resource>
+    <resource description="icon_notification_bg.9.png" x="124" y="1088" width="54" height="52" uuid="9768d305-d0e9-4926-90e3-5e590d9b37dd">
+        <path src="res\drawable-hdpi\icon_notification_bg.9.png" description="未接未读信息数量背景" />
+        <path src="res\drawable-largeui-hdpi\icon_notification_bg.9.png" description="未接未读信息数量背景" />
+        <path src="res\drawable-largeui-xhdpi\icon_notification_bg.9.png" description="未接未读信息数量背景" />
+        <path src="res\drawable-xhdpi\icon_notification_bg.9.png" description="未接未读信息数量背景" />
+    </resource>
+    <resource description="hotseat_background.9.png" x="20" y="1072" width="684" height="194" uuid="f5b6ab84-72f6-4c0e-82ab-830647cdda4e">
+        <path src="res\drawable-hdpi\hotseat_background.9.png" description="底部图标托盘" />
+    </resource>
+    <resource description="wallpaper_mask.9" x="4" y="858" width="710" height="422" uuid="7ac531b5-8e50-4ce8-955b-e797bc5995c6">
+        <path src="res\drawable-hdpi\wallpaper_mask.9.png" description="桌面底部阴影" />
+        <path src="res\drawable-xhdpi\wallpaper_mask.9.png" description="桌面底部阴影" />
+    </resource>
+    <resource description="statusbar_bg.9" x="0" y="0" width="718" height="60" uuid="d51d1e48-73e7-406d-8e4a-8add79999b29">
+        <path src="res\drawable-hdpi\statusbar_bg.9.png" description="桌面顶部阴影" />
+        <path src="res\drawable-xhdpi\statusbar_bg.9.png" description="桌面顶部阴影" />
+    </resource>
+    <resource description="gadget_weather_a1_cloudy" x="84" y="90" width="556" height="332" uuid="9226ff8a-cf8d-4d31-8164-154238ca1f83">
+        <path src="res\drawable-hdpi\gadget_weather_a1_cloudy.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_cloudy.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_dust.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_dust.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_fog.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_fog.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_overcast.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_overcast.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_rain.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_rain.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_snow.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_snow.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_a1_sunny.png" description="天气背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_sunny.png" description="天气背景" />
+        <path src="res\drawable-hdpi\gadget_weather_mask.9.png" description="天气顶部遮罩" />
+        <path src="res\drawable-xhdpi\gadget_weather_mask.9.png" description="天气顶部遮罩" />
+    </resource>
+    <resource description="gadget_weather_time_zero" x="120" y="130" width="294" height="108" uuid="09ab5bb5-734b-421b-b9d0-055fe480af51">
+        <path src="res\drawable-hdpi\gadget_weather_time_eight.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_eight.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_five.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_five.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_four.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_four.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_nine.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_nine.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_one.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_one.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_seven.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_seven.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_six.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_six.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_splite.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_splite.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_three.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_three.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_two.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_two.png" description="天气时钟数字" />
+        <path src="res\drawable-hdpi\gadget_weather_time_zero.png" description="天气时钟数字" />
+        <path src="res\drawable-xhdpi\gadget_weather_time_zero.png" description="天气时钟数字" />
+    </resource>
+    <resource description="gadget_weather_temp_eight" x="112" y="290" width="96" height="56" uuid="a1a58627-3d47-48a6-b98b-774cdd1a6b97">
+        <path src="res\drawable-hdpi\gadget_weather_temp_degree.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_degree.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_eight.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_eight.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_five.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_five.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_four.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_four.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_negative.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_negative.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_nine.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_nine.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_one.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_one.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_seven.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_seven.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_six.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_six.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_three.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_three.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_two.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_two.png" description="天气温度" />
+        <path src="res\drawable-hdpi\gadget_weather_temp_zero.png" description="天气温度" />
+        <path src="res\drawable-xhdpi\gadget_weather_temp_zero.png" description="天气温度" />
+    </resource>
+    <resource description="gadget_weather_a1_bg.9" x="48" y="74" width="626" height="382" uuid="d1462862-2039-4ba5-8d23-6cce6bd258ea">
+        <path src="res\drawable-hdpi\gadget_weather_a1_bg.9.png" description="天气插件背景" />
+        <path src="res\drawable-xhdpi\gadget_weather_a1_bg.9.png" description="天气插件背景" />
+    </resource>
+</screenshot>

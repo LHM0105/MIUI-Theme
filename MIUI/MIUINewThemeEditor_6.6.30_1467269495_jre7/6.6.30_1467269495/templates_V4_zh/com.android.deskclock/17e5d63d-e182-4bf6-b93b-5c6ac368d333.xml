@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.2计时器2" version="3.1.11" annotation="" tag="">
+    <resource description="timer_cirque" x="122" y="278" width="464" height="464" uuid="97cde1f0-684a-44d0-85a4-077eb0e0dae1">
+        <path src="res\drawable-hdpi\timer_cirque.png" description="计时圈  如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-xhdpi\timer_cirque.png" description="计时圈  如果修改此图 480 720需要各做一份" />
+    </resource>
+    <resource description="btn_bg_normal.9" x="364" y="904" width="284" height="112" uuid="8146b595-d374-4e73-bacb-f3b533857764">
+        <path src="res\drawable-hdpi\btn_bg_normal.9.png" description="按钮 如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-hdpi\btn_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\btn_bg_normal.9.png" description="按钮 如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-xhdpi\btn_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="btn_bg_yellow_normal.9" x="68" y="904" width="288" height="112" uuid="dbf1b826-2ab3-417f-89a5-eea431a4e0f1">
+        <path src="res\drawable-hdpi\btn_bg_yellow_normal.9.png" description="按钮 如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-hdpi\btn_bg_yellow_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\btn_bg_yellow_normal.9.png" description="按钮 如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-xhdpi\btn_bg_yellow_pressed.9.png" description="" />
+    </resource>
+    <resource description="ab_solid_light_holo.9" x="0" y="50" width="718" height="100" uuid="88bc0286-7db9-4ffd-801a-a33f41ea81e5">
+        <path src="res\drawable-hdpi\ab_solid_light_holo.9.png" description="tab背景" />
+        <path src="res\drawable-xhdpi\ab_solid_light_holo.9.png" description="tab背景" />
+    </resource>
+</screenshot>

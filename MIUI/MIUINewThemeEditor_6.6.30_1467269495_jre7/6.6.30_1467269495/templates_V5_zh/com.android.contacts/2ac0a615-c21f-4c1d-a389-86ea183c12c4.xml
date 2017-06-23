@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.2 合并完成" version="3.2.26" annotation="" tag="合并重复联系人">
+    <resource description="list_empty_no_contact" x="294" y="540" width="130" height="130" uuid="91e31b52-31a1-417b-8831-423972f3d54a">
+        <path src="res\drawable-hdpi\list_empty_no_contact.png" description="空联系人图标" />
+        <path src="res\drawable-xhdpi\list_empty_no_contact.png" description="空联系人图标" />
+        <path src="res\drawable-xxhdpi\list_empty_no_contact.png" description="空联系人图标" />
+    </resource>
+    <resource description="ic_menu_done_n" x="318" y="1140" width="80" height="90" uuid="040ad6ba-62fe-46c7-b019-54e23bd0a94c">
+        <path src="res\drawable-hdpi\ic_menu_done_n.png" description="完成图标" />
+        <path src="res\drawable-xhdpi\ic_menu_done_n.png" description="完成图标" />
+        <path src="res\drawable-xxhdpi\ic_menu_done_n.png" description="完成图标" />
+        <path src="res\drawable-hdpi\ic_menu_done_p.png" description="完成图标 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_done_p.png" description="完成图标 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_done_p.png" description="完成图标 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3.2 壁纸编辑" version="3.10.23" annotation="" tag="新 混搭">
+    <resource description="wallpaper_slider_bg" x="218" y="942" width="278" height="166" uuid="59757115-f81e-4b8d-9d1d-bc7dfef50365">
+        <path src="res\drawable-hdpi\wallpaper_slider_bg.png" description="选择壁纸背景" />
+        <path src="res\drawable-xhdpi\wallpaper_slider_bg.png" description="选择壁纸背景" />
+        <path src="res\drawable-xxhdpi\wallpaper_slider_bg.png" description="选择壁纸背景" />
+    </resource>
+    <resource description="wallpaper_slider" x="306" y="952" width="106" height="146" uuid="94d6e589-24f1-4889-ab1c-50b5ea1a70ca">
+        <path src="res\drawable-hdpi\wallpaper_slider.png" description="选择壁纸位置按钮" />
+        <path src="res\drawable-xhdpi\wallpaper_slider.png" description="选择壁纸位置按钮" />
+        <path src="res\drawable-xxhdpi\wallpaper_slider.png" description="选择壁纸位置按钮" />
+    </resource>
+    <resource description="wallpaper_detail_info_btn_n" x="40" y="1170" width="62" height="68" uuid="8468d80a-82b0-4904-9682-327207dc07a2">
+        <path src="res\drawable-hdpi\wallpaper_detail_info_btn_n.png" description="信息按钮" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_info_btn_n.png" description="信息按钮" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_info_btn_n.png" description="信息按钮" />
+        <path src="res\drawable-hdpi\wallpaper_detail_info_btn_p.png" description="信息按钮" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_info_btn_p.png" description="信息按钮" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_info_btn_p.png" description="信息按钮" />
+    </resource>
+    <resource description="wallpaper_detail_menu_btn_p" x="618" y="1170" width="62" height="68" uuid="2abd907b-6841-4943-945e-5fe58ee9fa1c">
+        <path src="res\drawable-hdpi\wallpaper_detail_menu_btn_d.png" description="展开按钮 不可按" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_menu_btn_d.png" description="展开按钮 不可按" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_menu_btn_d.png" description="展开按钮 不可按" />
+        <path src="res\drawable-hdpi\wallpaper_detail_menu_btn_n.png" description="展开按钮" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_menu_btn_n.png" description="展开按钮" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_menu_btn_n.png" description="展开按钮" />
+        <path src="res\drawable-hdpi\wallpaper_detail_menu_btn_p.png" description="展开按钮 二态" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_menu_btn_p.png" description="展开按钮 二态" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_menu_btn_p.png" description="展开按钮 二态" />
+    </resource>
+    <resource description="wallpaper_title_bar_bg.9" x="0" y="0" width="720" height="92" uuid="c1bc24fc-dddf-4b5a-b185-900a04a56f78">
+        <path src="res\drawable-hdpi\wallpaper_title_bar_bg.9.png" description="顶部背景" />
+        <path src="res\drawable-xhdpi\wallpaper_title_bar_bg.9.png" description="顶部背景" />
+        <path src="res\drawable-xxhdpi\wallpaper_title_bar_bg.9.png" description="顶部背景" />
+    </resource>
+    <resource description="wallpaper_detial_bottombar.9" x="12" y="1130" width="694" height="144" uuid="7eb26c7a-2d74-43c3-a4e9-069e00633a3f">
+        <path src="res\drawable-hdpi\wallpaper_detial_bottombar.9.png" description="底部托盘背景" />
+        <path src="res\drawable-xhdpi\wallpaper_detial_bottombar.9.png" description="底部托盘背景" />
+        <path src="res\drawable-xxhdpi\wallpaper_detial_bottombar.9.png" description="底部托盘背景" />
+    </resource>
+    <resource description="wallpaper_bottom_shade.9" x="0" y="634" width="720" height="646" uuid="7c8d5eb9-cac3-49d8-ba62-85b8c39defa1">
+        <path src="res\drawable-hdpi\wallpaper_bottom_shade.9.png" description="底部阴影背景" />
+        <path src="res\drawable-xhdpi\wallpaper_bottom_shade.9.png" description="底部阴影背景" />
+        <path src="res\drawable-xxhdpi\wallpaper_bottom_shade.9.png" description="底部阴影背景" />
+    </resource>
+    <resource description="wallpaper_op_btn_single_n" x="210" y="1158" width="286" height="84" uuid="e51546b2-2f17-4358-b14f-e19968501117">
+        <path src="res\drawable-hdpi\wallpaper_op_btn_single_n.png" description="应用按钮 常态" />
+        <path src="res\drawable-xhdpi\wallpaper_op_btn_single_n.png" description="应用按钮 常态" />
+        <path src="res\drawable-xxhdpi\wallpaper_op_btn_single_n.png" description="应用按钮 常态" />
+        <path src="res\drawable-hdpi\wallpaper_op_btn_single_p.png" description="应用按钮 二态" />
+        <path src="res\drawable-xhdpi\wallpaper_op_btn_single_p.png" description="应用按钮 二态" />
+        <path src="res\drawable-xxhdpi\wallpaper_op_btn_single_p.png" description="应用按钮 二态" />
+    </resource>
+</screenshot>

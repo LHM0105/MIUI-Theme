@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 全局列表" version="4.8.27" annotation="" tag="全局控件">
+    <resource description="preference_middle_item_bg_pressed.9" x="0" y="292" width="1080" height="136" uuid="e6ee0c0b-8e3b-4de3-b89b-f20f752df33d">
+        <path src="res\drawable-sw600dp-xhdpi\preference_first_item_bg_normal.9.png" description="设置列表_上_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_first_item_bg_normal.9.png" description="设置列表_上_常态" />
+        <path src="res\drawable-xhdpi\preference_first_item_bg_normal.9.png" description="设置列表_上_常态" />
+        <path src="res\drawable-xxhdpi\preference_first_item_bg_normal.9.png" description="设置列表_上_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_first_item_bg_pressed.9.png" description="设置列表_上_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_first_item_bg_pressed.9.png" description="设置列表_上_按下" />
+        <path src="res\drawable-xhdpi\preference_first_item_bg_pressed.9.png" description="设置列表_上_按下" />
+        <path src="res\drawable-xxhdpi\preference_first_item_bg_pressed.9.png" description="设置列表_上_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_last_item_bg_normal.9.png" description="设置列表_下_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_last_item_bg_normal.9.png" description="设置列表_下_常态" />
+        <path src="res\drawable-xhdpi\preference_last_item_bg_normal.9.png" description="设置列表_下_常态" />
+        <path src="res\drawable-xxhdpi\preference_last_item_bg_normal.9.png" description="设置列表_下_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_last_item_bg_pressed.9.png" description="设置列表_下_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_last_item_bg_pressed.9.png" description="设置列表_下_按下" />
+        <path src="res\drawable-xhdpi\preference_last_item_bg_pressed.9.png" description="设置列表_下_按下" />
+        <path src="res\drawable-xxhdpi\preference_last_item_bg_pressed.9.png" description="设置列表_下_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_middle_item_bg_normal.9.png" description="设置列表_中_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_middle_item_bg_normal.9.png" description="设置列表_中_常态" />
+        <path src="res\drawable-xhdpi\preference_middle_item_bg_normal.9.png" description="设置列表_中_常态" />
+        <path src="res\drawable-xxhdpi\preference_middle_item_bg_normal.9.png" description="设置列表_中_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_middle_item_bg_pressed.9.png" description="设置列表_中_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_middle_item_bg_pressed.9.png" description="设置列表_中_按下" />
+        <path src="res\drawable-xhdpi\preference_middle_item_bg_pressed.9.png" description="设置列表_中_按下" />
+        <path src="res\drawable-xxhdpi\preference_middle_item_bg_pressed.9.png" description="设置列表_中_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_single_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_single_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-xhdpi\preference_single_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-xxhdpi\preference_single_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\preference_single_item_bg_pressed.9.png" description="" />
+        <path src="res\drawable-sw720dp-xhdpi\preference_single_item_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\preference_single_item_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xxhdpi\preference_single_item_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="list_item_middle_bg_selected_light.9" x="0" y="680" width="1080" height="166" uuid="afedbc03-4895-45d2-95eb-87e1d6b65aab">
+        <path src="res\drawable-sw600dp-xhdpi\list_item_single_bg_normal_light.9.png" description="拨号列表_单独_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_single_bg_normal_light.9.png" description="拨号列表_单独_常态" />
+        <path src="res\drawable-xhdpi\list_item_single_bg_normal_light.9.png" description="拨号列表_单独_常态" />
+        <path src="res\drawable-xxhdpi\list_item_single_bg_normal_light.9.png" description="拨号列表_单独_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_single_bg_pressed_light.9.png" description="拨号列表_单独_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_single_bg_pressed_light.9.png" description="拨号列表_单独_按下" />
+        <path src="res\drawable-xhdpi\list_item_single_bg_pressed_light.9.png" description="拨号列表_单独_按下" />
+        <path src="res\drawable-xxhdpi\list_item_single_bg_pressed_light.9.png" description="拨号列表_单独_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_single_bg_selected_light.9.png" description="拨号列表_单独_已选" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_single_bg_selected_light.9.png" description="拨号列表_单独_已选" />
+        <path src="res\drawable-xhdpi\list_item_single_bg_selected_light.9.png" description="拨号列表_单独_已选" />
+        <path src="res\drawable-xxhdpi\list_item_single_bg_selected_light.9.png" description="拨号列表_单独_已选" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_first_bg_normal_light.9.png" description="拨号列表_上_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_first_bg_normal_light.9.png" description="拨号列表_上_常态" />
+        <path src="res\drawable-xhdpi\list_item_first_bg_normal_light.9.png" description="拨号列表_上_常态" />
+        <path src="res\drawable-xxhdpi\list_item_first_bg_normal_light.9.png" description="拨号列表_上_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_first_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_first_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xhdpi\list_item_first_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xxhdpi\list_item_first_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_first_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_first_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xhdpi\list_item_first_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xxhdpi\list_item_first_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_last_bg_normal_light.9.png" description="拨号列表_下_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_last_bg_normal_light.9.png" description="拨号列表_下_常态" />
+        <path src="res\drawable-xhdpi\list_item_last_bg_normal_light.9.png" description="拨号列表_下_常态" />
+        <path src="res\drawable-xxhdpi\list_item_last_bg_normal_light.9.png" description="拨号列表_下_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_last_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_last_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xhdpi\list_item_last_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xxhdpi\list_item_last_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_last_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_last_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xhdpi\list_item_last_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xxhdpi\list_item_last_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_middle_bg_normal_light.9.png" description="拨号列表_中_常态" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_middle_bg_normal_light.9.png" description="拨号列表_中_常态" />
+        <path src="res\drawable-xhdpi\list_item_middle_bg_normal_light.9.png" description="拨号列表_中_常态" />
+        <path src="res\drawable-xxhdpi\list_item_middle_bg_normal_light.9.png" description="拨号列表_中_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_middle_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_middle_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xhdpi\list_item_middle_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-xxhdpi\list_item_middle_bg_pressed_light.9.png" description="拨号列表_上_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_middle_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-sw720dp-xhdpi\list_item_middle_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xhdpi\list_item_middle_bg_selected_light.9.png" description="拨号列表_上_已选" />
+        <path src="res\drawable-xxhdpi\list_item_middle_bg_selected_light.9.png" description="拨号列表_上_已选" />
+    </resource>
+    <resource description="action_bar_bg_light.9" x="0" y="0" width="1078" height="192" uuid="017b8dca-cfdc-4c65-8847-3b80b587f7d7">
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_bg_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_bar_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bar_bg_light.9.png" description="" />
+    </resource>
+</screenshot>

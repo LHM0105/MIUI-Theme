@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="防打扰" version="2.9.16" annotation="" tag="">
+    <resource description="secondary_tab_right_pressed.9.png" x="76" y="162" width="564" height="76" uuid="4e54d67f-092e-4253-b686-0084e0ca3d19">
+        <path src="res\drawable-hdpi\secondary_tab_left_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\secondary_tab_left_pressed.9.png" description="" />
+        <path src="res\drawable-hdpi\secondary_tab_middle_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\secondary_tab_middle_pressed.9.png" description="" />
+        <path src="res\drawable-hdpi\secondary_tab_right_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\secondary_tab_right_pressed.9.png" description="" />
+    </resource>
+</screenshot>

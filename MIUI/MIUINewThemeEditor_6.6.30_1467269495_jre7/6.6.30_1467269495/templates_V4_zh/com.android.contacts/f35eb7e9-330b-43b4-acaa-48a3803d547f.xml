@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 群组添加联系人" version="3.1.11" annotation="" tag="群组">
+    <resource description="ic_menu_group_add_members" x="624" y="74" width="68" height="52" uuid="8c297dee-e8d3-423f-9319-c5ebaee3ec48">
+        <path src="res\drawable-hdpi\ic_menu_group_add_members.png" description="添加按钮" />
+    </resource>
+</screenshot>

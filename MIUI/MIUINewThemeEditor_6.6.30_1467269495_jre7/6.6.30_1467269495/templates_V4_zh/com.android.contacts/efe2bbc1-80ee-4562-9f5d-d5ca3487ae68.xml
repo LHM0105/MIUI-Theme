@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 全部联系人列表" version="2.9.16" annotation="" tag="全部联系人">
+    <resource description="ic_menu_dialpad.png" x="312" y="1188" width="94" height="85" uuid="b9ba63e2-76b9-4704-b9f7-08ddbf728d90">
+        <path src="res\drawable-xhdpi\ic_menu_dialpad.png" description="拨号" />
+    </resource>
+    <resource description="ic_menu_search.png" x="15" y="1188" width="85" height="83" uuid="fc841152-0ee5-44a7-9507-e56f27e1c7cf">
+        <path src="res\drawable-xhdpi\ic_menu_search.png" description="搜索联系人" />
+    </resource>
+    <resource description="ic_menu_add_contact.png" x="612" y="1190" width="85" height="83" uuid="d8293c48-e6f8-4b52-bd57-b56e358dcf15">
+        <path src="res\drawable-xhdpi\ic_menu_add_contact.png" description="添加联系人" />
+    </resource>
+</screenshot>

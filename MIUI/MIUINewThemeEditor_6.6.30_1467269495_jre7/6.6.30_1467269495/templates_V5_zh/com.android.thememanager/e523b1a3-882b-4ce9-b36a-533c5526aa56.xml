@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 转化主题" version="3.4.10" annotation="" tag="旧 主题">
+    <resource description="ic_menu_batch_import_stop_p" x="318" y="1140" width="80" height="90" uuid="82db4fb7-28a7-4042-876e-6c3af114c473">
+        <path src="res\drawable-hdpi\ic_menu_batch_import_start_d.png" description="转化 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_start_d.png" description="转化 不可按" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_start_d.png" description="转化 不可按" />
+        <path src="res\drawable-hdpi\ic_menu_batch_import_start_n.png" description="转化 常态" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_start_n.png" description="转化 常态" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_start_n.png" description="转化 常态" />
+        <path src="res\drawable-hdpi\ic_menu_batch_import_start_p.png" description="转化 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_start_p.png" description="转化 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_start_p.png" description="转化 二态" />
+        <path src="res\drawable-hdpi\ic_menu_batch_import_stop_d.png" description="停止转化 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_stop_d.png" description="停止转化 不可按" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_stop_d.png" description="停止转化 不可按" />
+        <path src="res\drawable-hdpi\ic_menu_batch_import_stop_n.png" description="停止转化 常态" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_stop_n.png" description="停止转化 常态" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_stop_n.png" description="停止转化 常态" />
+        <path src="res\drawable-hdpi\ic_menu_batch_import_stop_p.png" description="停止转化 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_batch_import_stop_p.png" description="停止转化 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_batch_import_stop_p.png" description="停止转化 二态" />
+    </resource>
+    <resource description="resource_thumbnail_bg.9" x="16" y="144" width="219" height="344" uuid="ea118608-99bc-4187-9a26-0c79b45cd691">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg.9.png" description="载入中背景" />
+        <path src="res\drawable-xhdpi\resource_thumbnail_bg.9.png" description="载入中背景" />
+        <path src="res\drawable-xxhdpi\resource_thumbnail_bg.9.png" description="载入中背景" />
+    </resource>
+    <resource description="untranslate_import_resource_thumbnail_mask.9" x="30" y="180" width="186" height="299" uuid="114189dc-24b8-4f17-a42c-02c166f58fdd">
+        <path src="res\drawable-hdpi\untranslate_import_resource_thumbnail_mask.9.png" description="背景遮罩" />
+        <path src="res\drawable-xxhdpi\untranslate_import_resource_thumbnail_mask.9.png" description="背景遮罩" />
+    </resource>
+</screenshot>

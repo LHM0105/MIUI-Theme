@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="tab_text_color_unfocused">#ff006666</color>
+<color name="tab_text_color_focused">#ffcc6600</color>
+</MIUI_Theme_Values>

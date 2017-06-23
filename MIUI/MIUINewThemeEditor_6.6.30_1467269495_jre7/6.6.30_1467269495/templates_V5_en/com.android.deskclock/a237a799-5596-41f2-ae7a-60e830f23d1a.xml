@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Clock" version="3.4.12" annotation="" tag="">
+    <resource description="clock_hand_minute" x="599" y="1018" width="71" height="73" uuid="e7ad3966-9803-4865-97e8-d48a8e4b1dd2">
+        <path src="res\drawable-hdpi\clock_dial.png" description="白天时钟背景" />
+        <path src="res\drawable-xhdpi\clock_dial.png" description="白天时钟背景" />
+        <path src="res\drawable-hdpi\clock_hand_hour.png" description="晚上时钟时针" />
+        <path src="res\drawable-xhdpi\clock_hand_hour.png" description="晚上时钟时针" />
+        <path src="res\drawable-hdpi\clock_hand_minute.png" description="晚上时钟分针" />
+        <path src="res\drawable-xhdpi\clock_hand_minute.png" description="晚上时钟分针" />
+    </resource>
+    <resource description="clock_hand_minute_black" x="604" y="888" width="69" height="72" uuid="5a480d7b-ff1d-4697-80d9-3e2959f3c7a2">
+        <path src="res\drawable-hdpi\clock_dial_black.png" description="晚上时钟背景" />
+        <path src="res\drawable-xhdpi\clock_dial_black.png" description="晚上时钟背景" />
+        <path src="res\drawable-hdpi\clock_hand_hour_black.png" description="白天时钟时针" />
+        <path src="res\drawable-xhdpi\clock_hand_hour_black.png" description="白天时钟时针" />
+        <path src="res\drawable-hdpi\clock_hand_minute_black.png" description="白天时钟分针" />
+        <path src="res\drawable-xhdpi\clock_hand_minute_black.png" description="白天时钟分针" />
+    </resource>
+    <resource description="default_clock_second_shadow" x="300" y="292" width="278" height="234" uuid="bae72599-71d9-4131-b076-bd9ab8116389">
+        <path src="res\drawable-hdpi\default_clock_hour.png" description="时针" />
+        <path src="res\drawable-xhdpi\default_clock_hour.png" description="时针" />
+        <path src="res\drawable-hdpi\default_clock_hour_shadow.png" description="时针 阴影" />
+        <path src="res\drawable-xhdpi\default_clock_hour_shadow.png" description="时针 阴影" />
+        <path src="res\drawable-hdpi\default_clock_minute.png" description="分针" />
+        <path src="res\drawable-xhdpi\default_clock_minute.png" description="分针" />
+        <path src="res\drawable-hdpi\default_clock_minute_shadow.png" description="分针 阴影" />
+        <path src="res\drawable-xhdpi\default_clock_minute_shadow.png" description="分针 阴影" />
+        <path src="res\drawable-hdpi\default_clock_second.png" description="秒针" />
+        <path src="res\drawable-xhdpi\default_clock_second.png" description="秒针" />
+        <path src="res\drawable-hdpi\default_clock_second_shadow.png" description="秒针 阴影" />
+        <path src="res\drawable-xhdpi\default_clock_second_shadow.png" description="秒针 阴影" />
+    </resource>
+    <resource description="default_clock_dial_shadow" x="84" y="200" width="542" height="542" uuid="dfe34ddf-815a-45fd-b109-1a8503619cf3">
+        <path src="res\drawable-hdpi\default_clock_dial.png" description="时钟表盘" />
+        <path src="res\drawable-xhdpi\default_clock_dial.png" description="时钟表盘" />
+        <path src="res\drawable-hdpi\default_clock_dial_shadow.png" description="时钟表盘阴影" />
+        <path src="res\drawable-xhdpi\default_clock_dial_shadow.png" description="时钟表盘阴影" />
+    </resource>
+    <resource description="clock_main_bg" x="0" y="138" width="702" height="708" uuid="0c46c4ec-9e57-45b0-ad62-48c879dd0508">
+        <path src="res\drawable-hdpi\clock_main_bg.png" description="时钟分页背景" />
+        <path src="res\drawable-xhdpi\clock_main_bg.png" description="时钟分页背景" />
+        <path src="res\drawable-xhdpi\default_clock_panel_shadow.png" description="时钟背景阴影" />
+    </resource>
+    <resource description="v5_bottom_bar_bg_light" x="0" y="1132" width="712" height="144" uuid="73c0f84c-9645-4ba4-9b6a-7272bff6453c">
+        <path src="res\drawable-hdpi\v5_bottom_bar_bg_light.png" description="底拦背景" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_bg_light.png" description="底拦背景" />
+    </resource>
+    <resource description="item_inner_divider" x="240" y="900" width="25" height="46" uuid="76c11360-844b-40b6-8ab3-8f4775fc0876">
+        <path src="res\drawable-hdpi\item_inner_divider.png" description="分割线" />
+        <path src="res\drawable-xhdpi\item_inner_divider.png" description="分割线" />
+    </resource>
+    <resource description="duration_pressed_dot" x="42" y="896" width="140" height="60" uuid="5f015edc-dad1-43ba-9db8-a0618a166644" />
+</screenshot>

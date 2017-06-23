@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="action_button_text_color_pressed_light">#cc448a5c</color>
+<color name="action_bar_tab_text_color_pressed_light">#fffefefe</color>
+<color name="action_bar_tab_settings_text_color_pressed_light">#fffffffe</color>
+<color name="action_mode_title_button_text_color_pressed_light">#fffffffe</color>
+<color name="list_secondary_text_color_pressed_light">#99000001</color>
+<color name="edit_text_color_light">#cc000001</color>
+<color name="dialog_list_text_color_pressed_light">#cc000001</color>
+<color name="dropdown_popup_list_text_color_normal_light">#cc000001</color>
+<color name="action_button_text_color_disable_light">#4d748177</color>
+<color name="list_secondary_text_color_normal_light">#99000001</color>
+<color name="dialog_list_text_color_disabled_light">#33000001</color>
+<color name="action_bar_title_text_color_light">#fffefefe</color>
+<color name="alphabet_indexer_text_color">#66000001</color>
+<color name="dropdown_popup_list_text_color_pressed_light">#cc000001</color>
+<color name="dialog_list_text_color_normal_light">#cc000001</color>
+<color name="list_text_color_disable_light">#66000001</color>
+<color name="immersion_window_background_light">#ffecf3e99</color>
+<color name="action_button_text_color_selected_light">#ccd66c2c</color>
+<color name="action_bar_tab_text_color_selected_light">#fffefefe</color>
+<color name="alphabet_indexer_activated_text_color">#99000001</color>
+<color name="action_mode_button_text_color_pressed_light">#cc2c7f3f</color>
+<color name="alphabet_indexer_highlight_text_color">#fffffffe</color>
+<color name="dropdown_popup_list_text_color_disabled_light">#33000001</color>
+<color name="action_bar_tab_settings_text_color_selected_light">#fffffffe</color>
+<color name="action_bar_tab_settings_text_color_disable_light">#66fffffe</color>
+<color name="action_mode_title_default_button_text_color_normal_light">#fffffffe</color>
+<color name="dialog_message_text_color_light">#b2000001</color>
+<color name="action_mode_title_default_button_text_color_disable_light">#4dfffffe</color>
+<color name="action_bar_tab_text_color_normal_light">#99fefefe</color>
+<color name="action_mode_title_text_color_light">#fffefefe</color>
+<color name="action_bar_subtitle_text_light">#7ffefefe</color>
+<color name="dialog_title_text_color">#ff000001</color>
+<color name="action_button_text_color_normal_light">#ff498657</color>
+<color name="action_mode_button_text_color_normal_light">#ff498657</color>
+<color name="action_mode_button_text_color_disable_light">#7f748177</color>
+<color name="action_bar_tab_settings_text_color_normal_light">#99fffffe</color>
+<color name="alphabet_indexer_overlay_text_color">#fffffffe</color>
+<color name="action_mode_title_button_text_color_normal_light">#ffffffff</color>
+<color name="action_mode_button_text_color_selected_light">#cced6623</color>
+<color name="list_secondary_text_color_disable_light">#33000001</color>
+</MIUI_Theme_Values>

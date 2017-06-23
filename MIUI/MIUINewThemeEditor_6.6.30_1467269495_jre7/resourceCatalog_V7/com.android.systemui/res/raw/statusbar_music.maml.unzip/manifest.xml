@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Statusbar version="1" frameRate="0" resDensity="480" scaleByDensity="true" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <!--手机纵向-->
+    <Group visibility="le(#mode,1)*not(#is_tablet)">
+        <MusicControl name="music_control" x="0" y="0" autoShow="true" enableProgress="true" frameRate="0">
+            <Var name="progress" expression="ifelse(#music_control.music_state,ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0),#progress)" />
+            <Var name="not_third" expression="ne(#music_control.player_type,2)" />
+            <Var name="show_no_title" expression="isnull(@music_control.title)*#not_third" />
+            <Var name="music_title" expression="ifelse(#not_third,@music_control.title,@music_control.player_name)" type="string"/>
+
+            <Text x="52" y="#view_height-278" size="40" color="#b3ffffff" alignV="bottom" text="@no_title" visibility="#show_no_title"/>
+            <Text x="52" y="#view_height-228" size="30" color="#4dffffff" alignV="bottom" text="@no_artist" visibility="#show_no_title"/>
+            <Text x="52" y="#view_height-278" w="#view_width-104" size="40" color="#b3ffffff" alignV="bottom" format="%s" paras="@music_title"/>
+            <Text x="52" y="#view_height-228" w="#view_width-104" size="30" color="#4dffffff" alignV="bottom" format="%s" paras="@music_control.artist" visibility="#not_third"/>
+            <Button name="music_prev" x="0" y="0" w="0" h="0" visibility="not(#show_no_title)">
+            </Button>
+
+            <Button name="music_next" x="200" y="#view_height-188" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'next_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="130" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="130" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_next.png" x="65" y="96" alpha="204" alignV="bottom" />
+            </Button>
+
+            <Button name="music_play" x="32" y="#view_height-188" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'play_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="130" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="130" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_play.png" x="63" y="96" alignV="bottom" loadSync="true"/>
+            </Button>
+
+            <Button name="music_pause" x="32" y="#view_height-188" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'pause_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="130" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="130" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_pause.png" x="59" y="95" alignV="bottom" />
+            </Button>
+
+            <Group x="107" y="#view_height-113.4" w="120" h="120" align="center" alignV="center" layered="true" visibility="not(#show_no_title)">
+                <Image x="60" y="60" align="center" alignV="center" src="play_progress.png" />
+                <Arc x="60" y="60" w="120" h="120" startAngle="-90" sweep="-360*(1-#progress)" close="true" fillColor="#ff000000" xfermode="clear"/>
+            </Group>
+
+            <Button x="0" y="0" w="#view_width" h="#view_height-188" visibility="#not_third">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'enter_music'"/>
+                        <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+                        <IntentCommand action="android.intent.action.MAIN" category="android.intent.category.LAUNCHER" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)"/>
+                        <ExternCommand command="statusbar_collapse_and_unlock"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Button x="350" y="#view_height-188" w="#view_width-350" h="188" visibility="#not_third">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'enter_music'"/>
+                        <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+                        <IntentCommand action="android.intent.action.MAIN" category="android.intent.category.LAUNCHER" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)"/>
+                        <ExternCommand command="statusbar_collapse_and_unlock"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Image src="botton_n.png" x="220" y="#view_height-58" alpha="64" alignV="bottom" visibility="#show_no_title" />
+            <Image src="music_next.png" x="265" y="#view_height-92" alpha="64" alignV="bottom" visibility="#show_no_title" />
+            <Image src="botton_n.png" x="52" y="#view_height-58" alpha="64" alignV="bottom" visibility="#show_no_title" />
+            <Image src="music_pause.png" x="91" y="#view_height-93" alpha="64" alignV="bottom" visibility="#show_no_title" />
+        </MusicControl>
+    </Group>
+
+
+    <!--横向戓者平板-->
+    <Group visibility="ge(#mode,2)+#is_tablet">
+        <MusicControl name="music_control" x="0" y="0" autoShow="true" enableProgress="true" frameRate="0">
+            <Var name="progress" expression="ifelse(#music_control.music_state,ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0),#progress)" />
+            <Var name="not_third" expression="ne(#music_control.player_type,2)" />
+            <Var name="show_no_title" expression="isnull(@music_control.title)*#not_third" />
+            <Var name="music_title" expression="ifelse(#not_third,@music_control.title,@music_control.player_name)" type="string"/>
+
+            <Text x="0" y="#view_height-93-ifelse(#is_tablet,55,0)" size="40+ifelse(#is_tablet,24,0)" color="#b3ffffff" alignV="bottom" text="@no_title" visibility="#show_no_title"/>
+            <Text x="0" y="#view_height-43-ifelse(#is_tablet,43,0)" size="30+ifelse(#is_tablet,12,0)" color="#4dffffff" alignV="bottom" text="@no_artist" visibility="#show_no_title"/>    
+            <Text x="0" y="#view_height-93-ifelse(#is_tablet,55,0)" w="#view_width-336" size="40+ifelse(#is_tablet,24,0)" color="#b3ffffff" alignV="bottom" format="%s" paras="@music_title"/>
+            <Text x="0" y="#view_height-43-ifelse(#is_tablet,43,0)" w="#view_width-336" size="30+ifelse(#is_tablet,12,0)" color="#4dffffff" alignV="bottom" format="%s" paras="@music_control.artist" visibility="#not_third"/>
+            <Button name="music_prev" x="0" y="0" w="0" h="0" visibility="not(#show_no_title)">
+            </Button>
+
+            <Button name="music_next" x="#view_width-130" y="#view_height-178-ifelse(#is_tablet,43,0)" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'next_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="140" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="140" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_next.png" x="65" y="106" alpha="204" alignV="bottom" />
+            </Button>
+
+            <Button name="music_play" x="#view_width-298" y="#view_height-178-ifelse(#is_tablet,43,0)" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'play_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="140" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="140" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_play.png" x="63" y="106" alignV="bottom" />
+            </Button>
+
+            <Button name="music_pause" x="#view_width-298" y="#view_height-178-ifelse(#is_tablet,43,0)" w="150" h="150" visibility="not(#show_no_title)" alignChildren="true">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'pause_music'"/>
+                    </Trigger>
+                </Triggers>
+                <Normal>
+                    <Image src="botton_n.png" x="20" y="140" alpha="76.5" alignV="bottom" />
+                </Normal>
+                <Pressed>
+                    <Image src="botton_p.png" x="20" y="140" alignV="bottom" /> 
+                </Pressed>
+                <Image src="music_pause.png" x="59" y="105" alignV="bottom" />
+            </Button>
+
+            <Group x="#view_width-223" y="#view_height-93-ifelse(#is_tablet,43,0)" w="120" h="120" align="center" alignV="center" layered="true" visibility="not(#show_no_title)">
+                <Image x="60" y="60" align="center" alignV="center" src="play_progress.png" />
+                <Arc x="60" y="60" w="120" h="120" startAngle="-90" sweep="-360*(1-#progress)" close="true" fillColor="#ff000000" xfermode="clear"/>
+            </Group>
+
+            <Button x="0" y="0" w="#view_width-278" h="#view_height" visibility="#not_third">
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="statusbar_music_clicked" strPara="'enter_music'"/>
+                        <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+                        <IntentCommand action="android.intent.action.MAIN" category="android.intent.category.LAUNCHER" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)*not(#is_tablet)"/>
+                        <IntentCommand action="android.intent.action.MAIN" category="android.intent.category.LAUNCHER" package="com.miui.player" class="com.miui.player.pad.ui.MusicMainActivity" condition="isnull(@music_control.title)*#is_tablet"/>
+                        <ExternCommand command="statusbar_collapse_and_unlock"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Image src="botton_n.png" x="#view_width-110" y="#view_height-38-ifelse(#is_tablet,43,0)" alpha="64" alignV="bottom" visibility="#show_no_title"  />
+            <Image src="music_next.png" x="#view_width-65" y="#view_height-72-ifelse(#is_tablet,43,0)" alpha="64" alignV="bottom" visibility="#show_no_title"  />
+            <Image src="botton_n.png" x="#view_width-278" y="#view_height-38-ifelse(#is_tablet,43,0)" alpha="64" alignV="bottom" visibility="#show_no_title"  />
+            <Image src="music_pause.png" x="#view_width-239" y="#view_height-73-ifelse(#is_tablet,43,0)" alpha="64" alignV="bottom" visibility="#show_no_title"  />
+        </MusicControl>
+    </Group>
+</Statusbar>

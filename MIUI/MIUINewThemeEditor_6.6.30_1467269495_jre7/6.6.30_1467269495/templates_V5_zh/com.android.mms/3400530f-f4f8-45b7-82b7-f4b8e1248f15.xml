@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1.1 新建短信1" version="2.12.27" annotation="调整message_edit_bottom_panel.9.png高度，&lt;br\&gt;&#xA;还需修改占位图top_place_holder_compose_msg_one_row.9.png高度" tag="短信会话界面">
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1160" width="718" height="112" uuid="68e18645-3e62-4fed-bb51-97dd3a553ec2">
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+    </resource>
+    <resource description="send_btn_p.png" x="642" y="1184" width="68" height="72" uuid="fb705f2a-56d3-45b5-836d-dad76f52fcb2">
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="发送按钮 按下" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="发送按钮 按下" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="21" y="155" width="189" height="77" uuid="6491d447-16fa-46db-beda-8990512d0eb8">
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_n.9.png" description="快捷回复联系人" />
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_n.9.png" description="快捷回复联系人" />
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_p.9.png" description="快捷回复联系人 二态" />
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_p.9.png" description="快捷回复联系人 二态" />
+    </resource>
+    <resource description="insert_attachment_button_n" x="11" y="1181" width="64" height="79" uuid="313fa089-3795-4160-916b-27c25eba982b">
+        <path src="res\drawable-xhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+    </resource>
+    <resource description="recipient_view_bg_normal.9" x="254" y="68" width="119" height="52" uuid="9be9fd57-c458-43c8-92ee-82365fc7f792">
+        <path src="res\drawable-xhdpi\recipient_view_bg_normal.9.png" description="联系人背景" />
+        <path src="res\drawable-xxhdpi\recipient_view_bg_normal.9.png" description="联系人背景" />
+        <path src="res\drawable-xhdpi\recipient_view_bg_pressed.9.png" description="联系人背景 二态" />
+        <path src="res\drawable-xxhdpi\recipient_view_bg_pressed.9.png" description="联系人背景 二态" />
+    </resource>
+    <resource description="mi_recipient_view_bg_normal.9" x="95" y="68" width="151" height="52" uuid="c5b44bfe-8d05-4e1a-925c-13d7d47b8ba9">
+        <path src="res\drawable-xhdpi\mi_recipient_view_bg_normal.9.png" description="网络短信联系人" />
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_normal.9.png" description="网络短信联系人" />
+        <path src="res\drawable-xhdpi\mi_recipient_view_bg_pressed.9.png" description="网络短信联系人 二态" />
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_pressed.9.png" description="网络短信联系人 二态" />
+    </resource>
+    <resource description="recipients_editor_bg.9" x="83" y="60" width="546" height="72" uuid="1f7f5afe-800b-4a24-8418-ae3b20f7798b">
+        <path src="res\drawable-xhdpi\recipients_editor_bg.9.png" description="联系人选择，输入框" />
+        <path src="res\drawable-xxhdpi\recipients_editor_bg.9.png" description="联系人选择，输入框" />
+    </resource>
+    <resource description="add_recipients_normal" x="646" y="60" width="56" height="66" uuid="429650d0-d300-4482-b690-2011df656d56">
+        <path src="res\drawable-xhdpi\add_recipients_normal.png" description="选择联系人图标" />
+        <path src="res\drawable-xxhdpi\add_recipients_normal.png" description="选择联系人图标" />
+        <path src="res\drawable-xhdpi\add_recipients_pressed.png" description="选择联系人图标 二态" />
+        <path src="res\drawable-xxhdpi\add_recipients_pressed.png" description="选择联系人图标 二态" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="4" y="144" width="712" height="192" uuid="59a5ae47-1864-4193-90ec-ed4812486cb3">
+        <path src="res\drawable-xhdpi\recent_contact_list_bg.9.png" description="快捷回复联系人背景" />
+        <path src="res\drawable-xxhdpi\recent_contact_list_bg.9.png" description="快捷回复联系人背景" />
+    </resource>
+    <resource description="recent_contact_divider.9" x="227" y="155" width="21" height="171" uuid="7828349c-9184-4d79-a8d8-abd6fe5ab376">
+        <path src="res\drawable-xhdpi\recent_contact_divider.9.png" description="平铺分割线" />
+        <path src="res\drawable-xxhdpi\recent_contact_divider.9.png" description="平铺分割线" />
+    </resource>
+    <resource description="title_bar_bg_one_row.9" x="6" y="48" width="712" height="92" uuid="b7d0e519-2311-476a-add8-a303536f7eae">
+        <path src="res\drawable-xhdpi\title_bar_bg_one_row.9.png" description="一排联系人时背景" />
+        <path src="res\drawable-xxhdpi\title_bar_bg_one_row.9.png" description="一排联系人时背景" />
+    </resource>
+    <resource description="top_place_holder_compose_msg_one_row.9" x="54" y="54" width="25" height="79" uuid="f463f4d5-1d4c-4fa3-8cec-abfd267c426c">
+        <path src="res\drawable-xhdpi\top_place_holder_compose_msg_one_row.9.png" description="占位图，用于控制title_bar_bg_one_row.9 与下方图片的距离" />
+        <path src="res\drawable-xxhdpi\top_place_holder_compose_msg_one_row.9.png" description="占位图，用于控制title_bar_bg_one_row.9 与下方图片的距离" />
+    </resource>
+    <resource description="recipient_editor_bg.9" x="382" y="68" width="140" height="52" uuid="d70aa25f-6bfc-4f70-92b3-789922242d20">
+        <path src="res\drawable-xhdpi\recipient_editor_bg.9.png" description="未添加联系人背景" />
+        <path src="res\drawable-xxhdpi\recipient_editor_bg.9.png" description="未添加联系人背景" />
+    </resource>
+    <resource description="message_list_bottom_foreground" x="0" y="1006" width="716" height="148" uuid="35abe2ff-559b-4d76-94cf-97c714999669">
+        <path src="res\drawable-hdpi\message_list_bottom_foreground.png" description="输入框上方遮罩图" />
+        <path src="res\drawable-xhdpi\message_list_bottom_foreground.png" description="输入框上方遮罩图" />
+    </resource>
+</screenshot>

@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="text_edit_action_popup_text_normal">#d9000000</color>
+<color name="text_edit_action_popup_text_pressed">#ff0091dc</color>
+<color name="detail_title_unit">#99000000</color>
+<color name="detail_title_secondary">#7f000000</color>
+<color name="item_high_light_blue">#ff1488d1</color>
+<color name="item_high_light_blue_secondary">#ff1381c6</color>
+<color name="item_high_light_secondary">#fff55200</color>
+<color name="tax_si_text">#b2000000</color>
+<color name="tab_text_n">#66000000</color>
+<color name="tab_text_s">#cc000000</color>
+<color name="grid_item_bg">#ff413735</color>
+<color name="divider_item">#26000000</color>
+<color name="grid_bg">#ff3d3331</color>
+<color name="tv_color">#ff535353</color>
+<color name="conversion_bg">#fff1f3f2</color>
+<color name="textview_pressed">#ffff5d00</color>
+<color name="actionbar_bg">#fff1f3f3</color>
+<color name="convert_disabled">#05000000</color>
+<color name="convert_high_light">#e6ff5d00</color>
+<color name="convert_unit_short">#99000000</color>
+<color name="convert_unit_display">#cc000000</color>
+<color name="item_bg">#ffffffff</color>
+<color name="item_bg_p">#ffdadde0</color>
+<color name="item_high_light">#ffff5d00</color>
+<color name="button_text">#ff979ca4</color>
+<color name="show_screen_display_color">#ff46494d</color>
+<color name="cal_equation">#e6000000</color>
+<color name="show_screen_history_color">#ff969ba3</color>
+<color name="cal_result_realtime">#4d000000</color>
+<color name="button_equal_text_color">#f2ffffff</color>
+<color name="cal_result">#e6000000</color>
+<color name="cal_history">#99000000</color>
+<color name="update_time_currency">#66000000</color>
+<color name="update_time_tax">#80000000</color>
+<color name="btn_pad_number_n">#ff595d66</color>
+<color name="detail_captital">#66000000</color>
+<color name="word_figure_text">#e6000000</color>
+<color name="btn_pad_number_d">#4d595d66</color>
+<color name="convert_unit_value">#cc000000</color>
+<color name="grid_item_border">#ff5e5653</color>
+<color name="high_light_orange">#ffff5d00</color>
+<color name="grid_item_text">#ff797470</color>
+<bool name="is_international">false</bool>
+<integer name="max_digits">#0000000e</integer>
+<dimen name="title_menu_margin_left">18.000000dp</dimen>
+<dimen name="wf_number_size_normal">40.000000sp</dimen>
+<dimen name="convert_unit_display">24.000000sp</dimen>
+<dimen name="list_padding_vertical">23.299988dp</dimen>
+<dimen name="convert_unit_name_size">12.500000sp</dimen>
+<dimen name="list_padding_horizontal">23.299988dp</dimen>
+<dimen name="btn_pad_number">23.000000sp</dimen>
+<dimen name="convert_view_height">255.000000dp</dimen>
+<dimen name="cal_maring_left">26.000000dp</dimen>
+<dimen name="btn_pad_ok">15.000000sp</dimen>
+<dimen name="button_scien_fun_size">25.000000dp</dimen>
+<dimen name="screen_top_history_margin_top">34.000000dp</dimen>
+<dimen name="button_fun_scientific_size">24.000000dp</dimen>
+<dimen name="screen_switch_btn_margin_border">27.000000dp</dimen>
+<dimen name="button_normal_scientific_pad_size">20.000000dp</dimen>
+<dimen name="convert_margin_left">20.000000dp</dimen>
+<dimen name="martgage_padding_left">24.000000dp</dimen>
+<dimen name="martgage_padding_right">24.000000dp</dimen>
+<dimen name="martgage_item_height">40.000000dp</dimen>
+<dimen name="martgage_loan_et_width">80.000000dp</dimen>
+<dimen name="martgage_gap">5.000000dp</dimen>
+<dimen name="button_normal_size">45.000000dp</dimen>
+<dimen name="convert_value_margin_left">10.000000dp</dimen>
+<dimen name="convert_value_size">27.000000sp</dimen>
+<dimen name="cal_result_r_margin_top">85.000000dp</dimen>
+<dimen name="text_edit_action_popup_text_size">13.000000sp</dimen>
+<dimen name="cal_history_margin_top">20.699982dp</dimen>
+<dimen name="convert_unit_short_size">12.500000sp</dimen>
+<dimen name="cal_history_out_margin_top">16777201.000000dp</dimen>
+<dimen name="currency_update_time_margin_bottom">5.000000dp</dimen>
+<dimen name="display_text_view_width">632.000000dp</dimen>
+<dimen name="cal_opt_margin_right">14.000000dp</dimen>
+<dimen name="screen_display_margin_bottom">0.000000dp</dimen>
+<dimen name="cal_typing_line_margin_bottom">226.000000dp</dimen>
+<dimen name="screen_text_margin_border">40.000000dp</dimen>
+<dimen name="cal_typing_line_margin_top">124.329987dp</dimen>
+<dimen name="history_display_off_set">23.000000dp</dimen>
+<dimen name="display_text_size">75.000000dp</dimen>
+<dimen name="convert_content_margin_horizontal">20.000000dp</dimen>
+<dimen name="history_text_size">40.000000dp</dimen>
+<dimen name="convert_content_height">255.000000dp</dimen>
+<dimen name="button_clear_size">40.000000dp</dimen>
+<dimen name="currency_update_time">11.000000sp</dimen>
+<dimen name="button_fun_size">50.000000dp</dimen>
+<dimen name="cal_maring_right">26.000000dp</dimen>
+<dimen name="display_history_margin_result">0.000000dp</dimen>
+<dimen name="cal_equation_margin_top">48.000000dp</dimen>
+<dimen name="cal_equation_r_margin_top">57.299988dp</dimen>
+<dimen name="cal_primary">52.000000sp</dimen>
+<dimen name="cal_secondary">24.000000sp</dimen>
+<dimen name="cal_result_margin_top">115.000000dp</dimen>
+<dimen name="martgage_num_marginTop">30.000000dp</dimen>
+<dimen name="wf_word_size_normal">37.000000sp</dimen>
+<dimen name="tax_si_margin_left">28.000000dp</dimen>
+<dimen name="tax_si_text_size">13.500000sp</dimen>
+<dimen name="menu_popup_margin_horizontal">15.000000dp</dimen>
+<dimen name="tax_si_width">68.000000dp</dimen>
+<string name="choose_currency">选择币种</string>
+<string name="rate_data_provider">利率数据由和讯提供</string>
+<string name="unit_data_display_currency_cnh">离岸人民币</string>
+<string name="unit_data_default_currency_2">EUR</string>
+<string name="unit_data_default_currency_1">USD</string>
+<string name="unit_data_default_currency_0">CNY</string>
+<string name="unit_data_display_length_km">千米</string>
+<string name="unit_data_display_length_m">米</string>
+<string name="unit_data_default_length_1">cm</string>
+<string name="unit_data_default_length_0">m</string>
+<string name="cal_result_format">%s</string>
+<string name="convertion_unit_weight">重量单位换算</string>
+<string name="cal_copy">复制</string>
+<string name="cal_edit_mode">编辑模式</string>
+<string name="cal_text_copied">文本已复制</string>
+<string name="cal_convert_to_word_figure">转换为大写数字</string>
+<string name="convertion_unit_length">长度单位换算</string>
+<string name="convertion_unit">单位换算</string>
+<string name="convertion_unit_volume">体积单位换算</string>
+<string name="convertion_unit_area">面积单位换算</string>
+<string name="unit_data_display_length_pc">秒差距</string>
+<string name="unit_data_short_length_um">μm</string>
+<string name="unit_data_display_length_au">天文单位</string>
+<string name="unit_data_display_length_ld">月球距离</string>
+<string name="unit_data_display_length_pm">皮米</string>
+<string name="unit_data_display_length_um">微米</string>
+<string name="unit_data_display_length_nm">纳米</string>
+<string name="unit_data_display_length_cm">厘米</string>
+<string name="unit_data_display_length_mm">毫米</string>
+<string name="unit_data_display_length_cun">寸</string>
+<string name="unit_data_display_length_chi">尺</string>
+<string name="unit_data_short_length_gongli">gongli</string>
+<string name="unit_data_short_length_au">⊙</string>
+<string name="unit_data_short_length_nmi">nmi</string>
+<string name="unit_data_short_length_mi">mi</string>
+<string name="unit_data_short_length_ft">ft</string>
+<string name="unit_data_short_length_in">in</string>
+<string name="unit_data_display_length_in">英寸</string>
+<string name="unit_data_display_length_ft">英尺</string>
+<string name="unit_data_display_length_yd">码</string>
+<string name="currency_update_time_format">%s</string>
+<string name="choose_unit">选择单位</string>
+<string name="convertion_unit_velocity">速度单位换算</string>
+<string name="convertion_unit_temperature">温度单位换算</string>
+<string name="convertion_unit_time">时间单位换算</string>
+<string name="convert_currency">汇率转换</string>
+<string name="unit_data_display_length_dm">分米</string>
+<string name="unit_data_display_length_li">里</string>
+<string name="unit_data_display_length_gongli">公里</string>
+<string name="unit_data_display_length_zhang">丈</string>
+<string name="unit_data_display_length_nmi">海里</string>
+<string name="unit_data_display_length_mi">英里</string>
+<string name="unit_data_display_length_fur">弗隆</string>
+<string name="unit_data_display_length_fm">英寻</string>
+<string name="unit_times">倍</string>
+<string name="unit_myriads">万</string>
+<string name="unit_percentage">%</string>
+<string name="unit_yuan">元</string>
+<string name="mortgage_hint_loan">请输入贷款总额</string>
+<string name="mortgage_calculate">开始计算</string>
+<string name="mortgage_hint_commercial">请输入商业贷款总额</string>
+<string name="mortgage_hint_accumulation_fund">请输入公积金贷款总额</string>
+<string name="mortgage_average_repayment_first_month">首月还款</string>
+<string name="mortgage_interest_amount">支付利息</string>
+<string name="mortgage_repayment_amount">还款总额</string>
+<string name="mortgage_loans_amount">贷款总额</string>
+<string name="mortgage_input_error">请输入金额</string>
+<string name="mortgage_result">房贷计算结果</string>
+<string name="mortgage_average_repayment_monthly">每月还款</string>
+<string name="unit_year">年</string>
+<string name="unit_year_format">%s年</string>
+<string name="loan_edittext_hint_fund">请输入公积金贷款总额</string>
+<string name="loan_edittext_hint_commercial">请输入商业贷款总额</string>
+<string name="loan_interest_rate">贷款利率</string>
+<string name="percentage">%</string>
+<string name="from_unit_en">hour</string>
+<string name="from_unit_short">km/h</string>
+<string name="title_bar">converter</string>
+<string name="to_num">62.7</string>
+<string name="tax_title_secondary">采用2015年个人所得税利率</string>
+<string name="mortgage_amount">贷款金额</string>
+<string name="tax_edittext_hint">请输入你的收入金额</string>
+<string name="mortgage_interest_rate">贷款利率</string>
+<string name="mortgage_tab_accumulation_fund">公积金贷款</string>
+<string name="mortgage_tab_combining_loan">组合贷款</string>
+<string name="social_security">社保</string>
+<string name="error_fomrat">输入格式错误</string>
+<string name="fund">公积金</string>
+<string name="mortgage_tab_commercial_loan">商业贷款</string>
+<string name="city">所在城市</string>
+<string name="income_type">收入类型</string>
+<string name="loan_unit">万</string>
+<string name="loan_edittext_hint_commercial_combined">商业贷款额</string>
+<string name="loan_edittext_hint_fund_combined">公积金贷款额</string>
+<string name="item_title_calculator">计算器</string>
+<string name="equalDesc">等于</string>
+<string name="item_title_temprature_conversion">温度转换</string>
+<string name="item_title_weight_conversion">重量转换</string>
+<string name="item_title_time_conversion">时间转换</string>
+<string name="item_title_vel_conversion">速度转换</string>
+<string name="item_title_aa_payment">AA付款</string>
+<string name="item_title_dress_size">国际衣码对照</string>
+<string name="loan_payback_way">还款方式</string>
+<string name="loan_pay_years">按揭年数</string>
+<string name="loan_first_pay_date">首次还款日期</string>
+<string name="from_unit">km/h</string>
+<string name="from_num">100</string>
+<string name="item_title_scientific_calculator">科学计算器</string>
+<string name="item_title_currency">汇率转换</string>
+<string name="item_title_mortgage">房贷计算</string>
+<string name="item_title_tax">个人所得税</string>
+<string name="factorialDesc">阶乘</string>
+<string name="sinDesc">正弦</string>
+<string name="tanDesc">正切</string>
+<string name="clearDesc">清除</string>
+<string name="powerDesc">幂</string>
+<string name="piDesc">圆周率</string>
+<string name="eDesc">欧拉数</string>
+<string name="cosDesc">余弦</string>
+<string name="item_title_area_conversion">面积转换</string>
+<string name="item_title_volume_conversion">体积转换</string>
+<string name="item_title_tip">小费计算</string>
+<string name="item_title_length_conversion">长度转换</string>
+<string name="sqrtDesc">平方根</string>
+<string name="divDesc">除</string>
+<string name="lnDesc">自然对数</string>
+<string name="lgDesc">对数</string>
+<string name="mulDesc">乘</string>
+<string name="unit_data_short_temperature_r">°R</string>
+<string name="unit_data_short_temperature_re">°Re</string>
+<string name="unit_data_default_time_0">min</string>
+<string name="tax_cal_method_annual">年终奖金计算方法</string>
+<string name="wf_word_figure">大写数字</string>
+<string name="word_figure_number_1">壹</string>
+<string name="word_figure_number_2">贰</string>
+<string name="tax_city_located">您当前所在地</string>
+<string name="word_figure_number_3">叁</string>
+<string name="tax_update_time_format">采用%s年个人所得税利率，利率数据由和讯提供</string>
+<string name="word_figure_number_4">肆</string>
+<string name="tax_cal_method_format">个人缉纳%s</string>
+<string name="word_figure_number_5">伍</string>
+<string name="tax_cal_method_fixed_salary">个人所得税计算方法</string>
+<string name="word_figure_number_6">陆</string>
+<string name="unit_data_display_time_h">小时</string>
+<string name="unit_data_display_time_min">分钟</string>
+<string name="unit_data_display_time_week">周</string>
+<string name="unit_data_display_time_day">天</string>
+<string name="unit_data_display_time_yr">年</string>
+<string name="unit_data_short_temperature_c">°C</string>
+<string name="unit_data_short_temperature_k">K</string>
+<string name="unit_data_short_temperature_f">°F</string>
+<string name="unit_data_short_weight_uk.cwt">cwt</string>
+<string name="unit_data_short_weight_dan">dan</string>
+<string name="unit_data_short_weight_lt">l.t</string>
+<string name="unit_data_short_weight_us.cwt">cwt</string>
+<string name="tax_insurance_and_fund">五险一金</string>
+<string name="tax_result_real_get">到手所得</string>
+<string name="unit_data_default_time_1">s</string>
+<string name="tax_income_error">请输入正确的收入金额</string>
+<string name="tax_param_error">请正确输入五险一金比率</string>
+<string name="tax_injury">工伤</string>
+<string name="unit_data_display_time_us">微秒</string>
+<string name="tax_birth">生育</string>
+<string name="unit_data_display_time_ps">皮秒</string>
+<string name="unit_data_display_time_s">秒</string>
+<string name="tax_unemployment">失业</string>
+<string name="unit_data_display_time_ms">毫秒</string>
+<string name="unit_data_display_temperature_k">开尔文</string>
+<string name="unit_data_display_temperature_f">华氏度</string>
+<string name="unit_data_display_temperature_c">摄氏度</string>
+<string name="unit_data_default_temperature_1">F</string>
+<string name="unit_data_display_temperature_re">列氏度</string>
+<string name="unit_data_display_temperature_r">兰氏度</string>
+<string name="unit_data_short_weight_st">sh.t</string>
+<string name="unit_data_short_weight_ug">μg</string>
+<string name="tax_endowment">养老</string>
+<string name="tax_medical">医疗</string>
+<string name="month">月</string>
+<string name="mortgage_detail_yearly_repayment">本年还款</string>
+<string name="mortgage_detail_yearly_interest">本年利息</string>
+<string name="mortgage_detail_month">月份</string>
+<string name="mortgage_detail_monthly_repayment">本期还款</string>
+<string name="mortgage_detail_monthly_principal">本期本金</string>
+<string name="mortgage_detail_monthly_interest">本期利息</string>
+<string name="combine_loan">组合贷款</string>
+<string name="fund_loan">公积金贷款</string>
+<string name="tax_income_before_tax">税前收入</string>
+<string name="tax_title_primary">个人所得税计算</string>
+<string name="tax_income_type_fixed_monthly_salary">固定月薪</string>
+<string name="word_figure_big_unit_wan">万</string>
+<string name="tax_city_picker">所在城市</string>
+<string name="word_figure_unit_qian">仟</string>
+<string name="tax_income_number">收入金额</string>
+<string name="year">年</string>
+<string name="tax_income_type_annual_bonus">年终奖</string>
+<string name="word_figure_big_unit_yi">亿</string>
+<string name="tax_annual_bonus_hint">请输入您的税前奖金</string>
+<string name="tax_fixed_salary_hint">请输入您的税前收入</string>
+<string name="tax_thershold_foreign">(外籍及港、澳、台)</string>
+<string name="word_figure_unit_bai">佰</string>
+<string name="tax_thershold_native">(本地)</string>
+<string name="mortgage_details">房贷计算明细</string>
+<string name="mortgage_years_amount">按揭年数</string>
+<string name="mortgage_show_details">查看房贷计算明细</string>
+<string name="word_figure_dot">点</string>
+<string name="word_figure_number_0">零</string>
+<string name="start_calculate">开始计算</string>
+<string name="commercial_loan">商业贷款</string>
+<string name="mortgage_descript_commercial">商业%s</string>
+<string name="current_rate_remind_commercial">商业</string>
+<string name="current_rate_remind_fund">公积金</string>
+<string name="dateformat">yyyy年MM月dd日</string>
+<string name="mortgage_item_repayment">还款方式</string>
+<string name="times">倍</string>
+<string name="mortgage_item_years">按揭年数</string>
+<string name="mortgage_descript_accumulation">公积金%s</string>
+<string name="day">日</string>
+<string name="mortgage_equals">=</string>
+<string name="mortgage_item_start_time">首次还款日期</string>
+<string name="word_figure_unit_shi">拾</string>
+<string name="word_figure_number_9">玖</string>
+<string name="word_figure_number_8">捌</string>
+<string name="word_figure_number_7">柒</string>
+<string name="tax_city">所在城市</string>
+<string name="network_confirm_content">需要通过网络和定位服务获取汇率、个税和房贷利率等数据。是否同意？</string>
+<string name="tax_individual_income_tax_result">个人所得税计算结果</string>
+<string name="network_confirm_title">权限请求</string>
+<string name="tax_individual_income_tax">个人所得税</string>
+<string name="unit_data_short_time_us">μs</string>
+<string name="mortgage_detail_monthly_remain">本期剩余</string>
+<string name="unit_data_short_time_week">wk</string>
+<string name="tax_accumulation_fund">公积金</string>
+<string name="tax_social_insurance">社保</string>
+<string name="tax_income_type">收入类型</string>
+<string name="tax_threshold">起征点</string>
+<string name="unit_data_display_volume_cu.cm">立方厘米</string>
+<string name="unit_data_display_volume_cu.m">立方米</string>
+<string name="unit_data_default_volume_1">cu.cm</string>
+<string name="unit_data_short_area_mu">mu</string>
+<string name="unit_data_short_area_qing">qing</string>
+<string name="unit_data_short_area_sq.rd">rd²</string>
+<string name="unit_data_default_volume_0">cu.m</string>
+<string name="unit_data_short_area_sq.gongli">gongli²</string>
+<string name="unit_data_short_area_sq.cun">cun²</string>
+<string name="unit_data_short_area_sq.chi">chi²</string>
+<string name="unit_data_short_velocity_mps">m/s</string>
+<string name="unit_data_display_velocity_inps">英寸/秒</string>
+<string name="unit_data_short_velocity_kmph">km/h</string>
+<string name="unit_data_short_velocity_kmps">km/s</string>
+<string name="unit_data_short_velocity_mach">Ma</string>
+<string name="unit_data_short_velocity_c">c</string>
+<string name="unit_data_display_weight_lt">长吨</string>
+<string name="unit_data_display_weight_dr">打兰</string>
+<string name="unit_data_display_weight_st">短吨</string>
+<string name="unit_data_short_velocity_ftps">fps</string>
+<string name="unit_data_short_velocity_inps">ips</string>
+<string name="unit_data_default_weight_0">kg</string>
+<string name="unit_data_default_weight_1">g</string>
+<string name="unit_data_display_weight_kg">千克</string>
+<string name="unit_data_display_weight_t">吨</string>
+<string name="unit_data_display_weight_g">克</string>
+<string name="unit_data_display_weight_mg">毫克</string>
+<string name="plus">+</string>
+<string name="unit_data_display_weight_oz">盎司</string>
+<string name="unit_data_display_weight_lb">镑</string>
+<string name="unit_data_display_weight_ct">克拉</string>
+<string name="unit_data_display_weight_q">公担</string>
+<string name="unit_data_display_weight_gr">格令</string>
+<string name="unit_data_default_temperature_0">C</string>
+<string name="unit_data_short_weight_liang">liang</string>
+<string name="unit_data_short_weight_qian">qian</string>
+<string name="unit_data_short_weight_jin">jin</string>
+<string name="unit_data_display_weight_uk.st">英石</string>
+<string name="unit_data_display_weight_jin">斤</string>
+<string name="unit_data_display_weight_uk.cwt">英担</string>
+<string name="unit_data_display_weight_us.cwt">美担</string>
+<string name="unit_data_display_weight_dan">担</string>
+<string name="digit6">6</string>
+<string name="unit_data_display_weight_liang">两</string>
+<string name="digit7">7</string>
+<string name="unit_data_display_weight_qian">钱</string>
+<string name="digit4">4</string>
+<string name="digit5">5</string>
+<string name="digit2">2</string>
+<string name="digit3">3</string>
+<string name="digit0">0</string>
+<string name="digit1">1</string>
+<string name="unit_data_display_weight_ug">微克</string>
+<string name="app_name">计算器</string>
+<string name="error">出错</string>
+<string name="unit_data_display_volume_hl">公石</string>
+<string name="unit_data_display_volume_cu.um">立方微米</string>
+<string name="unit_data_display_volume_cl">厘升</string>
+<string name="unit_data_display_volume_l">升</string>
+<string name="lg_mathematical_value">lg</string>
+<string name="unit_data_display_volume_cu.mm">立方毫米</string>
+<string name="lg">lg</string>
+<string name="unit_data_display_volume_cu.dm">立方分米</string>
+<string name="digit8">8</string>
+<string name="del">DEL</string>
+<string name="unit_data_default_velocity_0">mps</string>
+<string name="digit9">9</string>
+<string name="div">÷</string>
+<string name="clear">C</string>
+<string name="mul">×</string>
+<string name="tan">tan</string>
+<string name="unit_data_display_volume_cu.yd">立方码</string>
+<string name="unit_data_display_volume_cu.af">亩英尺</string>
+<string name="unit_data_short_volume_cu.m">m³</string>
+<string name="unit_data_short_volume_cu.cm">cm³</string>
+<string name="unit_data_display_volume_dl">分升</string>
+<string name="unit_data_display_volume_ml">毫升</string>
+<string name="unit_data_display_volume_cu.ft">立方英尺</string>
+<string name="unit_data_display_volume_cu.in">立方英寸</string>
+<string name="minus">−</string>
+<string name="dot">.</string>
+<string name="equal">=</string>
+<string name="enter">↓</string>
+<string name="sin">sin</string>
+<string name="unit_data_short_volume_cu.dm">dm³</string>
+<string name="sin_mathematical_value">sin</string>
+<string name="unit_data_short_volume_cu.mm">mm³</string>
+<string name="cos">cos</string>
+<string name="cos_mathematical_value">cos</string>
+<string name="unit_data_short_volume_cu.af">af³</string>
+<string name="unit_data_short_volume_cu.yd">yd³</string>
+<string name="unit_data_short_volume_cu.in">in³</string>
+<string name="dotDesc">小数点</string>
+<string name="unit_data_short_volume_cu.ft">ft³</string>
+<string name="minusDesc">减</string>
+<string name="unit_data_short_volume_hl">hl³</string>
+<string name="plusDesc">加</string>
+<string name="unit_data_short_volume_cu.um">μm³</string>
+<string name="e_mathematical_value">e</string>
+<string name="unit_data_short_velocity_mileph">mph</string>
+<string name="e">e</string>
+<string name="unit_data_short_velocity_nmiph">kn</string>
+<string name="pi">π</string>
+<string name="tan_mathematical_value">tan</string>
+<string name="ln_mathematical_value">ln</string>
+<string name="ln">ln</string>
+<string name="unit_data_display_velocity_nmiph">海里/小时</string>
+<string name="unit_data_display_velocity_mileph">英里/小时</string>
+<string name="unit_data_display_velocity_c">光速</string>
+<string name="unit_data_display_velocity_mach">马赫</string>
+<string name="unit_data_display_velocity_kmps">千米/秒</string>
+<string name="unit_data_display_velocity_kmph">千米/小时</string>
+<string name="unit_data_default_velocity_1">kmps</string>
+<string name="unit_data_display_velocity_mps">米/秒</string>
+<string name="sqrt">√</string>
+<string name="power">^</string>
+<string name="leftParen">(</string>
+<string name="rightParen">)</string>
+<string name="leftParenDesc">左括号</string>
+<string name="rightParenDesc">右括号</string>
+<string name="factorial">!</string>
+<string name="unit_data_display_velocity_ftps">英尺/秒</string>
+<string name="clear_history">清除历史记录</string>
+<string name="unit_data_display_area_sq.mm">平方毫米</string>
+<string name="unit_data_display_area_sq.dm">平方分米</string>
+<string name="unit_data_display_area_sq.cm">平方厘米</string>
+<string name="unit_data_display_area_ha">公顷</string>
+<string name="unit_data_display_area_are">公亩</string>
+<string name="unit_data_short_length_zhang">zhang</string>
+<string name="unit_data_short_length_chi">chi</string>
+<string name="unit_data_short_length_li">li</string>
+<string name="unit_data_display_length_ly">光年</string>
+<string name="unit_data_display_length_hao">毫</string>
+<string name="unit_data_display_length_lii">厘</string>
+<string name="unit_data_display_length_fen">分</string>
+<string name="unit_data_display_area_sq.km">平方千米</string>
+<string name="unit_data_display_area_sq.m">平方米</string>
+<string name="unit_data_default_area_1">sq.cm</string>
+<string name="unit_data_default_area_0">sq.m</string>
+<string name="unit_data_short_length_hao">hao</string>
+<string name="unit_data_short_area_sq.m">m²</string>
+<string name="unit_data_short_area_sq.km">km²</string>
+<string name="unit_data_short_area_sq.dm">dm²</string>
+<string name="unit_data_short_area_sq.cm">cm²</string>
+<string name="unit_data_display_area_sq.um">平方微米</string>
+<string name="unit_data_display_area_sq.in">平方英寸</string>
+<string name="unit_data_display_area_acre">英亩</string>
+<string name="unit_data_display_area_sq.mi">平方英里</string>
+<string name="unit_data_short_length_fen">fen</string>
+<string name="unit_data_short_length_cun">cun</string>
+<string name="unit_data_short_length_lii">li</string>
+<string name="unit_data_display_area_mu">亩</string>
+<string name="unit_data_display_area_qing">顷</string>
+<string name="unit_data_display_area_sq.cun">平方寸</string>
+<string name="unit_data_display_area_sq.chi">平方尺</string>
+<string name="unit_data_display_area_sq.gongli">平方公里</string>
+<string name="unit_data_display_area_sq.rd">平方竿</string>
+<string name="unit_data_short_area_sq.mm">mm²</string>
+<string name="unit_data_short_area_sq.yd">yd²</string>
+<string name="unit_data_short_area_sq.ft">ft²</string>
+<string name="unit_data_short_area_sq.um">μm²</string>
+<string name="unit_data_short_area_sq.mi">mile²</string>
+<string name="unit_data_display_area_sq.ft">平方英尺</string>
+<string name="unit_data_display_area_sq.yd">平方码</string>
+<string name="unit_data_short_area_sq.in">in²</string>
+<string-array name="unit_data_order_temperature_">
+<item>C</item>
+<item>F</item>
+<item>K</item>
+<item>R</item>
+<item>Re</item>
+</string-array>
+<string-array name="unit_data_order_time_">
+<item>yr</item>
+<item>week</item>
+<item>day</item>
+<item>h</item>
+<item>min</item>
+<item>s</item>
+<item>ms</item>
+<item>us</item>
+<item>ps</item>
+</string-array>
+<string-array name="unit_data_order_currency_">
+<item>USD</item>
+<item>EUR</item>
+<item>GBP</item>
+<item>JPY</item>
+<item>CNY</item>
+</string-array>
+<string-array name="unit_data_order_volume_">
+<item>cu.m</item>
+<item>cu.dm</item>
+<item>cu.cm</item>
+<item>cu.mm</item>
+<item>hl</item>
+<item>l</item>
+<item>dl</item>
+<item>cl</item>
+<item>ml</item>
+<item>cu.ft</item>
+<item>cu.in</item>
+<item>cu.yd</item>
+<item>cu.af</item>
+</string-array>
+<string-array name="unit_data_order_weight_">
+<item>t</item>
+<item>kg</item>
+<item>g</item>
+<item>mg</item>
+<item>ug</item>
+<item>q</item>
+<item>lb</item>
+<item>oz</item>
+<item>ct</item>
+<item>gr</item>
+<item>lt</item>
+<item>st</item>
+<item>uk.cwt</item>
+<item>us.cwt</item>
+<item>uk.st</item>
+<item>dr</item>
+<item>dan</item>
+<item>jin</item>
+<item>qian</item>
+<item>liang</item>
+</string-array>
+<string-array name="unit_data_order_velocity_">
+<item>c</item>
+<item>mach</item>
+<item>mps</item>
+<item>kmph</item>
+<item>kmps</item>
+<item>nmiph</item>
+<item>mileph</item>
+<item>ftps</item>
+<item>inps</item>
+</string-array>
+<string-array name="mortgage_repayment">
+<item>等额本息(每月等额还款)</item>
+<item>等额本金(每月递减还款)</item>
+</string-array>
+<string-array name="operatorDescs">
+<item>左括号</item>
+<item>右括号</item>
+<item>阶乘</item>
+<item>自然对数</item>
+<item>对数</item>
+<item>平方根</item>
+<item>除以</item>
+<item>乘</item>
+<item>加</item>
+<item>减</item>
+<item>点</item>
+<item>幂</item>
+<item>正切</item>
+<item>正弦</item>
+<item>余弦</item>
+<item>圆周率</item>
+<item>等于</item>
+</string-array>
+<string-array name="operators">
+<item>(</item>
+<item>)</item>
+<item>!</item>
+<item>ln</item>
+<item>log</item>
+<item>√</item>
+<item>÷</item>
+<item>×</item>
+<item>+</item>
+<item>−</item>
+<item>.</item>
+<item>^</item>
+<item>tan</item>
+<item>sin</item>
+<item>cos</item>
+<item>π</item>
+<item>=</item>
+</string-array>
+<string-array name="unit_data_order_length_">
+<item>km</item>
+<item>m</item>
+<item>dm</item>
+<item>cm</item>
+<item>mm</item>
+<item>um</item>
+<item>nm</item>
+<item>pm</item>
+<item>dm</item>
+<item>nmi</item>
+<item>mi</item>
+<item>fur</item>
+<item>fm</item>
+<item>yd</item>
+<item>ft</item>
+<item>in</item>
+<item>gongli</item>
+<item>li</item>
+<item>zhang</item>
+<item>chi</item>
+<item>cun</item>
+<item>fen</item>
+<item>lii</item>
+<item>hao</item>
+<item>pc</item>
+<item>ld</item>
+<item>au</item>
+<item>ly</item>
+</string-array>
+<string-array name="unit_data_order_area_">
+<item>sq.km</item>
+<item>ha</item>
+<item>are</item>
+<item>sq.m</item>
+<item>sq.dm</item>
+<item>sq.cm</item>
+<item>sq.mm</item>
+<item>sq.um</item>
+<item>acre</item>
+<item>sq.mi</item>
+<item>sq.yd</item>
+<item>sq.ft</item>
+<item>sq.in</item>
+<item>sq.rd</item>
+<item>qing</item>
+<item>mu</item>
+<item>sq.chi</item>
+<item>sq.cun</item>
+</string-array>
+</MIUI_Theme_Values>

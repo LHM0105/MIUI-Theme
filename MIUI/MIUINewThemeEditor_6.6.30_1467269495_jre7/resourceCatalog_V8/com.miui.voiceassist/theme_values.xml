@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="bright_foreground_light">#aaffffff</color>
+<color name="dark_foreground_light">#40ffffff</color>
+<color name="darkgray">#ffa9a9a9</color>
+<color name="find_city_arleady_have_text_color">#50000000</color>
+<color name="blue">#a00000ff</color>
+<color name="black">#ff000000</color>
+<color name="white">#ffffffff</color>
+<color name="transparent">#00000000</color>
+<color name="line_alpha_white">#80ffffff</color>
+<color name="alpha_white">#40ffffff</color>
+<color name="line_white">#ffffffff</color>
+<color name="realtime_split_alpha_white">#60ffffff</color>
+<color name="top_line_alpha_white">#40ffffff</color>
+<color name="text_white">#ffffffff</color>
+<color name="text_alpha_white">#80ffffff</color>
+<color name="white_30_transparent">#55ffffff</color>
+<color name="black_70_transparent">#b0000000</color>
+<integer name="slide_duration">#000001f4</integer>
+<dimen name="view_forecast_num_area">90.000000dp</dimen>
+<dimen name="view_drop_water_translate_y">20.000000dp</dimen>
+<dimen name="content_bottom_margin">16.329987dp</dimen>
+<dimen name="music_title_text">13.299988sp</dimen>
+<dimen name="music_text_width">160.000000dp</dimen>
+<dimen name="music_time_text">12.000000sp</dimen>
+<dimen name="music_item_text">13.299988sp</dimen>
+<dimen name="music_category_text">12.000000sp</dimen>
+<dimen name="view_aqi_num_text_size">20.000000sp</dimen>
+<dimen name="music_search_result_text">14.000000dp</dimen>
+<dimen name="music_wave_width">2.329987dp</dimen>
+<dimen name="music_wave_height">12.659973dp</dimen>
+<dimen name="music_circle_length">20.000000dp</dimen>
+<dimen name="dialog_padding_side">23.299988dp</dimen>
+<dimen name="link_city_listview_item_city_name_font_size">12.599976sp</dimen>
+<dimen name="grid_item_offsite">1.000000px</dimen>
+<dimen name="view_trend_unknown_text_offsite">6.000000dp</dimen>
+<dimen name="music_find_more_text">13.299988dp</dimen>
+<dimen name="animate_distance_padding">166.600006dp</dimen>
+<dimen name="grid_item_en_size">12.000000sp</dimen>
+<dimen name="view_indexes_uv_desc">20.000000sp</dimen>
+<dimen name="refresh_view_translate_top">16777126.000000dp</dimen>
+<dimen name="refresh_view_hight">90.000000dp</dimen>
+<dimen name="find_result_en_text_size">15.000000sp</dimen>
+<dimen name="grid_item_en_size_small">10.000000sp</dimen>
+<dimen name="dialog_bottom_margin">26.000000dp</dimen>
+<dimen name="content_top_margin">16.329987dp</dimen>
+<dimen name="animate_total_g">0.000000dp</dimen>
+<dimen name="view_forecast_text_move">20.000000dp</dimen>
+<dimen name="user_left_margin">86.000000dp</dimen>
+<dimen name="view_alert_min_paddingbottom">100.000000dp</dimen>
+<dimen name="view_forecast_text_size">14.000000sp</dimen>
+<dimen name="dialog_top_margin">26.000000dp</dimen>
+<dimen name="animate_speed_behindscreen">0.166000dp</dimen>
+<dimen name="view_forecast_text_offsite">13.000000dp</dimen>
+<dimen name="restaurant_text_size">14.000000sp</dimen>
+<dimen name="animate_init_speed">5.659973dp</dimen>
+<dimen name="view_forecast_radius">2.399994dp</dimen>
+<dimen name="answer_right_margin">20.000000dp</dimen>
+<dimen name="animate_fade_out_area_height">70.000000dp</dimen>
+<dimen name="content_title_size">24.000000sp</dimen>
+<dimen name="animate_drop_length">9.299988dp</dimen>
+<dimen name="content_text_size">17.000000sp</dimen>
+<dimen name="music_title_right_margin">30.000000dp</dimen>
+<dimen name="view_indexes_translate_y">18.000000dp</dimen>
+<dimen name="content_left_margin">20.659973dp</dimen>
+<dimen name="animate_max_drop_width">0.700000dp</dimen>
+<dimen name="content_right_margin">20.659973dp</dimen>
+<string name="finish">完成</string>
+<string name="over_24h_clock_operation">不能设置超过24小时的闹钟，是否保存到日历</string>
+<string name="app_name">语音助手</string>
+<string name="path_voice_engine">系统应用/语音助手/更多语音引擎...</string>
+<string name="new_message">发送信息</string>
+<string name="not_launch_while_calling">通话过程中不能使用语音助手</string>
+<string name="confirm_cancel">确定还是取消</string>
+<string name="path_voice_report">系统应用/语音助手/语音播报</string>
+<string name="alarm">提醒</string>
+<string name="new_alarm">新提醒</string>
+<string name="path_sms_report">系统应用/语音助手/短信播报</string>
+<string name="confirm">确定</string>
+<string name="path_phone_report">系统应用/语音助手/来电播报</string>
+<string name="sms_send_success">短信已发送</string>
+<string name="sms_send_fail">短信发送失败</string>
+<string name="no_engine">没有安装语音引擎</string>
+<string name="content">内容</string>
+<string name="sending_content">发送给：</string>
+<string name="yellow_page">生活黄页</string>
+<string name="alarming">%2$s</string>
+<string name="clocking">已添加闹钟，点击查看</string>
+<string name="unknown_num">未知号码</string>
+<string name="calendaring">已添加到日程表，点击查看</string>
+<string name="arrow">&gt;</string>
+<string name="contact_not_found">通讯录没有找到此人</string>
+<string name="about">关于</string>
+<string name="contact_select">请选择联系人</string>
+<string name="quit">退出</string>
+<string name="calling">%2$s</string>
+<string name="sms_send_cancel">已取消发送短信</string>
+<string name="sending">%1$s</string>
+<string name="setting">设置</string>
+<string name="path_voice_assist">系统应用/语音助手</string>
+<string name="search_voice_engine">语音引擎;YuYinYinQing</string>
+<string name="contacts">通讯录</string>
+<string name="unknown_website">找不到网站网址</string>
+<string name="new_remind_tip">正在新建提醒</string>
+<string name="new_clock_tip">正在新建闹钟</string>
+<string name="info_insufficient">您录入的信息不完整</string>
+<string name="help_tip">您可以这样说</string>
+<string name="permission">声明与条款</string>
+<string name="app_launching">正在打开</string>
+<string name="need_tts_set">您还没有设置语音合成(tts)引擎，现在设置?</string>
+<string name="app_uninstall">确认是否卸载</string>
+<string name="more_engines">更多语音引擎...</string>
+<string name="engine_settings_button">打开语音引擎设置</string>
+<string name="voice_engine">语音引擎</string>
+<string name="voice_support">科大讯飞提供语音技术支持</string>
+<string name="address">地址:</string>
+<string name="search_phone_report">来电播报;LaiDianBoBao</string>
+<string name="avg_price">￥%1$s</string>
+<string name="search_sms_report">短信播报;DuanXinBoBao</string>
+<string name="average">:</string>
+<string name="search_voice_assist">语音播报;来电播报;短信播报;语音引擎;YuYinBoBao;LaiDianBoBao;DuanXinBoBao;YuYinYinQing</string>
+<string name="cancel">取消</string>
+<string name="search_voice_report">语音播报;YuYinBoBao</string>
+<string name="not_uninstall_system_app">系统应用不能卸载</string>
+<string name="descript_format">%s</string>
+<string name="app_not_found">没有找到此软件</string>
+<string name="upload_recognition">raw_text=%1$s&amp;parsed_text=%2$s&amp;empty_resp=true</string>
+<string name="click_download">点击下载</string>
+<string name="durationformatlong">-%1$d:%3$02d:%5$02d</string>
+<string name="telephone">联系电话:</string>
+<string name="durationformatshort">-%2$d:%5$02d</string>
+<string name="no_sim">未插入SIM卡，请插入后重试</string>
+<string name="search_music_fail">没有找到这首歌，请问还有什么可以帮到你？</string>
+<string name="new_contact">正在新建联系人</string>
+<string name="opening_toggle">正在为您开启%1$s</string>
+<string name="toggle_has_closed">开关已经关闭</string>
+<string name="toggle_has_opened">开关已经打开</string>
+<string name="closing_toggle">正在为您关闭%1$s</string>
+<string name="voice_assist_is_open">语音助手已经打开</string>
+<string name="text_title_intent">测试Intent调用</string>
+<string name="locking_screen">正在为您锁屏</string>
+<string name="screen_shot">正在为您截屏</string>
+<string name="recognition_again">重新识别</string>
+<string name="begin_talk">开始识别</string>
+<string name="recognition_mess">语音识别示例</string>
+<string name="recognition_failure">未找到相应信息\n请重新输入指令</string>
+<string name="begin_talk_web">开始Web识别</string>
+<string name="phone">拨号</string>
+<string name="password_guard">密码保护</string>
+<string name="cancel_schecule">取消设置提醒</string>
+<string name="success_schecule">设置提醒成功</string>
+<string name="chooser">选择</string>
+<string name="message_empty">请输入短信内容</string>
+<string name="not_remind">不再提示</string>
+<string name="web_result">为您找到了一下结果</string>
+<string name="default_words">点击查看详情</string>
+<string name="year">年</string>
+<string name="month">月</string>
+<string name="day">日</string>
+<string name="emergency">紧急号码跳转到拨号面板</string>
+<string name="redirect_dial_panel">正在跳转到拨号面板</string>
+<string name="open_music">打开音乐</string>
+<string name="playing">正在播放：%1$s</string>
+<string name="msg_ok_to_repeat">确定重新输入命令?</string>
+<string name="weather">天气</string>
+<string name="res_service_busy">服务正忙</string>
+<string name="weather_unit">°</string>
+<string name="msg_title">信息提示</string>
+<string name="weather_no_city">无当地的天气信息</string>
+<string name="res_speech_timeout">语音超时</string>
+<string name="to_degree">到</string>
+<string name="res_response_timeout">反应超时</string>
+<string name="res_no_talk">不知道您说了什么</string>
+<string name="summary_response_timeout">设置反应超时</string>
+<string name="title_response_timeout">反应超时</string>
+<string name="summary_sensitivity">设置灵敏度级别</string>
+<string name="title_sensitivity">灵敏度设置</string>
+<string name="title_aital_setup">语音识别设置</string>
+<string name="msg_return">返回</string>
+<string name="msg_hava_res">识别结果</string>
+<string name="msg_begin_record">录音开始</string>
+<string name="msg_cancle">取消</string>
+<string name="msg_ok">确定</string>
+<string name="view_indexes_item_tommorrow">明天</string>
+<string name="contact_menu_4">发送信息</string>
+<string name="contact_menu_5">发送名片</string>
+<string name="grammar_build_error">编译出错</string>
+<string name="contact_menu_1">语音呼叫</string>
+<string name="contact_menu_2">IP呼叫</string>
+<string name="contact_menu_3">视频呼叫</string>
+<string name="res_client_error">语音识别引擎错误</string>
+<string name="res_service_error">服务出错</string>
+<string name="res_no_match">没有识别结果，请检查网络连接</string>
+<string name="res_unsupport_error">未实现相关业务</string>
+<string name="res_net_timeout">网络超时</string>
+<string name="res_error">识别出错</string>
+<string name="res_recode_error">录音失败，请在安全中心授权管理中打开%1$s的录音权限</string>
+<string name="res_net_error">网络出错，请检查网络连接</string>
+<string name="init_ok">初始化识别完成。</string>
+<string name="contact_menu_6">删除联系人</string>
+<string name="local_category">本地</string>
+<string name="online_category">在线</string>
+<string name="music_find_more">点击查看更多在线音乐</string>
+<string name="new_feature_title">新功能</string>
+<string name="buffering">缓冲</string>
+<string name="new_feature_desc">查询新功能介绍</string>
+<string name="permission_allow">为了您能够使用到所有功能，语音助手在使用中需要连接网络、定位、读取通话记录、读取通讯录、读取短信、发送短信、拨打电话等，您是否同意？</string>
+<string name="invert_stop_report">翻转手机停止播报</string>
+<string name="voice_choosed">选择成功</string>
+<string name="phone_by_ear_launch">拿起手机放在耳边启动</string>
+<string name="download_failed">下载失败</string>
+<string name="menu_long_press_launch">长按菜单键启动</string>
+<string name="view_forecast_item_yesterday">昨天</string>
+<string name="quick_launch_settings">快速启动</string>
+<string name="view_indexes_item_today">今天</string>
+<string name="voiceassist_settings">语音助手设置</string>
+<string name="permission_switch">允许读联系人，联网和定位</string>
+<string name="sms_report">短信播报</string>
+<string name="confirm_and_continue">同意并继续</string>
+<string name="phone_report">来电播报</string>
+<string name="tts_voice_effect">发音人声效</string>
+<string name="report_method">语音播报</string>
+<string name="voice_effect">声音效果</string>
+<string name="voice_report">语音播报</string>
+<string name="voiceassist_settings_title">小米语音助手设置</string>
+<string name="title_speech_timeout">语音超时</string>
+<string name="summary_speech_timeout">设置语音超时</string>
+<string name="title_set_vad">开启VAD</string>
+<string name="set_vad_on_sample">VAD开启</string>
+<string name="set_vad_off_sample">VAD关闭</string>
+<string name="title_set_advance_vad">开启增强VAD</string>
+<string name="music_search_cancelled">音乐搜索已取消</string>
+<string name="music_search_failed">没有搜索到结果。(请确保已同意打开音乐时所弹出的声明与条款)</string>
+<string name="set_advance_vad_off_sample">增强VAD关闭</string>
+<string name="set_advance_vad_on_sample">增强VAD开启</string>
+<string name="summary_set_default">恢复语音合成的默认设置</string>
+<string name="title_set_default">恢复默认设置</string>
+<string name="titil_cancle">取消</string>
+<string name="titil_ok">确定</string>
+<string name="music_result_title">搜索结果如下：</string>
+<string name="unknown_artist">未知歌手</string>
+<string-array name="help_sms">
+<item>发短信给张若涵</item>
+<item>给10086发短信</item>
+<item>告诉张若涵，晚上晚点回去</item>
+</string-array>
+<string-array name="phone">
+<item>com.android.contacts</item>
+<item>com.android.contacts.activities.TwelveKeyDialer</item>
+</string-array>
+<string-array name="yellow_page">
+<item>com.android.contacts</item>
+<item>com.android.contacts.activities.YellowPageNavigation</item>
+</string-array>
+<string-array name="password_guard">
+<item>com.android.settings</item>
+<item>com.android.settings.MiuiPasswordGuardActivity</item>
+</string-array>
+<string-array name="pre_open_app">
+<item>打开</item>
+<item>启动</item>
+</string-array>
+<string-array name="help_launch">
+<item>打开相机</item>
+<item>启动植物大战僵尸</item>
+<item>下载愤怒的小鸟</item>
+</string-array>
+<string-array name="weather_type">
+<item>晴</item>
+<item>多云</item>
+<item>阴</item>
+<item>雾</item>
+<item>特大暴雨</item>
+<item>大暴雨</item>
+<item>暴雨</item>
+<item>雷阵雨</item>
+<item>阵雨</item>
+<item>大雨</item>
+<item>中雨</item>
+<item>小雨</item>
+<item>雨夹雪</item>
+<item>暴雪</item>
+<item>阵雪</item>
+<item>大雪</item>
+<item>中雪</item>
+<item>小雪</item>
+<item>强沙尘暴</item>
+<item>沙尘暴</item>
+<item>沙尘</item>
+<item>扬沙</item>
+<item>冰雹</item>
+<item>浮尘</item>
+<item>霾</item>
+<item>冻雨</item>
+<item>无</item>
+</string-array>
+<string-array name="voice_effect_names">
+<item>晓燕(默认)</item>
+<item>嘉嘉</item>
+<item>晓蓉</item>
+<item>晓美</item>
+<item>楠楠</item>
+<item>小峰</item>
+<item>小强</item>
+<item>小坤</item>
+<item>大龙</item>
+<item>唐老鸭</item>
+</string-array>
+<string-array name="whitelist_actions">
+<item>miui.intent.action.GARBAGE_CLEANUP</item>
+<item>miui.intent.action.POWER_MANAGER</item>
+<item>miui.intent.action.ANTI_VIRUS</item>
+<item>android.intent.action.VIEW_DATA_USAGE_SUMMARY</item>
+<item>android.intent.action.SET_FIREWALL</item>
+<item>miui.intent.action.LICENSE_MANAGER</item>
+</string-array>
+<string-array name="help_web">
+<item>打开小米网</item>
+<item>搜索小米</item>
+<item>百度一下小米</item>
+</string-array>
+<string-array name="help_chat">
+<item>给我讲个笑话</item>
+<item>给我背首唐诗</item>
+<item>凤凰传奇是谁</item>
+</string-array>
+<string-array name="help_dinner">
+<item>附近有什么好吃的</item>
+<item>中关村附近的川菜馆</item>
+<item>火车站附近有没有麦当劳</item>
+</string-array>
+<string-array name="help_map">
+<item>天安门怎么走</item>
+<item>天坛在哪儿</item>
+<item>从中关村到国家体育馆怎么走</item>
+</string-array>
+<string-array name="help_tel">
+<item>打电话给张若涵</item>
+<item>呼叫张若涵</item>
+<item>拨通10086</item>
+</string-array>
+<string-array name="help_translate">
+<item>把天气翻译成英文</item>
+</string-array>
+<string-array name="help_alarm">
+<item>11点半提醒我开会</item>
+<item>半小时后提醒我看球</item>
+<item>下周六早上8点提醒我去接老爸</item>
+</string-array>
+<string-array name="whitelist_names">
+<item>垃圾清理</item>
+<item>省电优化</item>
+<item>病毒扫描</item>
+<item>网络助手</item>
+<item>骚扰拦截</item>
+<item>授权管理</item>
+</string-array>
+<string-array name="res_no_voice">
+<item>不知道您说了什么</item>
+<item>请再重复一遍</item>
+<item>您说什么了</item>
+<item>我听不到哦，是不是想和我说悄悄话？</item>
+<item>恩？我没听清呢</item>
+<item>再说一次吧，亲</item>
+</string-array>
+<string-array name="target_app_name">
+<item>QQ</item>
+<item>QQ</item>
+<item>微博</item>
+</string-array>
+<string-array name="helps">
+<item>打电话</item>
+<item>发短信</item>
+<item>联系人</item>
+<item>打开应用</item>
+<item>设置提醒</item>
+<item>上网搜索</item>
+<item>餐饮美食</item>
+<item>音乐搜索</item>
+<item>火车航班</item>
+<item>天气</item>
+<item>地图导航</item>
+<item>聊天</item>
+<item>翻译</item>
+</string-array>
+<string-array name="help_train">
+<item>帮我查一下北京到上海的火车</item>
+<item>有没有明天到武汉的航班</item>
+<item>我要订一张去拉萨的机票</item>
+</string-array>
+<string-array name="voice_effect_descs">
+<item>中英文女声</item>
+<item>中文女声</item>
+<item>四川女声</item>
+<item>粤语女声</item>
+<item>中英文女童声</item>
+<item>中英文男声</item>
+<item>湖南男声</item>
+<item>河南男声</item>
+<item>粤语男声</item>
+<item>卡通</item>
+</string-array>
+<string-array name="help_contact">
+<item>查看张若涵的号码</item>
+<item>186xxxxxxxx</item>
+<item>把张若涵的号码发给韩梅梅</item>
+</string-array>
+<string-array name="help_music">
+<item>随便来几首歌</item>
+<item>我想听浮夸</item>
+<item>来首周杰伦的青花瓷</item>
+</string-array>
+<string-array name="report_method_entry_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="help_weather">
+<item>天气</item>
+<item>明天北京下不下雨</item>
+<item>西城区的天气</item>
+</string-array>
+<string-array name="source_app_name">
+<item>手机QQ</item>
+<item>手机qq</item>
+<item>新浪微博</item>
+</string-array>
+<string-array name="report_method_entries">
+<item>仅在连接耳机时</item>
+<item>任何时候</item>
+<item>关闭</item>
+</string-array>
+<string-array name="week">
+<item>周日</item>
+<item>周一</item>
+<item>周二</item>
+<item>周三</item>
+<item>周四</item>
+<item>周五</item>
+<item>周六</item>
+</string-array>
+</MIUI_Theme_Values>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 通知" version="3.4.20" annotation="" tag="其他">
+    <resource description="filter_item_add" x="606" y="828" width="68" height="78" uuid="9ca08196-2bcb-42d5-b72f-428b46b20077">
+        <path src="res\drawable-hdpi\filter_item_add.png" description="添加按钮" />
+        <path src="res\drawable-xhdpi\filter_item_add.png" description="添加按钮" />
+        <path src="res\drawable-xxhdpi\filter_item_add.png" description="添加按钮" />
+    </resource>
+    <resource description="filter_item_remove" x="602" y="606" width="72" height="74" uuid="dc2d391e-4b10-431a-abcb-7c1745c1e9bf">
+        <path src="res\drawable-hdpi\filter_item_remove.png" description="移除" />
+        <path src="res\drawable-xhdpi\filter_item_remove.png" description="移除" />
+        <path src="res\drawable-xxhdpi\filter_item_remove.png" description="移除" />
+    </resource>
+    <resource description="status_bar_background_fullscreen.9" x="0" y="0" width="720" height="52" uuid="1dabbc01-023b-40ec-9253-e0b31c40edce">
+        <path src="res\drawable-hdpi\status_bar_background.9.png" description="其他界面" />
+        <path src="res\drawable-hdpi\status_bar_background_keyguard.9.png" description="锁屏状态" />
+        <path src="res\drawable-hdpi\status_bar_background_transparent.9.png" description="桌面" />
+        <path src="res\drawable-hdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-hdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+        <path src="res\drawable-xxhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+    </resource>
+</screenshot>

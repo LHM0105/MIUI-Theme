@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Search bar UI" version="3.3.1" annotation="" tag="Buttons, input fields">
+    <resource description="v5_edit_text_search_bg_light.9" x="84" y="58" width="616" height="72" uuid="2abcc09f-ad1c-48f1-9e3f-47c2c68ea0c6">
+        <path src="res\drawable-hdpi\v5_edit_text_search_bg_light.9.png" description="搜索框" />
+        <path src="res\drawable-xhdpi\v5_edit_text_search_bg_light.9.png" description="搜索框" />
+        <path src="res\drawable-xxhdpi\v5_edit_text_search_bg_light.9.png" description="搜索框" />
+    </resource>
+    <resource description="v5_edit_text_search_clear_btn_on_light" x="643" y="77" width="33" height="34" uuid="a9c1b0e5-b36d-49d2-9d88-31b9cd08227b">
+        <path src="res\drawable-hdpi\v5_edit_text_search_clear_btn_on_light.png" description="清除按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_text_search_clear_btn_on_light.png" description="清除按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_text_search_clear_btn_on_light.png" description="清除按钮" />
+    </resource>
+    <resource description="v5_title_bar_bg_search_mode_light.9" x="6" y="50" width="704" height="88" uuid="121f5b36-d01d-4de0-8db3-2f3b6ff66c82">
+        <path src="res\drawable-hdpi\v5_title_bar_bg_search_mode_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_search_mode_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_bg_search_mode_light.9.png" description="搜索背景" />
+    </resource>
+    <resource description="v5_title_bar_back_button_search_mode_pressed_light" x="24" y="72" width="41" height="44" uuid="e3f22dbd-381d-426d-80d6-390ad05b4a80">
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_search_mode_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_search_mode_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_search_mode_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_search_mode_pressed_light.png" description="返回按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_search_mode_pressed_light.png" description="返回按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_search_mode_pressed_light.png" description="返回按钮 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.6 Input field" version="3.4.11" annotation="" tag="Settings">
+    <resource description="input_item_last" x="28" y="964" width="272" height="92" uuid="2229873f-9bf4-4fe1-9523-85ca0607a410">
+        <path src="res\drawable-hdpi\input_item_last.png" description="下标题" />
+        <path src="res\drawable-xhdpi\input_item_last.png" description="下标题" />
+    </resource>
+    <resource description="input_item_middle" x="26" y="872" width="183" height="86" uuid="0f78fc45-37a3-4a54-b1ef-02c6f747aa94">
+        <path src="res\drawable-hdpi\input_item_middle.png" description="中标题" />
+        <path src="res\drawable-xhdpi\input_item_middle.png" description="中标题" />
+    </resource>
+    <resource description="input_item_first" x="26" y="776" width="300" height="92" uuid="03ccaf1e-25b4-45d8-99ff-440e0fb2bb8c">
+        <path src="res\drawable-hdpi\input_item_first.png" description="上标题" />
+        <path src="res\drawable-xhdpi\input_item_first.png" description="上标题" />
+    </resource>
+    <resource description="input_item_single" x="24" y="472" width="224" height="92" uuid="067e1724-75de-49f9-9bab-0655b69c173f">
+        <path src="res\drawable-hdpi\input_item_single.png" description="单独标题" />
+        <path src="res\drawable-xhdpi\input_item_single.png" description="单独标题" />
+    </resource>
+</screenshot>

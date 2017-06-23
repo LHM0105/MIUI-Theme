@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 Dialpad hidden listview" version="2.9.16" annotation="" tag="Dialpad">
+    <resource description="ic_contact_photo_bg" x="2" y="248" width="134" height="132" uuid="b0874414-ed2d-498c-9a32-3ca82b2286e8">
+        <path src="res\drawable-hdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-hdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+    </resource>
+    <resource description="dialer_bottom_bar_open_dialpad_normal" x="320" y="1142" width="80" height="90" uuid="39eeb4aa-6d2e-469d-8e10-d7eed8702bf0">
+        <path src="res\drawable-hdpi\dialer_bottom_bar_open_dialpad_normal.png" description="收起拨号盘" />
+        <path src="res\drawable-xhdpi\dialer_bottom_bar_open_dialpad_normal.png" description="收起拨号盘" />
+        <path src="res\drawable-xxhdpi\dialer_bottom_bar_open_dialpad_normal.png" description="收起拨号盘" />
+        <path src="res\drawable-hdpi\dialer_bottom_bar_open_dialpad_pressed.png" description="收起拨号盘 二态" />
+        <path src="res\drawable-xhdpi\dialer_bottom_bar_open_dialpad_pressed.png" description="收起拨号盘 二态" />
+        <path src="res\drawable-xxhdpi\dialer_bottom_bar_open_dialpad_pressed.png" description="收起拨号盘 二态" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_newcontact" x="456" y="338" width="36" height="42" uuid="f0f6dcef-4423-46d4-b57e-c9e24a8ac0a1">
+        <path src="res\drawable-hdpi\dialer_ic_call_log_header_newcontact.png" description="新建" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_newcontact.png" description="新建" />
+        <path src="res\drawable-xxhdpi\dialer_ic_call_log_header_newcontact.png" description="新建" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_newcontact.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_outgoing_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_voicemail.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_fire_wall.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_incoming_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_incoming_forwarding_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_missed_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_missed_forwarding_call.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="background_sunny_dark_color">#ff0d59a6</color>
+<color name="background_pm_middle_color">#ff6a8799</color>
+<color name="background_pm_light_color">#ff77858e</color>
+<color name="background_pm_dark_color">#ff5a89a6</color>
+<color name="background_thunderstorm_middle_color">#ff63748e</color>
+<color name="share_wait_cover">#7f000000</color>
+<color name="share_split_line"></color>
+<color name="share_area_background_color">#ffeaeaea</color>
+<color name="find_city_gridview_item_background">#fff8f8f8</color>
+<color name="alert_title_alpha_white">#ccffffff</color>
+<color name="alert_detail_alpha_white">#99ffffff</color>
+<color name="background_cloud_dark_color">#ff204f7f</color>
+<color name="background_cloud_light_color">#ff4397c7</color>
+<color name="commercial_split_color"></color>
+<color name="city_name_text_color">#ff585858</color>
+<color name="commercial_primary_text_color">#e6000000</color>
+<color name="commercial_secondary_text_color">#66000000</color>
+<color name="background_rain_dark_color">#ff41636d</color>
+<color name="background_haze_middle_color">#ff7594ba</color>
+<color name="background_rain_middle_color">#ff5b7c86</color>
+<color name="background_rain_light_color">#ff71909a</color>
+<color name="background_haze_light_color">#ff81a2c8</color>
+<color name="background_haze_dark_color">#ff485f83</color>
+<color name="background_thunderstorm_dark_color">#ff192942</color>
+<color name="background_float_dirt_middle_color">#ff73736f</color>
+<color name="background_thunderstorm_light_color">#ff71829c</color>
+<color name="background_cloud_middle_color">#ff3375a5</color>
+<color name="background_float_dirt_dark_color">#ff4b535d</color>
+<color name="background_float_dirt_light_color">#ff7c7a73</color>
+<color name="background_sand_middle_color">#ffb0824b</color>
+<color name="background_sunny_light_color">#ff24b3e3</color>
+<color name="background_sunny_middle_color">#ff1d98d1</color>
+<color name="background_sand_dark_color">#ff855e44</color>
+<color name="background_sand_light_color">#ffbb8b4c</color>
+<color name="top_line_alpha_white">#40ffffff</color>
+<color name="line_alpha_white">#80ffffff</color>
+<color name="find_city_arleady_have_text_color">#50000000</color>
+<color name="indices_default_text_color">#99000000</color>
+<color name="default_text_color">#cc000000</color>
+<color name="default_background_color">#ffffffff</color>
+<color name="indices_restriction_text_color">#ffef5656</color>
+<color name="line_white">#ffffffff</color>
+<color name="text_alpha_white">#80ffffff</color>
+<color name="refresh_date_text_alpha_white"></color>
+<color name="view_indexes_title_alpha_white">#60ffffff</color>
+<color name="activity_set_city_action_bar_text_color">#a0000000</color>
+<color name="activity_set_city_action_bar_text_color_presss">#ffffffff</color>
+<color name="activity_set_city_action_bar_text_color_disable">#33000000</color>
+<color name="aqi_detail_days_color">#b3000000</color>
+<color name="card_item_extra_text_color"></color>
+<color name="card_root_text_color">#cc000000</color>
+<color name="card_item_summary_text_color">#e6000000</color>
+<color name="card_item_secondary_text_color">#59000000</color>
+<color name="card_header_summary_text_color">#ff000000</color>
+<color name="card_header_extra_text_color">#80000000</color>
+<color name="aqi_detail_hours_color">#66000000</color>
+<color name="card_header_title_text_color">#ff000000</color>
+<color name="daily_forecast_text_press_color">#0d000000</color>
+<color name="daily_forecast_text_normal_color">#ffffffff</color>
+<color name="hourly_forecast_text_color">#a6000000</color>
+<color name="hourly_forecast_party_line_color">#ff24c3f1</color>
+<color name="indices_line_color">#ffe5e5e5</color>
+<color name="aqi_table_sub_color">#59000000</color>
+<color name="aqi_sub_title_color">#a6000000</color>
+<color name="aqi_table_default">#ffe8e8e8</color>
+<color name="logo_container_bg_color">#ffefefef</color>
+<color name="activity_alert_detail_line_color">#ffcccccc</color>
+<color name="aqi_detail_first_desc_color">#e6000000</color>
+<color name="background_rain_cover_color">#333224b8</color>
+<color name="aqi_detail_party_line_color">#ffc5c5c5</color>
+<color name="aqi_detail_date_desc_color">#b3000000</color>
+<color name="aqi_detail_bottom_line_color">#33000000</color>
+<color name="background_snow_light_color">#ff8fabc2</color>
+<color name="background_snow_middle_color">#ff86a3ba</color>
+<color name="realtime_weather_default_color">#e6ffffff</color>
+<color name="realtime_bracket_default_color">#ffd8f3e6</color>
+<color name="realtime_default_color">#b3ffffff</color>
+<color name="split_line">#26000000</color>
+<color name="main_activity_background_color">#ffefeff0</color>
+<color name="realtime_cityname_color">#ffe4f5ec</color>
+<color name="indices_line">#4cffffff</color>
+<color name="indices_humidity_color">#ff34bbbd</color>
+<color name="indices_uv_color">#ffffb136</color>
+<color name="indices_title_color">#b3000000</color>
+<color name="default_gray_color">#80000000</color>
+<color name="background_snow_dark_color">#ff64829a</color>
+<color name="background_fog_middle_color">#ff7fa8b8</color>
+<color name="background_fog_light_color">#ff93b2bd</color>
+<color name="background_fog_dark_color">#ff498eab</color>
+<color name="indices_sport_color">#ff658fcf</color>
+<color name="hourly_forecast_bottom_line_color">#66000000</color>
+<color name="hourly_forecast_bottom_text_color">#cc000000</color>
+<color name="daily_forecast_party_line_color">#ffc5c5c5</color>
+<color name="daily_forecast_text_color">#cc000000</color>
+<color name="daily_forecast_border_color">#ffd9d9d9</color>
+<color name="daily_forecast_today_background_color">#fffafafa</color>
+<color name="daily_forecast_today_date_desc_color">#ff0091dc</color>
+<color name="daily_forecast_yesterday_color">#66000000</color>
+<color name="aqi_table_middle">#e6ff6200</color>
+<color name="aqi_table_good">#e640be01</color>
+<color name="aqi_table_bad">#e6db0505</color>
+<color name="indices_pressure_color">#ff7dcb44</color>
+<color name="indices_visibility_color">#ff7b7b7b</color>
+<color name="indices_feels_color">#ff71b6da</color>
+<color name="indices_carwash_color">#ff9b9b9b</color>
+<color name="indices_precip_color">#ff658fcf</color>
+<dimen name="sharedialog_button_text_size">12.000000sp</dimen>
+<dimen name="hourly_forecast_item_time_text_size">12.000000sp</dimen>
+<dimen name="hourly_forecast_item_temperature_text_size">13.329987sp</dimen>
+<dimen name="hourly_forecast_item_aqi_text_size">12.000000sp</dimen>
+<dimen name="daily_forecast_item_date_text_size">13.299988sp</dimen>
+<dimen name="daily_forecast_item_aqi_text_size">15.000000sp</dimen>
+<dimen name="grid_item_en_size_small">10.000000sp</dimen>
+<dimen name="find_result_en_text_size">15.000000sp</dimen>
+<dimen name="act_find_city_key_text_size">12.000000sp</dimen>
+<dimen name="locate_city_hint_text_size">12.000000sp</dimen>
+<dimen name="activity_alert_details_text_size">13.000000sp</dimen>
+<dimen name="activity_alert_title_text_size">15.000000sp</dimen>
+<dimen name="hourly_forecast_item_temperature_margin_top">9.669983dp</dimen>
+<dimen name="daily_forecast_info_part_padding">20.000000dp</dimen>
+<dimen name="hourly_forecast_item_aqi_margin_top">12.000000dp</dimen>
+<dimen name="daily_forecast_drawer_part_padding_bottom">16.659973dp</dimen>
+<dimen name="daily_forecast_drawer_part_padding_top">6.000000dp</dimen>
+<dimen name="share_cover_trans_height">16.599976dp</dimen>
+<dimen name="activity_main_realtime_aqi_text_size">13.299988sp</dimen>
+<dimen name="share_buttons_width">288.000000dp</dimen>
+<dimen name="share_button_area_height">60.000000dp</dimen>
+<dimen name="grid_item_en_size">12.000000sp</dimen>
+<dimen name="activity_main_alert_text_size">12.000000sp</dimen>
+<dimen name="activity_weather_main_city_name_size">14.000000sp</dimen>
+<dimen name="animate_snow_raidus">4.000000dp</dimen>
+<dimen name="titile_bar_space">63.000000dp</dimen>
+<dimen name="activity_main_title_bar_padding_top">36.669983dp</dimen>
+<dimen name="activity_main_title_bar_padding">17.000000dp</dimen>
+<dimen name="view_alert_min_paddingbottom">100.000000dp</dimen>
+<dimen name="activity_set_city_listview_height">53.000000dp</dimen>
+<dimen name="activity_set_city_action_bar_title_text_size">14.000000sp</dimen>
+<dimen name="search_result_retry_text_size">14.000000sp</dimen>
+<dimen name="search_result_text_size">14.000000sp</dimen>
+<dimen name="refresh_time_text_size">10.000000sp</dimen>
+<dimen name="animate_rain_init_speed">0.300000dp</dimen>
+<dimen name="animate_rain_total_g">0.000000dp</dimen>
+<dimen name="animate_snow_init_speed">0.050000dp</dimen>
+<dimen name="animate_snow_total_g">0.000050dp</dimen>
+<dimen name="refresh_do_animation_trans">65.329987dp</dimen>
+<dimen name="animate_fade_out_area_height">50.000000dp</dimen>
+<dimen name="animate_rain_drop_length">9.299988dp</dimen>
+<dimen name="animate_rain_max_drop_width">0.700000dp</dimen>
+<dimen name="find_result_max_height">525.000000dp</dimen>
+<dimen name="set_city_delete_btn_marginleft">16777205.000000dp</dimen>
+<dimen name="dynamic_background_marginbottom">250.000000dp</dimen>
+<dimen name="refresh_view_hight">146.660004dp</dimen>
+<dimen name="grid_item_offsite">1.000000px</dimen>
+<dimen name="daily_forecast_date_text_size">10.000000sp</dimen>
+<dimen name="daily_forecast_title_text_size">21.000000sp</dimen>
+<dimen name="daily_forecast_title_margin_top">50.699982dp</dimen>
+<dimen name="card_title_padding_left">13.299988dp</dimen>
+<dimen name="daily_forecast_detail_item_date_sub_desc_margin_top">2.000000dp</dimen>
+<dimen name="daily_forecast_detail_item_date_sub_desc_text_size">10.000000sp</dimen>
+<dimen name="daily_forecast_detail_item_date_desc_text_size">12.000000sp</dimen>
+<dimen name="info_card_item_image_margin_left">10.000000dp</dimen>
+<dimen name="realtime_content_split_height">12.000000dp</dimen>
+<dimen name="info_card_item_padding">16.699982dp</dimen>
+<dimen name="daily_forecast_detail_close_margin_bottom">46.699982dp</dimen>
+<dimen name="daily_forecast_table_height">355.000000dp</dimen>
+<dimen name="alert_detail_item_padding_start">25.000000dp</dimen>
+<dimen name="alert_detail_scroll_view_margin_bottom">35.000000dp</dimen>
+<dimen name="alert_detail_clear_all_margin_bottom">46.000000dp</dimen>
+<dimen name="alert_detail_item_padding_end">37.000000dp</dimen>
+<dimen name="alert_item_title_text_size">14.699982sp</dimen>
+<dimen name="alert_list_item_linear_margin_start">7.000000dp</dimen>
+<dimen name="daily_forecast_detail_item_wind_title_text_size">12.000000sp</dimen>
+<dimen name="alert_detail_city_name_margin_top">53.000000dp</dimen>
+<dimen name="alert_detail_city_name_text_size">20.000000sp</dimen>
+<dimen name="alert_detail_scroll_view_margin_top">35.000000dp</dimen>
+<dimen name="alert_item_details_margin_top">5.000000dp</dimen>
+<dimen name="alert_item_pub_time_margin_top">2.000000dp</dimen>
+<dimen name="alert_item_pub_time_text_size">9.000000sp</dimen>
+<dimen name="activity_main_realtime_weather_text_size">20.000000sp</dimen>
+<dimen name="card_item_arrow_right_margin_left">13.000000dp</dimen>
+<dimen name="title_bar_height">40.000000dp</dimen>
+<dimen name="card_item_extra_info_area_margin_right">7.000000dp</dimen>
+<dimen name="daily_forecast_detail_item_wind_power_margin_bottom">33.000000dp</dimen>
+<dimen name="daily_forecast_detail_item_wind_power_text_size">12.000000sp</dimen>
+<dimen name="daily_forecast_detail_item_weather_desc_margin_top">2.000000dp</dimen>
+<dimen name="daily_forecast_detail_item_weather_desc_text_size">12.000000sp</dimen>
+<dimen name="alert_item_details_text_size">13.000000sp</dimen>
+<dimen name="international_details_item_title">10.000000sp</dimen>
+<dimen name="international_details_item_desc">14.000000sp</dimen>
+<dimen name="aqi_detail_item_text_size">10.000000sp</dimen>
+<dimen name="real_time_margin_top">26.000000dp</dimen>
+<dimen name="setting_margin_top">20.000000dp</dimen>
+<dimen name="setting_margin_right">0.000000dp</dimen>
+<dimen name="real_time_margin_start">26.000000dp</dimen>
+<dimen name="realtime_temperature_text_size">60.699982sp</dimen>
+<dimen name="index_header_mix_height">65.000000dp</dimen>
+<dimen name="index_header_max_height">180.000000dp</dimen>
+<dimen name="index_header_summary_scroll_horizontal_max">13.329987dp</dimen>
+<dimen name="index_header_summary_scroll_vertical_max">16777204.000000dp</dimen>
+<dimen name="real_time_bottom_title_text_size">10.000000sp</dimen>
+<dimen name="real_time_bottom_desc_text_size">19.000000sp</dimen>
+<dimen name="daily_forecast_more_text_size">12.000000sp</dimen>
+<dimen name="daily_forecast_padding_left_or_right">26.000000dp</dimen>
+<dimen name="daily_forecast_margin_left_or_right">26.599976dp</dimen>
+<dimen name="hourly_forecast_weather_desc_text_size">10.000000sp</dimen>
+<dimen name="hourly_forecast_weather_desc_margin_top">4.000000dp</dimen>
+<dimen name="hourly_forecast_item_margin_bottom">47.000000dp</dimen>
+<dimen name="real_time_footer_area_margin_bottom">15.000000dp</dimen>
+<dimen name="card_title_text_size">13.299988sp</dimen>
+<dimen name="card_title_height">43.000000dp</dimen>
+<dimen name="daily_forecast_more_height">50.000000dp</dimen>
+<dimen name="card_header_height">43.000000dp</dimen>
+<dimen name="card_header_title_text_size">13.299988sp</dimen>
+<dimen name="card_internal_padding_left">13.329987dp</dimen>
+<dimen name="card_internal_padding_right">20.000000dp</dimen>
+<dimen name="background_rain_padding">141.000000dp</dimen>
+<dimen name="card_internal_padding">13.329987dp</dimen>
+<dimen name="card_item_primary_text_size">15.000000sp</dimen>
+<dimen name="card_header_extra_text_size">10.000000sp</dimen>
+<dimen name="card_root_height">50.000000dp</dimen>
+<dimen name="card_item_extra_text_size"></dimen>
+<dimen name="aqi_desc_distance_to_center">3.000000dp</dimen>
+<dimen name="card_text_size"></dimen>
+<dimen name="card_item_image_size">52.000000dp</dimen>
+<dimen name="card_item_secondary_text_size">12.000000sp</dimen>
+<dimen name="card_item_extra_area_height">30.000000dp</dimen>
+<dimen name="card_item_extra_area_width">56.669983dp</dimen>
+<dimen name="activity_alert_detai_line_start">25.000000dp</dimen>
+<dimen name="aqi_detail_party_line_padding_left_right">16.000000dp</dimen>
+<dimen name="aqi_detail_party_line_item_width">64.000000dp</dimen>
+<dimen name="aqi_detail_party_line_min_height">30.599976dp</dimen>
+<dimen name="aqi_detail_space_radius">3.000000dp</dimen>
+<dimen name="aqi_detail_stroke_width">1.000000dp</dimen>
+<dimen name="aqi_detail_line_text_size">10.000000sp</dimen>
+<dimen name="aqi_detail_date_text_size">10.000000sp</dimen>
+<dimen name="background_trans_y_max">8.329987dp</dimen>
+<dimen name="aqi_detail_party_line_distance_from_center">13.000000dp</dimen>
+<dimen name="aqi_detail_bottom_line_margin_bottom">20.299988dp</dimen>
+<dimen name="background_tree_top">115.000000dp</dimen>
+<dimen name="background_left_tree_move_delta">3.299988dp</dimen>
+<dimen name="background_trans_y_distance">33.000000dp</dimen>
+<dimen name="background_tree_left">205.000000dp</dimen>
+<dimen name="aqi_detail_party_line_max_height">110.399994dp</dimen>
+<dimen name="daily_forecast_detail_top_line_max_hight">183.000000dp</dimen>
+<dimen name="daily_forecast_detail_top_line_min_hight">150.000000dp</dimen>
+<dimen name="daily_forecast_detail_data_margin_top">3.299988dp</dimen>
+<dimen name="daily_forecast_detail_distance_from_circle_center">16777198.000000dp</dimen>
+<dimen name="daily_forecast_detail_bottom_line_max_hight">235.000000dp</dimen>
+<dimen name="daily_forecast_detail_bottom_line_min_hight">202.000000dp</dimen>
+<dimen name="aqi_detail_ring_radius">1.299988dp</dimen>
+<dimen name="aqi_detail_line_width">0.630000dp</dimen>
+<dimen name="daily_forecast_detail_table_margin_top">36.299988dp</dimen>
+<dimen name="daily_forecast_detail_table_weather_icon_margin_top">35.000000dp</dimen>
+<dimen name="daily_forecat_line_width">0.830000dp</dimen>
+<dimen name="daily_forecat_space_radius">4.165985dp</dimen>
+<dimen name="daily_forecat_ring_radius">2.659973dp</dimen>
+<dimen name="daily_forecat_stroke_width">1.000000dp</dimen>
+<dimen name="daily_forecat_text_size">13.299988sp</dimen>
+<dimen name="daily_forecat_top_line_margin_date_desc">26.000000dp</dimen>
+<dimen name="hourly_forecat_line_width">0.830000dp</dimen>
+<dimen name="aqi_desc_center_margin_subtitle_top">16777190.000000dp</dimen>
+<dimen name="hourly_forecat_item_distance">63.329987dp</dimen>
+<dimen name="hourly_forecat_padding_left_and_right">38.000000dp</dimen>
+<dimen name="hourly_forecat_max_y">85.000000dp</dimen>
+<dimen name="hourly_forecat_min_y">44.000000dp</dimen>
+<dimen name="hourly_forecat_bottom_text_size">12.000000sp</dimen>
+<dimen name="hourly_forecat_table_height">181.699982dp</dimen>
+<dimen name="daily_forecast_detail_item_width">78.000000dp</dimen>
+<dimen name="hourly_forecat_bottom_line_padding">40.000000dp</dimen>
+<dimen name="hourly_forecat_bottom_text_padding">26.000000dp</dimen>
+<dimen name="hourly_forecat_text_distance_from_circle_center">15.000000dp</dimen>
+<dimen name="hourly_forecat_text_size">13.299988sp</dimen>
+<dimen name="hourly_forecat_space_radius">4.165985dp</dimen>
+<dimen name="hourly_forecat_stroke_width">1.000000dp</dimen>
+<dimen name="hourly_forecat_ring_radius">2.659973dp</dimen>
+<dimen name="advertisment_install_footer_margin_bottom">16.329987dp</dimen>
+<dimen name="commercial_pic_margin_title_top">10.000000dp</dimen>
+<dimen name="commercial_footer_margin_pic_top">10.000000dp</dimen>
+<dimen name="advertisment_footer_margin_extension_left">10.000000dp</dimen>
+<dimen name="commercial_footer_margin_text_top">6.000000dp</dimen>
+<dimen name="round_angle_radius">1.329987dp</dimen>
+<dimen name="aqi_table_desc_relative_to_ring_table_distance">46.000000dp</dimen>
+<dimen name="aqi_table_sub_size">10.000000sp</dimen>
+<dimen name="aqi_table_desc_size">12.000000sp</dimen>
+<dimen name="aqi_table_text_size">31.000000sp</dimen>
+<dimen name="realtime_top_padding">136.000000dp</dimen>
+<dimen name="aqi_table_outter_radius">50.000000dp</dimen>
+<dimen name="aqi_table_inner_radius">48.000000dp</dimen>
+<dimen name="aqi_table_cut_to_outter_height">37.000000dp</dimen>
+<dimen name="image_view_stroke_width">2.000000px</dimen>
+<dimen name="screen_top_padding">0.000000dp</dimen>
+<dimen name="hourly_forcast_item_margin_left_right">12.829987dp</dimen>
+<dimen name="hourly_forcast_item_margin_top_bottom">13.669983dp</dimen>
+<dimen name="hourly_forecast_item_weather_icon_margin_top">10.329987dp</dimen>
+<dimen name="daily_forecast_item_temperature_text_size">20.699982sp</dimen>
+<dimen name="daily_forecast_item_weather_text_size">11.299988sp</dimen>
+<dimen name="daily_forecast_item_wind_text_size">13.329987sp</dimen>
+<dimen name="indices_restriction_text_size">26.659973sp</dimen>
+<dimen name="indices_item_height">113.000000dp</dimen>
+<dimen name="daily_forecast_item_height">76.299988dp</dimen>
+<dimen name="commerical_padding_left_right">13.329987dp</dimen>
+<dimen name="realtime_total_height">365.000000dp</dimen>
+<string name="act_weather_find_city_searching">正在搜索……</string>
+<string name="act_weather_find_city_click_retry">点此重试</string>
+<string name="act_weather_find_city_no_result">无匹配城市</string>
+<string name="location_tag">定位</string>
+<string name="activity_weathermain_locationg">定位中...</string>
+<string name="act_weather_find_city_added">已添加</string>
+<string name="view_forecast_item_yesterday">昨天</string>
+<string name="activity_weathermain_locationg_error">定位失败</string>
+<string name="act_set_city_find_side_error">定位失败</string>
+<string name="menu_location">位置管理</string>
+<string name="button_allow">确定</string>
+<string name="button_confirm">同意</string>
+<string name="button_abandon">舍弃更改</string>
+<string name="button_exit">退出</string>
+<string name="activity_main_one_alert">%1$s%2$s预警</string>
+<string name="ads_extension">推广</string>
+<string name="video_dialog_play">继续播放</string>
+<string name="video_dialog_no_play">不播放</string>
+<string name="activity_find_city_dialog_set">设置</string>
+<string name="activity_alert_detail_title">%1$s%2$s预警</string>
+<string name="activity_find_city_dialog_title">开启“位置服务”</string>
+<string name="activity_main_alert">有%1$d条预警</string>
+<string name="activity_find_city_dialog_message">开启“位置服务”以便“天气”确定您的位置</string>
+<string name="hour_minute_time_format">HH:mm</string>
+<string name="activity_main_time_format">E</string>
+<string name="data_source_timezone">GMT%1$s</string>
+<string name="data_source_time_fromat">yyyy-MM-dd'T'HH:mm:ssz</string>
+<string name="international_detail_menu_title">Details</string>
+<string name="first_start_network_title">声明与条款</string>
+<string name="first_start_network_msg">天气在使用过程中需要连接网络和上传地理位置信息，以便获取对应地理位置的天气数据，点击“同意”以继续使用。</string>
+<string name="view_indexes_item_today">今天</string>
+<string name="activity_main_update_time_right_now">刚刚</string>
+<string name="activity_main_refresh_fail">刷新失败，请检查网络</string>
+<string name="view_indexes_item_tommorrow">明天</string>
+<string name="activity_main_update_time">%1$s更新</string>
+<string name="traffic_control_daty_after_tomorrow_numbers">后天：%1$s</string>
+<string name="activity_find_city_dialog_cancel">取消</string>
+<string name="button_sure_abandon">确认舍弃更改吗？</string>
+<string name="retry">重试</string>
+<string name="more_details">更多详情</string>
+<string name="mi_pad2">latte</string>
+<string name="share_weather_desc">#MIUI天气#%1$s今天%2$s</string>
+<string name="international_details_title">详情</string>
+<string name="share_weather_desc_alert">%1$s%2$s预警</string>
+<string name="share_title">分享预览</string>
+<string name="share_weather_desc_split">，</string>
+<string name="indices_title">生活建议</string>
+<string name="locate_fail_detail_err">定位失败\n点击屏幕重新定位或手动添加城市</string>
+<string name="video_dialog_title">流量提醒</string>
+<string name="menu_add_city">删除城市</string>
+<string name="button_add_city">添加城市</string>
+<string name="aqi_detail_24_hours">24小时预报</string>
+<string name="aqi_sub_desc">AQI</string>
+<string name="hourly_forecast_title">%1$s小时预报</string>
+<string name="aqi_detail_5_days">5天预报</string>
+<string name="tts_report_defautl_head">小米天气为您播报最新天气</string>
+<string name="tts_report_split">，</string>
+<string name="no_data">--</string>
+<string name="top_pollution_o3">O3</string>
+<string name="top_pollution_co">CO</string>
+<string name="top_pollution_no2">NO2</string>
+<string name="temperature_unit">%1$s°</string>
+<string name="top_pollution_so2">SO2</string>
+<string name="top_pollution_pm10">PM10</string>
+<string name="act_find_city_hint">搜索国内外城市</string>
+<string name="act_find_city_hot_title">快速添加</string>
+<string name="close">关闭</string>
+<string name="network_unavailable">无网络连接，请检查网络</string>
+<string name="install">安装</string>
+<string name="edit_city">编辑</string>
+<string name="add_city">添加</string>
+<string name="gps_hint">当前位置</string>
+<string name="location_management">位置管理</string>
+<string name="app_name">天气</string>
+<string name="aqi_data_source">数据来源：彩云天气</string>
+<string name="traffic_controls">限行尾号</string>
+<string name="traffic_control_today_numbers">今天：%1$s</string>
+<string name="traffic_control_tomorrow_numbers">明天：%1$s</string>
+<string name="open">打开</string>
+<string name="daily_forecast_detail_date">M月d日</string>
+<string name="aqi_publish_source">%2$s发布</string>
+<string name="daily_forecast_detail_date_format">%2$s</string>
+<string name="act_set_city_find_side">定位中...</string>
+<string name="video_dialog_subtitle">现在处于数据网络，是否继续播放小视屏</string>
+<string name="aqi_publish_time">%1$s发布</string>
+<string name="button_not_allow">取消</string>
+<string name="aqi_detail_sub_title">空气质量详情</string>
+<string name="act_weather_find_city_net_no_good">网络不给力</string>
+<string name="aqi_desc">空气质量指数</string>
+<string name="realtime_wind_default_title">风力风向</string>
+<string name="realtime_aqi_title">空气质量</string>
+<string name="realtime_humidity_title">相对湿度</string>
+<string name="indices_title_car_wash">洗车</string>
+<string name="indices_title_restriction">尾号限行</string>
+<string name="indices_title_Precip1hr">未来1h降雨量</string>
+<string name="indices_no_restriction">无</string>
+<string name="international_details_pressure_title">气压</string>
+<string name="share">分享</string>
+<string name="international_details_uv_index_title">紫外线指数</string>
+<string name="open_browser">在浏览器中打开</string>
+<string name="international_details_wind_connect">%2$s</string>
+<string name="empty"></string>
+<string name="pressure_connect">MB</string>
+<string name="twc_logo_title"></string>
+<string name="edit_alert_city_title">预警管理</string>
+<string name="weather_alert">气象预警</string>
+<string name="index_item_install_now">立即安装</string>
+<string name="aqi_detail_unit">µg/m3(CO为mg/m3)</string>
+<string name="aqi_top_pollution">首要污染物</string>
+<string name="aqi_detail_subtitle">%1$s</string>
+<string name="aqi_detail_title">%1$s</string>
+<string name="aqi_detail_pm10">PM10</string>
+<string name="aqi_detail_pm25">PM2.5</string>
+<string name="international_details_wind_title">风</string>
+<string name="aqi_detail_no2">NO₂</string>
+<string name="international_details_real_feel_title">体感温度®</string>
+<string name="aqi_detail_so2">SO₂</string>
+<string name="information_time_source">%2$s</string>
+<string name="indices_desc_Precip1hr">%1$smm</string>
+<string name="information_menu_title">信息流设置</string>
+<string name="activity_main_clickable">&gt;</string>
+<string name="aqi_short_desc">%1$s</string>
+<string name="information_manager_wlan">下加载天气资讯</string>
+<string name="information_manager_information">天气资讯</string>
+<string name="top_pollution_pm25">PM2.5</string>
+<string name="aqi_detail_co">CO</string>
+<string name="aqi_detail_o3">O₃</string>
+<string name="tts_report_weather_desc">今天白天到晚间，%1$s</string>
+<string name="tts_report_city_name">%1$s</string>
+<string name="ads_score_title"></string>
+<string name="ads_install_num">%1$s次下载</string>
+<string name="tts_report_aqi">%1$s</string>
+<string name="tts_report_wind">%1$s</string>
+<string name="tts_report_temperature_low">最低温%1$s摄氏度</string>
+<string name="tts_report_temperature_high">最高温%1$s摄氏度</string>
+<string name="wind_unit">%1$s级</string>
+<string name="share_menu_title">分享天气</string>
+<string name="share_btn_cancel">取消</string>
+<string name="daily_forcast_temperature_transfer">%2$s°</string>
+<string name="daily_forcast_drawer_on_top">%1$s天趋势预报</string>
+<string name="hourly_forcast_now">现在</string>
+<string name="sunrise">日出</string>
+<string name="sunset">日落</string>
+<string name="daily_forcast_weather_transfer">%1$s转%2$s</string>
+<string name="indices_desc_visibility">%1$skm</string>
+<string name="indices_title_visibility">可见度</string>
+<string name="indices_title_pressure">气压</string>
+<string name="indices_title_uv">紫外线</string>
+<string name="indices_desc_humidity_without_pic">%1$s%%</string>
+<string name="share_subject">分享</string>
+<string name="share_btn_confirm">分享</string>
+<string name="share_weather_save_pic_fail">保存截图失败</string>
+<string name="share_button">分享</string>
+<string name="daily_forcast_temperature_connect"></string>
+<string name="daily_forcast_wind_connect">%1$s</string>
+<string name="daily_forcast_drawer_on_bottom">收起</string>
+<string name="indices_title_sport">运动</string>
+<string name="indices_desc_feel">%1$s°C</string>
+<string name="indices_desc_feel_without_pic">%1$s°C</string>
+<string name="indices_desc_pressure">%1$smb</string>
+<string name="indices_title_feel">体感温度</string>
+<string name="no_network_btn">重试</string>
+<string name="network_not_available">网络不可用，请检查联网后再试</string>
+<string name="title_share_link">分享链接</string>
+<string name="daily_forcast_no_stable_direction">微风</string>
+<string name="daily_forcast_whirl_wind">旋转风</string>
+<string name="daily_forcast_no_wind">&lt;2级</string>
+<string name="indices_desc_humidity">湿度%1$s%%</string>
+<string name="indices_title_humidity">湿度</string>
+<string name="information_views">%1$s人看过</string>
+<string-array name="aqi_title">
+<item>优</item>
+<item>良</item>
+<item>轻度</item>
+<item>中度</item>
+<item>重度</item>
+<item>严重</item>
+</string-array>
+<string-array name="aqi_title_prefix">
+<item>空气%1$s</item>
+<item>空气%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+</string-array>
+<string-array name="hot_city">
+<item>北京</item>
+<item>上海</item>
+<item>广州</item>
+<item>深圳</item>
+<item>珠海</item>
+<item>佛山</item>
+<item>南京</item>
+<item>苏州</item>
+<item>杭州</item>
+<item>济南</item>
+<item>青岛</item>
+<item>郑州</item>
+<item>石家庄</item>
+<item>福州</item>
+<item>厦门</item>
+<item>武汉</item>
+<item>长沙</item>
+<item>成都</item>
+<item>重庆</item>
+<item>太原</item>
+<item>沈阳</item>
+<item>南宁</item>
+<item>西安</item>
+</string-array>
+<string-array name="aqi_title_append">
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+</string-array>
+<string-array name="wind_direction">
+<item>北风</item>
+<item>东北风</item>
+<item>东风</item>
+<item>东南风</item>
+<item>南风</item>
+<item>西南风</item>
+<item>西风</item>
+<item>西北风</item>
+</string-array>
+<string-array name="wind_power">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+</string-array>
+<string-array name="indices_car_wash">
+<item>适宜洗车</item>
+<item>不宜洗车</item>
+</string-array>
+<string-array name="weather_type">
+<item>晴</item>
+<item>多云</item>
+<item>阴</item>
+<item>雾</item>
+<item>特大暴雨</item>
+<item>大暴雨</item>
+<item>暴雨</item>
+<item>雷阵雨</item>
+<item>阵雨</item>
+<item>大雨</item>
+<item>中雨</item>
+<item>小雨</item>
+<item>雨夹雪</item>
+<item>暴雪</item>
+<item>阵雪</item>
+<item>大雪</item>
+<item>中雪</item>
+<item>小雪</item>
+<item>强沙尘暴</item>
+<item>沙尘暴</item>
+<item>沙尘</item>
+<item>扬沙</item>
+<item>冰雹</item>
+<item>浮尘</item>
+<item>霾</item>
+<item>冻雨</item>
+<item></item>
+</string-array>
+<string-array name="indices_sport">
+<item>适宜运动</item>
+<item>不宜运动</item>
+</string-array>
+<string-array name="indices_uv_level">
+<item>无需防晒</item>
+<item>注意防晒</item>
+<item>避免外出</item>
+</string-array>
+</MIUI_Theme_Values>

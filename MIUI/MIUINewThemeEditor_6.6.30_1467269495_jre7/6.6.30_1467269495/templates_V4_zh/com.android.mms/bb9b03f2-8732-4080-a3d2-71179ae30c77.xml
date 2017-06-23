@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.3 短信快捷回复" version="3.1.11" annotation="" tag="新信息">
+    <resource description="normal_list_item_bg_n.9" x="34" y="198" width="654" height="450" uuid="0139ac9d-0df2-45b1-aa07-1d0543ac87b2">
+        <path src="res\drawable-hdpi\normal_list_item_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\normal_list_item_bg_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\normal_list_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\normal_list_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="ic_menu_delete" x="32" y="84" width="108" height="108" uuid="fbfb8287-d502-441f-8f6e-026e095bebec">
+        <path src="res\drawable-hdpi\ic_menu_delete.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_delete.png" description="" />
+    </resource>
+    <resource description="ic_menu_close_clear_cancel" x="576" y="78" width="108" height="108" uuid="f7b851a0-b628-4a42-ba13-09cbb6912c5d">
+        <path src="res\drawable-hdpi\ic_menu_close_clear_cancel.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_close_clear_cancel.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="600" y="660" width="86" height="86" uuid="d69bb4f1-7393-48ed-bffa-5fd9f290a878">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="46" y="660" width="532" height="82" uuid="bdfa977a-c8df-4d9b-a2a6-3990c4b43f3f">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+</screenshot>

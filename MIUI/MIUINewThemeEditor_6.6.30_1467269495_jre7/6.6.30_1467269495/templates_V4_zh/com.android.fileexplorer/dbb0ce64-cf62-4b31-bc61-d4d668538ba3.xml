@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 网盘编辑模式" version="3.1.11" annotation="" tag="3.0 网盘">
+    <resource description="operation_button_download_link" x="474" y="1202" width="74" height="56" uuid="7aac59cb-f8e2-4132-a55b-205f9035e24a">
+        <path src="res\drawable-hdpi\operation_button_download_link.png" description="外链" />
+    </resource>
+    <resource description="operation_button_rename" x="628" y="1202" width="62" height="52" uuid="14303c14-10f5-4f80-961e-bc3583a3ec58">
+        <path src="res\drawable-hdpi\operation_button_rename.png" description="重命名" />
+    </resource>
+    <resource description="ic_menu_trash_holo_light" x="32" y="1196" width="52" height="64" uuid="a427663b-6042-4e69-8c18-d05616a5111e">
+        <path src="res\drawable-hdpi\ic_menu_trash_holo_light.png" description="删除" />
+    </resource>
+    <resource description="operation_button_copy" x="178" y="1194" width="60" height="68" uuid="1f6a4b7b-3b7a-412d-af16-5697c2b95807">
+        <path src="res\drawable-hdpi\operation_button_copy.png" description="复制" />
+    </resource>
+    <resource description="operation_button_move" x="324" y="1202" width="62" height="58" uuid="b38648e3-7018-4e07-a706-0b75a73047ee">
+        <path src="res\drawable-hdpi\operation_button_move.png" description="剪切" />
+    </resource>
+</screenshot>

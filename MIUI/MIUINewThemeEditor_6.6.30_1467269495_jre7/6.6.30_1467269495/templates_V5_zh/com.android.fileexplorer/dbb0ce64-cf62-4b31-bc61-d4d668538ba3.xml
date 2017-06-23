@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 网盘2" version="3.1.11" annotation="" tag="3.0 网盘">
+    <resource description="image_icon_down" x="72" y="600" width="46" height="46" uuid="95db8599-2221-4a99-99d6-6a8ee910fe86">
+        <path src="res\drawable-hdpi\image_icon_down.png" description="下载完成" />
+        <path src="res\drawable-xhdpi\image_icon_down.png" description="下载完成" />
+        <path src="res\drawable-hdpi\image_task_item_download.png" description="下载ing" />
+        <path src="res\drawable-xhdpi\image_task_item_download.png" description="下载ing" />
+        <path src="res\drawable-hdpi\image_task_item_upload.png" description="上传ing" />
+        <path src="res\drawable-xhdpi\image_task_item_upload.png" description="上传ing" />
+    </resource>
+    <resource description="v5_progress_bar_light" x="638" y="148" width="76" height="74" uuid="e68496e0-4253-4627-a3d1-786490598641">
+        <path src="res\drawable-hdpi\v5_progress_bar_bg.png" description="等待条背景" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_bg.png" description="等待条背景" />
+        <path src="res\drawable-hdpi\v5_progress_bar_light.png" description="等待条" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_light.png" description="等待条" />
+    </resource>
+    <resource description="file_icon_zip" x="26" y="432" width="84" height="88" uuid="19bf3e4b-d8ff-44ec-85c3-5bd10b58f1b4">
+        <path src="res\drawable-hdpi\file_icon_amr.png" description="录音文件" />
+        <path src="res\drawable-xhdpi\file_icon_amr.png" description="录音文件" />
+        <path src="res\drawable-hdpi\file_icon_apk.png" description="安装包文件" />
+        <path src="res\drawable-xhdpi\file_icon_apk.png" description="安装包文件" />
+        <path src="res\drawable-hdpi\file_icon_default.png" description="未知文件" />
+        <path src="res\drawable-xhdpi\file_icon_default.png" description="未知文件" />
+        <path src="res\drawable-hdpi\file_icon_doc.png" description="文档文件" />
+        <path src="res\drawable-xhdpi\file_icon_doc.png" description="文档文件" />
+        <path src="res\drawable-hdpi\file_icon_et.png" description="表格文件" />
+        <path src="res\drawable-xhdpi\file_icon_et.png" description="表格文件" />
+        <path src="res\drawable-hdpi\file_icon_mid.png" description="MID文件" />
+        <path src="res\drawable-xhdpi\file_icon_mid.png" description="MID文件" />
+        <path src="res\drawable-hdpi\file_icon_mp3.png" description="MP3文件" />
+        <path src="res\drawable-xhdpi\file_icon_mp3.png" description="MP3文件" />
+        <path src="res\drawable-hdpi\file_icon_pdf.png" description="PDF文件" />
+        <path src="res\drawable-xhdpi\file_icon_pdf.png" description="PDF文件" />
+        <path src="res\drawable-hdpi\file_icon_picture.png" description="图片文件" />
+        <path src="res\drawable-xhdpi\file_icon_picture.png" description="图片文件" />
+        <path src="res\drawable-hdpi\file_icon_pps.png" description="PPS文件" />
+        <path src="res\drawable-xhdpi\file_icon_pps.png" description="PPS文件" />
+        <path src="res\drawable-hdpi\file_icon_ppt.png" description="PPT文件" />
+        <path src="res\drawable-xhdpi\file_icon_ppt.png" description="PPT文件" />
+        <path src="res\drawable-hdpi\file_icon_rar.png" description="RAR压缩文件" />
+        <path src="res\drawable-xhdpi\file_icon_rar.png" description="RAR压缩文件" />
+        <path src="res\drawable-hdpi\file_icon_theme.png" description="主题文件" />
+        <path src="res\drawable-xhdpi\file_icon_theme.png" description="主题文件" />
+        <path src="res\drawable-hdpi\file_icon_txt.png" description="TXT文件" />
+        <path src="res\drawable-xhdpi\file_icon_txt.png" description="TXT文件" />
+        <path src="res\drawable-hdpi\file_icon_video.png" description="视频文件" />
+        <path src="res\drawable-xhdpi\file_icon_video.png" description="视频文件" />
+        <path src="res\drawable-hdpi\file_icon_wav.png" description="WAV文件" />
+        <path src="res\drawable-xhdpi\file_icon_wav.png" description="WAV文件" />
+        <path src="res\drawable-hdpi\file_icon_wma.png" description="WMA文件" />
+        <path src="res\drawable-xhdpi\file_icon_wma.png" description="WMA文件" />
+        <path src="res\drawable-hdpi\file_icon_wps.png" description="wps文档文件" />
+        <path src="res\drawable-xhdpi\file_icon_wps.png" description="wps文档文件" />
+        <path src="res\drawable-hdpi\file_icon_xls.png" description="表格文件" />
+        <path src="res\drawable-xhdpi\file_icon_xls.png" description="表格文件" />
+        <path src="res\drawable-hdpi\file_icon_zip.png" description="ZIP压缩文件" />
+        <path src="res\drawable-xhdpi\file_icon_zip.png" description="ZIP压缩文件" />
+    </resource>
+</screenshot>

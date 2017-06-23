@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 主题详情" version="4.8.29" annotation="" tag="主题风格">
+    <resource description="resource_operation_view_bg.9" x="0" y="1714" width="1080" height="206" uuid="a790eaec-6bbe-4e0b-a804-2e5af303c434">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\resource_operation_view_bg.9.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="" />
+    </resource>
+    <resource description="resource_share_s" x="56" y="1716" width="192" height="204" uuid="11ffa42e-7b3f-4001-8557-771a1a4c4c65">
+        <path src="res\drawable-xhdpi\resource_share_n.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_share_n.png" description="" />
+        <path src="res\drawable-xhdpi\resource_share_p.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_share_p.png" description="" />
+        <path src="res\drawable-xhdpi\resource_share_s.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_share_s.png" description="" />
+    </resource>
+    <resource description="resource_comment_s" x="830" y="1716" width="192" height="204" uuid="a3b19bf5-f934-4b2e-96de-8f8a4e2008fc">
+        <path src="res\drawable-xhdpi\resource_comment_n.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_comment_n.png" description="" />
+        <path src="res\drawable-xhdpi\resource_comment_p.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_comment_p.png" description="" />
+        <path src="res\drawable-xhdpi\resource_comment_s.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_comment_s.png" description="" />
+    </resource>
+    <resource description="resource_info_bg.9" x="46" y="194" width="784" height="730" uuid="d6f539ac-9cae-41ac-9624-a4f48b409128">
+        <path src="res\drawable-xxhdpi\resource_info_bg.9.png" description="更新日志背景" />
+    </resource>
+    <resource description="resource_preview_empty" x="878" y="190" width="202" height="734" uuid="38c6c7a3-e250-4f32-98ac-920cce0131de">
+        <path src="res\drawable-xxhdpi\resource_preview_bg.png" description="预览图加载中" />
+        <path src="res\drawable-xxhdpi\resource_preview_empty.png" description="预览图加载异常" />
+    </resource>
+</screenshot>

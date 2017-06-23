@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--原创代码，抄袭必究-->
+<!--锁屏-->
+<Lockscreen version="1"  screenWidth="1080">
+<!--加图片,越靠前，越在底层,坐标默认为x=0 y=0;w,h默认为原像素-->
+	<!--背景图-->
+	<Image src="bg.jpg" x="0"/>
+	
+<!--解锁到电话-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="0" y="#screen_height-400" w="360" h="400"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="60" y="#screen_height-60" align="center" alignV="center" src="call.png">
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		<!--此处加上Intent,指定解锁到。拨号。。这些值可以在论坛查-->
+			<Intent action="android.intent.action.VIEW" type="vnd.android.cursor.dir/calls" />
+		</EndPoint>
+	</unlocker>	
+	
+	<!--解锁-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="360" y="#screen_height-400" w="360" h="400"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="#screen_width/2" y="#screen_height-60" align="center" alignV="center" src="arrow.png">
+					<PositionAnimation>
+						<Position x="0" y="-40" time="1000"/>
+						<Position x="0" y="20" time="2000"/>
+						<Position x="0" y="0" time="2500"/>
+					</PositionAnimation>
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		</EndPoint>
+	</unlocker>	
+	
+	<!--解锁到相机-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="720" y="#screen_height-400" w="360" h="400"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="#screen_width-60" y="#screen_height-60" align="center" alignV="center" src="cam.png">
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		<!--此处加上Intent,指定解锁到。相机。。-->
+			<Intent action="android.media.action.STILL_IMAGE_CAMERA" category="android.intent.category.DEFAULT" />
+		
+		</EndPoint>
+	</unlocker>	
+	
+<!--时间控件-->
+<Time x="375" y="1470" src="time.png" />
+<!--日期-->                                                                    
+<DateTime x="390" y="1645" color="#FFFFFF" size="40" format="yyyy年M月d日" />
+<DateTime x="380" y="1720" color="#FFFFFF" size="40" format="农历N月e E" />
+
+
+<!--动画-->
+<Image x="0" y="0" pivotX="50" pivotY="50" src="1.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="800" time="5000" />
+		<Item x="1000" y="1500" time="12000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="12000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="150" time="5000"/>
+		<Item w="200" h="200" time="12000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="100" time="5000"/>
+		<Item value="0" time="12000"/>
+	</AlphaAnimation>
+</Image>
+
+<Image x="50" y="0" pivotX="50" pivotY="50" src="2.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="650" time="5000" />
+		<Item x="800" y="1200" time="10000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="10000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="90" time="5000"/>
+		<Item w="200" h="80" time="10000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="10000"/>
+	</AlphaAnimation>
+</Image>
+
+<Image x="100" y="-50" pivotX="50" pivotY="50" src="3.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="300" time="3000" />
+		<Item x="600" y="900" time="10000"/>
+ 		<Item x="800" y="1600" time="15000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="15000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="90" time="5000"/>
+		<Item w="200" h="110" time="15000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="15000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="-100" y="-50" pivotX="50" pivotY="50" src="4.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="700" time="4000" />
+		<Item x="600" y="1200" time="8000"/>
+ 		<Item x="900" y="1500" time="13000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="13000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="90" time="5000"/>
+		<Item w="200" h="110" time="13000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="15000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="70" y="0" pivotX="50" pivotY="50" src="5.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="600" y="1200" time="8000"/>
+ 		<Item x="900" y="1500" time="11000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="11000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="90" time="5000"/>
+		<Item w="200" h="120" time="11000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="11000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="0" y="120" pivotX="50" pivotY="50" src="6.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="500" y="1200" time="8000"/>
+ 		<Item x="650" y="1500" time="14000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="14000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="200" h="80" time="14000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="14000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="0" y="40" pivotX="50" pivotY="50" src="7.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="600" y="1200" time="9000"/>
+ 		<Item x="1000" y="1800" time="16000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="16000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="150" h="90" time="5000"/>
+		<Item w="200" h="110" time="16000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="0" time="16000"/>
+	</AlphaAnimation>
+</Image>
+
+</Lockscreen>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3.1 Add/edit contact" version="2.9.16" annotation="此处白色背景为颜色代码 &#xA;【color】为background_primary" tag="Contacts">
+    <resource description="editor_title_bg_n" x="0" y="50" width="720" height="92" uuid="6f09f0e7-0fee-4b05-9d4c-b181e63c7387">
+        <path src="res\drawable-hdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-xhdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-xxhdpi\editor_title_bg_n.png" description="新建联系人 title 背景" />
+        <path src="res\drawable-hdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+        <path src="res\drawable-xhdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+        <path src="res\drawable-xxhdpi\editor_title_bg_p.png" description="新建联系人 title 背景二态" />
+    </resource>
+    <resource description="ic_menu_expander_maximized_holo_light_n" x="598" y="158" width="92" height="90" uuid="786d0c9a-be72-4de1-ae1b-4b381caf5dd0">
+        <path src="res\drawable-hdpi\ic_menu_expander_maximized_holo_light_n.png" description="收起按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_maximized_holo_light_n.png" description="收起按钮" />
+        <path src="res\drawable-xxhdpi\ic_menu_expander_maximized_holo_light_n.png" description="收起按钮" />
+        <path src="res\drawable-hdpi\ic_menu_expander_maximized_holo_light_p.png" description="收起按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_maximized_holo_light_p.png" description="收起按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_expander_maximized_holo_light_p.png" description="收起按钮 二态" />
+        <path src="res\drawable-hdpi\ic_menu_expander_minimized_holo_light_n.png" description="更多按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_minimized_holo_light_n.png" description="更多按钮" />
+        <path src="res\drawable-xxhdpi\ic_menu_expander_minimized_holo_light_n.png" description="更多按钮" />
+        <path src="res\drawable-hdpi\ic_menu_expander_minimized_holo_light_p.png" description="更多按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_minimized_holo_light_p.png" description="更多按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_expander_minimized_holo_light_p.png" description="更多按钮 二态" />
+    </resource>
+    <resource description="ic_menu_remove_n" x="601" y="460" width="81" height="81" uuid="d8a454e4-53ae-4d4b-8c7d-4f3389eae8f6">
+        <path src="res\drawable-hdpi\ic_menu_remove_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_remove_n.png" description="删除按钮" />
+        <path src="res\drawable-xxhdpi\ic_menu_remove_n.png" description="删除按钮" />
+        <path src="res\drawable-hdpi\ic_menu_remove_p.png" description="删除按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_remove_p.png" description="删除按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_remove_p.png" description="删除按钮 二态" />
+    </resource>
+    <resource description="spinner_first_bg_n" x="29" y="547" width="181" height="91" uuid="8d076db0-ea0c-43a8-8d50-e4eb8b8beb00">
+        <path src="res\drawable-hdpi\spinner_first_bg_n.png" description="联系人信息列表上" />
+        <path src="res\drawable-xhdpi\spinner_first_bg_n.png" description="联系人信息列表上" />
+        <path src="res\drawable-xxhdpi\spinner_first_bg_n.png" description="联系人信息列表上" />
+        <path src="res\drawable-hdpi\spinner_first_bg_p.png" description="联系人信息列表上 二态" />
+        <path src="res\drawable-xhdpi\spinner_first_bg_p.png" description="联系人信息列表上 二态" />
+        <path src="res\drawable-xxhdpi\spinner_first_bg_p.png" description="联系人信息列表上 二态" />
+    </resource>
+    <resource description="spinner_last_bg_n" x="27" y="756" width="182" height="92" uuid="84c3af32-e788-42b5-9e63-d937e9823112">
+        <path src="res\drawable-hdpi\spinner_last_bg_n.png" description="联系人信息列表下" />
+        <path src="res\drawable-xhdpi\spinner_last_bg_n.png" description="联系人信息列表下" />
+        <path src="res\drawable-xxhdpi\spinner_last_bg_n.png" description="联系人信息列表下" />
+        <path src="res\drawable-hdpi\spinner_last_bg_p.png" description="联系人信息列表下 二态" />
+        <path src="res\drawable-xhdpi\spinner_last_bg_p.png" description="联系人信息列表下 二态" />
+        <path src="res\drawable-xxhdpi\spinner_last_bg_p.png" description="联系人信息列表下 二态" />
+    </resource>
+    <resource description="spinner_middle_bg_n" x="30" y="640" width="181" height="91" uuid="beeb3489-4dce-462c-afed-204008bd2e44">
+        <path src="res\drawable-hdpi\spinner_middle_bg_n.png" description="联系人信息列表中" />
+        <path src="res\drawable-xhdpi\spinner_middle_bg_n.png" description="联系人信息列表中" />
+        <path src="res\drawable-xxhdpi\spinner_middle_bg_n.png" description="联系人信息列表中" />
+        <path src="res\drawable-hdpi\spinner_middle_bg_p.png" description="联系人信息列表中 二态" />
+        <path src="res\drawable-xhdpi\spinner_middle_bg_p.png" description="联系人信息列表中 二态" />
+        <path src="res\drawable-xxhdpi\spinner_middle_bg_p.png" description="联系人信息列表中 二态" />
+    </resource>
+    <resource description="edit_date_picker_bg_n.9" x="212" y="863" width="483" height="92" uuid="c86dfdf6-1c0f-49c4-83ed-276937ecc646">
+        <path src="res\drawable-hdpi\edit_date_picker_bg_n.9.png" description="编辑日期" />
+        <path src="res\drawable-xhdpi\edit_date_picker_bg_n.9.png" description="编辑日期" />
+        <path src="res\drawable-xxhdpi\edit_date_picker_bg_n.9.png" description="编辑日期" />
+        <path src="res\drawable-hdpi\edit_date_picker_bg_p.9.png" description="编辑日期 二态" />
+        <path src="res\drawable-xhdpi\edit_date_picker_bg_p.9.png" description="编辑日期 二态" />
+        <path src="res\drawable-xxhdpi\edit_date_picker_bg_p.9.png" description="编辑日期 二态" />
+    </resource>
+    <resource description="spinner_single_bg_n" x="30" y="452" width="182" height="92" uuid="a8a03abf-b7c9-4606-94ba-e1c42347b39e">
+        <path src="res\drawable-hdpi\spinner_single_bg_n.png" description="联系人信息列表单独" />
+        <path src="res\drawable-xhdpi\spinner_single_bg_n.png" description="联系人信息列表单独" />
+        <path src="res\drawable-xxhdpi\spinner_single_bg_n.png" description="联系人信息列表单独" />
+        <path src="res\drawable-hdpi\spinner_single_bg_p.png" description="联系人信息列表单独 二态" />
+        <path src="res\drawable-xhdpi\spinner_single_bg_p.png" description="联系人信息列表单独 二态" />
+        <path src="res\drawable-xxhdpi\spinner_single_bg_p.png" description="联系人信息列表单独 二态" />
+    </resource>
+    <resource description="ic_menu_remove_bg.9" x="587" y="642" width="22" height="88" uuid="daa77663-1e48-4a83-a748-a5fb007662e9">
+        <path src="res\drawable-hdpi\ic_menu_remove_bg.9.png" description="分割线" />
+        <path src="res\drawable-xhdpi\ic_menu_remove_bg.9.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\ic_menu_remove_bg.9.png" description="分割线" />
+    </resource>
+    <resource description="photo_editor_p.9" x="24" y="156" width="168" height="166" uuid="614fc6d9-f0cd-4266-9dec-4e3f042a7821">
+        <path src="res\drawable-hdpi\photo_editor_p.9.png" description="编辑联系人 二态遮罩" />
+        <path src="res\drawable-xhdpi\photo_editor_p.9.png" description="编辑联系人 二态遮罩" />
+        <path src="res\drawable-xxhdpi\photo_editor_p.9.png" description="编辑联系人 二态遮罩" />
+    </resource>
+    <resource description="group_memeber_ship_view_bg_n.9" x="26" y="972" width="666" height="102" uuid="0ee14cad-2fcf-411c-aebe-6c499fed0424">
+        <path src="res\drawable-hdpi\group_memeber_ship_view_bg_n.9.png" description="群组名称按钮 常态" />
+        <path src="res\drawable-xhdpi\group_memeber_ship_view_bg_n.9.png" description="群组名称按钮 常态" />
+        <path src="res\drawable-xxhdpi\group_memeber_ship_view_bg_n.9.png" description="群组名称按钮 常态" />
+        <path src="res\drawable-hdpi\group_memeber_ship_view_bg_p.9.png" description="群组名称按钮 二态" />
+        <path src="res\drawable-xhdpi\group_memeber_ship_view_bg_p.9.png" description="群组名称按钮 二态" />
+        <path src="res\drawable-xxhdpi\group_memeber_ship_view_bg_p.9.png" description="群组名称按钮 二态" />
+    </resource>
+</screenshot>

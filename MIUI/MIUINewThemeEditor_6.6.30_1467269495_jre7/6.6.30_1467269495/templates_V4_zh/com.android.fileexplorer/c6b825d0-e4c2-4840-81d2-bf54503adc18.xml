@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.5 远程管理 " version="3.1.11" annotation="" tag="2.0 SD卡">
+    <resource description="operation_panel_background" x="112" y="1070" width="500" height="132" uuid="2c7450e6-8196-44fe-8aa7-cc090c2f6b1f">
+        <path src="res\drawable-xhdpi\operation_panel_background.png" description="按钮背景" />
+    </resource>
+    <resource description="btn_bottom_normal" x="118" y="1080" width="382" height="112" uuid="a4dca0e5-d1db-49b5-bccf-7b1048001db6">
+        <path src="res\drawable-xhdpi\btn_bottom_normal.png" description="左侧按钮" />
+        <path src="res\drawable-xhdpi\btn_bottom_pressed.png" description="" />
+    </resource>
+    <resource description="ftp_setting_normal" x="500" y="1079" width="100" height="112" uuid="40f210e7-c823-480e-baf3-43038dc9d4c7">
+        <path src="res\drawable-xhdpi\ftp_setting_normal.png" description="设置按钮" />
+        <path src="res\drawable-xhdpi\ftp_setting_pressed.png" description="" />
+    </resource>
+    <resource description="wifi_state0" x="278" y="384" width="164" height="162" uuid="da245ba2-05d2-4534-8a5c-f5d94131f4b4">
+        <path src="res\drawable-hdpi\wifi_state0.png" description="wifi 图标" />
+        <path src="res\drawable-hdpi\wifi_state4.png" description="" />
+    </resource>
+    <resource description="ipaddress_bg.9" x="60" y="890" width="596" height="70" uuid="4d66e4a8-226b-44c5-9c94-0fbbcdbfaf8c">
+        <path src="res\drawable-hdpi\ipaddress_bg.9.png" description="ip地址背景" />
+    </resource>
+    <resource description="disconnect" x="214" y="1118" width="30" height="34" uuid="7e69d587-e4c0-483c-bcc6-55cfda8f13a9">
+        <path src="res\drawable-xhdpi\connect.png" description="" />
+        <path src="res\drawable-xhdpi\disconnect.png" description="" />
+    </resource>
+</screenshot>

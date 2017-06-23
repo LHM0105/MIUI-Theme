@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2闹钟" version="3.1.11" annotation="时钟模块闹钟分页" tag="">
+    <resource description="ab_solid_light_holo.9" x="0" y="50" width="718" height="100" uuid="d047e3a4-9495-4bfc-9a57-9a78e5387c30">
+        <path src="res\drawable-hdpi\ab_solid_light_holo.9.png" description="tab背景" />
+        <path src="res\drawable-xhdpi\ab_solid_light_holo.9.png" description="tab背景" />
+    </resource>
+    <resource description="bottom_bar_bg_normal.9" x="0" y="1152" width="718" height="128" uuid="9ff21984-f2eb-4f9a-8fa5-fe2a3fea7935">
+        <path src="res\drawable-hdpi\bottom_bar_bg_normal.9.png" description="下端标题栏" />
+        <path src="res\drawable-hdpi\bottom_bar_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg_normal.9.png" description="下端标题栏" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="listview_bg.9" x="0" y="150" width="718" height="996" uuid="d384517e-bb85-497f-89d7-045d531be52f">
+        <path src="res\drawable-hdpi\listview_bg.9.png" description="时钟，闹钟分页背景" />
+        <path src="res\drawable-xhdpi\listview_bg.9.png" description="时钟，闹钟分页背景" />
+    </resource>
+    <resource description="list_item_large_bg_normal.9" x="4" y="148" width="710" height="232" uuid="cf441434-9303-4211-abeb-8534bea2ccaa">
+        <path src="res\drawable-hdpi\list_item_large_bg_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_item_large_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_large_bg_normal.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_large_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="ic_menu_add" x="268" y="1184" width="64" height="60" uuid="1655a597-f788-4e66-af4b-560e6347f955">
+        <path src="res\drawable-hdpi\ic_menu_add.png" description="添加按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_add.png" description="添加按钮" />
+    </resource>
+    <resource description="alarm_checkbox_pressed" x="38" y="442" width="90" height="90" uuid="0f8bb5af-802a-4c74-97ff-8f26e7e30d28">
+        <path src="res\drawable-hdpi\alarm_checkbox_normal.png" description="" />
+        <path src="res\drawable-hdpi\alarm_checkbox_pressed.png" description="闹钟开关 如果修改此图 480 720需要各做一份" />
+        <path src="res\drawable-xhdpi\alarm_checkbox_normal.png" description="" />
+        <path src="res\drawable-xhdpi\alarm_checkbox_pressed.png" description="闹钟开关 如果修改此图 480 720需要各做一份" />
+    </resource>
+</screenshot>

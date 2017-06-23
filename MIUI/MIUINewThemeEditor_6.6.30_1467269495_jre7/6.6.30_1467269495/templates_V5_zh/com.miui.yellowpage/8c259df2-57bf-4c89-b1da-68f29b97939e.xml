@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="黄页详情1" version="3.8.8" annotation="" tag="">
+    <resource description="yellow_page_thumbnail_bg" x="568" y="72" width="134" height="134" uuid="8d5d9f66-95b6-4bb8-82ec-9d522a2b5550">
+        <path src="res\drawable-hdpi\yellow_page_thumbnail_fg.png" description="黄页 头像顶部遮罩" />
+        <path src="res\drawable-xhdpi\yellow_page_thumbnail_fg.png" description="黄页 头像顶部遮罩" />
+        <path src="res\drawable-hdpi\yellow_page_thumbnail_mask.png" description="黄页 头像形状遮罩" />
+        <path src="res\drawable-xhdpi\yellow_page_thumbnail_mask.png" description="黄页 头像形状遮罩" />
+        <path src="res\drawable-hdpi\yellow_page_thumbnail_bg.png" description="黄页 头像背景" />
+        <path src="res\drawable-xhdpi\yellow_page_thumbnail_bg.png" description="黄页 头像背景" />
+        <path src="res\drawable-hdpi\yellow_page_thumbnail_view_bg.9.png" description="黄页 头像阴影" />
+        <path src="res\drawable-xhdpi\yellow_page_thumbnail_view_bg.9.png" description="黄页 头像阴影" />
+    </resource>
+    <resource description="ic_send_sms_n" x="538" y="340" width="156" height="122" uuid="74db4627-a901-43cb-821a-a8ff40732a6f">
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="黄页 发送短信按钮" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="黄页 发送短信按钮" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="黄页 发送短信按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="黄页 发送短信按钮 二态" />
+    </resource>
+    <resource description="type_icon_phone" x="50" y="374" width="50" height="52" uuid="8012f9f9-c8ec-42fa-a417-64629bf72211">
+        <path src="res\drawable-hdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_website.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_website.png" description="黄页 联系人小图标" />
+    </resource>
+    <resource description="type_icon_phone" x="50" y="622" width="50" height="52" uuid="8012f9f9-c8ec-42fa-a417-64629bf72211">
+        <path src="res\drawable-hdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_website.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_website.png" description="黄页 联系人小图标" />
+    </resource>
+    <resource description="type_icon_phone" x="52" y="870" width="50" height="52" uuid="8012f9f9-c8ec-42fa-a417-64629bf72211">
+        <path src="res\drawable-hdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_website.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_website.png" description="黄页 联系人小图标" />
+    </resource>
+    <resource description="type_icon_phone" x="52" y="992" width="50" height="52" uuid="8012f9f9-c8ec-42fa-a417-64629bf72211">
+        <path src="res\drawable-hdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_phone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_address.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_brief.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_network.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_nickname.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_note.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_provider.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_ringtone.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_unknown.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-hdpi\type_icon_website.png" description="黄页 联系人小图标" />
+        <path src="res\drawable-xhdpi\type_icon_website.png" description="黄页 联系人小图标" />
+    </resource>
+    <resource description="yellow_page_list_item_p.9" x="0" y="458" width="720" height="132" uuid="cacb0339-5d57-4ae0-850c-852714255e1f">
+        <path src="res\drawable-hdpi\yellow_page_list_item_n.9.png" description="黄页详情list 常态" />
+        <path src="res\drawable-xhdpi\yellow_page_list_item_n.9.png" description="黄页详情list 常态" />
+        <path src="res\drawable-hdpi\yellow_page_list_item_p.9.png" description="黄页详情list 二态" />
+        <path src="res\drawable-xhdpi\yellow_page_list_item_p.9.png" description="黄页详情list 二态" />
+    </resource>
+    <resource description="yellow_page_home_icon_single_n" x="3" y="54" width="85" height="186" uuid="88c6f5d1-a841-4364-8003-f9c2e1451d53">
+        <path src="res\drawable-hdpi\yellow_page_home_icon_single_n.png" description="黄页返回按钮" />
+        <path src="res\drawable-xhdpi\yellow_page_home_icon_single_n.png" description="黄页返回按钮" />
+        <path src="res\drawable-hdpi\yellow_page_home_icon_single_p.png" description="黄页返回按钮 二态" />
+        <path src="res\drawable-xhdpi\yellow_page_home_icon_single_p.png" description="黄页返回按钮 二态" />
+    </resource>
+    <resource description="yellow_page_default_photo" x="0" y="50" width="720" height="280" uuid="144670c4-4aad-4c06-8b02-fccad64ac9b3">
+        <path src="res\drawable-hdpi\yellow_page_default_photo.png" description="黄页详情背景图片" />
+        <path src="res\drawable-xhdpi\yellow_page_default_photo.png" description="黄页详情背景图片" />
+    </resource>
+    <resource description="yellow_page_pager_bg.9" x="0" y="338" width="720" height="942" uuid="a1ff2b16-3815-4a74-8cb1-7b6f4661de3e">
+        <path src="res\drawable-hdpi\yellow_page_pager_bg.9.png" description="黄页详情页面 背景" />
+        <path src="res\drawable-xhdpi\yellow_page_pager_bg.9.png" description="黄页详情页面 背景" />
+    </resource>
+</screenshot>

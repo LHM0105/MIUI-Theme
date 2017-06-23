@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Group messaging" version="3.3.1" annotation="" tag="Messaging">
+    <resource description="mi_message_bubble_out_gp_bg_n.9" x="116" y="554" width="816" height="306" uuid="cc07183e-2977-45b2-ac84-7e19e9b41cd6">
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_bg_n.9.png" description="Mi Message: Group message bubble: normal" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_bg_p.9.png" description="Mi Message: Group message bubble: pressed" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_last_bg_n.9.png" description="Mi Message: Group message bubble last line: normal" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_last_bg_p.9.png" description="Mi Message: Group message bubble last line: pressed" />
+    </resource>
+    <resource description="message_bubble_out_gp_bg_n.9" x="76" y="880" width="854" height="778" uuid="d2a3a121-c90d-436d-a225-a0e0a83089d1">
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_gp_bg_n.9.png" description="Group message failed bubble: normal" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_gp_bg_p.9.png" description="Group message failed bubble: pressed" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_gp_last_bg_n.9.png" description="Group message failed bubble: last line: normal" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_gp_last_bg_p.9.png" description="Group message failed bubble: last line: pressed" />
+    </resource>
+    <resource description="timed_message_indicator_group_d.9" x="20" y="296" width="128" height="166" uuid="7c949a8e-ed4a-4ba4-ba12-ccca1cc6f36e">
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_d.9.png" description="Timed group SMS message: disable" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_n.9.png" description="Timed group SMS message: normal" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_p.9.png" description="Timed group SMS message: pressed" />
+    </resource>
+    <resource description="message_bubble_out_gp_bg_n.9" x="6" y="282" width="920" height="214" uuid="c59af632-989a-4edb-9edb-bea27711ca9d">
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_bg_n.9.png" description="SMS group message bubble: normal" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_bg_p.9.png" description="SMS group message bubble: pressed" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_last_bg_n.9.png" description="SMS group message bubble: last line: normal" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_last_bg_p.9.png" description="SMS group message bubble: last line: pressed" />
+    </resource>
+    <resource description="alert_btn_n.9" x="132" y="1480" width="410" height="100" uuid="c5c520e1-d493-47fe-8d09-86034f940024">
+        <path src="res\drawable-xxhdpi\alert_btn_n.9.png" description="Resend button: normal" />
+        <path src="res\drawable-xxhdpi\alert_btn_p.9.png" description="Resend button: pressed" />
+    </resource>
+    <resource description="action_button_forward_normal_light" x="242" y="1750" width="96" height="96" uuid="4b2391a2-7c44-4819-b2b8-ad94c9763856">
+        <path src="res\drawable-xxhdpi\action_button_forward_disable_light.png" description="Forward button: disabled" />
+        <path src="res\drawable-xxhdpi\action_button_forward_normal_light.png" description="Forward button: normal" />
+        <path src="res\drawable-xxhdpi\action_button_forward_pressed_light.png" description="Forward button: pressed" />
+    </resource>
+    <resource description="card_background.9" x="132" y="974" width="634" height="248" uuid="772b9fff-70da-47f7-bf40-1d9be08bb3c6">
+        <path src="res\drawable-xxhdpi\card_background.9.png" description="Card background" />
+    </resource>
+    <resource description="card_divider.9" x="176" y="1090" width="540" height="26" uuid="bc81285a-b282-4da6-9107-4f3a88c91bbc">
+        <path src="res\drawable-xxhdpi\card_divider.9.png" description="Card divider line" />
+    </resource>
+    <resource description="card_phone" x="180" y="1124" width="42" height="42" uuid="47e4e6ab-9c70-4a31-805e-a59433f11349">
+        <path src="res\drawable-xxhdpi\card_phone.png" description="Phone" />
+        <path src="res\drawable-xxhdpi\card_address.png" description="Address" />
+        <path src="res\drawable-xxhdpi\card_email.png" description="Email" />
+        <path src="res\drawable-xxhdpi\card_im.png" description="Messaging" />
+        <path src="res\drawable-xxhdpi\card_nickname.png" description="Nickname" />
+        <path src="res\drawable-xxhdpi\card_note.png" description="Notes" />
+        <path src="res\drawable-xxhdpi\card_organization.png" description="Company" />
+        <path src="res\drawable-xxhdpi\card_website.png" description="Website" />
+    </resource>
+</screenshot>

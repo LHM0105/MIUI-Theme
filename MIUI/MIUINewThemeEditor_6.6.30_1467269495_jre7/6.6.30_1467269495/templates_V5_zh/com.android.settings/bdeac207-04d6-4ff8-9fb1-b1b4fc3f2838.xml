@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.1 设置小图标" version="3.4.11" annotation="" tag="设置小图标">
+    <resource description="ic_airplane_mode_settings" x="50" y="184" width="60" height="58" uuid="5c4da4f4-c6c9-4cc1-9a3b-d11f2a96d6e4">
+        <path src="res\drawable-hdpi\ic_airplane_mode_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-xhdpi\ic_airplane_mode_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-xxhdpi\ic_airplane_mode_settings.png" description="飞行模式 图标" />
+    </resource>
+    <resource description="ic_mobile_network_settings" x="50" y="289" width="54" height="56" uuid="7353c485-b8e9-4507-b70c-3c07eaff2163">
+        <path src="res\drawable-hdpi\ic_mobile_network_settings.png" description="移动网络 图标" />
+        <path src="res\drawable-xhdpi\ic_mobile_network_settings.png" description="移动网络 图标" />
+        <path src="res\drawable-xxhdpi\ic_mobile_network_settings.png" description="移动网络 图标" />
+    </resource>
+    <resource description="ic_wifi_settings" x="46" y="400" width="62" height="62" uuid="07371e7e-8559-477b-a497-abafcab2229e">
+        <path src="res\drawable-hdpi\ic_wifi_settings.png" description="wlan 图标" />
+        <path src="res\drawable-xhdpi\ic_wifi_settings.png" description="wlan 图标" />
+        <path src="res\drawable-xxhdpi\ic_wifi_settings.png" description="wlan 图标" />
+    </resource>
+    <resource description="ic_bluetooth_settings" x="47" y="512" width="62" height="62" uuid="10376f00-b91a-477b-9a84-99dd88d289b6">
+        <path src="res\drawable-hdpi\ic_bluetooth_settings.png" description="蓝牙 图标" />
+        <path src="res\drawable-xhdpi\ic_bluetooth_settings.png" description="蓝牙 图标" />
+        <path src="res\drawable-xxhdpi\ic_bluetooth_settings.png" description="蓝牙 图标" />
+    </resource>
+    <resource description="ic_wifi_more_settings" x="47" y="623" width="59" height="59" uuid="60a6e970-d425-4cb7-be01-6dc615740f88">
+        <path src="res\drawable-hdpi\ic_wifi_more_settings.png" description="更多 图标" />
+        <path src="res\drawable-xhdpi\ic_wifi_more_settings.png" description="更多 图标" />
+        <path src="res\drawable-xxhdpi\ic_wifi_more_settings.png" description="更多 图标" />
+        <path src="res\drawable-hdpi\ic_location_settings.png" description="位置服务" />
+        <path src="res\drawable-xhdpi\ic_location_settings.png" description="位置服务" />
+        <path src="res\drawable-xxhdpi\ic_location_settings.png" description="位置服务" />
+        <path src="res\drawable-hdpi\ic_add_account_settings.png" description="添加账户" />
+        <path src="res\drawable-xhdpi\ic_add_account_settings.png" description="添加账户" />
+        <path src="res\drawable-xxhdpi\ic_add_account_settings.png" description="添加账户" />
+        <path src="res\drawable-hdpi\ic_battery_settings.png" description="电量" />
+        <path src="res\drawable-xhdpi\ic_battery_settings.png" description="电量" />
+        <path src="res\drawable-xxhdpi\ic_battery_settings.png" description="电量" />
+        <path src="res\drawable-hdpi\ic_storage_settings.png" description="存储" />
+        <path src="res\drawable-xhdpi\ic_storage_settings.png" description="存储" />
+        <path src="res\drawable-xxhdpi\ic_storage_settings.png" description="存储" />
+        <path src="res\drawable-hdpi\ic_key_settings.png" description="按键" />
+        <path src="res\drawable-xhdpi\ic_key_settings.png" description="按键" />
+        <path src="res\drawable-xxhdpi\ic_key_settings.png" description="按键" />
+        <path src="res\drawable-hdpi\ic_led_settings.png" description="呼吸灯" />
+        <path src="res\drawable-xhdpi\ic_led_settings.png" description="呼吸灯" />
+        <path src="res\drawable-xxhdpi\ic_led_settings.png" description="呼吸灯" />
+        <path src="res\drawable-hdpi\ic_date_time_settings.png" description="日期和时间" />
+        <path src="res\drawable-xhdpi\ic_date_time_settings.png" description="日期和时间" />
+        <path src="res\drawable-xxhdpi\ic_date_time_settings.png" description="日期和时间" />
+        <path src="res\drawable-hdpi\ic_language_settings.png" description="语言和输入法" />
+        <path src="res\drawable-xhdpi\ic_language_settings.png" description="语言和输入法" />
+        <path src="res\drawable-xxhdpi\ic_language_settings.png" description="语言和输入法" />
+        <path src="res\drawable-hdpi\ic_application_settings.png" description="应用" />
+        <path src="res\drawable-xhdpi\ic_application_settings.png" description="应用" />
+        <path src="res\drawable-xxhdpi\ic_application_settings.png" description="应用" />
+        <path src="res\drawable-hdpi\ic_backup_reset_settings.png" description="备份和重置" />
+        <path src="res\drawable-xhdpi\ic_backup_reset_settings.png" description="备份和重置" />
+        <path src="res\drawable-xxhdpi\ic_backup_reset_settings.png" description="备份和重置" />
+        <path src="res\drawable-hdpi\ic_accessibility_settings.png" description="辅助功能" />
+        <path src="res\drawable-xhdpi\ic_accessibility_settings.png" description="辅助功能" />
+        <path src="res\drawable-xxhdpi\ic_accessibility_settings.png" description="辅助功能" />
+        <path src="res\drawable-hdpi\ic_development_settings.png" description="开发者选项" />
+        <path src="res\drawable-xhdpi\ic_development_settings.png" description="开发者选项" />
+        <path src="res\drawable-xxhdpi\ic_development_settings.png" description="开发者选项" />
+        <path src="res\drawable-hdpi\ic_about_settings.png" description="关于手机" />
+        <path src="res\drawable-xhdpi\ic_about_settings.png" description="关于手机" />
+        <path src="res\drawable-xxhdpi\ic_about_settings.png" description="关于手机" />
+        <path src="res\drawable-hdpi\ic_tether_settings.png" description="网络共享" />
+        <path src="res\drawable-xhdpi\ic_tether_settings.png" description="网络共享" />
+        <path src="res\drawable-xxhdpi\ic_tether_settings.png" description="网络共享" />
+        <path src="res\drawable-hdpi\ic_brightness_settings.png" description="亮度" />
+        <path src="res\drawable-xhdpi\ic_brightness_settings.png" description="亮度" />
+        <path src="res\drawable-xxhdpi\ic_brightness_settings.png" description="亮度" />
+        <path src="res\drawable-hdpi\ic_wallpaper_settings.png" description="壁纸" />
+        <path src="res\drawable-xhdpi\ic_wallpaper_settings.png" description="壁纸" />
+        <path src="res\drawable-xxhdpi\ic_wallpaper_settings.png" description="壁纸" />
+        <path src="res\drawable-hdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\drawable-xhdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\drawable-xxhdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\mipmap-hdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\mipmap-mdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\mipmap-xhdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\mipmap-xxhdpi\ic_launcher_settings.png" description="桌面效果" />
+        <path src="res\drawable-hdpi\ic_ringer_volume_settings.png" description="音量" />
+        <path src="res\drawable-xhdpi\ic_ringer_volume_settings.png" description="音量" />
+        <path src="res\drawable-xxhdpi\ic_ringer_volume_settings.png" description="音量" />
+        <path src="res\drawable-hdpi\ic_ringtone_settings.png" description="手机铃声" />
+        <path src="res\drawable-xhdpi\ic_ringtone_settings.png" description="手机铃声" />
+        <path src="res\drawable-xxhdpi\ic_ringtone_settings.png" description="手机铃声" />
+        <path src="res\drawable-hdpi\ic_sms_received_settings.png" description="短信铃声" />
+        <path src="res\drawable-xhdpi\ic_sms_received_settings.png" description="短信铃声" />
+        <path src="res\drawable-xxhdpi\ic_sms_received_settings.png" description="短信铃声" />
+        <path src="res\drawable-hdpi\ic_unlock_set_settings.png" description="锁屏密码" />
+        <path src="res\drawable-xhdpi\ic_unlock_set_settings.png" description="锁屏密码" />
+        <path src="res\drawable-xxhdpi\ic_unlock_set_settings.png" description="锁屏密码" />
+        <path src="res\drawable-hdpi\ic_sync_settings.png" description="账户与同步" />
+        <path src="res\drawable-xhdpi\ic_sync_settings.png" description="账户与同步" />
+        <path src="res\drawable-xxhdpi\ic_sync_settings.png" description="账户与同步" />
+        <path src="res\drawable-hdpi\ic_power_mode_settings.png" description="运行模式" />
+        <path src="res\drawable-xhdpi\ic_power_mode_settings.png" description="运行模式" />
+        <path src="res\drawable-xxhdpi\ic_power_mode_settings.png" description="运行模式" />
+        <path src="res\drawable-hdpi\ic_vpn_settings.png" description="VPN" />
+        <path src="res\drawable-xhdpi\ic_vpn_settings.png" description="VPN" />
+        <path src="res\drawable-xxhdpi\ic_vpn_settings.png" description="VPN" />
+        <path src="res\drawable-hdpi\ic_accelerometer_settings.png" description="自动旋转屏幕" />
+        <path src="res\drawable-xhdpi\ic_accelerometer_settings.png" description="自动旋转屏幕" />
+        <path src="res\drawable-xxhdpi\ic_accelerometer_settings.png" description="自动旋转屏幕" />
+        <path src="res\drawable-hdpi\ic_do_not_disturb_mode_settings.png" description="屏幕休眠" />
+        <path src="res\drawable-xhdpi\ic_do_not_disturb_mode_settings.png" description="屏幕休眠" />
+        <path src="res\drawable-hdpi\ic_screen_timeout_settings.png" description="屏幕休眠" />
+        <path src="res\drawable-xhdpi\ic_screen_timeout_settings.png" description="屏幕休眠" />
+        <path src="res\drawable-xxhdpi\ic_screen_timeout_settings.png" description="屏幕休眠" />
+        <path src="res\drawable-hdpi\ic_gps_settings.png" description="GPS卫星定位" />
+        <path src="res\drawable-xhdpi\ic_gps_settings.png" description="GPS卫星定位" />
+        <path src="res\drawable-xxhdpi\ic_gps_settings.png" description="GPS卫星定位" />
+        <path src="res\drawable-hdpi\ic_android_beam_settings.png" description="Nfc" />
+        <path src="res\drawable-xhdpi\ic_android_beam_settings.png" description="Nfc" />
+        <path src="res\drawable-xxhdpi\ic_android_beam_settings.png" description="Nfc" />
+        <path src="res\drawable-hdpi\ic_headset_settings.png" description="耳机" />
+        <path src="res\drawable-xhdpi\ic_headset_settings.png" description="耳机" />
+        <path src="res\drawable-xxhdpi\ic_headset_settings.png" description="耳机" />
+        <path src="res\drawable-hdpi\ic_hdmi_3d.png" description="勿扰模式" />
+        <path src="res\drawable-xhdpi\ic_hdmi_3d.png" description="勿扰模式" />
+        <path src="res\drawable-xxhdpi\ic_hdmi_3d.png" description="勿扰模式" />
+    </resource>
+    <resource description="ic_display_settings" x="48" y="822" width="56" height="66" uuid="150b033a-efe3-4cb7-836e-35a55d853f1a">
+        <path src="res\drawable-hdpi\ic_display_settings.png" description="显示 图标" />
+        <path src="res\drawable-xhdpi\ic_display_settings.png" description="显示 图标" />
+        <path src="res\drawable-xxhdpi\ic_display_settings.png" description="显示 图标" />
+    </resource>
+    <resource description="ic_sound_settings" x="42" y="932" width="68" height="70" uuid="867cbb0d-4bdd-46a8-846e-0ec853010ff7">
+        <path src="res\drawable-hdpi\ic_sound_settings.png" description="铃声 图标" />
+        <path src="res\drawable-xhdpi\ic_sound_settings.png" description="铃声 图标" />
+        <path src="res\drawable-xxhdpi\ic_sound_settings.png" description="铃声 图标" />
+    </resource>
+    <resource description="ic_status_bar_settings" x="44" y="1048" width="66" height="66" uuid="27d4538f-5c29-40c4-be54-c03b15805be3">
+        <path src="res\drawable-hdpi\ic_status_bar_settings.png" description="通知栏设置 图标" />
+        <path src="res\drawable-xhdpi\ic_status_bar_settings.png" description="通知栏设置 图标" />
+        <path src="res\drawable-xxhdpi\ic_status_bar_settings.png" description="通知栏设置 图标" />
+    </resource>
+    <resource description="ic_security_settings" x="46" y="1156" width="66" height="64" uuid="434b870f-dcb4-40b9-9ce5-5443a3c11137">
+        <path src="res\drawable-hdpi\ic_security_settings.png" description="安全 图标" />
+        <path src="res\drawable-xhdpi\ic_security_settings.png" description="安全 图标" />
+        <path src="res\drawable-xxhdpi\ic_security_settings.png" description="安全 图标" />
+    </resource>
+</screenshot>

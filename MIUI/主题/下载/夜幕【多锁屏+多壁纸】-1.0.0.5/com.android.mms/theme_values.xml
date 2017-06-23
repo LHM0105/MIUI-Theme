@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="text_color_primary_inverse">#ffcccccc</color>
+<color name="list_secondary_text_color_pressed_light">#99ffffff</color>
+<color name="text_color_hms_subject">#ffffffff</color>
+<color name="image_info_background_color">#ccffffff</color>
+<color name="action_mode_title_button_text_color_normal_light" package="miui">#ffffffff</color>
+<color name="list_secondary_text_color_normal_light">#99ffffff</color>
+<color name="text_color_hms_detail">#ffffffff</color>
+<color name="audio_item_in_default_color">#4cffffff</color>
+<color name="list_text_color_disable_light">#4cffffff</color>
+<color name="text_color_message_in">#ffffffff</color>
+<color name="text_color_message_desc_date">#99ffffff</color>
+<color name="list_text_color_pressed_light">#ffffffff</color>
+<color name="edit_text_color_light" package="miui">#ffffffff</color>
+<color name="text_color_message_alert_secondary_pressed">#99ffffff</color>
+<color name="understand_button_pressed_color">#99ffffff</color>
+<color name="text_color_recent_contact">#ccffffff</color>
+<color name="text_color_message_desc_primary">#99ffffff</color>
+<color name="text_color_hypertext_message">#99ffffff</color>
+<color name="text_color_message_alert_sendtitle">#99ffffff</color>
+<color name="text_color_message_alert_sendtitle_pressed">#99ffffff</color>
+<color name="list_secondary_text_color_normal_light" package="miui">#ffffffff</color>
+<color name="text_color_message_alert_secondary">#99ffffff</color>
+<color name="cloud_state_view_text_color">#7fffffff</color>
+<color name="list_text_color_normal_light">#ffffffff</color>
+<integer name="window_translucent_status" package="miui">#00000002</integer>
+<color name="edit_text_search_hint_color_light" package="miui">#ffffffff</color>
+<color name="list_secondary_text_color_disable_light">#4cffffff</color>
+<color name="text_color_message_alert_pressed">#99ffffff</color>
+<color name="list_view_item_group_header_text_light" package="miui">#ffffffff</color>
+<color name="text_color_attachment_type">#ffffffff</color>
+<color name="text_color_card_secondary">#ccffffff</color>
+<color name="bright_foreground_light" package="miui">#ffffffff</color>
+<color name="blank_page_text_color_light" package="miui">#ffffffff</color>
+<color name="flatshow_pageno_text_shadow_color">#00ffffff</color>
+<color name="hint_edit_text_color_light">#7fffffff</color>
+<color name="bottom_menu_divider">#99ffffff</color>
+<color name="button_text_color_disabled_light_positive">#ffcccccc</color>
+<color name="action_mode_title_text_color_light" package="miui">#ffffffff</color>
+<color name="button_text_color_normal_light_positive">#ffcccccc</color>
+<color name="text_color_message_out_highlight">#ff08ec62</color>
+<color name="text_color_card_primary">#ccffffff</color>
+<color name="action_bar_title_text_color_light" package="miui">#ffffffff</color>
+<color name="text_color_message_out_highlight_pressed">#ff00ffc8</color>
+<color name="bright_foreground_light_disabled">#4cffffff</color>
+<color name="text_color_message_in_pressed">#ffffffff</color>
+<color name="list_secondary_text_color_pressed_light" package="miui">#ffffffff</color>
+<color name="action_bar_subtitle_text_light" package="miui">#ffffffff</color>
+<color name="list_secondary_text_color_disable_light" package="miui">#ffffffff</color>
+<color name="list_text_color_pressed_light" package="miui">#ffcccccc</color>
+<color name="list_text_color_normal_light" package="miui">#ffffffff</color>
+<color name="list_text_color_disable_light" package="miui">#ffffffff</color>
+<color name="action_mode_title_button_text_color_disable_light" package="miui">#ffffffff</color>
+<color name="drag_background_color">#7fffffff</color>
+<color name="float_notification_button_color_disable">#4cffffff</color>
+<color name="background">#ccffffff</color>
+<color name="light_black_line">#19ffffff</color>
+<color name="audio_bottom_default_color">#4cffffff</color>
+<color name="understand_button_text">#ffcccccc</color>
+<color name="conversation_date_color">#ffffffff</color>
+<color name="cloud_state_unsynced_text_color">#ffcccccc</color>
+<color name="text_color_message_alert">#99ffffff</color>
+</MIUI_Theme_Values>

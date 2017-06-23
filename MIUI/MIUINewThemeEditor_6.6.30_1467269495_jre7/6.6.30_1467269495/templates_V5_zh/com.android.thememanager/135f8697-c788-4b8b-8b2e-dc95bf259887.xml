@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 铃声下载" version="3.10.23" annotation="" tag="新 混搭">
+    <resource description="resource_list_title.9" x="0" y="682" width="722" height="64" uuid="2f4433bf-c96f-4e00-807e-465fc6a447fe">
+        <path src="res\drawable-hdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xhdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xxhdpi\resource_list_title.9.png" description="列表标题背景" />
+    </resource>
+    <resource description="resource_indicator_playing" x="500" y="1000" width="84" height="100" uuid="e253c330-8441-4730-aad8-d8b86d029dea">
+        <path src="res\drawable-hdpi\resource_indicator_playing.png" description="播放按钮" />
+        <path src="res\drawable-xhdpi\resource_indicator_playing.png" description="播放按钮" />
+        <path src="res\drawable-xxhdpi\resource_indicator_playing.png" description="播放按钮" />
+    </resource>
+    <resource description="resource_list_download_icon" x="606" y="756" width="84" height="100" uuid="c7369c10-9a5a-4a85-81cc-ddacc217f1bf">
+        <path src="res\drawable-hdpi\resource_list_downloading_icon.png" description="下载按钮 不可按" />
+        <path src="res\drawable-xhdpi\resource_list_downloading_icon.png" description="下载按钮 不可按" />
+        <path src="res\drawable-xxhdpi\resource_list_downloading_icon.png" description="下载按钮 不可按" />
+        <path src="res\drawable-hdpi\resource_list_download_icon.png" description="下载按钮" />
+        <path src="res\drawable-xhdpi\resource_list_download_icon.png" description="下载按钮" />
+        <path src="res\drawable-xxhdpi\resource_list_download_icon.png" description="下载按钮" />
+        <path src="res\drawable-hdpi\resource_list_using_icon.png" description="选择按钮" />
+        <path src="res\drawable-xhdpi\resource_list_using_icon.png" description="选择按钮" />
+        <path src="res\drawable-xxhdpi\resource_list_using_icon.png" description="选择按钮" />
+    </resource>
+    <resource description="search_bar_bg.9" x="0" y="48" width="722" height="92" uuid="a24c4860-5997-404b-849a-8ca1ee039a34">
+        <path src="res\drawable-hdpi\search_bar_bg.9.png" description="搜索背景" />
+        <path src="res\drawable-xhdpi\search_bar_bg.9.png" description="搜索背景" />
+        <path src="res\drawable-xxhdpi\search_bar_bg.9.png" description="搜索背景" />
+    </resource>
+</screenshot>

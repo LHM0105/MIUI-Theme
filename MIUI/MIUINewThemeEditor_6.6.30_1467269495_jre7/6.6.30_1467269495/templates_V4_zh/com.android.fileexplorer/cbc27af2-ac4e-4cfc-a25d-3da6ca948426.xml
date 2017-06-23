@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 SD卡" version="2.9.16" annotation="" tag="2.0 SD卡">
+    <resource description="empty_icon.png" x="255" y="589" width="205" height="176" uuid="a278acea-991e-4c60-a646-9eb98d465830">
+        <path src="res\drawable-hdpi\empty_icon.png" description="" />
+    </resource>
+    <resource description="bottom_bar_bg_p.9.png" x="0" y="1178" width="720" height="98" uuid="a0831754-77cc-49d1-80d4-f1375fe6de74">
+        <path src="res\drawable-hdpi\bottom_bar_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\bottom_bar_bg_p.9.png" description="" />
+    </resource>
+    <resource description="operation_button_ftp" x="272" y="1196" width="66" height="62" uuid="9f93eb52-5ed4-4d3d-a058-fd4978b7b237">
+        <path src="res\drawable-xhdpi\operation_button_ftp.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 普通模式" version="2.9.16" annotation="" tag="普通模式">
+    <resource description="workspace_seekpoint_highlight.png" x="346" y="1078" width="24" height="24" uuid="04302688-aa0d-423a-b625-8876da230b21">
+        <path src="res\drawable-hdpi\workspace_seekpoint_highlight.png" description="" />
+    </resource>
+    <resource description="workspace_seekpoint_normal.png" x="392" y="1078" width="24" height="24" uuid="29df7986-1f8e-482e-8294-8d979cf855b9">
+        <path src="res\drawable-hdpi\workspace_seekpoint_normal.png" description="" />
+    </resource>
+    <resource description="icon_notification_bg.9.png" x="138" y="1125" width="40" height="40" uuid="9768d305-d0e9-4926-90e3-5e590d9b37dd">
+        <path src="res\drawable-hdpi\icon_notification_bg.9.png" description="" />
+        <path src="res\drawable-hugeui-hdpi\icon_notification_bg.9.png" description="" />
+        <path src="res\drawable-largeui-hdpi\icon_notification_bg.9.png" description="" />
+    </resource>
+    <resource description="hotseat_background.9.png" x="-2" y="1118" width="722" height="162" uuid="f5b6ab84-72f6-4c0e-82ab-830647cdda4e">
+        <path src="res\drawable-hdpi\hotseat_background.9.png" description="底部图标托盘" />
+    </resource>
+    <resource description="wallpaper_mask.9" x="0" y="930" width="720" height="350" uuid="7ac531b5-8e50-4ce8-955b-e797bc5995c6">
+        <path src="res\drawable-hdpi\wallpaper_mask.9.png" description="桌面底部阴影" />
+    </resource>
+    <resource description="statusbar_bg.9" x="0" y="0" width="720" height="94" uuid="d51d1e48-73e7-406d-8e4a-8add79999b29">
+        <path src="res\drawable-hdpi\statusbar_bg.9.png" description="桌面顶部阴影" />
+    </resource>
+    <resource description="focused_application_background.9" x="362" y="616" width="166" height="192" uuid="022a2db4-5510-44d1-ae3f-36d3278177e1">
+        <path src="res\drawable-hdpi\focused_application_background.9.png" description="桌面图标按下" />
+        <path src="res\drawable-hdpi\pressed_application_background.9.png" description="桌面图标按下" />
+    </resource>
+</screenshot>

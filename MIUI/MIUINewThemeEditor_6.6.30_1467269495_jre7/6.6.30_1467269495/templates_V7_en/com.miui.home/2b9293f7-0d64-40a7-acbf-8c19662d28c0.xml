@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Edit Home screen" version="4.8.26" annotation="" tag="Home screen">
+    <resource description="Edit widgets" x="842" y="210" width="100" height="100" uuid="8c303f74-571b-42bd-b4c2-ebf571db8864">
+        <path src="res\drawable-xxhdpi\gadget_edit_tag_n.png" description="Edit widget button: normal" />
+        <path src="res\drawable-xxhdpi\gadget_edit_tag_p.png" description="Edit widget button: pressed" />
+    </resource>
+    <resource description="Rename Folder on Home screen" x="218" y="594" width="650" height="108" uuid="26e03095-a61c-40ab-98ff-78c36b63d9a6">
+        <path src="res\drawable-xxhdpi\folder_setting_confirm_n.9.png" description="Confirm rename Home screen folder: normal" />
+        <path src="res\drawable-xxhdpi\folder_setting_confirm_p.9.png" description="Confirm rename Home screen folder: pressed" />
+        <path src="res\drawable-xxhdpi\folder_setting_rename_bg.9.png" description="Rename Home screen folder input box" />
+    </resource>
+    <resource description="Folder background" x="182" y="706" width="712" height="270" uuid="35771fbc-d3d2-4059-9504-1bc6521697ea">
+        <path src="res\drawable-xxhdpi\folder_content_bg.9.png" description="Home screen folder content frame" />
+        <path src="res\drawable-xxhdpi\folder_background.9.png" description="Home screen Folder background" />
+    </resource>
+    <resource description="Edit Home screen icons" x="78" y="1634" width="922" height="188" uuid="f107435c-a592-44c6-8275-ec122b9163a9">
+        <path src="res\drawable-xxhdpi\thumbnail_entry_bg.png" description="Background for edit Home screen icons: normal" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_bg_dark.png" description="Background for edit Home screen icons: pressed" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_multi_select.png" description="Clean up Home screen" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_add_widget.png" description="Add widget" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_set_wallpaper.png" description="Wallpaper" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_transition_effect.png" description="Screen transition effect" />
+    </resource>
+    <resource description="Clear cache" x="548" y="1150" width="170" height="170" uuid="38a60be6-7a2a-40fb-a0d9-d70a5788ca80">
+        <path src="res\drawable-xxhdpi\gadget_clear_button_icon.png" description="Clear cache icon" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_bg.png" description="Clear cache icon background" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_circle.png" description="Clearing cache action" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_fore_normal.png" description="Clear cache" />
+    </resource>
+    <resource description="Delete item from Home screen" x="340" y="0" width="400" height="196" uuid="d15601ac-7ef1-45fe-9167-91deabadb049">
+        <path src="res\drawable-xxhdpi\trash.png" description="Trash bin icon" />
+        <path src="res\drawable-xxhdpi\trash_bg.png" description="Trash bin icon background" />
+    </resource>
+    <resource description="editing_bg" x="2" y="2" width="1076" height="1916" uuid="feced603-d36b-4bf4-a18c-4338a4f202c5">
+        <path src="res\drawable-xxhdpi\editing_bg.png" description="Edit Home screen background (image must be larger than 3x3)" />
+    </resource>
+    <resource description="folder_scrollbar_v.9" x="866" y="758" width="14" height="150" uuid="2d62e61e-d3b2-4e14-a979-c44cdfc5c6a7">
+        <path src="res\drawable-xxhdpi\folder_scrollbar_v.9.png" description="Inside Home screen folder scroll bar" />
+    </resource>
+    <resource description="Toggle shortcut icons" x="172" y="1170" width="130" height="130" uuid="c23f9b82-d867-42bb-a8ff-d6fff11ffc40">
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_ac_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_ac_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_bluetooth_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_bluetooth_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_bluetooth_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_bluetooth_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_auto.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_auto.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_auto.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_half.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_half.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_half.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_manual.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_manual.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_manual.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_data_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_data_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_data_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_data_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_divider.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_divider.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_divider.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_drive_mode_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_drive_mode_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_flight_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_flight_mode_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_flight_mode_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_flight_mode_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_gps_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_gps_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_gps_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_gps_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_lock.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_lock.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_lock.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_mute_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_mute_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_mute_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_mute_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_network_3g2g.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_network_3g2g.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_network_3g2g.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_high_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_power_high_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_high_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_power_high_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_privacy_mode_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_privacy_mode_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_quiet_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_quiet_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_quiet_mode_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_quiet_mode_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_quiet_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_quiet_mode_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_reboot.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_reboot.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_reboot.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_lock_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_rotate_lock_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_lock_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_rotate_lock_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_disabled.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_disabled.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screen_button_disabled.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_enabled.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_enabled.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screen_button_enabled.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_screenshot.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screenshot.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screenshot.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_shutdown.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_shutdown.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_shutdown.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_0.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_0.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_auto_active_0.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_1.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_1.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_auto_active_1.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_2.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_2.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_auto_active_2.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_3.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_3.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_auto_active_3.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_0.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_0.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_manual_active_0.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_1.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_1.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_manual_active_1.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_2.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_2.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_manual_active_2.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_3.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_3.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_manual_active_3.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_torch_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_torch_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_vibrate_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_vibrate_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_vibrate_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_vibrate_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_ap_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_ap_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_ap_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_ap_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_ap_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_ap_on.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_off.png" description="" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_on.png" description="" />
+    </resource>
+</screenshot>

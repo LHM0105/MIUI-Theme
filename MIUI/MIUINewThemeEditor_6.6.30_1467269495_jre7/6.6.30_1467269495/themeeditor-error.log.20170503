@@ -1,0 +1,439 @@
+[DEBUG 2017-05-03 18:47:35.748] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[ERROR 2017-05-03 18:49:05.123] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.NewThemeDialog$2.actionPerformed(Unknown Source) [E:\常用文件\MIUI\主题\张天爱-多壁纸]
+[DEBUG 2017-05-03 18:49:05.138] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [E:\常用文件\MIUI\主题\张天爱-多壁纸 opening...]
+[DEBUG 2017-05-03 18:49:10.996] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:11.090] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:11.433] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 18:49:11.496] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:11.527] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:11.904] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 18:49:11.935] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:11.982] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-05-03 18:49:12.341] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 18:53:42.423] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-03 18:53:42.423] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-03 18:53:42.423] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-03 18:53:42.438] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[DEBUG 2017-05-03 18:53:43.548] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-sw720dp-xhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [壁纸遮罩(切图需大于3x3) path: res\drawable-xxhdpi\wallpaper_mask.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [常驻图标背景(切图需大于3x3) path: res\drawable-xxhdpi\hotseat_background.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [状态栏背景(切图需大于3x3) path: res\drawable-xxhdpi\statusbar_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-godzillaui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-hugeui-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-godzillaui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-hugeui-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-uiModeType=0-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-sw720dp-xhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-uiModeType=0-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [图标角标背景 path: res\drawable-xxhdpi\icon_notification_bg.9.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [新装应用标记 path: res\drawable-xxhdpi\new_install_notification.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点 path: res\drawable-xxhdpi\workspace_seekpoint_normal.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态 path: res\drawable-xxhdpi\workspace_seekpoint_highlight.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png]
+[DEBUG 2017-05-03 18:53:43.563] [AWT-EventQueue-0] com.miui.theme.tool.resourceeditor.ImageEditorPanel.drawSelected(Unknown Source) [页面指示点选中态_浅壁纸模式 path: res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png]
+[ERROR 2017-05-03 18:54:01.390] [Thread-39] com.miui.theme.tool.resourceeditor.ThemeValuesList.loadNetComment(Unknown Source) [{}]
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:996)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:850)
+	at com.miui.theme.tool.util.Wiki.post(Unknown Source)
+	at com.miui.theme.tool.util.Wiki.parse(Unknown Source)
+	at com.miui.theme.tool.util.Wiki.getRenderedText(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList.loadNetComment(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList.access$800(Unknown Source)
+	at com.miui.theme.tool.resourceeditor.ThemeValuesList$1$1.run(Unknown Source)
+[DEBUG 2017-05-03 20:16:22.137] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:16:22.142] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:16:22.150] [Thread-48] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:363 total:363      description.xml]
+[DEBUG 2017-05-03 20:16:22.440] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:16:22.441] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:16:22.843] [Thread-48] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:693 total:1056      icons]
+[DEBUG 2017-05-03 20:16:23.040] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:16:23.042] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:16:24.972] [Thread-48] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:2129 total:3185      miwallpaper]
+[DEBUG 2017-05-03 20:16:25.199] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:16:25.201] [Thread-48] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:16:25.249] [Thread-48] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:277 total:3462      wallpaper]
+[DEBUG 2017-05-03 20:16:26.990] [Thread-48] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:1741 total:5203      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 20:16:27.394] [Thread-48] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:16:31.220] [Thread-48] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 20:16:31.347] [Thread-48] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:16:32.984] [Thread-48] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 20:28:42.494] [Thread-66] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:28:42.501] [Thread-66] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:28:42.565] [Thread-66] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:542 total:542      clock_2x4]
+[DEBUG 2017-05-03 20:28:42.581] [Thread-66] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:16 total:558      description.xml]
+[DEBUG 2017-05-03 20:28:43.132] [Thread-66] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [-1]
+[DEBUG 2017-05-03 20:28:43.133] [Thread-66] com.miui.theme.tool.os.CmdUtils.run(Unknown Source) [                                                                                                    ]
+[DEBUG 2017-05-03 20:28:43.519] [Thread-66] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:938 total:1496      lockscreen]
+[DEBUG 2017-05-03 20:28:47.840] [Thread-66] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4321 total:5817      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 20:28:48.502] [Thread-66] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:28:54.129] [Thread-66] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 20:28:54.230] [Thread-66] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:28:54.989] [Thread-66] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 20:32:13.254] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:30 total:30      description.xml]
+[DEBUG 2017-05-03 20:32:13.390] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg.jpg 1493808665869~1493289652000]
+[DEBUG 2017-05-03 20:32:13.673] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:419 total:449      lockscreen]
+[DEBUG 2017-05-03 20:32:16.235] [Thread-80] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:2562 total:3011      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 20:32:16.703] [Thread-80] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:32:21.194] [Thread-80] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 20:32:21.289] [Thread-80] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 20:32:22.087] [Thread-80] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 21:20:46.658] [Thread-90] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:27 total:27      description.xml]
+[DEBUG 2017-05-03 21:20:48.730] [Thread-90] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:2073 total:2100      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 21:20:49.059] [Thread-90] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[ERROR 2017-05-03 21:20:49.154] [Thread-90] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-05-03 21:20:49.593] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-05-03 21:21:43.657] [Thread-96] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:27 total:27      description.xml]
+[DEBUG 2017-05-03 21:21:45.940] [Thread-96] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:2283 total:2310      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 21:21:46.330] [Thread-96] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:21:51.876] [Thread-96] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 21:21:51.997] [Thread-96] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:21:52.771] [Thread-96] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 21:29:44.248] [Thread-126] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:21 total:21      description.xml]
+[DEBUG 2017-05-03 21:29:44.331] [Thread-126] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [icon_pattern.png 1493721210713~ empty]
+[DEBUG 2017-05-03 21:29:44.583] [Thread-126] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:335 total:356      icons]
+[DEBUG 2017-05-03 21:29:46.466] [Thread-126] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:1883 total:2239      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 21:29:46.844] [Thread-126] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:29:50.973] [Thread-126] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 21:29:51.065] [Thread-126] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:29:51.812] [Thread-126] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 21:31:22.693] [Thread-140] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:22 total:22      description.xml]
+[DEBUG 2017-05-03 21:31:22.770] [Thread-140] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [icon_background.png 1493721210713~ empty]
+[DEBUG 2017-05-03 21:31:23.014] [Thread-140] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:321 total:343      icons]
+[DEBUG 2017-05-03 21:31:24.887] [Thread-140] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:1873 total:2216      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 21:31:25.274] [Thread-140] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:31:28.745] [Thread-140] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 21:31:28.839] [Thread-140] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:31:29.617] [Thread-140] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 21:32:41.676] [Thread-158] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:26 total:26      description.xml]
+[DEBUG 2017-05-03 21:32:41.757] [Thread-158] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [icon_border.png 1493721210713~ empty]
+[DEBUG 2017-05-03 21:32:42.019] [Thread-158] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:343 total:369      icons]
+[DEBUG 2017-05-03 21:32:44.933] [Thread-158] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:2914 total:3283      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\张天爱-多壁纸.mtz]
+[DEBUG 2017-05-03 21:32:45.409] [Thread-158] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:32:50.437] [Thread-158] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-05-03 21:32:50.533] [Thread-158] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:32:51.323] [Thread-158] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-05-03 21:34:12.336] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3.mtz opening...]
+[DEBUG 2017-05-03 21:34:14.927] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\clock_2x4.zip]
+[DEBUG 2017-05-03 21:34:14.962] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\com.android.contacts.zip]
+[DEBUG 2017-05-03 21:34:14.984] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\com.android.mms.zip]
+[DEBUG 2017-05-03 21:34:15.015] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\com.android.systemui.zip]
+[DEBUG 2017-05-03 21:34:15.033] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\com.miui.home.zip]
+[DEBUG 2017-05-03 21:34:15.050] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\framework-miui-res.zip]
+[DEBUG 2017-05-03 21:34:15.084] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\icons.zip]
+[DEBUG 2017-05-03 21:34:15.114] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\lockscreen.zip]
+[DEBUG 2017-05-03 21:34:15.150] [AWT-EventQueue-0] com.miui.theme.tool.extract.Extractor.renameToZip(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3\miwallpaper.zip]
+[DEBUG 2017-05-03 21:34:43.255] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [C:\Users\Administrator\Downloads\九州天空城【关晓彤、张若昀】-1.0.0.3 opening...]
+[DEBUG 2017-05-03 21:34:44.132] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:34:45.692] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-03 21:34:56.849] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-03 21:34:57.151] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 21:34:57.330] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:34:58.581] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-03 21:35:09.438] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-03 21:35:09.742] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 21:35:09.983] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:35:11.555] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-03 21:35:22.536] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-03 21:35:22.839] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-05-03 21:35:23.156] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-05-03 21:35:24.571] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-05-03 21:35:35.414] [AWT-EventQueue-0] com.miui.theme.tool.os.Adb.install(Unknown Source) [push fail, {}]
+com.android.ddmlib.InstallException: INSTALL_FAILED_USER_RESTRICTED
+	at com.android.ddmlib.Device.installRemotePackage(Device.java:1160)
+	at com.android.ddmlib.Device.installPackage(Device.java:881)
+	at com.miui.theme.tool.os.Adb.install(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.refreshAppList(Unknown Source)
+	at com.miui.theme.tool.catalog.CatalogManager.getHashMapApps(Unknown Source)
+	at com.miui.theme.tool.icon.MockLauncher.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.initMockLauncher(Unknown Source)
+	at com.miui.theme.tool.icon.BaseIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.SystemIconPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel$1.valueChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanelModel.fireSelectionChanged(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.listSelected(Unknown Source)
+	at com.miui.theme.tool.gui.outlook.OutlookListPanel$1.valueChanged(Unknown Source)
+	at javax.swing.JList.fireSelectionValueChanged(JList.java:1798)
+	at javax.swing.JList$ListSelectionHandler.valueChanged(JList.java:1812)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:184)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:164)
+	at javax.swing.DefaultListSelectionModel.fireValueChanged(DefaultListSelectionModel.java:211)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:405)
+	at javax.swing.DefaultListSelectionModel.changeSelection(DefaultListSelectionModel.java:415)
+	at javax.swing.DefaultListSelectionModel.setSelectionInterval(DefaultListSelectionModel.java:459)
+	at javax.swing.JList.setSelectedIndex(JList.java:2212)
+	at com.miui.theme.tool.gui.outlook.OutlookPanel.defaultOpen(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.initIconTab(Unknown Source)
+	at com.miui.theme.tool.icon.IconTabPanel.<init>(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.getPanel(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.switchTab(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainTabPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.MainPanel.afterOpenTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source)
+	at com.miui.theme.tool.gui.main.NewMainFrame$7.filesDropped(Unknown Source)
+	at com.miui.theme.tool.util.FileDrop$1.drop(Unknown Source)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:537)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:851)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:775)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4716)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4566)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4417)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4687)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+[DEBUG 2017-05-03 21:35:35.717] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]

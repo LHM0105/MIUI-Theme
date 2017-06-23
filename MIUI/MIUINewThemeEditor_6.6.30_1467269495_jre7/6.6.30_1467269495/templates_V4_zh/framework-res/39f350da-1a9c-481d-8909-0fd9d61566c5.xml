@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="全局输入框（除短信外）" version="2.9.16" annotation="例如：添加联系人内、电子邮件输入框" tag="输入框">
+    <resource description="textfield_activated_holo_light.9" x="206" y="358" width="396" height="94" uuid="de1ebc1a-c901-48bb-a7fb-7759e1f94c5c">
+        <path src="res\drawable-hdpi\textfield_activated_holo_light.9.png" description="正在输入状态" />
+        <path src="res\drawable-xhdpi\textfield_activated_holo_light.9.png" description="正在输入状态" />
+    </resource>
+    <resource description="textfield_default_holo_light.9" x="210" y="616" width="388" height="88" uuid="9826e417-bc8c-4b4e-a672-250dd4354718">
+        <path src="res\drawable-hdpi\textfield_default_holo_light.9.png" description="待输入状态" />
+        <path src="res\drawable-xhdpi\textfield_default_holo_light.9.png" description="待输入状态" />
+    </resource>
+</screenshot>

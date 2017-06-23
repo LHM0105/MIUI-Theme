@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="color_line">#26000000</color>
+<color name="complete_label_color">#80000000</color>
+<color name="complete_title_color">#99000000</color>
+<color name="color_button_text_pressed">#ffffffff</color>
+<color name="color_button_background">#ff009dff</color>
+<color name="color_title">#b3000000</color>
+<color name="color_title_desp">#66000000</color>
+<color name="color_list_description">#80000000</color>
+<color name="color_button_text_normal">#8c000000</color>
+<color name="color_button_text_high_light">#ff009dff</color>
+<color name="color_button_text_low_light">#66000000</color>
+<color name="color_button_text_disable">#33000000</color>
+<bool name="support_sim_card_hot_swapping">true</bool>
+<dimen name="title_height">174.000000dp</dimen>
+<dimen name="title_layout_height">313.445312dp</dimen>
+<dimen name="content_padding_horizontal">0.000000dp</dimen>
+<dimen name="disc_padding_top">11.000000dp</dimen>
+<dimen name="full_list_margin_top">44.000000dp</dimen>
+<dimen name="logo_title_size">20.000000sp</dimen>
+<dimen name="text_size_complete_label">13.299988sp</dimen>
+<dimen name="text_size_complete_title">21.299988sp</dimen>
+<dimen name="other_setting_item_min_height">0.000000dp</dimen>
+<dimen name="other_setting_item_text_left_padding">12.000000dp</dimen>
+<dimen name="input_method_item_min_height">0.000000dp</dimen>
+<dimen name="license_list_item_min_height">0.000000dp</dimen>
+<dimen name="page_padding_horizontal">20.000000dp</dimen>
+<dimen name="next_button_padding_vertical">16.699982dp</dimen>
+<dimen name="list_item_text_size_primary">13.000000sp</dimen>
+<dimen name="provision_btn_width">70.299988dp</dimen>
+<dimen name="provision_btn_height">70.299988dp</dimen>
+<dimen name="provision_step_text_size">13.299988sp</dimen>
+<dimen name="extra_bottom_margin">0.000000dp</dimen>
+<dimen name="logo_layout_bottom_padding">0.000000dp</dimen>
+<dimen name="congratulation_page_logo_size">54.000000sp</dimen>
+<dimen name="local_picker_title_margin">65.000000dp</dimen>
+<dimen name="license_item_text_size">14.000000dp</dimen>
+<dimen name="next_bottom_margin">26.299988dp</dimen>
+<dimen name="context_left_margin">13.000000dp</dimen>
+<dimen name="list_desc_margin_bottom">9.000000dp</dimen>
+<dimen name="back_margin_top">25.000000dp</dimen>
+<dimen name="text_size_alert_dialog_title">14.000000sp</dimen>
+<dimen name="congratulation_page_title_bottom_margin">0.000000dp</dimen>
+<dimen name="provision_margin_bottom">10.000000dp</dimen>
+<dimen name="provision_btn_margin_left_bound">24.699982dp</dimen>
+<dimen name="text_size_header">15.000000sp</dimen>
+<dimen name="text_size_title">23.299988sp</dimen>
+<dimen name="provision_btn_margin_right_bound">24.699982dp</dimen>
+<dimen name="loading_cancel_button_padding_vertical">30.000000dp</dimen>
+<dimen name="language_logo_title_size">19.000000sp</dimen>
+<integer name="logo_layout_weight">#00000005</integer>
+<integer name="list_layout_weight">#0000000b</integer>
+<string name="install_preinstall_app">正在安装内置应用</string>
+<string name="pref_title_voice_slot">拨号</string>
+<string name="other_settings_user_experience">用户体验计划</string>
+<string name="other_settings_location_summary">“位置服务”允许“地图”及其它应用程序对您进行定位</string>
+<string name="other_settings_user_experience_summary">发送诊断与流量数据来帮助MIUI改进产品和服务。整个过程将遵循我们的%s</string>
+<string name="desc_extra_international_fingerprint">设置后，您可通过指纹使用以下功能：\n屏幕解锁\n第三方服务</string>
+<string name="sim_card_detecting">卡，请稍候</string>
+<string name="next_fingerprint">录取指纹</string>
+<string name="desc_extra_fingerprint">设置后，您可通过指纹使用以下功能：\n屏幕解锁\n小米钱包\n第三方服务</string>
+<string name="other_settings_location">位置服务</string>
+<string name="desc_fingerprint">使用指纹以解锁设备，安全、快速地登录至各项服务，\n无需输入繁琐的密码。</string>
+<string name="other_settings">其他设置</string>
+<string name="title_fingerprint">设置指纹和密码</string>
+<string name="desc_international_fingerprint">使用指纹以解锁设备，安全、快速地登录至各项服务，\n无需输入繁琐的密码。</string>
+<string name="other_settings_user_experience_summary1">隐私政策</string>
+<string name="shut_down">关机</string>
+<string name="sim_redetection">重新检测</string>
+<string name="congratulation_title">设置完毕</string>
+<string name="congratulation_label">体验激动人心的MIUI吧！</string>
+<string name="back">返回</string>
+<string name="next">继续</string>
+<string name="skip_underline">跳过</string>
+<string name="sim_dectection_next">仍然继续</string>
+<string name="sim_card_detection_info">建议您插入SIM卡后再继续。未插入SIM卡设置小米帐号，部分同步和找回手机功能无法使用。</string>
+<string name="sim_card_detecting_title">检测SIM卡</string>
+<string name="terms_of_use_label">你需要同意小米用户协议与隐私政策才可继续使用MIUI。在激活设备时，小米服务框架、查找手机模块会连接网络</string>
+<string name="terms_of_use">使用条款</string>
+<string name="summary_not_set">不设置</string>
+<string name="pref_title_data_slot">上网</string>
+<string name="ime_privacy_policy_no_network">%s</string>
+<string name="ime_privacy_policy">输入法隐私政策</string>
+<string name="user_agreement">用户协议</string>
+<string name="privacy_policy">隐私政策</string>
+<string name="multisim_settings_category">如有需要，可以分别指定拨号和上网的默认卡</string>
+<string name="agree_terms">我已仔细阅读并同意上述条款</string>
+<string name="sim_card_detection">未检测到SIM卡</string>
+<string name="miui_terms_no_network">%s</string>
+<string name="provision_inputmethod_policy_description1">隐私政策</string>
+<string name="miui_privacy_policy_no_network">%s</string>
+<string name="multisim_settings_title">检测到2张SIM卡</string>
+<string name="locale_picker_title">选择地区</string>
+<string name="input_method_category">默认提供多种输入法供您选择，可根据您的使用习惯选择适合您的输入法，如果您是新手，建议您使用默认输入法</string>
+<string name="agree">同意</string>
+<string name="provision_inputmethod_policy_description">查看您选择输入法的隐私政策</string>
+<string name="disagree">不同意</string>
+<string name="welcome">欢迎使用</string>
+<string name="network_access_warning">在激活设备时，小米服务框架、查找手机模块会连接网络</string>
+<string name="input_method_setting">选择输入法</string>
+<string name="setting_locale">正在设置地区...</string>
+<string-array name="prefer_inputmethod_list">
+<item>com.touchtype.swiftkey.xiaomi/com.touchtype.KeyboardService</item>
+<item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+</string-array>
+<string-array name="prefer_inputmethod_list_cm_customized">
+<item>com.iflytek.inputmethod/.FlyIME</item>
+<item>com.iflytek.inputmethod.oem/com.iflytek.inputmethod.FlyIME</item>
+<item>com.iflytek.inputmethod.oem/.FlyIME</item>
+</string-array>
+<string-array name="organized_inputmethod_list_international">
+<item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+<item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+<item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+</string-array>
+<string-array name="organized_locales">
+<item>hk</item>
+<item>in</item>
+<item>id</item>
+<item>my</item>
+<item>ph</item>
+<item>sg</item>
+<item>tw</item>
+<item>br</item>
+<item>ru</item>
+<item>vn</item>
+<item>tr</item>
+<item>th</item>
+<item>ae</item>
+<item>mm</item>
+<item>mx</item>
+</string-array>
+</MIUI_Theme_Values>

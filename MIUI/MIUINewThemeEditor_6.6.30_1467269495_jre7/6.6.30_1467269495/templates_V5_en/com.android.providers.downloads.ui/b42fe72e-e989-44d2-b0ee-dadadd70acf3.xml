@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Download category view" version="3.2.27" annotation="" tag="">
+    <resource description="title_bar_bg_n.9" x="0" y="48" width="722" height="92" uuid="50feb096-5309-479d-bc0c-5b327ff0f7bd">
+        <path src="res\drawable-xhdpi\title_bar_bg_n.9.png" description="全部下载 标题按钮" />
+        <path src="res\drawable-xhdpi\title_bar_bg_p.9.png" description="全部下载 标题按钮 二态" />
+    </resource>
+</screenshot>

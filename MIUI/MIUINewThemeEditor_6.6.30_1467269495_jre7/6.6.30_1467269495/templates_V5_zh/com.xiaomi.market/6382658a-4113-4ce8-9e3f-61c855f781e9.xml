@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="软件评论" version="3.4.28" annotation="" tag="">
+    <resource description="star_off" x="16" y="217" width="270" height="54" uuid="ada5eb1f-6ab9-4cd0-9e46-4ab2423cf7a1">
+        <path src="res\drawable-xhdpi\star.png" description="星级" />
+        <path src="res\drawable-xhdpi\star_off.png" description="星级" />
+    </resource>
+    <resource description="star_readonly_selected" x="557" y="279" width="137" height="146" uuid="433d1397-f837-4a18-9797-e248e13af041">
+        <path src="res\drawable-xhdpi\star_readonly_normal.png" description="星级" />
+        <path src="res\drawable-xhdpi\star_readonly_off_normal.png" description="星级" />
+        <path src="res\drawable-xhdpi\star_readonly_off_selected.png" description="星级 二态" />
+        <path src="res\drawable-xhdpi\star_readonly_selected.png" description="星级 二态" />
+    </resource>
+    <resource description="v5_secondary_tab_bg_right_pressed_light.9" x="24" y="436" width="672" height="88" uuid="7231d9d4-8c24-44ff-979c-d3ceeb86faf2">
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_left_normal_light.9.png" description="左边tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_left_pressed_light.9.png" description="左边tab 二态" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_middle_normal_light.9.png" description="中间tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_middle_pressed_light.9.png" description="中间tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_right_normal_light.9.png" description="右边tab" />
+        <path src="res\drawable-xhdpi\v5_secondary_tab_bg_right_pressed_light.9.png" description="右边tab 二态" />
+    </resource>
+    <resource description="progressbar.9" x="94" y="281" width="450" height="137" uuid="a51c0072-9e09-428d-b0df-4742e7e1ac03">
+        <path src="res\drawable-xhdpi\progressbar.9.png" description="评价进度" />
+    </resource>
+    <resource description="ic_menu_comment_pressed" x="310" y="1132" width="96" height="104" uuid="db866479-8899-4c8a-b93c-09e5b991278f">
+        <path src="res\drawable-xhdpi\ic_menu_comment_normal.png" description="撰写评论" />
+        <path src="res\drawable-xhdpi\ic_menu_comment_pressed.png" description="撰写评论 二态" />
+    </resource>
+</screenshot>

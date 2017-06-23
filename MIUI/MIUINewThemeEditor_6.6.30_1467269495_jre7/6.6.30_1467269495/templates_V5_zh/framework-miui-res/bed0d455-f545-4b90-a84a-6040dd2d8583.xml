@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="进度条 粗" version="3.3.1" annotation="" tag="控件">
+    <resource description="v5_progress_mask.9" x="144" y="270" width="436" height="48" uuid="239c541a-2c8b-4783-a5ca-cb3ad9eda509">
+        <path src="res\drawable-hdpi\v5_progress_bar.9.png" description="进度条" />
+        <path src="res\drawable-xhdpi\v5_progress_bar.9.png" description="进度条" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar.9.png" description="进度条" />
+        <path src="res\drawable-hdpi\v5_progress_horizontal_bg.9.png" description="进度条背景" />
+        <path src="res\drawable-xhdpi\v5_progress_horizontal_bg.9.png" description="进度条背景" />
+        <path src="res\drawable-xxhdpi\v5_progress_horizontal_bg.9.png" description="进度条背景" />
+        <path src="res\drawable-hdpi\v5_progress_mask.9.png" description="进度条形状遮罩" />
+        <path src="res\drawable-xhdpi\v5_progress_mask.9.png" description="进度条形状遮罩" />
+        <path src="res\drawable-xxhdpi\v5_progress_mask.9.png" description="进度条形状遮罩" />
+    </resource>
+    <resource description="v5_btn_bg_rect_pressed_light.9" x="582" y="248" width="106" height="86" uuid="2a58b0f7-a14a-47dd-8a4c-40a6b685b3d1">
+        <path src="res\drawable-hdpi\v5_btn_bg_rect_normal_light.9.png" description="小按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_rect_normal_light.9.png" description="小按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_rect_normal_light.9.png" description="小按钮" />
+        <path src="res\drawable-hdpi\v5_btn_bg_rect_pressed_light.9.png" description="小按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_rect_pressed_light.9.png" description="小按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_rect_pressed_light.9.png" description="小按钮 二态" />
+    </resource>
+    <resource description="v5_window_bg_light.9" x="0" y="0" width="718" height="1284" uuid="2a5c82b7-684b-4e85-a164-ce92b47a8124">
+        <path src="res\drawable-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+    </resource>
+    <resource description="v5_tab_bg_right_selected_light.9" x="56" y="150" width="626" height="68" uuid="23af202a-9180-453a-ae91-19efeebd15a6">
+        <path src="res\drawable-hdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_normal_light.9.png" description="tab按钮左" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_pressed_light.9.png" description="tab按钮左 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_selected_light.9.png" description="tab按钮左 选中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_normal_light.9.png" description="tab按钮中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_pressed_light.9.png" description="tab按钮中 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_selected_light.9.png" description="tab按钮中 选中" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_normal_light.9.png" description="tab按钮右" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_pressed_light.9.png" description="tab按钮右 二态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-hdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-xhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_selected_light.9.png" description="tab按钮右 选中" />
+        <path src="res\drawable-hdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+        <path src="res\drawable-xhdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+        <path src="res\drawable-xxhdpi\v5_tab_indicator_arrow_light.png" description="指示点" />
+    </resource>
+    <resource description="v5_tab_indicator_bg_light.9" x="0" y="138" width="722" height="92" uuid="81a7274a-56a2-4f80-9da3-24086ccc778b">
+        <path src="res\drawable-hdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+        <path src="res\drawable-xhdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+        <path src="res\drawable-xxhdpi\v5_tab_indicator_bg_light.9.png" description="有title情况下的tab背景" />
+    </resource>
+</screenshot>

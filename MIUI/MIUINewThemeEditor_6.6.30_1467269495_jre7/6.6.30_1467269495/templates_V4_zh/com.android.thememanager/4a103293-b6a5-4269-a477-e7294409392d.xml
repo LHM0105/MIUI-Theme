@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="主题转换" version="3.1.11" annotation="" tag="">
+    <resource description="resource_batch_import_oper_btn_background_n.9" x="4" y="1176" width="716" height="104" uuid="93af2f61-1ceb-437d-9d84-4747c6cb5705">
+        <path src="res\drawable-hdpi\resource_batch_import_oper_btn_background_n.9.png" description="" />
+        <path src="res\drawable-hdpi\resource_batch_import_oper_btn_background_p.9.png" description="" />
+    </resource>
+</screenshot>

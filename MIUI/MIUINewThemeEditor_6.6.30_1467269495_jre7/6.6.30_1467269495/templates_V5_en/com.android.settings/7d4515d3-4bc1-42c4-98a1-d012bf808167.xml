@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 About phone " version="2.9.16" annotation="嘿嘿 彩蛋图片 最新格式为jpg；为兼容低版本用户，建议将png一并加入。" tag="Settings">
+    <resource description="action_bar_title_bg" x="0" y="46" width="720" height="470" uuid="0d9aec5f-131e-4bcb-a857-e45463eba2ba">
+        <path src="res\drawable-hdpi\action_bar_title_bg.png" description="关于手机背景" />
+        <path src="res\drawable-xhdpi\action_bar_title_bg.png" description="关于手机背景" />
+        <path src="res\drawable-xhdpi\heihei_01.jpg" description="嘿嘿 彩蛋 新" />
+        <path src="res\drawable-hdpi\heihei_01.png" description="嘿嘿 彩蛋 旧" />
+        <path src="res\drawable-xhdpi\heihei_02.jpg" description="嘿嘿 彩蛋 新" />
+        <path src="res\drawable-hdpi\heihei_02.png" description="嘿嘿 彩蛋 旧" />
+        <path src="res\drawable-xhdpi\heihei_03.jpg" description="嘿嘿 彩蛋 新" />
+        <path src="res\drawable-hdpi\heihei_03.png" description="嘿嘿 彩蛋 旧" />
+        <path src="res\drawable-xhdpi\heihei_04.jpg" description="嘿嘿 彩蛋 新" />
+        <path src="res\drawable-hdpi\heihei_04.png" description="嘿嘿 彩蛋 旧" />
+        <path src="res\drawable-xhdpi\heihei_05.jpg" description="嘿嘿 彩蛋 新" />
+        <path src="res\drawable-hdpi\heihei_05.png" description="嘿嘿 彩蛋 旧" />
+    </resource>
+    <resource description="miui_logo" x="210" y="138" width="300" height="260" uuid="1387a0f5-a206-41d9-823d-4b08442bf462">
+        <path src="res\drawable-en-hdpi\miui_logo.png" description="miui logo" />
+        <path src="res\drawable-en-xhdpi\miui_logo.png" description="miui logo" />
+        <path src="res\drawable-hdpi\miui_logo.png" description="miui logo" />
+        <path src="res\drawable-xhdpi\miui_logo.png" description="miui logo" />
+        <path src="res\drawable-zh-TW-xhdpi\miui_logo.png" description="miui logo" />
+        <path src="res\drawable-hdpi\miui_logo_alpha.png" description="miui logo" />
+        <path src="res\drawable-xhdpi\miui_logo_alpha.png" description="miui logo" />
+    </resource>
+    <resource description="bottom_bar_bg" x="0" y="1126" width="720" height="154" uuid="04aab5f6-7a86-454a-803e-d32e12c41638">
+        <path src="res\drawable-hdpi\bottom_bar_bg.png" description="系统更新底拦" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg.png" description="系统更新底拦" />
+    </resource>
+    <resource description="ic_update_n" x="318" y="1142" width="80" height="90" uuid="1d4cee50-258a-430e-800b-260e57a270ed">
+        <path src="res\drawable-hdpi\ic_update_n.png" description="系统更新" />
+        <path src="res\drawable-xhdpi\ic_update_n.png" description="系统更新" />
+        <path src="res\drawable-hdpi\ic_update_p.png" description="系统更新 二态" />
+        <path src="res\drawable-xhdpi\ic_update_p.png" description="系统更新 二态" />
+    </resource>
+    <resource description="device_info_content_bg.9" x="0" y="524" width="722" height="590" uuid="5126f40c-e271-44be-a686-f2864fbd8624">
+        <path src="res\drawable-hdpi\device_info_content_bg.9.png" description="关于手机背景" />
+    </resource>
+</screenshot>

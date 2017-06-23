@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 推荐短信，载入背景" version="2.9.20" annotation="" tag="其他">
+    <resource description="random_toggle_n" x="600" y="52" width="92" height="82" uuid="3195c8b1-2841-436c-a1a5-0d07e4cfa321">
+        <path src="res\drawable-xhdpi\random_toggle_n.png" description="刷新按钮" />
+        <path src="res\drawable-xxhdpi\random_toggle_n.png" description="刷新按钮" />
+        <path src="res\drawable-xhdpi\random_toggle_p.png" description="刷新按钮 二态" />
+        <path src="res\drawable-xxhdpi\random_toggle_p.png" description="刷新按钮 二态" />
+    </resource>
+    <resource description="loading_view_bg.9" x="0" y="1092" width="718" height="186" uuid="8e9fef4e-2dd8-4032-bcb4-a0e439f20b13">
+        <path src="res\drawable-hdpi\loading_view_bg.9.png" description="载入中阴影" />
+    </resource>
+</screenshot>

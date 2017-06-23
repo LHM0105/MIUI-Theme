@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="授权 root" version="3.4.24" annotation="" tag="">
+    <resource description="button_left_press.9" x="60" y="908" width="290" height="108" uuid="587718e6-6daa-413a-bc5a-82bd44795e0d">
+        <path src="res\drawable-xhdpi\button_left_normal.9.png" description="左按钮" />
+        <path src="res\drawable-xhdpi\button_left_press.9.png" description="左按钮 二态" />
+    </resource>
+    <resource description="button_right_press.9" x="368" y="906" width="280" height="112" uuid="c4b946f9-d452-4200-bf03-10573464182d">
+        <path src="res\drawable-xhdpi\button_right_normal.9.png" description="右按钮" />
+        <path src="res\drawable-xhdpi\button_right_press.9.png" description="右按钮 二态" />
+    </resource>
+    <resource description="ic_check_default" x="222" y="810" width="68" height="76" uuid="c445e264-5c0c-4d93-bcb8-945a223407cb">
+        <path src="res\drawable-xhdpi\ic_check_checked.png" description="选中" />
+        <path src="res\drawable-xhdpi\ic_check_default.png" description="未选中" />
+    </resource>
+    <resource description="ic_dialog_warning" x="258" y="284" width="200" height="200" uuid="0b3ff119-00af-403b-abcb-cd69224d8d96">
+        <path src="res\drawable-xhdpi\ic_dialog_alert.png" description="有风险" />
+        <path src="res\drawable-xhdpi\ic_dialog_warning.png" description="重要警告" />
+    </resource>
+</screenshot>

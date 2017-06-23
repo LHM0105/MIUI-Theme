@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4联系人详情" version="4.8.5" annotation="" tag="联系人">
+    <resource description="contact_detail_tab_container_bg.9" x="0" y="918" width="1080" height="164" uuid="2be560ea-86d3-4408-be5d-5a1939771e26">
+        <path src="res\drawable-hdpi\contact_detail_tab_container_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_container_bg.9.png" description="" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_container_bg.9.png" description="" />
+    </resource>
+    <resource description="contact_detail_title_home_icon_p" x="2" y="70" width="130" height="190" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_n.png" description="" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_p.png" description="" />
+    </resource>
+</screenshot>

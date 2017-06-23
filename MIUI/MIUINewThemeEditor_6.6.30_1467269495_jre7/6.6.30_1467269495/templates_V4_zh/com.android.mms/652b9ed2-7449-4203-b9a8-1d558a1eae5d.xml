@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 收信人联想列表" version="2.9.20" annotation="" tag="新信息">
+    <resource description="recipient_suggestion_bg.9.png" x="0" y="176" width="720" height="1102" uuid="fc52404b-a839-4e4a-a1f0-08108fb8e63a">
+        <path src="res\drawable-hdpi\confirm_recipient_btn_p.png" description="" />
+        <path src="res\drawable-hdpi\recipient_suggestion_bg.9.png" description="输入字母后联系人联想背景" />
+        <path src="res\drawable-xhdpi\confirm_recipient_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\recipient_suggestion_bg.9.png" description="输入字母后联系人联想背景" />
+    </resource>
+    <resource description="confirm_recipient_btn_n" x="608" y="66" width="104" height="84" uuid="26da96d0-f692-4389-9061-bfa0a1889850">
+        <path src="res\drawable-hdpi\confirm_recipient_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\confirm_recipient_btn_n.png" description="" />
+    </resource>
+    <resource description="home_button_p.png" x="20" y="74" width="72" height="74" uuid="5d02fd37-592b-4ba8-8f56-03cf14e22f93">
+        <path src="res\drawable-hdpi\home_button_n.png" description="" />
+        <path src="res\drawable-hdpi\home_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\home_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\home_button_p.png" description="" />
+    </resource>
+</screenshot>

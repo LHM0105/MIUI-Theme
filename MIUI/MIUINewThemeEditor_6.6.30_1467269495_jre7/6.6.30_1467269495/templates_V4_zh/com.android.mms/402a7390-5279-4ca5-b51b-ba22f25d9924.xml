@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 附件菜单2" version="2.9.20" annotation="" tag="添加短信附件">
+    <resource description="ic_attach_timing_d.png" x="310" y="805" width="93" height="89" uuid="4d9b2d4e-b639-4dab-ab33-92be715c3988">
+        <path src="res\drawable-hdpi\ic_attach_timing.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_timing_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_timing_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_timing.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_timing_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_timing_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_video_n.png" x="552" y="801" width="90" height="90" uuid="b9fed288-3f24-4c68-8620-fdea3f071b34">
+        <path src="res\drawable-hdpi\ic_attach_video_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_video_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_video_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_video_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_record_video_n.png" x="71" y="1031" width="90" height="90" uuid="986b3eff-ab27-4c56-b33b-a8fab6841cba">
+        <path src="res\drawable-hdpi\ic_attach_record_video_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_record_video_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_record_video_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_record_video_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_sound_d.png" x="308" y="1024" width="90" height="90" uuid="35c73a62-13aa-448e-892e-8d1d1143325b">
+        <path src="res\drawable-hdpi\ic_attach_sound_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_sound_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_sound_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_sound_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_record_sound_n.png" x="551" y="1024" width="90" height="90" uuid="5c114939-d540-4cdd-b050-13a46b14b132">
+        <path src="res\drawable-hdpi\ic_attach_record_sound_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_record_sound_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_record_sound_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_record_sound_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_festival_sms_n.png" x="71" y="803" width="90" height="90" uuid="56b8a109-2766-4b9c-8e7c-af9bd112a0b6">
+        <path src="res\drawable-hdpi\ic_attach_festival_sms_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_festival_sms_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_festival_sms_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_festival_sms_n.png" description="" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="644" width="720" height="118" uuid="54cc8a0f-cd96-4846-a09f-2aece83912b7">
+        <path src="res\drawable-hdpi\message_edit_bottom_panel.9.png" description="" />
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="106" y="660" width="502" height="82" uuid="fda0c260-57bf-4cff-b5ca-9814d09f28d0">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+    <resource description="insert_attachment_button_n.png" x="12" y="658" width="86" height="86" uuid="f53c2ad0-57d1-4c3e-abca-7511a4bd941a">
+        <path src="res\drawable-hdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-hdpi\insert_attachment_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="616" y="658" width="86" height="86" uuid="183d5699-bd13-4ace-a76c-4ba0e789d051">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="call_btn_p.png" x="601" y="96" width="84" height="84" uuid="d7a0094b-e42b-44b4-984c-5ad59672407d">
+        <path src="res\drawable-hdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\call_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="0" y="50" width="720" height="174" uuid="8ce4052a-a342-41e5-84c3-cd6aed194e7f">
+        <path src="res\drawable-hdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 新增页面" version="2.9.16" annotation="" tag="编辑模式">
+    <resource description="editing_new_screen_btn_p.png" x="280" y="422" width="156" height="158" uuid="7dcad6f7-ba05-44d3-ad37-b6be9e4c895d">
+        <path src="res\drawable-hdpi\editing_new_screen_btn_n.png" description="新增桌面按钮" />
+        <path src="res\drawable-xhdpi\editing_new_screen_btn_n.png" description="新增桌面按钮" />
+        <path src="res\drawable-hdpi\editing_new_screen_btn_p.png" description="新增桌面按钮 二态" />
+        <path src="res\drawable-xhdpi\editing_new_screen_btn_p.png" description="新增桌面按钮 二态" />
+    </resource>
+    <resource description="editing_new_screen.9" x="54" y="88" width="610" height="816" uuid="7e09a7a7-3035-48cd-8b07-6e8cdec89271">
+        <path src="res\drawable-hdpi\editing_new_screen.9.png" description="新桌面背景" />
+        <path src="res\drawable-xhdpi\editing_new_screen.9.png" description="新桌面背景" />
+    </resource>
+    <resource description="editing_bg" x="12" y="0" width="690" height="1268" uuid="18114237-589c-4b21-a183-5f79a6eb8d7c">
+        <path src="res\drawable-hdpi\editing_bg.png" description="编辑模式背景" />
+    </resource>
+</screenshot>

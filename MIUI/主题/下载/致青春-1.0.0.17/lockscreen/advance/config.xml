@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Config>
+
+
+	<Group text="锁屏说明：更换头像功能仅支持v6或更高版本版本，如果选择的图片无法显示，请适当裁剪后再进行选取，裁剪方法：进入图库--查看照片--编辑--裁剪。" >
+
+	</Group>
+
+
+
+
+	<Group text="自定义头像（请升级到v6 或更高版本最新版）">
+		<ImagePicker text="头像一" summary="选择图头像一" id="img1"/>
+ 
+	</Group>
+
+
+	<Group text="蒲公英动态特效开关">
+		<CheckBox text="是否关闭蒲公英动态特效" summary="" id="conf_efficient_off" default="0"/>
+ 	</Group>
+	
+	
+	
+	
+	<Group text="锁屏壁纸设置(如果想选择自己的壁纸，选择系统壁纸，然后解锁后到手机中打开图库选择壁纸)">
+		<NumberChoice text="自定义锁屏壁纸设置" summary="" id="conf_system_wp_on"  default="0">
+			<Item value="0" text="内置锁屏壁纸"/>
+			<Item value="1" text="系统锁屏壁纸"/>
+		</NumberChoice>
+		
+		<NumberChoice text="换壁纸后是否还显示蒲公英" summary="默认不显示" id="conf_system_wp_mazz_show_on"  default="0">
+			<Item value="0" text="不显示"/>
+			<Item value="1" text="显示"/>
+		</NumberChoice>
+		
+    </Group>
+		<Group>
+		<StringInput text="鲜菇肉片群（489433602），反馈交流群（点击可复制）" id="666" default="489433602"/>
+	</Group>
+</Config>

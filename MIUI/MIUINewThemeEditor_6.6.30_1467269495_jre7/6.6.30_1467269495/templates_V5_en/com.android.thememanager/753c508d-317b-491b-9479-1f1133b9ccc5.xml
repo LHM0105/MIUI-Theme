@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Featured themes" version="3.10.22" annotation="" tag="New Themes">
+    <resource description="action_bar_logo" x="16" y="58" width="78" height="64" uuid="72d75d91-6425-4e02-9ce2-c17f9f28d7fa">
+        <path src="res\drawable-hdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xhdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xxhdpi\action_bar_logo.png" description="主题图标" />
+    </resource>
+    <resource description="new_update" x="652" y="160" width="54" height="50" uuid="0bca7d78-b471-4021-a5fe-0368099a98b5">
+        <path src="res\drawable-hdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+        <path src="res\drawable-xhdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+    </resource>
+    <resource description="loading_view_bg.9" x="0" y="1114" width="720" height="166" uuid="de813efe-eae7-4a76-b948-9e49a1e9a767">
+        <path src="res\drawable-hdpi\loading_view_bg.9.png" description="载入白色阴影" />
+        <path src="res\drawable-xxhdpi\loading_view_bg.9.png" description="载入白色阴影" />
+    </resource>
+    <resource description="resource_thumbnail_bg.9" x="248" y="756" width="218" height="346" uuid="f9a32779-f23c-413e-af92-b825d1a35515">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+        <path src="res\drawable-xhdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+        <path src="res\drawable-xxhdpi\resource_thumbnail_bg_round_border.9.png" description="载入中图片" />
+    </resource>
+    <resource description="resource_list_title.9" x="0" y="680" width="722" height="67" uuid="c397b6d3-c6da-4a82-a977-8af4aed6906a">
+        <path src="res\drawable-hdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xhdpi\resource_list_title.9.png" description="列表标题背景" />
+        <path src="res\drawable-xxhdpi\resource_list_title.9.png" description="列表标题背景" />
+    </resource>
+</screenshot>

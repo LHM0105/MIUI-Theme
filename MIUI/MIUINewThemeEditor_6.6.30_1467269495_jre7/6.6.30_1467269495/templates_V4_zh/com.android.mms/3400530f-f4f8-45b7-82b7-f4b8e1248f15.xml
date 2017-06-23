@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3新建短信背景" version="2.12.27" annotation="" tag="短信会话界面">
+    <resource description="message_window_bg.9" x="0" y="52" width="718" height="1116" uuid="a77c3573-b473-4880-86e0-7d4e21cf97da">
+        <path src="res\drawable-hdpi\message_window_bg.9.png" description="新建短信与有内容短信界面背景为不同的两张图" />
+        <path src="res\drawable-xhdpi\message_window_bg.9.png" description="新建短信与有内容短信界面背景为不同的两张图" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1170" width="720" height="110" uuid="68e18645-3e62-4fed-bb51-97dd3a553ec2">
+        <path src="res\drawable-hdpi\message_edit_bottom_panel.9.png" description="" />
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="" />
+    </resource>
+    <resource description="insert_attachment_button_n.png" x="16" y="1180" width="85" height="85" uuid="e2c74b9d-f1a7-4eaf-877d-9c9f84aea40e">
+        <path src="res\drawable-hdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-hdpi\insert_attachment_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="624" y="1180" width="86" height="86" uuid="fb705f2a-56d3-45b5-836d-dad76f52fcb2">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="108" y="1182" width="502" height="81" uuid="9ed971d5-3e9d-46fb-9d4b-2eaecb717ada">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+    <resource description="recipient_suggestion_bg.9" x="0" y="176" width="718" height="154" uuid="2c8a019f-d3c9-44d5-aa24-1916df801ed1">
+        <path src="res\drawable-hdpi\recipient_suggestion_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\recipient_suggestion_bg.9.png" description="" />
+    </resource>
+    <resource description="recent_contact_divider_v" x="233" y="193" width="8" height="42" uuid="c75d5643-6964-476f-ad77-ad417dc44ed6">
+        <path src="res\drawable-hdpi\recent_contact_divider_v.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_divider_v.png" description="" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="22" y="186" width="188" height="58" uuid="6491d447-16fa-46db-beda-8990512d0eb8">
+        <path src="res\drawable-hdpi\recent_contact_item_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\recent_contact_item_bg_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="recipients_editor_bg_n.9" x="108" y="68" width="498" height="86" uuid="af67bd83-8003-492f-838c-21c1306e9db3">
+        <path src="res\drawable-hdpi\msg_editor_bg.png" description="" />
+        <path src="res\drawable-hdpi\recipients_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\recipients_editor_bg_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\msg_editor_bg.png" description="" />
+        <path src="res\drawable-xhdpi\recipients_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\recipients_editor_bg_p.9.png" description="" />
+    </resource>
+</screenshot>

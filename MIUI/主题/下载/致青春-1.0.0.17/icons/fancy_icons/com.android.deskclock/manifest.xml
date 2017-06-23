@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- calendar -->
+<Icon version="1" frameRate="60" width="192" height="192" screenWidth="1080" useVariableUpdater="DateTime.Hour">
+	<Image src="clock_bg.png"/>
+	<Var name="hour_angle_raw" expression="#hour12*30+#minute/2"/>
+	<Var name="minute_angle_raw" expression="#minute*6"/>
+	<Var name="second_angle_raw" expression="#second*6"/>
+ 
+	<Var name="min_p_x" expression="91"/>
+	<Var name="min_p_y" expression="117"/>
+	
+	<Image x="#min_p_x" y="#min_p_y" align="center" alignV="center" pivotX="80" pivotY="80" src="hour_point.png" angle="#hour_angle_raw"   />
+	<Image x="#min_p_x" y="#min_p_y" align="center" alignV="center" pivotX="80" pivotY="80" src="minute_point.png" angle="#minute_angle_raw"   />
+ 
+	<Image x="#min_p_x" y="#min_p_y" align="center" alignV="center" pivotX="80" pivotY="80" src="second_point.png" angle="#second_angle_raw"   />
+	
+	
+	<Image x="#min_p_x" y="#min_p_y" align="center" alignV="center" src="point.png"/>
+</Icon>

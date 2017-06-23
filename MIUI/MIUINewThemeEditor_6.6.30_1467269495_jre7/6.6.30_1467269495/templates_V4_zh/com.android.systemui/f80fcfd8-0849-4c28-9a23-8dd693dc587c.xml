@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 通知栏_单页" version="2.9.16" annotation="" tag="简洁模式">
+    <resource description="toggle_bar_bg.9.png" x="0" y="1082" width="720" height="148" uuid="de6966d3-9a6e-4fc8-a0d8-779a9ab69fe5">
+        <path src="res\drawable-xhdpi\toggle_bar_bg.9.png" description="" />
+    </resource>
+    <resource description="notification_item_bg_p.9.png" x="0" y="380" width="720" height="140" uuid="3ee7a4af-ec97-4352-9d95-3b50b0481d97">
+        <path src="res\drawable-xhdpi\notification_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\notification_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="tracking_view_list_style_bg.9" x="0" y="0" width="720" height="1080" uuid="6771fc7c-c3ff-4fcf-9b83-55b266c0e4cf">
+        <path src="res\drawable-xhdpi\tracking_view_list_style_bg.9.png" description="" />
+    </resource>
+    <resource description="notification_header_bg.9.png" x="0" y="0" width="720" height="104" uuid="12abbfaa-01b2-4458-bca6-f789c106e96d">
+        <path src="res\drawable-hdpi\notification_header_bg.9.png" description="" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="622" y="6" width="88" height="82" uuid="6f2d8591-c655-4820-8084-3c3925c003ca">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_style_bg_n.9" x="4" y="1086" width="126" height="136" uuid="624225da-7f3b-45fb-b33c-755c2852fe8d">
+        <path src="res\drawable-xhdpi\toggle_bg_n.png" description="" />
+        <path src="res\drawable-xhdpi\toggle_bg_p.png" description="" />
+    </resource>
+</screenshot>

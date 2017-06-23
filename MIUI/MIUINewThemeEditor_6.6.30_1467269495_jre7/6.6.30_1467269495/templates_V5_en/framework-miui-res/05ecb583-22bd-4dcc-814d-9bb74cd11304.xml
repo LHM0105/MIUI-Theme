@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="More popup windows" version="3.2.21" annotation="" tag="Popup windows">
+    <resource description="v5_menu_primary_mask_bg_light.9" x="6" y="904" width="710" height="144" uuid="2e3dbb70-9e22-4577-bdfc-170ec8b7d4c0">
+        <path src="res\drawable-hdpi\v5_menu_primary_mask_bg_light.9.png" description="更多按钮背景" />
+        <path src="res\drawable-xhdpi\v5_menu_primary_mask_bg_light.9.png" description="更多按钮背景" />
+        <path src="res\drawable-xxhdpi\v5_menu_primary_mask_bg_light.9.png" description="更多按钮背景" />
+    </resource>
+    <resource description="v5_menu_list_view_first_item_bg_normal_light.9" x="10" y="1076" width="700" height="91" uuid="cfbb7326-aa1c-45ca-95a6-4d757fd2f877">
+        <path src="res\drawable-hdpi\v5_menu_list_view_first_item_bg_normal_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_first_item_bg_normal_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_first_item_bg_normal_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-hdpi\v5_menu_list_view_first_item_bg_pressed_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_first_item_bg_pressed_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_first_item_bg_pressed_light.9.png" description="更多列表第一个" />
+        <path src="res\drawable-hdpi\v5_menu_list_view_last_item_bg_normal_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_last_item_bg_normal_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_last_item_bg_normal_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-hdpi\v5_menu_list_view_last_item_bg_pressed_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_last_item_bg_pressed_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_last_item_bg_pressed_light.9.png" description="更多列表最后一个" />
+        <path src="res\drawable-hdpi\v5_menu_list_view_middle_item_bg_normal_light.9.png" description="更多列表最后中间" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_middle_item_bg_normal_light.9.png" description="更多列表最后中间" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_middle_item_bg_normal_light.9.png" description="更多列表最后中间" />
+        <path src="res\drawable-hdpi\v5_menu_list_view_middle_item_bg_pressed_light.9.png" description="更多列表最后中间" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_middle_item_bg_pressed_light.9.png" description="更多列表最后中间" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_middle_item_bg_pressed_light.9.png" description="更多列表最后中间" />
+    </resource>
+    <resource description="v5_menu_list_view_bg_light.9" x="0" y="1060" width="720" height="220" uuid="8d8e6aee-84a0-49c8-8497-8567a7c79b43">
+        <path src="res\drawable-hdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+        <path src="res\drawable-land-hdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+        <path src="res\drawable-land-xhdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+        <path src="res\drawable-land-xxhdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+        <path src="res\drawable-xhdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+        <path src="res\drawable-xxhdpi\v5_menu_list_view_bg_light.9.png" description="更多弹窗列表背景" />
+    </resource>
+    <resource description="v5_bottom_bar_new_icon_normal_light" x="136" y="934" width="62" height="68" uuid="e578c6e5-0bcd-4d7f-bf96-fa28a86caac1">
+        <path src="res\drawable-hdpi\v5_bottom_bar_new_icon_normal_light.png" description="添加按钮" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_normal_light.png" description="添加按钮" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_new_icon_normal_light.png" description="添加按钮" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_new_icon_pressed_light.png" description="添加按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_pressed_light.png" description="添加按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_new_icon_pressed_light.png" description="添加按钮 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_first_icon_pressed_bg_light.9" x="96" y="920" width="532" height="106" uuid="e7adba95-fb36-4def-89d6-cf89683acfa8">
+        <path src="res\drawable-hdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_first_icon_normal_bg_light.9.png" description="第一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_first_icon_pressed_bg_light.9.png" description="第一个小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_last_icon_normal_bg_light.9.png" description="最后一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_last_icon_pressed_bg_light.9.png" description="最后一个小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间小豆豆" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_more_icon_pressed_light" x="546" y="936" width="60" height="62" uuid="2aa639e9-d447-4ff7-bf9e-938db6291ad2">
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_normal_light.png" description="更多按钮 " />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_normal_light.png" description="更多按钮 " />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_normal_light.png" description="更多按钮 " />
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_pressed_light.png" description="更多按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="更多按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="更多按钮 按下" />
+    </resource>
+</screenshot>

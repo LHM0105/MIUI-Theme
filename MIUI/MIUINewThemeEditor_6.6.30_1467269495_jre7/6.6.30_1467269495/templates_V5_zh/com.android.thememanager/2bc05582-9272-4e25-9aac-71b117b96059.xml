@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.6 字体" version="3.4.11" annotation="" tag="旧 混搭">
+    <resource description="resource_font_bg.9" x="8" y="234" width="350" height="240" uuid="2db75817-2d10-4964-8d8c-b78b93a58242">
+        <path src="res\drawable-hdpi\resource_font_bg.9.png" description="字体背景" />
+        <path src="res\drawable-xxhdpi\resource_font_bg.9.png" description="字体背景" />
+    </resource>
+</screenshot>

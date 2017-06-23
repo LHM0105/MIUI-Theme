@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="primary_color_normal">#e62b2e33</color>
+<color name="primary_color_normal_dark">#ddffffff</color>
+<color name="primary_color_activated">#ff0d9aff</color>
+<color name="icon_foreground_pressed">#3cffffff</color>
+<dimen name="float_panel_height">300.000000dp</dimen>
+<dimen name="float_icon_size">52.000000dp</dimen>
+<dimen name="float_icon_padding">13.000000dp</dimen>
+<dimen name="float_ball_size">50.000000dp</dimen>
+<dimen name="float_ball_margin">6.659973dp</dimen>
+<dimen name="entry_item_height">81.000000dp</dimen>
+<dimen name="default_position_y">300.000000dp</dimen>
+<dimen name="activity_vertical_margin">16.000000dp</dimen>
+<dimen name="float_panel_width">150.000000dp</dimen>
+<dimen name="height_above_ime">120.000000dp</dimen>
+<dimen name="icon_width_normal">50.000000dp</dimen>
+<dimen name="slided_away_width">13.000000dp</dimen>
+<dimen name="activity_horizontal_margin">16.000000dp</dimen>
+<integer name="vector_cross_strokeWidth">#0000000a</integer>
+<integer name="float_vector_out_duration">#00000096</integer>
+<integer name="vector_circle_strokeWidth">#0000000e</integer>
+<integer name="float_vector_in_delay">#00000064</integer>
+<integer name="float_vector_in_duration">#0000015e</integer>
+<integer name="float_icon_viewport_pivotY">#000000c8</integer>
+<integer name="float_icon_viewport_width">#00000190</integer>
+<integer name="float_icon_viewport_height">#00000190</integer>
+<integer name="float_icon_viewport_pivotX">#000000c8</integer>
+<string name="vector_large_circle">-107,-107z</string>
+<string name="name_press_menu_key">任务键</string>
+<string name="motion_behavior">操作模式</string>
+<string name="hide_when_fullscreen_intro">在全屏应用中自动将悬浮球贴边隐藏</string>
+<string name="name_alipay_payment_code">支付宝付款码</string>
+<string name="hide_touch_assistant">隐藏悬浮球</string>
+<string name="wechat_package">com.tencent.mm</string>
+<string name="vector_large_crossB">L160,240</string>
+<string name="hide_when_fullscreen">全屏下自动贴边</string>
+<string name="vector_large_crossA">L240,240</string>
+<string name="hide_touch_assistant_intro">在某些应用中不显示悬浮球</string>
+<string name="name_alipay_scan">支付宝扫一扫</string>
+<string name="name_music_toggle">播放音乐</string>
+<string name="name_payment_code">付款码</string>
+<string name="name_press_back_key">返回键</string>
+<string name="name_press_home_key">桌面键</string>
+<string name="name_long_press_power_key">长按电源键</string>
+<string name="name_memory_clean">清理进程</string>
+<string name="name_music_next_song">下一曲</string>
+<string name="name_music_prev_song">上一曲</string>
+<string name="function_settings">功能设置</string>
+<string name="enable_touch_assistant">打开悬浮球</string>
+<string name="name_wechat_scan">微信扫一扫</string>
+<string name="name_wechat_payment_code">微信付款码</string>
+<string name="name_quick_search">搜索</string>
+<string name="name_quick_lock">锁屏</string>
+<string name="name_screenshot">截屏</string>
+<string name="name_scan_to_pay">扫码支付</string>
+<string name="open_panel">展开悬浮球菜单</string>
+<string name="pay_entry_dialog_title_select">选择一个应用打开</string>
+<string name="pref_category_system">系统设置</string>
+<string name="close_panel">收起悬浮球菜单</string>
+<string name="restore_default">恢复到默认设置</string>
+<string name="customize_entries">自定义菜单</string>
+<string name="restore_intro">将悬浮助手的功能恢复到默认设置，包括菜单功能、按钮顺序等。此项操作不会删除您手机的数据。</string>
+<string name="category_others">其他</string>
+<string name="show_on_keyguard">在锁屏界面显示</string>
+<string name="category_setting">功能设置</string>
+<string name="pay_entry_dialog_title_setting">选择使用的应用</string>
+<string name="app_not_installed">应用未安装</string>
+<string name="pref_category_others">其他</string>
+<string name="applications">应用程序</string>
+<string name="pref_category_quick_pay">支付小功能</string>
+<string name="alipay_package">com.eg.android.AlipayGphone</string>
+<string name="pref_category_quick_settings">快捷功能</string>
+<string name="app_name">悬浮球</string>
+<string-array name="motion_behavior_entries">
+<item>滑动</item>
+<item>点击</item>
+</string-array>
+<string-array name="motion_behavior_entry_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+</MIUI_Theme_Values>

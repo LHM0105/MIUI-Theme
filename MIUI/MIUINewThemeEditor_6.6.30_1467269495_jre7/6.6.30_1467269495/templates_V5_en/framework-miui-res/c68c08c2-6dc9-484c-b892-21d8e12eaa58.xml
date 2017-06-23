@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Torch - full screen image" version="3.5.9" annotation="" tag="Other">
+    <resource description="手电打开" x="2" y="2" width="714" height="1274" uuid="fc0f7a1c-5c53-4acf-b8e9-f2941d28f282">
+        <path src="res\drawable-hdpi\lock_screen_torch_cover.jpg" description="" />
+        <path src="res\drawable-xhdpi\lock_screen_torch_cover.jpg" description="" />
+        <path src="res\drawable-xxhdpi\lock_screen_torch_cover.jpg" description="" />
+    </resource>
+</screenshot>

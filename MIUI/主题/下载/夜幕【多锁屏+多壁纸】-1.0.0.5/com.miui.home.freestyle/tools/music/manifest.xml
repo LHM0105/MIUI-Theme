@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gadget width="1080" height="1920" screenWidth="1080" frameRate="30">
+<Var name="position_min" expression="#music_control.music_position/60000"/>
+<Var name="position_sec" expression="#music_control.music_position/1000%60"/>
+<Var name="position_mil" expression="#music_control.music_position%1000/10"/>
+<Var name="duration_min" expression="#music_control.music_duration/60000"/>
+<Var name="duration_sec" expression="#music_control.music_duration/1000%60"/>
+<Var name="duration_mil" expression="#music_control.music_duration%1000/10"/>
+<Var name="a1" expression="#music_control.music_position"/>
+<Var name="b1" expression="#music_control.music_duration"/>
+<Var name="abc" expression="#a1/#b1"/>
+<Var name="artist" expression="ifelse((isnull(@music_control.artist)+eqs(@music_control.artist,'')),'未知',@music_control.artist)" type="string" />
+<Var name="title" expression="ifelse((isnull(@music_control.title)+eqs(@music_control.title,'')),'未知',@music_control.title)" type="string" />
+<Var name="lyric_width" expression="900" const="true"/>
+<Var name="lyric_ch" expression="36" const="true"/>
+<Group name="music">
+<MusicControl name="music_control" x="0" y="0" w="#screen_width" h="#screen_height" autoShow="true" enableLyric="true" updateLyricInterval="100" defAlbumCover="music/music_d.png">
+<Text  x="145" y="1730" format="%d%d:%d%d" paras="#position_min/10,#position_min%10,#position_sec/10,#position_sec%10" align="right"  size="32" color="#99ffffff"/>
+<Text  x="#screen_width-145" y="1730" 	 format="%d%d:%d%d" paras="#duration_min/10,#duration_min%10,#duration_sec/10,#duration_sec%10"  size="32"  color="#99ffffff"/>
+<Image src="music/white.9.png"  x="175" y="1750" h="8"   alpha="40" w="736"  />
+<Image src="music/white.9.png"  x="175" y="1750" h="8"   alpha="60" w="736*#abc"  />
+<Image src="music/white_fg.9.png"  x="173" y="1750"   alpha="255" w="7+732*#abc" h="8" />
+<Group visibility="#music_control.music_state">
+<Text x="#screen_width/2" y="216" align="center" textExp="@title" bold="true" size="60" color="#99ffffff" w="#lyric_width" marqueeSpeed="30"/>
+<Text x="#screen_width/2" y="340" align="center" textExp="@artist"  size="46" color="#99ffffff" alpha="155" w="#lyric_width" marqueeSpeed="30"/>
+</Group>
+<Group visibility="not(#music_control.music_state)">
+<Text x="540" y="248" align="center" alignV="center" text="暂无歌曲信息" bold="false" size="60" color="#99ffffff" w="#lyric_width" marqueeSpeed="30" />
+</Group>
+<Image src="music/music_d.png" x="90" y="500"/>
+<Image name="music_album_cover"  x="90" y="500" w="900" h="900" antiAlias="true"/>
+<Image src="music/music_fg.png" x="90" y="500" w="900" h="900"/>
+<Group  x="#screen_width/2" y="-174" clip="true">
+<Text y="1411" w="#lyric_width" marqueeSpeed="30" h="30" align="center" alignV="bottom" color="#99ffffff" alpha="125" size="35" text="@music_control.lyric_last" multiLine="true" spacingMult="1.5"/>
+<Text name="cur_lyric" y="1445" marqueeSpeed="30" w="#lyric_width" align="center" color="#99ffffff" bold="true" alpha="255" size="40" text="@music_control.lyric_current" multiLine="true" spacingMult="1.5"/>
+<Text y="1515" w="#lyric_width" marqueeSpeed="30" h="30" align="center" color="#99ffffff" alpha="125" size="35" text="@music_control.lyric_after" multiLine="true" spacingMult="1.5"/>
+</Group>
+<Button name="music_prev" x="160" y="1550" w="120" h="120">
+<Normal>
+<Image src="music/music_previous_n.png" x="220" y="1609" alignV="center"  align="center"alpha="255"/>
+</Normal>
+<Pressed>
+<Image src="music/music_previous_n.png" x="220" y="1609" alignV="center"  align="center" alpha="125"/>
+</Pressed>
+</Button>
+<Button name="music_next" x="800" y="1550" w="120" h="120">
+<Normal>
+<Image src="music/music_next_n.png" x="860" y="1609" alignV="center"  align="center" alpha="255"/>
+</Normal>
+<Pressed>
+<Image src="music/music_next_n.png" x="860" y="1609" alignV="center"  align="center" alpha="125"/>
+</Pressed>
+</Button>
+<Button name="music_play" x="440" y="1550" w="120" h="120">
+<Normal>
+<Image src="music/music_play_n.png" x="540" y="1609" alignV="center"  align="center" alpha="255"/>
+</Normal>
+<Pressed>
+<Image src="music/music_play_n.png" x="540" y="1609" alignV="center"  align="center"  alpha="125"/>
+</Pressed>
+</Button>
+<Button name="music_pause" x="440" y="1550" w="120" h="120">
+<Normal>
+<Image src="music/music_pause_n.png" x="540" y="1609" alignV="center"  align="center" />
+</Normal>
+<Pressed>
+<Image src="music/music_pause_n.png" x="540" y="1609" alignV="center"  align="center"  alpha="125"/>
+</Pressed>
+</Button>
+</MusicControl>
+<Button  x="0" y="0" w="1080" h="1700" visibility="1">
+<Triggers>
+<Trigger action="double">
+<IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity"/>
+<ExternCommand command="unlock"/>
+</Trigger>
+</Triggers>
+</Button>
+</Group>
+</Gadget>

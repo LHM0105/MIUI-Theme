@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="重启界面" version="3.4.24" annotation="" tag="其他">
+    <resource description="boot_msg_icon" x="168" y="406" width="390" height="334" uuid="e5df6474-ddc3-4abd-ba3d-77a53e166b9b">
+        <path src="res\drawable-hdpi\boot_msg_icon.png" description="Logo" />
+        <path src="res\drawable-xhdpi\boot_msg_icon.png" description="Logo" />
+        <path src="res\drawable-xxhdpi\boot_msg_icon.png" description="Logo" />
+    </resource>
+    <resource description="boot_msg_animation_5" x="152" y="758" width="422" height="56" uuid="9ccba2d3-fcea-4228-a50e-84f47b3acfcf">
+        <path src="res\drawable-hdpi\boot_msg_animation_0.png" description="等待条图片" />
+        <path src="res\drawable-hdpi\boot_msg_animation_1.png" description="等待条图片" />
+        <path src="res\drawable-hdpi\boot_msg_animation_2.png" description="等待条图片" />
+        <path src="res\drawable-hdpi\boot_msg_animation_3.png" description="等待条图片" />
+        <path src="res\drawable-hdpi\boot_msg_animation_4.png" description="等待条图片" />
+        <path src="res\drawable-hdpi\boot_msg_animation_5.png" description="等待条图片" />
+    </resource>
+    <resource description="boot_msg_bg.9" x="4" y="4" width="708" height="1256" uuid="ff00b669-77eb-4449-95bf-358f8c77f752">
+        <path src="res\drawable-hdpi\boot_msg_bg.9.png" description="重启背景图" />
+    </resource>
+</screenshot>

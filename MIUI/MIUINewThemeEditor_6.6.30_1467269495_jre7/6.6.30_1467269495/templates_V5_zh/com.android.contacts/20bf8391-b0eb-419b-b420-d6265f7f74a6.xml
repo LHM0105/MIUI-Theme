@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1.1 联系人信息窗" version="2.9.16" annotation="" tag="联系人">
+    <resource description="quickcontact_window_bg.9.png" x="24" y="226" width="688" height="882" uuid="b36f9a2e-7813-4d4f-be20-54547dcbb8f5">
+        <path src="res\drawable-hdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+    </resource>
+    <resource description="quickcontact_track_background.9.png" x="44" y="420" width="625" height="92" uuid="5cf23490-0707-4748-86a6-4fe5fcaa0c0d">
+        <path src="res\drawable-hdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+        <path src="res\drawable-xhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+    </resource>
+    <resource description="quickcontact_tab_indicator.9.png" x="117" y="487" width="65" height="25" uuid="d8a0e698-5fe4-4c26-b727-37be63044487">
+        <path src="res\drawable-hdpi\quickcontact_tab_indicator.9.png" description="选中" />
+        <path src="res\drawable-xhdpi\quickcontact_tab_indicator.9.png" description="选中" />
+        <path src="res\drawable-xxhdpi\quickcontact_tab_indicator.9.png" description="选中" />
+    </resource>
+    <resource description="quickcontact_window_footer" x="50" y="992" width="620" height="68" uuid="27f0ebc6-ea12-4344-ac03-fdd992c98560">
+        <path src="res\drawable-hdpi\quickcontact_window_footer.png" description="窗口底部的渐变遮罩" />
+        <path src="res\drawable-xhdpi\quickcontact_window_footer.png" description="窗口底部的渐变遮罩" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_footer.png" description="窗口底部的渐变遮罩" />
+    </resource>
+    <resource description="quickcontact_window_title_bg.9" x="46" y="266" width="632" height="148" uuid="ea680d8a-e04d-4eec-b145-2016ab2e77c7">
+        <path src="res\drawable-hdpi\quickcontact_window_title_bg.9.png" description="快捷操作联系人标题背景" />
+        <path src="res\drawable-xhdpi\quickcontact_window_title_bg.9.png" description="快捷操作联系人标题背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_title_bg.9.png" description="快捷操作联系人标题背景" />
+        <path src="res\drawable-hdpi\quickcontact_window_title_bg_press.png" description="快捷操作联系人标题背景 按下效果" />
+        <path src="res\drawable-xhdpi\quickcontact_window_title_bg_press.png" description="快捷操作联系人标题背景 按下效果" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_title_bg_press.png" description="快捷操作联系人标题背景 按下效果" />
+    </resource>
+    <resource description="v5_tab_bg_left_normal_light.9" x="54" y="426" width="197" height="82" uuid="dbbdf59c-ef39-4579-95e3-9082c52a9a35">
+        <path src="res\drawable-hdpi\v5_tab_bg_left_normal_light.9.png" description="快捷操作左边tab常态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_normal_light.9.png" description="快捷操作左边tab常态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_normal_light.9.png" description="快捷操作左边tab常态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_pressed_light.9.png" description="快捷操作左边tab按下" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_pressed_light.9.png" description="快捷操作左边tab按下" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_pressed_light.9.png" description="快捷操作左边tab按下" />
+        <path src="res\drawable-hdpi\v5_tab_bg_left_selected_light.9.png" description="快捷操作左边tab选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_left_selected_light.9.png" description="快捷操作左边tab选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_left_selected_light.9.png" description="快捷操作左边tab选中" />
+    </resource>
+    <resource description="v5_tab_bg_middle_normal_light.9" x="260" y="425" width="180" height="83" uuid="7ff53e19-497c-401f-b97d-9742f4baa560">
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_normal_light.9.png" description="快捷操作中间tab常态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_normal_light.9.png" description="快捷操作中间tab常态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_normal_light.9.png" description="快捷操作中间tab常态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_pressed_light.9.png" description="快捷操作中间tab按下" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_pressed_light.9.png" description="快捷操作中间tab按下" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_pressed_light.9.png" description="快捷操作中间tab按下" />
+        <path src="res\drawable-hdpi\v5_tab_bg_middle_selected_light.9.png" description="快捷操作中间tab选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_middle_selected_light.9.png" description="快捷操作中间tab选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_middle_selected_light.9.png" description="快捷操作中间tab选中" />
+    </resource>
+    <resource description="v5_tab_bg_right_normal_light.9" x="481" y="426" width="169" height="79" uuid="cec7c591-b7dc-435c-a702-613d7fbdef00">
+        <path src="res\drawable-hdpi\v5_tab_bg_right_normal_light.9.png" description="快捷操作右边tab常态" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_normal_light.9.png" description="快捷操作右边tab常态" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_normal_light.9.png" description="快捷操作右边tab常态" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_pressed_light.9.png" description="快捷操作右边tab按下" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_pressed_light.9.png" description="快捷操作右边tab按下" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_pressed_light.9.png" description="快捷操作右边tab按下" />
+        <path src="res\drawable-hdpi\v5_tab_bg_right_selected_light.9.png" description="快捷操作右边tab选中" />
+        <path src="res\drawable-xhdpi\v5_tab_bg_right_selected_light.9.png" description="快捷操作右边tab选中" />
+        <path src="res\drawable-xxhdpi\v5_tab_bg_right_selected_light.9.png" description="快捷操作右边tab选中" />
+    </resource>
+    <resource description="ic_send_sms_n" x="552" y="541" width="70" height="70" uuid="d02b437b-a51e-43b5-85c5-1be91eff23a0">
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+    </resource>
+    <resource description="quickcontact_default_photo" x="61" y="283" width="116" height="116" uuid="e82f7597-6f0b-48fd-b9aa-701b7b98d761">
+        <path src="res\drawable-hdpi\quickcontact_default_photo.png" description="快捷操作联系人头像" />
+        <path src="res\drawable-xhdpi\quickcontact_default_photo.png" description="快捷操作联系人头像" />
+        <path src="res\drawable-xxhdpi\quickcontact_default_photo.png" description="快捷操作联系人头像" />
+    </resource>
+    <resource description="qcb_arrow_right_p" x="594" y="310" width="62" height="70" uuid="863ab9fd-9e63-40b3-88f4-787550af2d92">
+        <path src="res\drawable-hdpi\qcb_arrow_right_n.png" description="进入指示" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_n.png" description="进入指示" />
+        <path src="res\drawable-hdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+    </resource>
+</screenshot>

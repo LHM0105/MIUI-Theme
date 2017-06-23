@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="黑名单" version="3.8.7" annotation="" tag="">
+    <resource description="no_blacklist" x="300" y="594" width="120" height="120" uuid="9805a298-93e4-47aa-b01b-f3c7cef50ecd">
+        <path src="res\drawable-xhdpi\no_blacklist.png" description="无黑名单图标" />
+    </resource>
+    <resource description="bottom_bar_add_contacts_n" x="382" y="1140" width="80" height="90" uuid="f88d63d8-a0b3-4610-8ada-60cc715081dd">
+        <path src="res\drawable-xhdpi\bottom_bar_add_contacts_n.png" description="最近联系人 常态" />
+        <path src="res\drawable-xhdpi\bottom_bar_add_contacts_p.png" description="最近联系人 二态" />
+    </resource>
+    <resource description="bottom_bar_add_maunal_n" x="254" y="1140" width="80" height="90" uuid="66d7d125-b5f4-40e9-99a1-912ab6c82d59">
+        <path src="res\drawable-xhdpi\bottom_bar_add_maunal_n.png" description="手动输入号码 常态" />
+        <path src="res\drawable-xhdpi\bottom_bar_add_maunal_p.png" description="手动输入号码 二态" />
+    </resource>
+</screenshot>

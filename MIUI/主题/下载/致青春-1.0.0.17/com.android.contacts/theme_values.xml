@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="contacts_accent_color">#ff4b92a6</color>
+<color name="tab_text_color_unfocused">#bbfefeff</color>
+<color name="contact_detail_subtitle_color">#90fffffe</color>
+<color name="list_item_bg_normal">#ffecf3e9</color>
+<color name="background_primary">#00ffffff</color>
+<color name="list_divider_stroke">#ffe3e3e2</color>
+<color name="dialog_title_text_color">#b3000001</color>
+<bool name="show_default_contact_detail_photo_bg">true</bool>
+<color name="tab_color_dialer">#ff4b92a6</color>
+<color name="dialer_digits_text_color">#ff4188a0</color>
+<color name="dialpad_divider_color">#00a6a6a6</color>
+<color name="dialer_accent_color">#ff4b92a6</color>
+<color name="dialer_menu_dialog_divider">#33000001</color>
+<color name="contact_photo_view_color0">#ffcbcbcc</color>
+<color name="tab_color_contacts">#ff4b92a6</color>
+<color name="contact_detail_list_item_secondary_text_color">#7f000001</color>
+<color name="dialer_menu_item_bg_press_color">#7febebeb</color>
+<color name="dialer_menu_item_bg_color">#fff8f8f1</color>
+<color name="action_mode_title_text_n">#fffffffe</color>
+<color name="tab_text_color_focused">#fffefeff</color>
+<integer name="window_translucent_status" package="miui">#00000002</integer>
+<color name="tab_color_yellowpage">#ff4b92a6</color>
+<color name="detail_activity_window_bg_light">#ffecf3e9</color>
+<color name="contact_detail_title_color">#fffffffe</color>
+<color name="tab_color_startup">#ff4b92a6</color>
+</MIUI_Theme_Values>

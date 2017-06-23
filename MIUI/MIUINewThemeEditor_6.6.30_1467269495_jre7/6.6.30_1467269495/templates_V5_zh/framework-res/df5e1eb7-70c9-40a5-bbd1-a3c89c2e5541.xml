@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="三段式 弹窗3" version="3.7.8" annotation="" tag="第三方 弹窗">
+    <resource description="popup_bottom_medium.9" x="66" y="530" width="596" height="394" uuid="5663b869-a73a-4808-9666-5a8d847d52ef">
+        <path src="res\drawable-xhdpi\popup_bottom_bright.9.png" description="按钮弹窗背景" />
+    </resource>
+    <resource description="popup_top_dark.9" x="60" y="408" width="598" height="114" uuid="673e3ee2-09fc-482d-939b-8837d428d952">
+        <path src="res\drawable-xhdpi\popup_top_dark.9.png" description="弹窗 上部分" />
+    </resource>
+</screenshot>

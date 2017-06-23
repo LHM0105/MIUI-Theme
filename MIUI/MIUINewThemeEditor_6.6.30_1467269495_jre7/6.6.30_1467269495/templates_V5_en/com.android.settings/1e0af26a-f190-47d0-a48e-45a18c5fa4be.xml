@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 Volume settings" version="3.2.27" annotation="" tag="Settings">
+    <resource description="ic_reset_volume_n" x="320" y="1136" width="80" height="90" uuid="d12ff3b9-2ee0-4e3e-b27d-1a4eec6d68bb">
+        <path src="res\drawable-hdpi\ic_reset_volume_n.png" description="重置铃声" />
+        <path src="res\drawable-xhdpi\ic_reset_volume_n.png" description="重置铃声" />
+        <path src="res\drawable-hdpi\ic_reset_volume_p.png" description="重置铃声 二态" />
+        <path src="res\drawable-xhdpi\ic_reset_volume_p.png" description="重置铃声 二态" />
+    </resource>
+    <resource description="ic_audio_alarm" x="59" y="323" width="45" height="45" uuid="bf7167de-70f3-400d-b477-14d5bf07a862">
+        <path src="res\drawable-hdpi\ic_audio_alarm.png" description="闹钟铃声" />
+        <path src="res\drawable-xhdpi\ic_audio_alarm.png" description="闹钟铃声" />
+        <path src="res\drawable-hdpi\ic_audio_alarm_mute.png" description="闹钟静音" />
+        <path src="res\drawable-xhdpi\ic_audio_alarm_mute.png" description="闹钟静音" />
+    </resource>
+    <resource description="ic_audio_phone" x="59" y="438" width="45" height="45" uuid="cc3ebf56-5a90-43a2-b176-b3d377871891">
+        <path src="res\drawable-hdpi\ic_audio_phone.png" description="通话音量" />
+        <path src="res\drawable-xhdpi\ic_audio_phone.png" description="通话音量" />
+    </resource>
+    <resource description="ic_audio_media" x="60" y="562" width="46" height="46" uuid="823c9972-7052-4442-a295-928d04d9bfcc">
+        <path src="res\drawable-hdpi\ic_audio_media.png" description="媒体音量" />
+        <path src="res\drawable-xhdpi\ic_audio_media.png" description="媒体音量" />
+    </resource>
+    <resource description="ic_audio_bt_mute" x="64" y="676" width="46" height="46" uuid="cf68ed60-640f-4b1d-87d8-7db89ab3fda5">
+        <path src="res\drawable-hdpi\ic_audio_bt.png" description="蓝牙音量" />
+        <path src="res\drawable-xhdpi\ic_audio_bt.png" description="蓝牙音量" />
+        <path src="res\drawable-hdpi\ic_audio_bt_mute.png" description="蓝牙静音" />
+        <path src="res\drawable-xhdpi\ic_audio_bt_mute.png" description="蓝牙静音" />
+    </resource>
+    <resource description="ic_audio_ring_notif_vibrate" x="55" y="215" width="45" height="45" uuid="afb94fb4-428f-459f-b909-fb790b9a2fb2">
+        <path src="res\drawable-hdpi\ic_audio_notification.png" description="通知铃声" />
+        <path src="res\drawable-xhdpi\ic_audio_notification.png" description="通知铃声" />
+        <path src="res\drawable-hdpi\ic_audio_notification_mute.png" description="通知静音" />
+        <path src="res\drawable-xhdpi\ic_audio_notification_mute.png" description="通知静音" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif.png" description="铃声" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif.png" description="铃声" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif_mute.png" description="静音" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif_mute.png" description="静音" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif_vibrate.png" description="震动" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif_vibrate.png" description="震动" />
+    </resource>
+</screenshot>

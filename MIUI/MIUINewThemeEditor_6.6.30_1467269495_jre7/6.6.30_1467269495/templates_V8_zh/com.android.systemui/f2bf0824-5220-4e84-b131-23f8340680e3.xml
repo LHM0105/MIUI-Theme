@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 单页" version="4.8.5" tag="通知栏">
+    <resource description="notification_list_bg.9" x="10" y="814" width="1060" height="825" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="通知列表背景" />
+        <path src="res\drawable-xhdpi\notification_list_bg.9.png" description="通知列表背景" />
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="通知列表背景" />
+    </resource>
+    <resource description="notification_item_first_bg_n.9" x="65" y="820" width="970" height="182" uuid="4e3c2de1-2e8e-4034-96c1-91498a7f0e2d">
+        <path src="res\drawable-land-xxhdpi\notification_item_bg_n.9.png" description="通知栏列表 常态" />
+        <path src="res\drawable-xhdpi\notification_item_bg_n.9.png" description="通知栏列表 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_bg_n.9.png" description="通知栏列表 常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_bg_p.9.png" description="通知栏列表 二态" />
+        <path src="res\drawable-xhdpi\notification_item_bg_p.9.png" description="通知栏列表 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_bg_p.9.png" description="通知栏列表 二态" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="448" y="1700" width="178" height="178" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+    </resource>
+	    <resource description="toggles_bg.9.png" x="10" y="410" width="1060" height="380" uuid="6172d70e-2e24-41e9-a765-98e1e31e92ad">
+        <path src="res\drawable-xxhdpi\toggles_bg.9.png" description="开关背景" />
+    </resource>
+    <resource description="notification_block_n.9.png" x="900" y="1194" width="162" height="166" uuid="6e11b230-99c5-4b96-9dc1-506a2e862b00">
+        <path src="res\drawable-xhdpi\notification_block_n.9.png" description="屏蔽 常态" />
+		<path src="res\drawable-xxhdpi\notification_block_n.9.png" description="屏蔽 常态" />
+		<path src="res\drawable-xhdpi\notification_block_p.9.png" description="屏蔽 二态" />
+		<path src="res\drawable-xxhdpi\notification_block_p.9.png" description="屏蔽 二态" />
+    </resource>
+	<resource description="status_bar_expanded_quicksettings_normal.png" x="910" y="260" width="128" height="128" uuid="98f138df-ee11-4ba1-8963-657046f72dd1">
+        <path src="res\drawable-xhdpi\status_bar_expanded_quicksettings_normal.png" description="设置icon 常态" />
+		<path src="res\drawable-xxhdpi\status_bar_expanded_quicksettings_normal.png" description="设置icon 常态" />
+		<path src="res\drawable-xhdpi\status_bar_expanded_quicksettings_pressed.png" description="设置icon 二态" />
+		<path src="res\drawable-xxhdpi\status_bar_expanded_quicksettings_pressed.png" description="设置icon 二态" />
+    </resource>
+	<resource description="brightness_min" x="84" y="704" width="40" height="40" uuid="0a2fdd16-b915-4e4b-adac-21fb199ff0c9">
+        <path src="res\drawable-xhdpi\brightness_min.png" description="最小亮度" />
+        <path src="res\drawable-xxhdpi\brightness_min.png" description="最小亮度" />
+    </resource>
+    <resource description="brightness_max" x="939" y="704" width="43" height="43" uuid="683c7c57-83d1-4400-acb4-d3ddc8dd94db">
+        <path src="res\drawable-xhdpi\brightness_max.png" description="最大亮度" />
+        <path src="res\drawable-xxhdpi\brightness_max.png" description="最大亮度" />
+    </resource>
+	<resource description="expanded_search_bg.9.png" x="30" y="73" width="1022" height="102" uuid="3971c189-a123-4f9c-9ca9-1795ba3fb345">
+        <path src="res\drawable-xhdpi\expanded_search_bg.9.png" description="搜索框" />
+        <path src="res\drawable-xxhdpi\expanded_search_bg.9.png" description="搜索框" />
+    </resource>
+		<resource description="search_scanner_n.png" x="967" y="86" width="68" height="68" uuid="04481806-2525-4a37-b1e5-539901a73a47">
+        <path src="res\drawable-xhdpi\search_scanner_n.png" description="搜索栏 二维码 常态" />
+        <path src="res\drawable-xxhdpi\search_scanner_p.png" description="搜索框 二维码 二态" />
+    </resource>
+	<resource description="seekbar_thumb_pressed_light" x="136" y="694" width="790" height="80" uuid="c1e58f3f-3915-4f08-8456-be75a152b88c">
+        <path src="res\drawable-xhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-xxhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-xhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-xhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+    </resource>
+    <resource description="expanded_header_bg_default.png" x="10" y="10" width="1060" height="380" uuid="916a8921-3628-4ce0-844b-91620e6c7410">
+        <path src="res\drawable-xhdpi\expanded_header_bg_default.png" description="天气_默认图" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_default.png" description="天气_默认图" />
+		<path src="res\drawable-xhdpi\expanded_header_mask_bg.9.png" description="天气_mask" />
+		<path src="res\drawable-xxhdpi\expanded_header_mask_bg.9.png" description="天气_mask" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_clear.png" description="天气_晴傍晚" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_clear.png" description="天气_晴傍晚" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_cloudy.png" description="天气_多云" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_cloudy.png" description="天气_多云" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_fog.png" description="天气_雾" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_fog.png" description="天气_雾" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_hail.png" description="天气_冰雹" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_hail.png" description="天气_冰雹" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_haze.png" description="天气_霾" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_haze.png" description="天气_霾" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_rain.png" description="天气_雨" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_rain.png" description="天气_雨" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_rain_1.png" description="天气_雨1" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_rain_1.png" description="天气_雨1" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_rain_2.png" description="天气_雨2" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_rain_2.png" description="天气_雨2" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_sand.png" description="天气_沙尘" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_sand.png" description="天气_沙尘" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_snow.png" description="天气_雪" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_snow.png" description="天气_雪" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_sunny.png" description="天气_晴" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_sunny.png" description="天气_晴" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_sunny_1.png" description="天气_晴1" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_sunny_1.png" description="天气_晴1" />
+		<path src="res\drawable-xhdpi\expanded_header_bg_sunny_2.png" description="天气_晴2" />
+		<path src="res\drawable-xxhdpi\expanded_header_bg_sunny_2.png" description="天气_晴2" />
+    </resource>
+	    <resource description="temp_0.png" x="60" y="250" width="172" height="110" uuid="089d77cb-ad1b-4d67-ba74-6baa89b356c8">
+		<path src="res\drawable-xhdpi\temp_minus.png" description="天气数字 零下" />
+		<path src="res\drawable-xxhdpi\temp_minus.png" description="天气数字 零下" />
+		<path src="res\drawable-xhdpi\temp_degree.png" description="天气数字 摄氏度" />
+		<path src="res\drawable-xxhdpi\temp_degree.png" description="天气数字 摄氏度" />
+        <path src="res\drawable-xhdpi\temp_0.png" description="天气数字 0" />
+		<path src="res\drawable-xxhdpi\temp_0.png" description="天气数字 0" />
+		<path src="res\drawable-xhdpi\temp_1.png" description="天气数字 1" />
+		<path src="res\drawable-xxhdpi\temp_1.png" description="天气数字 1" />
+		<path src="res\drawable-xhdpi\temp_2.png" description="天气数字 2" />
+		<path src="res\drawable-xxhdpi\temp_2.png" description="天气数字 2" />
+		<path src="res\drawable-xhdpi\temp_3.png" description="天气数字 3" />
+		<path src="res\drawable-xxhdpi\temp_3.png" description="天气数字 3" />
+		<path src="res\drawable-xhdpi\temp_4.png" description="天气数字 4" />
+		<path src="res\drawable-xxhdpi\temp_4.png" description="天气数字 4" />
+		<path src="res\drawable-xhdpi\temp_5.png" description="天气数字 5" />
+		<path src="res\drawable-xxhdpi\temp_5.png" description="天气数字 5" />
+		<path src="res\drawable-xhdpi\temp_6.png" description="天气数字 6" />
+		<path src="res\drawable-xxhdpi\temp_6.png" description="天气数字 6" />
+		<path src="res\drawable-xhdpi\temp_7.png" description="天气数字 7" />
+		<path src="res\drawable-xxhdpi\temp_7.png" description="天气数字 7" />
+		<path src="res\drawable-xhdpi\temp_8.png" description="天气数字 8" />
+		<path src="res\drawable-xxhdpi\temp_8.png" description="天气数字 8" />
+		<path src="res\drawable-xhdpi\temp_9.png" description="天气数字 9" />
+		<path src="res\drawable-xxhdpi\temp_9.png" description="天气数字 9" />
+    </resource>
+</screenshot>

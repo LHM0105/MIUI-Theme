@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="批处理短信界面" version="1.0" annotation="" tag="">
+    <resource description="cab_background_bottom_holo_dark.9.png" x="3" y="1178" width="711" height="98" uuid="cc939678-2184-4ad1-80a4-3076e6604e24">
+        <path src="res\drawable-hdpi\cab_background_bottom_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\cab_background_bottom_holo_light.9.png" description="" />
+    </resource>
+    <resource description="cab_background_top_holo_light.9.png" x="0" y="50" width="720" height="100" uuid="2007c731-09af-4ca6-888a-eaa073779c59">
+        <path src="res\drawable-hdpi\cab_background_top_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\cab_background_top_holo_light.9.png" description="" />
+    </resource>
+    <resource description="menu_dropdown_panel_holo_light.9.png" x="103" y="153" width="386" height="85" uuid="de4031b2-0ba6-41d1-b553-e456000b8e86">
+        <path src="res\drawable-hdpi\menu_dropdown_panel_holo_dark.9.png" description="" />
+        <path src="res\drawable-hdpi\menu_dropdown_panel_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\menu_dropdown_panel_holo_dark.9.png" description="" />
+        <path src="res\drawable-xhdpi\menu_dropdown_panel_holo_light.9.png" description="" />
+    </resource>
+    <resource description="btn_check_off_disable_focused_holo_light" x="614" y="196" width="64" height="64" uuid="8fe76acd-46f3-42fe-8f87-e284a76509da">
+        <path src="res\drawable-hdpi\btn_check_off_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_off_disabled_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_off_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_off_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_off_pressed_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_off_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_off_disabled_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_off_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_off_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_off_pressed_holo_light.png" description="" />
+    </resource>
+    <resource description="btn_check_on_disable_focused" x="616" y="358" width="64" height="66" uuid="c43158a3-e70d-4919-b292-28853c0849ae">
+        <path src="res\drawable-hdpi\btn_check_on_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_on_disabled_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_on_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_on_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_check_on_pressed_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_on_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_on_disabled_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_on_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_on_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_check_on_pressed_holo_light.png" description="" />
+    </resource>
+</screenshot>

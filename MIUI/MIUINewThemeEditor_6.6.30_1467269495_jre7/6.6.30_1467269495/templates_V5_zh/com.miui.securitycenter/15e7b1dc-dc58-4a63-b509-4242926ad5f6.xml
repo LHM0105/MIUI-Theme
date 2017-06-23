@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="3.8.7" annotation="" tag="">
+    <resource description="background.9" x="0" y="48" width="720" height="820" uuid="088577f4-494b-45ad-87e7-b2f50abb23b7">
+        <path src="res\drawable-xhdpi\background.9.png" description="优化界面 背景" />
+    </resource>
+    <resource description="virus_scan" x="62" y="896" width="118" height="110" uuid="98408f25-994c-407f-b33b-096ffb998452">
+        <path src="res\drawable-xhdpi\virus_scan.png" description="病毒扫描 图标" />
+    </resource>
+    <resource description="anti_spam" x="540" y="896" width="118" height="110" uuid="829eef74-e26c-49a3-af4f-c9ad81992795">
+        <path src="res\drawable-xhdpi\anti_spam.png" description="骚扰拦截 图标" />
+    </resource>
+    <resource description="permission_mgr" x="62" y="1096" width="118" height="110" uuid="b7c01703-16a4-4c5a-8d3e-68ad0bc5fb5a">
+        <path src="res\drawable-xhdpi\permission_mgr.png" description="授权管理 图标" />
+    </resource>
+    <resource description="cleaner" x="296" y="1096" width="118" height="110" uuid="f0209833-1f96-4289-87ef-35e73ece0f7c">
+        <path src="res\drawable-xhdpi\cleaner.png" description="垃圾清理 图标" />
+    </resource>
+    <resource description="power_mgr" x="540" y="1096" width="118" height="110" uuid="17b0ea9d-ab6e-43ed-bfc1-19cd4c5828e3">
+        <path src="res\drawable-xhdpi\power_mgr.png" description="省电 图标" />
+    </resource>
+    <resource description="digit0" x="226" y="282" width="232" height="196" uuid="3153912d-b409-4a70-b99c-8b14227292a9">
+        <path src="res\drawable-xhdpi\digit0.png" description="数字 0" />
+        <path src="res\drawable-xhdpi\digit1.png" description="数字 1" />
+        <path src="res\drawable-xhdpi\digit2.png" description="数字 2" />
+        <path src="res\drawable-xhdpi\digit3.png" description="数字 3" />
+        <path src="res\drawable-xhdpi\digit4.png" description="数字 4" />
+        <path src="res\drawable-xhdpi\digit5.png" description="数字 5" />
+        <path src="res\drawable-xhdpi\digit6.png" description="数字 6" />
+        <path src="res\drawable-xhdpi\digit7.png" description="数字 7" />
+        <path src="res\drawable-xhdpi\digit8.png" description="数字 8" />
+        <path src="res\drawable-xhdpi\digit9.png" description="数字 9" />
+    </resource>
+    <resource description="button_normal.9" x="180" y="600" width="360" height="112" uuid="96b6f2c7-4ae8-424b-974b-e90616ba5c6a">
+        <path src="res\drawable-xhdpi\button_normal.9.png" description="按钮 常态" />
+        <path src="res\drawable-xhdpi\button_press.9.png" description="按钮 二态" />
+    </resource>
+    <resource description="category_button_bg" x="236" y="868" width="242" height="206" uuid="8fc70ed8-e55d-4549-b7bc-559ac622de54">
+        <path src="res\drawable-hdpi\category_button_bg.png" description="常态" />
+        <path src="res\drawable-hdpi\category_button_bg_selected.png" description="按下" />
+    </resource>
+</screenshot>

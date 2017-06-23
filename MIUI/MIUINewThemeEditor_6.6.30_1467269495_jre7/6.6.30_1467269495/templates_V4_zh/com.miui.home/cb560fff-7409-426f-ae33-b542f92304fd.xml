@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 新增页面" version="2.9.16" annotation="" tag="编辑模式">
+    <resource description="editing_new_screen_btn_p.png" x="281" y="431" width="155" height="158" uuid="7dcad6f7-ba05-44d3-ad37-b6be9e4c895d">
+        <path src="res\drawable-hdpi\editing_new_screen_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\editing_new_screen_btn_p.png" description="" />
+    </resource>
+    <resource description="editing_new_screen.png" x="43" y="84" width="631" height="870" uuid="b8835f5e-8ad8-47f3-8b92-1c4ed7c25a45">
+        <path src="res\drawable-hdpi\editing_new_screen.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 短信对话编辑" version="3.3.1" annotation="" tag="短信会话界面">
+    <resource description="ic_menu_info_holo_dark_n" x="386" y="1136" width="80" height="90" uuid="740b5522-4c32-4778-8e03-d37dd725899f">
+        <path src="res\drawable-xhdpi\ic_menu_info_holo_dark_d.png" description="详情 不可按" />
+        <path src="res\drawable-xxhdpi\ic_menu_info_holo_dark_d.png" description="详情 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_info_holo_dark_n.png" description="详情" />
+        <path src="res\drawable-xxhdpi\ic_menu_info_holo_dark_n.png" description="详情" />
+        <path src="res\drawable-xhdpi\ic_menu_info_holo_dark_p.png" description="详情 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_info_holo_dark_p.png" description="详情 二态" />
+    </resource>
+    <resource description="ic_menu_forward_holo_dark_p" x="126" y="1140" width="80" height="90" uuid="88ae593a-3b80-4a31-b260-22ccc5e9d20e">
+        <path src="res\drawable-xhdpi\ic_menu_forward_holo_dark_d.png" description="转发 不可按" />
+        <path src="res\drawable-xxhdpi\ic_menu_forward_holo_dark_d.png" description="转发 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_forward_holo_dark_n.png" description="转发" />
+        <path src="res\drawable-xxhdpi\ic_menu_forward_holo_dark_n.png" description="转发" />
+        <path src="res\drawable-xhdpi\ic_menu_forward_holo_dark_p.png" description="转发 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_forward_holo_dark_p.png" description="转发 二态" />
+    </resource>
+    <resource description="list_item_bubble_highlight_bg.9" x="0" y="700" width="718" height="254" uuid="0a1cf40e-8f31-406e-9d34-4e5cfb456c86">
+        <path src="res\drawable-xhdpi\list_item_bubble_highlight_bg.9.png" description="短信编辑模式选中状态下背景" />
+        <path src="res\drawable-xxhdpi\list_item_bubble_highlight_bg.9.png" description="短信编辑模式选中状态下背景" />
+    </resource>
+    <resource description="mi_message_bubble_out_bg_p.9.png" x="464" y="804" width="140" height="146" uuid="e4ff0b06-d3b2-438d-b293-bafbd59635ae">
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_p.9.png" description="网络短信按下" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_p.9.png" description="网络短信按下" />
+    </resource>
+    <resource description="message_bubble_in_bg_p.9.png" x="14" y="304" width="122" height="148" uuid="390335a9-e79e-4d5e-adb7-ec5204ac409c">
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+    </resource>
+    <resource description="favourite_bubble_out" x="64" y="376" width="60" height="60" uuid="4551762e-2a82-4750-a989-2d2542539088">
+        <path src="res\drawable-xhdpi\favourite_bubble_in.png" description="短信收藏" />
+        <path src="res\drawable-xxhdpi\favourite_bubble_in.png" description="短信收藏" />
+    </resource>
+    <resource description="favourite_bubble_in" x="470" y="632" width="52" height="56" uuid="5f131d2b-204a-49f5-bc55-f727c286f49e">
+        <path src="res\drawable-xhdpi\favourite_bubble_out.png" description="短信收藏" />
+        <path src="res\drawable-xxhdpi\favourite_bubble_out.png" description="短信收藏" />
+    </resource>
+    <resource description="message_bubble_out_bg_n.9" x="462" y="550" width="156" height="144" uuid="b1ba4b6e-b62a-48a5-9749-9903d4fed9f5">
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_n.9.png" description="普通短信发出" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_n.9.png" description="普通短信发出" />
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_p.9.png" description="普通短信发出 二态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_p.9.png" description="普通短信发出 二态" />
+    </resource>
+    <resource description="mx_type_divider_n" x="26" y="718" width="670" height="26" uuid="e4dedd50-3925-47b3-b0c4-ef9724d01ec6">
+        <path src="res\drawable-xhdpi\mx_type_divider_n.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\mx_type_divider_n.png" description="分割线" />
+    </resource>
+    <resource description="message_date_bg.9" x="262" y="514" width="198" height="48" uuid="bdd51e45-466f-4edb-99a7-09e8e58924dc">
+        <path src="res\drawable-xhdpi\message_date_bg.9.png" description="时间背景" />
+        <path src="res\drawable-xxhdpi\message_date_bg.9.png" description="时间背景" />
+    </resource>
+</screenshot>

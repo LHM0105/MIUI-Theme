@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Tab栏背景" version="1.0" annotation="顶栏背景  底栏背景" tag="">
+    <resource description="ab_bottom_solid_light_holo.9.png" x="3" y="1181" width="711" height="96" uuid="d4b3d9da-32b4-4901-b25f-4e0883491764">
+        <path src="res\drawable-hdpi\ab_bottom_solid_light_holo.9.png" description="全局下端标题栏" />
+        <path src="res\drawable-xhdpi\ab_bottom_solid_light_holo.9.png" description="全局下端标题栏" />
+    </resource>
+    <resource description="ab_solid_light_holo.9.png" x="0" y="52" width="720" height="107" uuid="ab3c92dd-852c-4763-b87d-2da1ab0cc2d2">
+        <path src="res\drawable-hdpi\ab_solid_light_holo.9.png" description="Tab栏背景" />
+        <path src="res\drawable-xhdpi\ab_solid_light_holo.9.png" description="Tab栏背景" />
+    </resource>
+    <resource description="quickcontact_badge_overlay_pressed_light.9" x="26" y="494" width="110" height="114" uuid="ea495363-342a-4df4-950d-8dbb44a01287">
+        <path src="res\drawable-hdpi\quickcontact_badge_overlay_pressed_light.9.png" description="联系人头像按下" />
+        <path src="res\drawable-xhdpi\quickcontact_badge_overlay_pressed_light.9.png" description="联系人头像按下" />
+    </resource>
+</screenshot>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 编辑模式" version="4.9.1" annotation="" tag="全局控件">
+    <resource description="action_mode_title_button_bg_disable_light" x="20" y="70" width="160" height="100" uuid="2cf81afa-6a1f-4208-b466-3f5e8690bccc">
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下态" />
+    </resource>
+     <resource description="action_mode_title_default_button_bg_disable_light" x="900" y="70" width="160" height="100" uuid="4131a2eb-c9ce-4591-b825-ad864933e03a">
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下态" />
+    </resource>   
+     <resource description="btn_checkbox_off_normal_light" x="950" y="1084" width="86" height="86" uuid="a03c7eaf-0343-415d-b3f1-51f327604680">
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="选中按钮_未选_不可按" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="选中按钮_未选_常态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="选中按钮_已选_不可按"/>
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="选中按钮_已选_常态"/>
+    </resource>    
+     <resource description="action_mode_bg_light.9" x="0" y="0" width="1080" height="205" uuid="a262087a-72bf-406a-a640-c43c718913e4">
+        <path src="res\drawable-xxhdpi\action_mode_bg_light.9.png" description="编辑模式 顶栏背景" />
+    </resource>  
+     <resource description="action_bar_split_bg_expanded_light.9" x="0" y="1710" width="1080" height="210" uuid="2fca2ba6-dcdd-4cc2-85f0-b0b633e3b1ab">
+        <path src="res\drawable-xxhdpi\action_bar_split_bg_expanded_light.9.png" description="底栏背景 更多" />
+        <path src="res\drawable-xxhdpi\action_bar_split_bg_light.9.png" description="底栏背景" />
+        <!-- <path src="res\drawable-xxhdpi\action_mode_split_bg_expanded_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_split_bg_light.9.png" description="" /> -->
+    </resource>         
+</screenshot>

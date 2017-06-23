@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 来电悬浮窗" version="4.10.29" annotation="" tag="悬浮窗">
+    <resource description="answer_icon" x="936" y="30" width="104" height="104" uuid="b67d4417-6ac5-4191-af0d-ec28ea2b2b76">
+        <path src="res\drawable-xxhdpi\answer_icon.png" description="悬浮窗 接听" />
+    </resource>
+    <resource description="end_call_icon" x="38" y="34" width="104" height="104" uuid="697cd785-cd06-459e-b8df-e5c7aba2a3fe">
+        <path src="res\drawable-xxhdpi\end_call_icon.png" description="悬浮窗 挂断" />
+    </resource>
+    <resource description="float_notification_bg.9" x="0" y="0" width="1080" height="228" uuid="e0a60830-3785-49c3-9ece-34b7e52d57a1">
+        <path src="res\drawable-xxhdpi\float_notification_bg.9.png" description="悬浮窗背景" />
+    </resource>
+</screenshot>

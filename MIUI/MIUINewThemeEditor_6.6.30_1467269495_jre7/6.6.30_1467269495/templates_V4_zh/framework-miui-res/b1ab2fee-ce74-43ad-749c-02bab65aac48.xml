@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Tab栏按钮" version="1.0" annotation="TAB栏按钮 分为：左、中、右三组图片。" tag="">
+    <resource description="tab_unselected_pressed_holo_right.9.png" x="470" y="64" width="220" height="90" uuid="09e5749e-8ecc-48cf-b225-d17d916b02df">
+        <path src="res\drawable-xhdpi\tab_selected_holo_right.9.png" description="当前选中（右部）" />
+        <path src="res\drawable-xhdpi\tab_selected_pressed_holo_right.9.png" description="当前选中二态（右部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_holo_right.9.png" description="未选中（右部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_pressed_holo_right.9.png" description="未选中二态（右部）" />
+    </resource>
+    <resource description="tab_unselected_pressed_holo_left.9.png" x="24" y="64" width="220" height="90" uuid="8ee242a4-f4a3-49de-a68b-7a3cbbf1638a">
+        <path src="res\drawable-xhdpi\tab_selected_holo_left.9.png" description="当前选中状态（左部）" />
+        <path src="res\drawable-xhdpi\tab_selected_pressed_holo_left.9.png" description="当前选中二态（左部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_holo_left.9.png" description="未选中（左部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_pressed_holo_left.9.png" description="未选中二态（左部）" />
+    </resource>
+    <resource description="tab_selected_holo.9.png" x="247" y="64" width="220" height="90" uuid="ee0d3b31-23c1-4422-9986-c3e91416ca66">
+        <path src="res\drawable-xhdpi\tab_selected_holo.9.png" description="当前选中（中部）" />
+        <path src="res\drawable-xhdpi\tab_selected_pressed_holo.9.png" description="当前选中二态（中部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_holo.9.png" description="未选中（中部）" />
+        <path src="res\drawable-xhdpi\tab_unselected_pressed_holo.9.png" description="未选中二态（中部）" />
+    </resource>
+</screenshot>

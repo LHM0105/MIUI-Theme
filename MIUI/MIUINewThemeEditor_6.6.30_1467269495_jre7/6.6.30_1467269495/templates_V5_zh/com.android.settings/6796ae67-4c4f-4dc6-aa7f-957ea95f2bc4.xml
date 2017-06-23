@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="7.1 均衡器" version="3.5.6" annotation="" tag="均衡器">
+    <resource description="dolby_eq_bg" x="0" y="50" width="720" height="1230" uuid="adf3c687-4c7f-4f11-b1f8-82ea57e1fd2f">
+        <path src="res\drawable-xhdpi\dolby_eq_bg.png" description="均衡器背景" />
+    </resource>
+    <resource description="dolby_eq_config_bg_pressed" x="15" y="178" width="688" height="100" uuid="0e96748d-f15a-4072-9879-043a07b88ec6" />
+    <resource description="dolby_eq_save_pressed" x="622" y="70" width="83" height="83" uuid="21a1e553-a85c-487a-9838-1353510e30ed" />
+    <resource description="dolby_eq_title_bar_home_p" x="12" y="65" width="90" height="88" uuid="fddab08a-f289-4cca-8efd-d511324b7c97" />
+    <resource description="dolby_eq_curve_bg" x="17" y="315" width="687" height="145" uuid="4e84e31a-9342-4b67-861b-6e496dd90b00" />
+    <resource description="dolby_eq_progress_bg" x="92" y="485" width="110" height="767" uuid="4cfa3370-3fad-4d04-b1c4-dcf67644e24e" />
+    <resource description="dolby_eq_thumb_pressed" x="115" y="888" width="63" height="120" uuid="fc7a3802-a8b8-4a29-98cf-d4aadef46e32" />
+</screenshot>

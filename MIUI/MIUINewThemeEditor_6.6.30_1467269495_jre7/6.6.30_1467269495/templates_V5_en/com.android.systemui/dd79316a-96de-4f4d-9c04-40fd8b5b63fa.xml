@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.5 Torch" version="3.5.9" annotation="" tag="Other">
+    <resource description="mm" x="2" y="2" width="712" height="1272" uuid="6a3fda60-a1d0-4328-a489-cfd570e4f9a5">
+        <path src="res\drawable-xhdpi\torch_activity_torch_off.jpg" description="手电筒关闭图片" />
+        <path src="res\drawable-xxhdpi\torch_activity_torch_off.jpg" description="手电筒关闭图片" />
+    </resource>
+</screenshot>

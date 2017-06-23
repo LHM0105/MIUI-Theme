@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="4.8.29" annotation="" tag="">
+    <resource description="resource_operation_view_bg.9" x="0" y="1715" width="1080" height="205" uuid="a790eaec-6bbe-4e0b-a804-2e5af303c434">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\resource_operation_view_bg.9.png" description="" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="" />
+    </resource>
+</screenshot>

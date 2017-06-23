@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="主题详情" version="3.10.23" annotation="" tag="按钮、输入框">
+    <resource description="v5_btn_bg_first_normal_light.9" x="24" y="754" width="672" height="106" uuid="91f7c786-b619-4e01-baa6-fa56ad614c2b">
+        <path src="res\drawable-hdpi\v5_btn_bg_first_normal_light.9.png" description="查看在线页按钮 常态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_normal_light.9.png" description="查看在线页按钮 常态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_normal_light.9.png" description="查看在线页按钮 常态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_first_pressed_light.9.png" description="查看在线页按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_first_pressed_light.9.png" description="查看在线页按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_first_pressed_light.9.png" description="查看在线页按钮 二态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_last_normal_light.9.png" description="同作者主题按钮 常态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_normal_light.9.png" description="同作者主题按钮 常态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_normal_light.9.png" description="同作者主题按钮 常态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_last_pressed_light.9.png" description="同作者主题按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_last_pressed_light.9.png" description="同作者主题按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_last_pressed_light.9.png" description="同作者主题按钮 二态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_single_normal_light.9.png" description="查看详细评论按钮 常态 " />
+        <path src="res\drawable-xhdpi\v5_btn_bg_single_normal_light.9.png" description="查看详细评论按钮 常态 " />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_single_normal_light.9.png" description="查看详细评论按钮 常态 " />
+        <path src="res\drawable-hdpi\v5_btn_bg_single_pressed_light.9.png" description="查看详细评论按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_single_pressed_light.9.png" description="查看详细评论按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_single_pressed_light.9.png" description="查看详细评论按钮 二态" />
+    </resource>
+    <resource description="v5_btn_bg_negative_warn_single_normal_light.9" x="24" y="874" width="674" height="116" uuid="e0044567-b0d5-4ae8-b717-c3b313e5542a">
+        <path src="res\drawable-hdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除 常态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除 常态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_negative_warn_single_normal_light.9.png" description="删除 常态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_negative_warn_single_pressed_light.9.png" description="删除 二态" />
+    </resource>
+    <resource description="screen_view_seekpoint_highlight" x="232" y="368" width="246" height="32" uuid="9f5313c6-7f2f-48da-bd4f-f6829621f14d">
+        <path src="res\drawable-hdpi\screen_view_seekpoint_highlight.png" description="指示点 选中" />
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_highlight.png" description="指示点 选中" />
+        <path src="res\drawable-xxhdpi\screen_view_seekpoint_highlight.png" description="指示点 选中" />
+        <path src="res\drawable-hdpi\screen_view_seekpoint_normal.png" description="指示点 未选中" />
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_normal.png" description="指示点 未选中" />
+        <path src="res\drawable-xxhdpi\screen_view_seekpoint_normal.png" description="指示点 未选中" />
+    </resource>
+    <resource description="v5_title_bar_bg_light.9" x="6" y="46" width="706" height="92" uuid="e7eebba3-02dc-4d41-98f1-60335b0c618a">
+        <path src="res\drawable-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+    </resource>
+    <resource description="v5_window_bg_light.9" x="0" y="0" width="718" height="1282" uuid="cc0c620d-4bb2-4481-878a-f1995d79e1a0">
+        <path src="res\drawable-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+    </resource>
+    <resource description="v5_title_bar_back_button_pressed_light" x="20" y="66" width="44" height="55" uuid="b73bb296-4d28-438d-8a61-bccdd4b18abd">
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+    </resource>
+    <resource description="v5_btn_bg_main_action_disabled_light.9" x="174" y="1150" width="378" height="114" uuid="9ea9f66b-f834-4f04-80b8-f0790b5846bd">
+        <path src="res\drawable-hdpi\v5_btn_bg_main_action_disabled_light.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_main_action_disabled_light.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_main_action_disabled_light.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_bg_main_action_normal_light.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_main_action_normal_light.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_main_action_normal_light.9.png" description="应用按钮 常态" />
+        <path src="res\drawable-hdpi\v5_btn_bg_main_action_pressed_light.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_bg_main_action_pressed_light.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_bg_main_action_pressed_light.9.png" description="应用按钮 二态" />
+    </resource>
+</screenshot>

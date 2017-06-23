@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="选择块" version="2.12.27" annotation="" tag="">
+    <resource description="btn_radio_off_disabled_focused_holo_light" x="606" y="438" width="62" height="64" uuid="890f91bd-1e9b-450f-99f6-ed15adf42cba">
+        <path src="res\drawable-hdpi\btn_radio_off_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_off_disabled_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_off_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_off_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_off_pressed_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_off_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_off_disabled_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_off_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_off_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_off_pressed_holo_light.png" description="" />
+    </resource>
+    <resource description="btn_radio_on_disabled_focused_holo_light" x="606" y="338" width="64" height="64" uuid="28226aab-bf5d-45e4-b7fc-4a447177b965">
+        <path src="res\drawable-hdpi\btn_radio_on_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_on_disabled_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_on_focused_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_on_holo_light.png" description="" />
+        <path src="res\drawable-hdpi\btn_radio_on_pressed_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_on_disabled_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_on_disabled_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_on_focused_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_on_holo_light.png" description="" />
+        <path src="res\drawable-xhdpi\btn_radio_on_pressed_holo_light.png" description="" />
+    </resource>
+    <resource description="dialog_top_holo_light.9" x="14" y="228" width="690" height="778" uuid="195d5bd3-a831-4733-8f67-0f3d3e180ab0">
+        <path src="res\drawable-hdpi\dialog_top_holo_light.9.png" description="上部" />
+        <path src="res\drawable-xhdpi\dialog_top_holo_light.9.png" description="上部" />
+    </resource>
+    <resource description="dialog_button_bottom_holo_light.9" x="12" y="1012" width="692" height="100" uuid="b56cbdf7-9392-4ea8-906d-33a55b8ba2fa">
+        <path src="res\drawable-hdpi\dialog_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-hdpi\dialog_button_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-xhdpi\dialog_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-xhdpi\dialog_button_bottom_holo_light.9.png" description="底部" />
+    </resource>
+</screenshot>

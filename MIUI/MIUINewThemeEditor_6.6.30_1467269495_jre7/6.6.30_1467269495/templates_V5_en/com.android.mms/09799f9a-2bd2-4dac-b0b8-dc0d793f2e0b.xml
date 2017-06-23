@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Message list menu" version="3.3.1" annotation="" tag="Message list view">
+    <resource description="ic_menu_stick_holo_dark_d" x="318" y="1138" width="80" height="90" uuid="7e4d1ec5-dc75-4713-9ff1-2b388d111580">
+        <path src="res\drawable-xhdpi\ic_menu_stick_holo_dark_d.png" description="置顶 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_stick_holo_dark_n.png" description="置顶常态" />
+        <path src="res\drawable-xhdpi\ic_menu_stick_holo_dark_p.png" description="置顶按下" />
+        <path src="res\drawable-xhdpi\ic_menu_unstick_holo_dark_n.png" description="取消置顶常态" />
+        <path src="res\drawable-xhdpi\ic_menu_unstick_holo_dark_p.png" description="取消置顶按下" />
+    </resource>
+    <resource description="ic_menu_addblacklist_d" x="194" y="1138" width="80" height="90" uuid="d62cd5e9-d5cf-4fed-b21a-17dd78d85928">
+        <path src="res\drawable-xhdpi\ic_menu_addblacklist_d.png" description="加入黑名单 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_addblacklist_n.png" description="加入黑名单 常态" />
+        <path src="res\drawable-xhdpi\ic_menu_addblacklist_p.png" description="加入黑名单 二态" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="10" y="148" width="124" height="126" uuid="a80ea157-cfd6-4a67-b6f5-a97b164f5179">
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="头像顶部图层" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="遮罩层，控制头像显示" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg.png" description="头像背景" />
+    </resource>
+</screenshot>

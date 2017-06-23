@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="弹窗按钮" version="3.3.1" annotation="" tag="控件">
+    <resource description="v5_dialog_bg_light.9" x="0" y="836" width="718" height="444" uuid="3b863e6a-1221-489c-a3f1-6d43d0b600c7">
+        <path src="res\drawable-hdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xxhdpi\v5_dialog_bg_light.9.png" description="控件弹窗背景" />
+    </resource>
+    <resource description="v5_popup_btn_last_pressed_light.9" x="30" y="1094" width="654" height="142" uuid="e905eaba-3e1f-44e4-a22a-34010dfec8a1">
+        <path src="res\drawable-hdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_first_normal_light.9.png" description="左按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_first_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_middle_normal_light.9.png" description="中按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_middle_pressed_light.9.png" description="中按钮 二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_last_normal_light.9.png" description="右按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_last_pressed_light.9.png" description="右按钮  二态" />
+        <path src="res\drawable-hdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_single_normal_light.9.png" description="单独一个按钮" />
+        <path src="res\drawable-hdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_popup_btn_single_pressed_light.9.png" description="单独一个按钮 二态" />
+    </resource>
+</screenshot>

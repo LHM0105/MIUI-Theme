@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 收藏" version="2.9.16" annotation="收藏和其他联系人，&lt;br\&gt;&#xA;下方第一个联系人按下后，&lt;br\&gt;&#xA;标题背景图，仅在按下后显示" tag="收藏">
+    <resource description="contact_list_item_view_section_bg_p.9" x="0" y="354" width="718" height="52" uuid="5605cebb-51bb-40bb-b648-d7296aebaa52">
+        <path src="res\drawable-hdpi\contact_list_item_view_section_bg_p.9.png" description="分类列表 二态图" />
+        <path src="res\drawable-xhdpi\contact_list_item_view_section_bg_p.9.png" description="分类列表 二态图" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="2" y="582" width="116" height="118" uuid="bdbdd5a2-d124-4b4a-b82d-bf7069e7b025">
+        <path src="res\drawable-hdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg.png" description="头像上层遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg.png" description="头像底板背景" />
+    </resource>
+    <resource description="ic_starred_contact" x="70" y="474" width="44" height="44" uuid="0e85a310-0b30-4724-8167-5ddf7658f9e7">
+        <path src="res\drawable-hdpi\ic_starred_contact.png" description="" />
+        <path src="res\drawable-xhdpi\ic_starred_contact.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_starred_contact.png" description="" />
+    </resource>
+</screenshot>

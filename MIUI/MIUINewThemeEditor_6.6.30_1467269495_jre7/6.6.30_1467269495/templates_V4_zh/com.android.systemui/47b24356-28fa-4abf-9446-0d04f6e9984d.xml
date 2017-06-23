@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.2 通知栏设置" version="2.9.16" annotation="" tag="简洁模式">
+    <resource description="status_bar_toggle_style_text_bg_p.9.png" x="435" y="555" width="153" height="61" uuid="013788e9-c4c8-4deb-8c6c-2c525c271a28">
+        <path src="res\drawable-hdpi\status_bar_toggle_style_text_bg_p.9.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_style_single_page.png" x="418" y="246" width="192" height="302" uuid="34e3679b-d996-479c-b43d-3655da887ba5">
+        <path src="res\drawable-xhdpi\status_bar_toggle_style_single_page.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_style_compact.png" x="106" y="246" width="192" height="302" uuid="a2b2689d-7140-4a75-ae3d-bc4efe0e76be">
+        <path src="res\drawable-xhdpi\status_bar_toggle_style_compact.png" description="" />
+    </resource>
+    <resource description="status_bar_background_fullscreen.9" x="0" y="0" width="720" height="52" uuid="451299b7-3a79-4673-a988-e7c7ba33b607">
+        <path src="res\drawable-hdpi\status_bar_background.9.png" description="其他界面" />
+        <path src="res\drawable-hdpi\status_bar_background_keyguard.9.png" description="锁屏状态" />
+        <path src="res\drawable-hdpi\status_bar_background_transparent.9.png" description="桌面" />
+        <path src="res\drawable-xhdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+    </resource>
+    <resource description="status_bar_toggle_style_text_bg_n.9" x="134" y="556" width="146" height="52" uuid="87109963-4022-4e97-9894-94514a85c7db">
+        <path src="res\drawable-hdpi\status_bar_toggle_style_text_bg_n.9.png" description="" />
+    </resource>
+</screenshot>

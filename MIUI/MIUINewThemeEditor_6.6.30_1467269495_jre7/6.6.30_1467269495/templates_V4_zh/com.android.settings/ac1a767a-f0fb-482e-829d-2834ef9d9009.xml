@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="音量调节" version="2.9.21" annotation="" tag="">
+    <resource description="ic_audio_ring_notif_vibrate.png" x="42" y="175" width="66" height="66" uuid="1ab3404e-60b3-4d04-8322-9a76068ec8b4">
+        <path src="res\drawable-hdpi\ic_audio_ring_notif_vibrate.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif_vibrate.png" description="" />
+    </resource>
+</screenshot>

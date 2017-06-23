@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Share" version="3.2.27" annotation="" tag="">
+    <resource description="action_bar_bg.9" x="0" y="44" width="722" height="102" uuid="2ddd497d-f0d7-435c-9285-dd22988f9971">
+        <path src="res\drawable-hdpi\action_bar_bg.9.png" description="顶部标题背景" />
+        <path src="res\drawable-xhdpi\action_bar_bg.9.png" description="顶部标题背景" />
+        <path src="res\drawable-xxhdpi\action_bar_bg.9.png" description="顶部标题背景" />
+        <path src="res\drawable-hdpi\action_bar_large_bg.9.png" description="四格报告标题" />
+        <path src="res\drawable-xhdpi\action_bar_large_bg.9.png" description="四格报告标题" />
+        <path src="res\drawable-xxhdpi\action_bar_large_bg.9.png" description="四格报告标题" />
+    </resource>
+</screenshot>

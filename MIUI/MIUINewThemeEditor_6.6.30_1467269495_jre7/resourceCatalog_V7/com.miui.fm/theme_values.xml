@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="item_divider_n">#ffc5c5c5</color>
+<color name="item_label_n">#ff959595</color>
+<color name="item_frequency_n">#ff4a4a4a</color>
+<color name="item_s">#ff1bb2b0</color>
+<dimen name="staion_list_horizontal_padding">0.000000dp</dimen>
+<dimen name="fm_status_height">218.500000dp</dimen>
+<dimen name="highlight_margin_top">6.500000dp</dimen>
+<dimen name="highlight_margin_left">20.000000dp</dimen>
+<dimen name="item_divider_text_size">12.000000sp</dimen>
+<dimen name="main_frequency_size_n">73.000000sp</dimen>
+<dimen name="main_frequency_size_t">52.000000sp</dimen>
+<dimen name="pad_bottom_horizontal_padding">266.000000dp</dimen>
+<dimen name="item_label_text_size">11.000000sp</dimen>
+<dimen name="item_frequency_text_size">14.000000sp</dimen>
+<bool name="miui_font_scale_switch">true</bool>
+<string name="context_menu_item_unfavorite">取消收藏</string>
+<string name="toast_sleep_mode_exit">睡眠模式已退出</string>
+<string name="search_dialog_title">扫描电台</string>
+<string name="dialog_sleep_title">请选择进入休眠状态的时间</string>
+<string name="fmradio_clear_confirm_msg">将会删除已保存电台，确认扫描吗？</string>
+<string name="toast_fm_starting">正在启动收音机，请稍候</string>
+<string name="menu_speaker">外放模式</string>
+<string name="toast_removed_from_presets">已取消收藏</string>
+<string name="toast_added_to_list">已添加到列表</string>
+<string name="menu_exit">退出</string>
+<string name="toast_added_to_presets">已添加到收藏</string>
+<string name="menu_headset">耳机模式</string>
+<string name="label_recording">正在录音:%s</string>
+<string name="station_check_favorite">添加到收藏</string>
+<string name="toast_fm_recorder_internal_error">收音机录音出现错误</string>
+<string name="toast_fm_seeking">正在搜索电台，请稍候</string>
+<string name="set">设置</string>
+<string name="txt_divider"></string>
+<string name="msg_noantenna_message">没有检测到耳机，可能无法正常收听</string>
+<string name="msg_do_not_support_fm">本机器不支持收音机</string>
+<string name="msg_fm_starting">正在启动收音机</string>
+<string name="exit_fm">退出</string>
+<string name="txt_sleep_mode">睡眠模式</string>
+<string name="toast_sleep_mode">%s关闭收音机</string>
+<string name="toast_fm_recorder_access_error">访客模式下无法启动收音机录音</string>
+<string name="stations_list">电台列表</string>
+<string name="fm_has_turned_off">点击开启收音机</string>
+<string name="stations_list_empty">没有电台</string>
+<string name="toast_fm_recorder_storage_full">存储卡空间已满，无法录音</string>
+<string name="station_freq_format">%sMHz</string>
+<string name="toast_fm_error_startfailed">录音出错，可能有其他录音软件正在录音。请检查后再试。</string>
+<string name="alert_message_delete_station">确认删除该电台吗？</string>
+<string name="menu_save_station_presets">加入收藏</string>
+<string name="menu_save_station_list">加入列表</string>
+<string name="next_station">下一频道</string>
+<string name="pre_station">上一频道</string>
+<string name="record_completed">收音机录音结束</string>
+<string name="record_file_location_format">点击查看文件%s</string>
+<string name="view_stations_list">查看频道列表</string>
+<string name="turn_off_fm">关闭收音机</string>
+<string name="new_frequency">新频道</string>
+<string name="alert_invalid_frequency">请输入合法的频率</string>
+<string name="menu_scan_start">扫描电台</string>
+<string name="context_menu_title">%sMHZ</string>
+<string name="menu_new_station">新建电台</string>
+<string name="context_menu_item_edit">编辑</string>
+<string name="menu_sleep_cancel">取消睡眠模式</string>
+<string name="context_menu_item_delete">删除</string>
+<string name="menu_record_list">录音列表</string>
+<string name="context_menu_item_favorite">添加到收藏</string>
+<string name="menu_record_stop">停止录音</string>
+<string name="alert_frequency_duplicate">此频率已存在</string>
+<string name="menu_sleep">睡眠模式</string>
+<string name="hint_frequency">%2$s</string>
+<string name="app_name">收音机</string>
+<string name="hint_label">标签</string>
+<string name="menu_record_start">开始录音</string>
+<string name="frequency_mhz_fomart">%sMHZ</string>
+<string name="group_other">其他频道</string>
+<string name="group_favor">收藏频道</string>
+<string-array name="regional_band_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>18</item>
+<item>19</item>
+<item>20</item>
+<item>21</item>
+<item>22</item>
+<item>23</item>
+<item>24</item>
+<item>25</item>
+<item>26</item>
+<item>27</item>
+<item>28</item>
+<item>29</item>
+<item>30</item>
+<item>31</item>
+<item>32</item>
+<item>33</item>
+<item>34</item>
+<item>35</item>
+</string-array>
+<string-array name="search_category_rbds_values">
+<item>0</item>
+<item>7</item>
+<item>15</item>
+<item>6</item>
+<item>23</item>
+<item>10</item>
+<item>31</item>
+<item>30</item>
+<item>18</item>
+<item>2</item>
+<item>14</item>
+<item>1</item>
+<item>13</item>
+<item>11</item>
+<item>21</item>
+<item>22</item>
+<item>19</item>
+<item>20</item>
+<item>16</item>
+<item>5</item>
+<item>12</item>
+<item>8</item>
+<item>17</item>
+<item>3</item>
+<item>4</item>
+<item>9</item>
+<item>29</item>
+</string-array>
+<string-array name="cfg_rf">
+<item>delta</item>
+<item>threshold</item>
+<item>statistics</item>
+</string-array>
+<string-array name="sleep_duration_values_seconds">
+<item>900</item>
+<item>1800</item>
+<item>2700</item>
+<item>3600</item>
+</string-array>
+<string-array name="rf_cfg">
+<item>parameters</item>
+<item>times)</item>
+<item>parameters</item>
+<item>parameters</item>
+<item>parameters</item>
+</string-array>
+<string-array name="sleep_duration_values">
+<item>分钟后</item>
+<item>分钟后</item>
+<item>分钟后</item>
+<item>小时后</item>
+</string-array>
+<string-array name="presetlist_edit_category">
+<item>Rename</item>
+<item>Auto-select</item>
+<item>Delete</item>
+</string-array>
+<string-array name="search_category_rds_entries">
+<item>电台</item>
+<item>文化</item>
+<item>实事</item>
+<item>儿童节目</item>
+<item>乡村音乐</item>
+<item>纪录片</item>
+<item>戏剧</item>
+<item>轻音乐</item>
+<item>教育</item>
+<item>紧急</item>
+<item>紧急测试</item>
+<item>金融</item>
+<item>民间音乐</item>
+<item>信息</item>
+<item>爵士音乐</item>
+<item>轻古典音乐</item>
+<item>康乐</item>
+<item>新闻</item>
+<item>民族音乐</item>
+<item>音乐</item>
+<item>怀旧音乐</item>
+<item>手机频道</item>
+<item>流行音乐</item>
+<item>宗教</item>
+<item>摇滚音乐</item>
+<item>科学</item>
+<item>经典</item>
+<item>社会</item>
+<item>体育</item>
+<item>旅游</item>
+<item>变化</item>
+<item>天气</item>
+</string-array>
+<string-array name="search_category_rbds_entries">
+<item>所有电台</item>
+<item>成人</item>
+<item>古典</item>
+<item>经典摇滚</item>
+<item>学院</item>
+<item>乡村</item>
+<item>紧急</item>
+<item>紧急测试</item>
+<item>外语</item>
+<item>信息</item>
+<item>爵士</item>
+<item>新闻</item>
+<item>思乡</item>
+<item>怀旧</item>
+<item>个性</item>
+<item>大众</item>
+<item>宗教音乐</item>
+<item>宗教谈话</item>
+<item>蓝调</item>
+<item>摇滚乐</item>
+<item>轻音乐</item>
+<item>轻摇滚乐</item>
+<item>节奏和蓝调</item>
+<item>体育</item>
+<item>谈话</item>
+<item>流行40</item>
+<item>天气</item>
+</string-array>
+<string-array name="stats_options">
+<item>options</item>
+<item>parameters</item>
+<item>statistics</item>
+</string-array>
+<string-array name="regional_band_summary">
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Step)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+<item>Khz)</item>
+</string-array>
+<string-array name="freq_entries">
+<item></item>
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>.</item>
+</string-array>
+<string-array name="search_category_rds_values">
+<item>0</item>
+<item>7</item>
+<item>2</item>
+<item>18</item>
+<item>25</item>
+<item>29</item>
+<item>6</item>
+<item>12</item>
+<item>5</item>
+<item>31</item>
+<item>30</item>
+<item>17</item>
+<item>28</item>
+<item>3</item>
+<item>24</item>
+<item>13</item>
+<item>23</item>
+<item>1</item>
+<item>26</item>
+<item>15</item>
+<item>27</item>
+<item>21</item>
+<item>10</item>
+<item>20</item>
+<item>11</item>
+<item>8</item>
+<item>14</item>
+<item>19</item>
+<item>4</item>
+<item>22</item>
+<item>9</item>
+<item>16</item>
+</string-array>
+<string-array name="regional_band_entries">
+<item>北美</item>
+<item>欧洲</item>
+<item>日本</item>
+<item>日本（广角）</item>
+<item>澳大利亚</item>
+<item>奥地利</item>
+<item>比利时</item>
+<item>巴西</item>
+<item>中国</item>
+<item>捷克</item>
+<item>丹麦</item>
+<item>芬兰</item>
+<item>法国</item>
+<item>德国</item>
+<item>希腊</item>
+<item>香港</item>
+<item>印度</item>
+<item>爱尔兰</item>
+<item>意大利</item>
+<item>韩国</item>
+<item>墨西哥</item>
+<item>荷兰</item>
+<item>新西兰</item>
+<item>挪威</item>
+<item>波兰</item>
+<item>葡萄牙</item>
+<item>俄罗斯</item>
+<item>新加坡</item>
+<item>斯洛伐克</item>
+<item>西班牙</item>
+<item>瑞士</item>
+<item>瑞典</item>
+<item>台湾</item>
+<item>土耳其</item>
+<item>英国</item>
+<item>美国</item>
+</string-array>
+</MIUI_Theme_Values>

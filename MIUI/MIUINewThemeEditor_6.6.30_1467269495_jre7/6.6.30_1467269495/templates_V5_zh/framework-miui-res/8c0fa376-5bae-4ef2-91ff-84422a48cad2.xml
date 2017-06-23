@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="全局数字" version="3.4.23" annotation="" tag="其他">
+    <resource description="v5_number_progress_view_percent" x="252" y="128" width="286" height="174" uuid="3a11eb22-20e4-4b0f-a504-1fef07c3cab5">
+        <path src="res\drawable-hdpi\v5_number_progress_view_0.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_0.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_0.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_1.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_1.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_1.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_2.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_2.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_2.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_3.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_3.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_3.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_4.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_4.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_4.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_5.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_5.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_5.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_6.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_6.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_6.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_7.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_7.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_7.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_8.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_8.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_8.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_9.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_9.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_9.png" description="全局数字" />
+        <path src="res\drawable-hdpi\v5_number_progress_view_percent.png" description="全局数字" />
+        <path src="res\drawable-xhdpi\v5_number_progress_view_percent.png" description="全局数字" />
+        <path src="res\drawable-xxhdpi\v5_number_progress_view_percent.png" description="全局数字" />
+    </resource>
+    <resource description="v5_circle_progress_foreground" x="624" y="496" width="78" height="80" uuid="91e98121-f8ff-410c-a717-cf394abaf69d">
+        <path src="res\drawable-hdpi\v5_circle_progress_background.png" description="进度圈 背景" />
+        <path src="res\drawable-xhdpi\v5_circle_progress_background.png" description="进度圈 背景" />
+        <path src="res\drawable-xxhdpi\v5_circle_progress_background.png" description="进度圈 背景" />
+        <path src="res\drawable-hdpi\v5_circle_progress_foreground.png" description="进度圈" />
+        <path src="res\drawable-xhdpi\v5_circle_progress_foreground.png" description="进度圈" />
+        <path src="res\drawable-xxhdpi\v5_circle_progress_foreground.png" description="进度圈" />
+    </resource>
+    <resource description="v5_window_bg_light.9" x="0" y="0" width="717" height="1282" uuid="49bd75cc-56b9-4301-ae39-4cae221d8db1">
+        <path src="res\drawable-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+    </resource>
+</screenshot>

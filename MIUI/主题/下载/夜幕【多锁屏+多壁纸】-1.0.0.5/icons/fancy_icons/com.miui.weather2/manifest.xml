@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Icon screenWidth="1080" frameRate="20" width="192" height="192">
+<VariableBinders>
+<ContentProviderBinder uri="content://weather/weather">
+<Variable name="temperature" column="temperature" type="string"/>
+</ContentProviderBinder>
+</VariableBinders>
+<Image src="i1.PNG"/>
+<Text text="@temperature" color="#ffffff" size="50" align="center" alignV="center" x="99" y="125"/>
+</Icon>

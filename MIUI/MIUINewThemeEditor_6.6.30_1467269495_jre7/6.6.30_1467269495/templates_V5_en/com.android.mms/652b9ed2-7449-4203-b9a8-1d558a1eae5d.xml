@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.0 Choose recipient list view" version="2.9.20" annotation="" tag="Messaging">
+    <resource description="recipient_suggestion_bg.9.png" x="4" y="144" width="708" height="1132" uuid="fc52404b-a839-4e4a-a1f0-08108fb8e63a">
+        <path src="res\drawable-xhdpi\recipient_suggestion_bg.9.png" description="联系人列表背景" />
+    </resource>
+    <resource description="confirm_recipient_btn_n" x="650" y="66" width="51" height="54" uuid="26da96d0-f692-4389-9061-bfa0a1889850">
+        <path src="res\drawable-xhdpi\confirm_recipient_btn_n.png" description="确定按钮" />
+        <path src="res\drawable-xhdpi\confirm_recipient_btn_p.png" description="确定按钮 二态" />
+    </resource>
+    <resource description="recipient_suggestion_divider_dash_tiled" x="18" y="247" width="678" height="18" uuid="c934ebdf-fdcf-465c-b371-7be9ae21943f">
+        <path src="res\drawable-xhdpi\recipient_suggestion_divider_dash_tiled.png" description="一个人多个号码分割线" />
+    </resource>
+    <resource description="recipient_suggestion_divider_solid_tiled" x="24" y="357" width="666" height="30" uuid="c0ca3f23-af8f-458f-8f38-eedcaf10a0d0">
+        <path src="res\drawable-xhdpi\recipient_suggestion_divider_solid_tiled.png" description="联系人列表分割线" />
+    </resource>
+    <resource description="recipients_editor_bg.9" x="82" y="59" width="551" height="71" uuid="ad9fe839-7ccd-46b9-84e0-8979bbaa0139">
+        <path src="res\drawable-xhdpi\recipients_editor_bg.9.png" description="联系人选择 输入框" />
+    </resource>
+    <resource description="recipient_filter_item_bg_normal.9" x="16" y="144" width="674" height="114" uuid="fd20cc80-6d96-404a-9b21-13ea01e33270">
+        <path src="res\drawable-xhdpi\recipient_filter_item_bg_normal.9.png" description="快捷搜索列表联系人背景" />
+        <path src="res\drawable-xhdpi\recipient_filter_item_bg_pressed.9.png" description="快捷搜索列表联系人按下背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,1169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="40" frameRateCharging="30" frameRateBatteryLow="20"  screenWidth="720" displayDesktop="true">
+<!-- 代码编写：张鹏 QQ：951637256 
+	 代码版本：5.10.18-->
+	<ExternalCommands>
+		<Trigger action="resume">
+			<VariableCommand name="reach_state" expression="0" />
+			<VariableCommand name="reach_state" expression="0" />
+			<VariableCommand name="calendar" expression="0" />
+			<VariableCommand name="tools" expression="0" />
+			<VariableCommand name="weather" expression="0" />
+			<VariableCommand name="panel_z" expression="0" />
+			<VariableCommand name="panel_y" expression="0" />
+			<VariableCommand name="panel_z2" expression="0" />
+			<VariableCommand name="panel_y2" expression="0" />
+			<VariableCommand name="m_s" expression="1"/>
+			<Command target="scale_ani.animation" value="play"/>
+			<Command target="s3.visibility" value="true" />
+			<Command target="s4.visibility" value="false" />
+			<Command target="snew.visibility" value="true" />
+			<Command target="snew2.visibility" value="false" />
+		</Trigger>
+		<Trigger action="pause">
+			<VariableCommand name="v8" expression="0" />
+			<VariableCommand name="v9" expression="0" />
+			<VariableCommand name="v10" expression="0" />
+			<VariableCommand name="v11" expression="0" />
+			<VariableCommand name="v12" expression="0" />
+			<VariableCommand name="v13" expression="0" />
+			<VariableCommand name="v14" expression="0" />
+			<VariableCommand name="v15" expression="0" />			
+			<Command target="s4.visibility" value="false"/>
+		</Trigger>
+		<Trigger action="pause">
+			<!-- <VariableCommand name="v10" expression="0" />
+			<VariableCommand name="v11" expression="0" />
+			<VariableCommand name="v12" expression="0" />
+			<VariableCommand name="v13" expression="0" /> -->
+			<!-- <Command target="v10.animation" value="play"/>
+			<Command target="v10.visibility" value="true"/>
+			<Command target="v12.animation" value="play"/>
+			<Command target="v12.visibility" value="true"/> -->
+			<Command target="s1.visibility" value="true"/>
+			<Command target="s2.visibility" value="false"/>
+		</Trigger>
+	</ExternalCommands>
+	<VariableBinders>
+  
+   <ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_id">
+    <Variable name="city_id" type="string" column="city_id"/>
+    </ContentProviderBinder>
+  
+   <ContentProviderBinder dependency="weather" uriFormat="content://weather/daily_weather/%s" uriParas="@city_id" columns="city_name,publish_time,temperature,temperature_range,description,wind,humidity,weather_type,weathernamesfrom,weathernamesto" countName="hasweather">
+    <Variable name="weather_humidity" type="string" column="humidity"/>
+    <Variable name="weather_location" type="string" column="city_name" />
+    <Variable name="weather_temperature" type="int" column="temperature" row="0"/>
+	<Variable name="weather_temperature" type="string" column="temperature"/>
+    <Variable name="weather_temperature_range" type="string" column="temperature_range" row="0"/>
+    <Variable name="weather_description" type="string" column="description" row="0"/>
+    <Variable name="weather_wind" type="string" column="wind" row="0"/>
+	<Variable name="weather_id" type="int" column="weather_type"/>
+    <Variable name="weather_publish_time" type="long" column="publish_time" row="0"/>
+    <Variable name="weatherfrom_0" type="string" column="weathernamesfrom" row="0"/>
+    <Variable name="weatherto_0" type="string" column="weathernamesto" row="0"/>
+    <Variable name="weatherfrom_1" type="string" column="weathernamesfrom" row="1"/>
+    <Variable name="weatherto_1" type="string" column="weathernamesto" row="1"/>
+    <Variable name="weatherfrom_2" type="string" column="weathernamesfrom" row="2"/>
+    <Variable name="weatherto_2" type="string" column="weathernamesto" row="2"/>
+	
+	<Variable name="weather_temperature_range0" type="string" column="temperature_range" row="0"/>
+	<Variable name="weather_temperature_range1" type="string" column="temperature_range" row="1"/>
+	<Variable name="weather_temperature_range2" type="string" column="temperature_range" row="2"/>
+	<Variable name="wt0" type="int" column="temperature_range" row="0" />
+	<Variable name="wt1" type="int" column="temperature_range" row="1" />
+	<Variable name="wt2" type="int" column="temperature_range" row="2" />
+	<Variable name="wt3" type="int" column="temperature_range" row="3" />
+    </ContentProviderBinder>
+  
+  
+		<ContentProviderBinder uri="content://notes/note" columns="modified_date,snippet"   order="modified_date DESC" countName="note_count">
+			<Variable name="note_snippet1" type="string" column="snippet" row="0"/>
+			<Variable name="note_snippet2" type="string" column="snippet" row="1"/>
+			<Variable name="note_snippet3" type="string" column="snippet" row="2"/>
+		</ContentProviderBinder>
+		
+		 <ContentProviderBinder 
+			uri="content://call_log/calls" 
+			columns="date,number,name,type" 
+			order="date DESC" 
+			where="type=3 OR type=1" 
+			countName="call_count">
+			<Variable name="call_name" 	type="string" 	column="name" 	row="0"/>
+			<Variable name="call_number" 	type="string" 	column="number" row="0"/>
+			<Variable name="call_date" 	type="long" 	column="date" 	row="0"/> 
+			<varibale name="call_type" 	type="integer" 	column="type" 	row="0"/>
+		</ContentProviderBinder>
+	
+		<ContentProviderBinder 
+			name="smsProvider"
+			uri="content://sms/inbox" 
+			columns="_id,address,date,body,person"
+			where="seen=0"
+			order="date DESC">
+			<Variable name="sendINDEX" 	type="string" 	column="person"  row="0"/>
+			<Variable name="SMSendNum" 	type="string" 	column="address" row="0"/>
+			<Variable name="receivetime" 	type="long" 	column="date" 	row="0"/>
+			<Variable name="body" 			type="string" 	column="body" 	row="0"/> 
+		</ContentProviderBinder>
+	 
+		<ContentProviderBinder
+			name="contactProvider"
+			dependency="smsProvider"
+			uri="content://com.android.contacts/data"
+			columns="display_name,contact_id" 
+			whereFormat="contact_id=%S"
+			whereParas="#sindex"
+			countName="isContact">
+			<Variable name="SMSender" 	type="string" 	column="display_name" row="0"/>
+		</ContentProviderBinder>
+		<ContentProviderBinder name="weather_aqi" dependency="weather" uriFormat="content://weatherinfo/aqi/%s" uriParas="@city_id" columns="aqi,pm25,pm10,so2,no2,pub_time,src,spot" countName="hasweatherinfo">
+        <Variable name="aqi" type="int" column="aqi"/>
+        <Variable name="pm25" type="int" column="pm25"/>
+        <Variable name="pm10" type="int" column="pm10"/>
+        <Variable name="so2" type="int" column="so2"/>
+        <Variable name="no2" type="int" column="no2"/>
+		</ContentProviderBinder>	
+		<SensorBinder name="gravity_m" type="gravity" rate="500" >
+			<Variable name="gx" index="0"/>
+			<Variable name="gy" index="1"/>
+		</SensorBinder>
+	</VariableBinders>
+<Var name="alarm_time_dis" type="string" expression="ifelse(isnull(@alarm_time_dis),'bg0',@alarm_time_dis)" const="true"/>
+<Var name="alarm_time_dis2" type="string" expression="ifelse(isnull(@alarm_time_dis2),'t1',@alarm_time_dis2)" const="true"/>	
+<Var name="alarm_time_bg2" type="string" expression="ifelse(isnull(@alarm_time_bg2),'unlocker_up',@alarm_time_bg2)" const="true"/>
+<Var name="weather" expression="ifelse(isnull(#weather),0,#weather)" type="number" const="true"/>
+<Var name="calendar" expression="ifelse(isnull(#calendar),0,#calendar)" type="number" const="true"/>
+<Var name="tools" expression="ifelse(isnull(#tools),0,#tools)" type="number" const="true"/>
+<Var name="set_img" expression="ifelse(isnull(#set_img),1,#set_img)" type="number" const="true"/>
+<Var name="set_wallpaper" expression="ifelse(isnull(#set_wallpaper),0,#set_wallpaper)" type="number" const="true"/>
+<Var name="star" expression="ifelse(isnull(#star),1,#star)" type="number" const="true"/>
+<Var name="bg_move_x" expression="#unlocker_01.move_x"/>
+<Var name="bg_move_y" expression="ifelse(#reach_state,#slider_up_y_ani,#slider_up_y)"/>
+<Var name="slider_move_y" expression="#unlocker.move_y" />
+<Var name="slider_up_y" expression="min(#slider_move_y,0)" />
+<Var name="slider_up_y_ani">
+	<VariableAnimation>
+		<AniFrame value="#slider_up_y" time="0" />
+		<AniFrame value="-1280" time="200" />
+		<AniFrame value="-1280" time="100000000000" />
+	</VariableAnimation>
+</Var>
+<VarArray type="string">
+	<Vars>
+		<Var name="week_str" index="#day_of_week-1"/>
+	</Vars>		   
+	<Items>
+		<Item value="Sunday"/>
+		<Item value="Monday"/>
+		<Item value="Tuesday"/>
+		<Item value="Wednesday"/>
+		<Item value="Thursday"/>
+		<Item value="Friday"/>
+		<Item value="Saturday"/>
+	</Items>
+</VarArray>
+
+<VarArray type="string">
+	<Vars>
+		<Var name="month_str" index="#month"/>
+	</Vars>		   
+	<Items>
+		<Item value="Jan."/>
+		<Item value="Feb."/>
+		<Item value="Mar."/>
+		<Item value="Apr."/>
+		<Item value="May."/>
+		<Item value="June."/>
+		<Item value="July."/>
+		<Item value="Aug."/>
+		<Item value="Sept."/>
+		<Item value="Oct."/>
+		<Item value="Nov."/>
+		<Item value="Dec."/>
+	</Items>
+</VarArray>
+<Group name="moren"  visibility="true" >
+<Wallpaper name="wallpaperbox" x="0 + #bg_move_x" y="0 + #bg_move_y" visibility="#set_wallpaper" />
+	
+		<Image src="bg0.png"  y="0"  visibility="eqs(@alarm_time_dis,'bg0')*not(#set_wallpaper)"/>
+		<Image src="bg1.png"  y="0"  visibility="eqs(@alarm_time_dis,'bg1')*not(#set_wallpaper)"/>
+		<Image src="bg2.png"  y="0"  visibility="eqs(@alarm_time_dis,'bg2')*not(#set_wallpaper)"/>
+		<Image src="bg3.png"  y="0"  visibility="eqs(@alarm_time_dis,'bg3')*not(#set_wallpaper)"/>
+		<Var name="panel_z" visibility="false">
+			<VariableAnimation>
+				<AniFrame value="0" time="0"/>
+				<AniFrame value="170" time="310"/>
+				<AniFrame value="170" time="100000000"/>
+			</VariableAnimation>
+		</Var>
+		<Var name="panel_y" visibility="false">
+			<VariableAnimation>
+				<AniFrame value="0" time="0"/>
+				<AniFrame value="-170" time="300"/>
+				<AniFrame value="-170" time="100000000"/>
+			</VariableAnimation>
+		</Var>
+	<Group name="box2" x="460 + #bg_move_x" y="1194 + #bg_move_y"  >
+	<Text x="20" y="0"   color="#FFfd7055" size="31" category="BatteryLow"  format="%d%%" paras="#battery_level"/>
+	<Text x="20" y="0"   color="#FFffffff" size="31" category="Charging"    format="%d%%" paras="#battery_level"/>
+	<Text x="20" y="0"   color="#FFffffff" size="31" category="BatteryFull" format="%d%%" paras="#battery_level"/>
+	<Image x="-10" y="4" src="charg.png" category="Charging" alpha="200"/>
+	</Group>
+<Group name="unlocker_left"  visibility="eqs(@alarm_time_bg2,'unlocker_left')" >
+	<Unlocker name="unlocker_01" alwaysShow="true"  bounceInitSpeed="10" bounceAcceleration="1500">
+		 <StartPoint x="520" y="0" w="200" h="1280">
+			<NormalState>			
+			</NormalState>
+		</StartPoint>
+		<EndPoint x="-400" y="-1000" w="720" h="3090">
+		</EndPoint>
+	</Unlocker>	
+	<Image x="#sw-170 + #bg_move_x" y="#h-130" src="left.png" />
+</Group>
+<Group name="unlocker_up"  visibility="eqs(@alarm_time_bg2,'unlocker_up')" >
+	<Unlocker name="unlocker" bounceInitSpeed="100" bounceAcceleration="5000" delay="250">
+		<StartPoint x="0" y="#screen_height-380" w="#screen_width" h="380"  />
+		<EndPoint x="-720" y="-280" w="1440" h="1000">
+			<Trigger>
+				<VariableCommand name="reach_state" expression="1" />
+				<Command target="slider_up_y_ani.animation" value="play" />
+			</Trigger>
+		</EndPoint>
+	</Unlocker>
+	<Image x="456" y="#h-80+ #bg_move_y" src="up.png" />
+</Group>
+
+		<Slider name="s3" visibility="false">
+			<StartPoint x="#touch_begin_x" y="0" w="10" h="#h"/>
+			<EndPoint x="ifelse(ge(#s3.move_x,50),#touch_x,-1)" y="0" w="10" h="#h">
+				<ReachedState>
+					<Trigger>
+						<VariableCommand name="panel_z" expression="0" const="true"/>
+						<VariableCommand name="panel_y" expression="0" const="true"/>
+						<Command target="panel_z.animation" value="play"/>
+						<Command target="panel_z.visibility" value="true"/>
+						<Command target="panel_z.visibility" value="false" delay="1100"/>
+						<Command target="s3.visibility" value="false"/>
+						<Command target="s4.visibility" value="true"/>
+					</Trigger>
+				</ReachedState>
+			</EndPoint>
+		</Slider>
+		<Slider name="s4" visibility="false">
+			<StartPoint x="#touch_begin_x" y="0" w="10" h="#h"/>
+			<EndPoint x="ifelse(ge(-#s4.move_x,50),#touch_x,-1)" y="0" w="10" h="#h">
+				<ReachedState>
+					<Trigger>
+						<Command target="panel_y.animation" value="play"/>
+						<Command target="panel_y.visibility" value="true"/>
+						<Command target="panel_y.visibility" value="false" delay="500"/>
+						<Command target="s4.visibility" value="false"/>
+						<Command target="s3.visibility" value="true"/>
+					</Trigger>
+				</ReachedState>
+			</EndPoint>
+		</Slider>
+		<Group name="bottom_app" x="#bg_move_x" y="0+ #bg_move_y" >
+		<Image x="175" y="1194" src="qq.png" alpha="200"/>
+		<Button  x="165" y="1189" w="65" h="65">
+			<Triggers>
+				<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.SplashActivity" />
+				<ExternCommand command="unlock"/>
+				</Trigger>
+			</Triggers>
+		</Button>
+		<Image x="269" y="1197" src="sms_n.png" alpha="200" visibility="not(#sms_unread_count)"/>
+		<Image x="269" y="1197" src="sms_unread.png" alpha="200" visibility="#sms_unread_count"/>
+		<Button  x="259" y="1189" w="65" h="65">
+			<Triggers>
+				<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.mms" class="com.android.mms.ui.MmsTabActivity"/>
+				<ExternCommand command="unlock"/>
+				</Trigger>
+			</Triggers>
+		</Button>
+		<Image x="363" y="1194" src="call_n.png" alpha="200" visibility="not(#call_missed_count)"/>
+		<Image x="363" y="1194" src="call_missed.png" alpha="200" visibility="#call_missed_count"/>
+		<Button  x="348" y="1189" w="65" h="65">
+			<Triggers>
+				<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.contacts" class="com.android.contacts.activities.TwelveKeyDialer"/>
+				<ExternCommand command="unlock"/>
+				</Trigger>
+			</Triggers>
+		</Button>
+		</Group>
+	<Var name="w" expression="#screen_width/2" const="true"/>
+ 	<Var name="sw" expression="#screen_width" const="true"/>
+ 	<Var name="h" expression="#screen_height" const="true"/>
+	<Var name="sh" expression="#screen_height/2" const="true"/>
+	<Image x="0" y="#h-130+ #bg_move_y" src="t/downc.png"/>
+	<Group x="#bg_move_x" y="0+ #bg_move_y" visibility="#set_img">
+		<Image src="set.png" x="85" y="#screen_height-105" align="center" alpha="200"/>
+		<Button name="weather_apk" x="85" y="#screen_height-105" align="center" w="200" h="200" >
+			<Triggers>
+				<Trigger action="up" >
+					<IntentCommand action="android.intent.action.MAIN" package="com.android.thememanager" class="com.android.thememanager.view.MamlConfigSettings">
+					<Extra name="maml_code" type="string" expression="'lockstyle'"/>
+					</IntentCommand>
+					<IntentCommand action="android.intent.action.MAIN" package="com.android.thememanager" class="miui.maml.MamlConfigSettings">
+					<Extra name="maml_code" type="string" expression="'lockstyle'"/>
+					</IntentCommand>
+					<IntentCommand action="android.intent.action.MAIN" package="com.android.thememanager" class="com.android.thememanager.view.LockscreenConfigSettings"/>
+					<IntentCommand action="android.intent.action.MAIN" package="com.miui.miuilite" class="com.android.thememanager.view.LockscreenConfigSettings">
+					<Extra name="maml_code" type="string" expression="'lockstyle'"/>
+					</IntentCommand>
+					<ExternCommand command="unlock"/>
+				</Trigger>
+			</Triggers>
+		</Button>
+	</Group>
+	
+	<Var name="app" expression="-170" const="true"/>
+	<Group name="left_panel" x="#app+#panel_z+#panel_y+ #bg_move_x" y="0+ #bg_move_y" >
+		
+		<Image x="0" y="0" w="170" h="#h-130" src="t/panel.9.png"/>
+		<Group x="0" y="0" >
+			<Image x="85" y="70" src="img_up.png" align="center" visibility="not(#img1.has_bitmap)"/>
+			<Image name="img1" x="85" y="70" align="center" w="134/#img1.bmp_height*#img1.bmp_width" h="134" src="@img1" srcType="Uri" >
+				<Mask x="0" y="0" src="img1_mask.png" align="absolute"/>
+			</Image>
+			<Button x="85" y="70" align="center" w="134" h="134" visibility="#img1.has_bitmap">
+				<Triggers>
+				<Trigger action="up">
+						<VariableCommand name="img1" expression="''" type="string" persist="true"/>
+					</Trigger>
+				</Triggers> 
+			</Button> 
+		</Group> 
+		
+		<Var name="word_1" expression="ifelse(isnull(@word_1),'清一色',@word_1)" type="string" const="true"/>
+		<Text x="85" y="220" align="center" color="#ffffff" size="35" textExp="@word_1" />
+		<Group name="tools" x="21" y="0" > 
+			<Button  x="0" y="#h-255" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="tools" expression="ifelse(eq(#tools,0),1,0)" persist="true"/>
+						<VariableCommand name="weather" expression="0"/>
+						<VariableCommand name="calendar" expression="0"/>
+						<Command target="calendar_size.animation" value="play"/>
+					</Trigger>
+				</Triggers>
+			    
+				<Pressed>
+					<Image x="0" y="#h-255" src="t/tool_open.png"/>
+				</Pressed>
+			</Button>
+			<Group name="kg2" x="0" y="0" visibility="eq(#tools,1)" >
+			<Button  x="345" y="0" w="#screen_width-345" h="#h">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="tools" expression="ifelse(eq(#tools,0),1,0)" persist="true"/>
+					</Trigger>
+				</Triggers>
+			</Button>
+			</Group>
+
+			<Image x="0" y="#h-255" src="t/tool_close.png" visibility="eq(#tools,0)"/>
+			<Image x="0" y="#h-255" src="t/tool_open.png" visibility="eq(#tools,1)"/>
+			<!--show-->
+			<Group name="tools" x="-21" y="0" visibility="eq(#tools,1)" visibility="#tools" > 
+				<Image x="154+21" y="0" src="t/tool.png"/>
+						
+				<Button  x="208" y="540" w="106" h="106">
+					<Triggers>
+						<Trigger action="up">
+						<IntentCommand action="android.intent.action.MAIN" package="com.android.browser" class="com.android.browser.BrowserActivity"/>
+						<ExternCommand command="unlock"/>
+						</Trigger>
+					</Triggers>
+				</Button>
+				<Button name="sz" x="208" y="659" w="106" h="106" >
+				<Triggers>
+					<Trigger action="up" >
+						<IntentCommand  action="android.intent.action.MAIN" package="com.android.deskclock" class="com.android.deskclock.DeskClockTabActivity"/> 
+						<ExternCommand command="unlock" />
+					</Trigger>
+				</Triggers>
+				</Button>
+				<Button name="xj" x="208" y="909" w="106" h="106">
+				<Triggers>
+					<Trigger action="up">
+					<IntentCommand action="android.intent.action.MAIN" package="com.android.camera" class="com.android.camera.Camera"/>
+					<ExternCommand command="unlock"/>
+					</Trigger>
+				</Triggers>
+				</Button>
+				<Button name="sdt" x="208" y="1032" w="106" h="106">
+				<Triggers>
+					<Trigger action="up">
+					<IntentCommand action="android.intent.action.MAIN" package="com.android.systemui" class="com.android.systemui.TorchActivity"/>
+					<ExternCommand command="unlock"/>
+					</Trigger>
+				</Triggers>
+				</Button>
+				<Button name="yx" x="208" y="789" w="106" h="106">
+				<Triggers>
+					<Trigger action="up">
+					<IntentCommand action="android.intent.action.MAIN" package="com.xiaomi.gamecenter" class="com.xiaomi.gamecenter.ui.MainTabActivity"/>
+					<ExternCommand command="unlock"/>
+					</Trigger>
+				</Triggers>
+				</Button>
+			
+			</Group>
+	
+		</Group>
+		
+		
+<Group name="local_adjust" x="21" y="-130" > 
+		<Group name="local_adjust3" x="0" y="372" >
+		<Group name="calendar" x="0" y="0" > 
+			<Button  x="0" y="#h-745" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="calendar" expression="ifelse(eq(#calendar,0),1,0)" persist="true"/>
+						<VariableCommand name="weather" expression="0"/>
+						<VariableCommand name="tools" expression="0"/>
+						<Command target="calendar_size.animation" value="play"/>
+					</Trigger>
+				</Triggers>
+			    
+				<Pressed>
+					<Image x="0" y="#h-745" src="t/calendar_open.png"/>
+				</Pressed>
+			</Button>
+			<Group name="kg2" x="0" y="0" visibility="eq(#calendar,1)" >
+			<Button  x="571" y="63+130-372" w="80" h="80">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="calendar" expression="ifelse(eq(#calendar,0),1,0)" persist="true"/>
+					</Trigger>
+				</Triggers>
+			</Button>
+			</Group>
+
+			<Image x="0" y="#h-745" src="t/calendar_close.png" visibility="eq(#calendar,0)"/>
+			<Image x="0" y="#h-745" src="t/calendar_open.png" visibility="eq(#calendar,1)"/>
+			<!--show-->
+			<Group name="calendar" x="0" y="0" visibility="eq(#calendar,1)" visibility="#calendar" > 
+				<Image x="154" y="130-372" w="#sw-154" h="#h-130" src="t/panel.9.png"/>
+				<Image x="571" y="63+130-372" w="80" h="80" src="t/close.png"/>
+				<MusicControl name="music_control" x="70" y="-200"autoShow="true" visibility="true" enableLyric="true" updateLyricInterval="100" >
+				<Image x="360" y="260" src="music/album_bg.png" align="center" alignV="center" w="367" h="367" visibility="not(#music_control.music_state)"> 
+				</Image>			
+				<Image name="music_album_cover" x="360" y="260" centerX="183.5" centerY="183.5"  align="center" alignV="center"  w="367" h="367" antiAlias="true" visibility="#music_control.music_state">
+				<RotationAnimation>
+					<Rotation angle="0" time="0"/>
+					<Rotation angle="360" time="25000"/>				
+				</RotationAnimation>
+					<Mask x="0" y="0" src="music/album_mask.png"/>
+				</Image>			
+				<Image x="360" y="260" align="center" alignV="center" src="music/indicator.png"/>
+				
+				<Group y="520+320" visibility="eq(#volume_type, 3)">
+					<Image x="#screen_width/2" y="0" align="center" src="music/music_volume_bg.png" alpha="205"/>
+					<Image x="#screen_width/2" y="53" align="center" alignV="center" w="380" alpha="179" src="music/music_volume_seekbar_bg.9.png"/>
+					<Image x="#screen_width/2-190" y="53" w="#volume_level/15*380" alignV="center" src="music/music_volume_seekbar_fg.9.png"/>
+					<Image x="#screen_width/2-196+#volume_level/15*362" y="53" alignV="center" srcExp="'music/music_volume_btn.png'"/>
+				</Group>
+				<Text x="#screen_width/2" y="#sh" align="center" alignV="center" color="#ffffffff"  size="40"  text="歌词显示" visibility="not(#music_control.music_state)"/>
+				<Text name="music_display" x="#screen_width/2" y="860" w="356" marqueeSpeed="30" size="30" color="#ffffffff" align="center" alignV="center" visibility="#music_control.music_state"/>
+				<Text x="#screen_width/2" y="860" alignV="center" align="center" color="#ffffffff"  size="30"  text="歌曲名" visibility="not(#music_control.music_state)"/>
+				<Var name="lyric_width" expression="640" const="true"/>
+				<Group  y="500" w="#lyric_width" h="300" clip="true" visibility="#music_control.music_state" >
+					<Text x="#screen_width/2" y="0" w="#lyric_width" align="center" multiLine="true" color="#ffffff" size="28"  text="@music_control.lyric_before" alignV="bottom" spacingMult="1.5"/>
+					<Text x="#screen_width/2" y="0" w="#lyric_width" align="center" multiLine="true" color="#e96361" size="32" text="@music_control.lyric_current" spacingMult="1.5" name="cur_lyric"/>
+					<Text x="#screen_width/2" y="40" w="#lyric_width" align="center" multiLine="true" color="#FFFFFF" size="28"  text="@music_control.lyric_after" spacingMult="1.5"/>
+				</Group>
+					<Image x="0" y="410" alpha="225*(1+#uplocker.move_y/300)" src="music/music.png"/>
+					<Button name="music_prev" x="191" y="892" w="100" h="100"/>
+					<Button name="music_next" x="446" y="892" w="100" h="100"/>
+					<Button name="music_play" x="300" y="892" w="100" h="100"/>
+					<Button name="music_pause" x="300" y="892" w="100" h="100"/>
+
+					<Var name="position_min" expression="#music_control.music_position/60000"/>
+					<Var name="position_sec" expression="#music_control.music_position/1000%60"/>
+					<Var name="duration_min" expression="#music_control.music_duration/60000"/>
+					<Var name="duration_sec" expression="#music_control.music_duration/1000%60"/>
+					<Image align="center" alignV="center" x="#screen_width/2" y="#screen_height-280" w="500" h="2" src="music/d.png" alpha="75"/>
+					<Image alignV="center" x="110" y="#screen_height-280" w="500*(#music_control.music_position/#music_control.music_duration)" h="2" src="music/d.png"/>
+					<Text x="100" y="#screen_height-290" alignV="bottom" color="#FFFFFFFF" alpha="175" size="24" format="%d:%02d" paras="#position_min, #position_sec"/>
+					<Text x="#screen_width-100" y="#screen_height-290" align="right" alignV="bottom" color="#FFFFFFFF" alpha="175" size="24" format="%d:%02d" paras="#duration_min, #duration_sec"/>
+			</MusicControl>
+			
+			</Group>
+	
+		</Group>
+		<Var name="wid1" expression="ifelse(eqs(@wf1,@Clear),0,eqs(@wf1,@Cloudy),1,eqs(@wf1,@Hazy),2,eqs(@wf1,@Foggy),3,eqs(@wf1,@Severe_rainstorm),4,eqs(@wf1,@Rainstorm),5,eqs(@wf1,@Very_heavy_rainfall),6,eqs(@wf1,@Thunderstorm),7,eqs(@wf1,@Shower),8,eqs(@wf1,@Heavy_rainfall),9,eqs(@wf1,@Rain),10,eqs(@wf1,@Drizzle),11,eqs(@wf1,@Sleet),12,eqs(@wf1,@Snowstorm),13,eqs(@wf1,@Patches_of_snowfall),14,eqs(@wf1,@Heavy_snowfall),15,eqs(@wf1,@Snowfall),16,eqs(@wf1,@Light_snowfall),17,eqs(@wf1,@Strong_sandstorm),18,eqs(@wf1,@Sandstorm),19,eqs(@wf1,@Light_sandstorm),20,eqs(@wf1,@Sandstorm),21,eqs(@wf1,@Hail),22,eqs(@wf1,@Floating_Dust),23,eqs(@wf1,@Haze),24,0)" />
+		<Var name="wid2" expression="ifelse(eqs(@wf2,@Clear),0,eqs(@wf2,@Cloudy),1,eqs(@wf2,@Hazy),2,eqs(@wf2,@Foggy),3,eqs(@wf2,@Severe_rainstorm),4,eqs(@wf2,@Rainstorm),5,eqs(@wf2,@Very_heavy_rainfall),6,eqs(@wf2,@Thunderstorm),7,eqs(@wf2,@Shower),8,eqs(@wf2,@Heavy_rainfall),9,eqs(@wf2,@Rain),10,eqs(@wf2,@Drizzle),11,eqs(@wf2,@Sleet),12,eqs(@wf2,@Snowstorm),13,eqs(@wf2,@Patches_of_snowfall),14,eqs(@wf2,@Heavy_snowfall),15,eqs(@wf2,@Snowfall),16,eqs(@wf2,@Light_snowfall),17,eqs(@wf2,@Strong_sandstorm),18,eqs(@wf2,@Sandstorm),19,eqs(@wf2,@Light_sandstorm),20,eqs(@wf2,@Sandstorm),21,eqs(@wf2,@Hail),22,eqs(@wf2,@Floating_Dust),23,eqs(@wf2,@Haze),24,0)" />
+		<Var name="wid3" expression="ifelse(eqs(@wf3,@Clear),0,eqs(@wf3,@Cloudy),1,eqs(@wf3,@Hazy),2,eqs(@wf3,@Foggy),3,eqs(@wf3,@Severe_rainstorm),4,eqs(@wf3,@Rainstorm),5,eqs(@wf3,@Very_heavy_rainfall),6,eqs(@wf3,@Thunderstorm),7,eqs(@wf3,@Shower),8,eqs(@wf3,@Heavy_rainfall),9,eqs(@wf3,@Rain),10,eqs(@wf3,@Drizzle),11,eqs(@wf3,@Sleet),12,eqs(@wf3,@Snowstorm),13,eqs(@wf3,@Patches_of_snowfall),14,eqs(@wf3,@Heavy_snowfall),15,eqs(@wf3,@Snowfall),16,eqs(@wf3,@Light_snowfall),17,eqs(@wf3,@Strong_sandstorm),18,eqs(@wf3,@Sandstorm),19,eqs(@wf3,@Light_sandstorm),20,eqs(@wf3,@Sandstorm),21,eqs(@wf3,@Hail),22,eqs(@wf3,@Floating_Dust),23,eqs(@wf3,@Haze),24,0)" />
+		<Var name="mde" expression="int(#month+1)+'/'+#date+' '+ifelse(eq(#day_of_week,1),'星期日',eq(#day_of_week,2),'星期一',eq(#day_of_week,3),'星期二',eq(#day_of_week,4),'星期三',eq(#day_of_week,5),'星期四',eq(#day_of_week,6),'星期五',eq(#day_of_week,7),'星期六','-')" type="string" />
+		<Var name="air_quality" expression="ifelse(ge(#aqi,0)*lt(#aqi,50),'优',ge(#aqi,50)*lt(#aqi,100),'良',ge(#aqi,100)*lt(#aqi,150),'轻度污染',ge(#aqi,150)*lt(#aqi,200),'中度污染',ge(#aqi,200)*lt(#aqi,300),'重度污染',ge(#aqi,300)*le(#aqi,500),'严重污染','获取信息异常')" type="string" />
+		<Var name="acti" expression="0" const="true" />
+		<Var name="has_night_icon" expression="eq(#weather_id,0)+eq(#weather_id,1)"/>
+		<Var name="icon_suffix" expression="ifelse(#has_night_icon,'_'+not(ge(#hour24,6)*le(#hour24,17)),'')" type="string"/>
+		<Group name="weather" x="0" y="0"  > 
+			<Button  x="0" y="#h-621" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="weather" expression="ifelse(eq(#weather,0),1,0)" persist="true"/>
+						<VariableCommand name="calendar" expression="0"/>
+						<VariableCommand name="tools" expression="0"/>
+						<Command target="weather_size.animation" value="play"/>
+					</Trigger>
+				</Triggers>
+			    
+				<Pressed>
+					<Image x="0" y="#h-621" src="t/weather_open.png"/>
+				</Pressed>
+			</Button>
+			<Group name="kg" x="0" y="0" visibility="eq(#weather,1)" >
+			<Button  x="170" y="0" w="#screen_width-170" h="#h">
+				<Triggers>
+					<Trigger action="up">	
+						<VariableCommand name="weather" expression="ifelse(eq(#weather,0),1,0)" persist="true"/>
+					</Trigger>
+				</Triggers>
+			</Button>
+			</Group>
+			<Image x="0" y="#h-621" src="t/weather_close.png" visibility="eq(#weather,0)"/>
+			<Group name="weather" x="0" y="0" visibility="eq(#weather,1)" visibility="#weather" > 
+				<Image x="0" y="#h-621"  src="t/weather_open.png" />
+				<Image x="154" y="130-372" w="#sw-154" h="#h-130" src="t/panel.9.png"/>
+				<Group x="70" y="130-372" scale="535/720" pivotX="#screen_width/2" pivotY="#screen_height/2" >
+				<Image name="shi" x="435" y="500" src="t/time.png" align="right" alignV="center" srcid="int((#wt0)/10)"/>
+				<Image name="ge" x="437" y="500" src="t/time.png" align="left" alignV="center" srcid="int(#wt0%10)"/>
+				<Image name="du" x="530" y="500" src="t/du.png" align="left" alignV="center"/> 
+				<Image x="450" y="260"  srcExp="'weather/weather_' + #weather_id + @icon_suffix + '.png'" />
+				
+				<Text x="130" y="575" format="%s"   color="#ffffff"  size="23" paras="@weather_wind"/>
+				<Text x="130" y="476" format="湿度: %s%%" color="#ffffff"  size="23" paras="@weather_humidity"/>
+				<Text x="130"  y="375" size="23" textExp="@air_quality" color="#ffffff" />
+				<Text x="130"  y="275" size="23" format="%s" paras="@weather_location" color="#ffffff" />
+
+				<Text x="134" align="center" y="675" size="23" textExp="#wt0+'℃'" color="#ffffff" />
+				<Text x="284" align="center" y="675" size="23" textExp="#wt1+'℃'" color="#ffffff" />
+				<Text x="435" align="center" y="675" size="23" textExp="#wt2+'℃'" color="#ffffff" />
+				<Text x="583" align="center" y="675" size="23" textExp="#wt3+'℃'" color="#ffffff" />
+							
+				<Image x="0" y="-100" src="t/wg.png" />
+				<Group y="-210">
+				<DateTime x="#screen_width/2-226" align="center" y="1176" size="22" color="#ffffff" format="MM/dd 今天" value="#time_sys" />
+				<DateTime x="#screen_width/2-75" align="center" y="1176" size="22" color="#ffffff" format="MM/dd E" value="#time_sys+86400000" />
+				<DateTime x="#screen_width/2+75" align="center" y="1176" size="22" color="#ffffff" format="MM/dd E" value="#time_sys+86400000*2" />
+				<DateTime x="#screen_width/2+226" align="center" y="1176" size="22" color="#ffffff" format="MM/dd E" value="#time_sys+86400000*3" />	
+				</Group>			
+				<Line x="#screen_width/2-226" y="970-#wt0*8" x1="#screen_width/2-75" y1="970-#wt1*8" weight="2" strokeColor="#ffffff" />
+				<Line x="#screen_width/2-75" y="970-#wt1*8" x1="#screen_width/2+75" y1="970-#wt2*8" weight="2" strokeColor="#ffffff" />
+				<Line x="#screen_width/2+75" y="970-#wt2*8" x1="#screen_width/2+226" y1="970-#wt3*8" weight="2" strokeColor="#ffffff" />
+				<Image x="#screen_width/2-226" align="center" alignV="center" y="970-#wt0*8" src="t/pp.png" />
+				<Image x="#screen_width/2-75" align="center" alignV="center" y="970-#wt1*8" src="t/pp.png" />
+				<Image x="#screen_width/2+75" align="center" alignV="center" y="970-#wt2*8" src="t/pp.png" />
+				<Image x="#screen_width/2+226" align="center" alignV="center" y="970-#wt3*8" src="t/pp.png" />		
+				</Group>
+	
+			
+			</Group>	
+		</Group>
+		
+		
+		</Group>
+		<Group name="local_adjust2" x="0" y="-372" >
+		<Group name="Ring" x="0" y="0" >
+			<Button  x="0" y="#h-497" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">
+					  <Command target="RingMode" value="silent,vibrate,normal"/>
+					</Trigger>
+				</Triggers>
+				<Pressed>
+					<Image x="0" y="#h-497" src="t/mute_close.png"/>
+				</Pressed>
+			</Button>
+			<Image x="0" y="#h-497" src="t/mute_open.png" visibility="eq(#ring_mode,0)"/>
+			<Image x="0" y="#h-497" src="t/vibration_open.png" visibility="eq(#ring_mode,1)"/>
+			<Image x="0" y="#h-497" src="t/mute_close.png" visibility="eq(#ring_mode,2))"/>
+		</Group>
+		
+		<Group name="sj" x="0" y="0" > 
+			<Button x="0" y="#h-373" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">
+						<Command target="Data" value="toggle"/>
+					</Trigger>
+				</Triggers>
+				<Pressed>
+					<Image x="0" y="#h-373" src="t/data_open.png" />
+				</Pressed>
+			</Button>
+			<Image x="0" y="#h-373" src="t/data_close.png" visibility="eq(#data_state,0)"/>
+			<Image x="0" y="#h-373" src="t/data_open.png" visibility="eq(#data_state,1)"/>
+		</Group>
+		<Group name="Blue" x="0" y="0" > 
+			<Button x="0" y="#h-249" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">
+						<Command target="Bluetooth" value="toggle"/>
+					</Trigger>
+				</Triggers>
+				<Pressed>
+					<Image x="0" y="#h-249" src="t/blue_tooth_open.png"/>
+				</Pressed>
+			</Button>
+			<Image x="0" y="#h-249" src="t/blue_tooth_close.png" visibility="eq(#bluetooth_state,0)"/>
+			<Image x="0" y="#h-249" src="t/blue_tooth_open.png" visibility="not(eq(#bluetooth_state,0))"/>
+		</Group>
+		<Group name="wifi" x="0" y="0" >
+			<Button x="0" y="#h-125" w="131" h="116">
+				<Triggers>
+					<Trigger action="up">
+						<Command target="Wifi" value="toggle"/>
+					</Trigger>
+				</Triggers>
+				<Pressed>
+					<Image x="0" y="#h-125" src="t/wifi_open.png"/>
+				</Pressed>
+			</Button>
+			<Image x="0" y="#h-125" src="t/wifi_close.png" visibility="eq(#wifi_state,0)"/>
+			<Image x="0" y="#h-125" src="t/wifi_open.png" visibility="not(eq(#wifi_state,0))"/>
+		</Group>	
+		</Group>
+	</Group>
+	
+</Group>
+	<Group name="t1" x="#bg_move_x-#gx*4" y="#bg_move_y+#gy*7" visibility="eq(#weather,0)*eq(#calendar,0)*eqs(@alarm_time_dis2,'t1')">
+		<Time x="#screen_width/2-50" y="480"  src="time/t.png"/>
+		<Text x="#screen_width-30" y="660" align="right" color="#ffffff" size="40" text="@week_str" />
+		<Text x="#screen_width-200" y="620" align="right" color="#ffffff" size="40" text="@month_str" />
+		<DateTime x="#screen_width-30" y="620" align="right" size="40"  color="#ffffff" value="#time_sys" format="dd  yyyy"/> 
+	</Group>
+	<Group name="t2" x="#bg_move_x-#gx*4" y="#bg_move_y+#gy*7" visibility="eq(#weather,0)*eq(#calendar,0)*eqs(@alarm_time_dis2,'t2')">
+		<Time x="#screen_width/2" y="200" align="center" alignV="center" src="time/t.png"/>
+		<DateTime x="#screen_width/2" y="300" color="#FFFFFF" size="30" align="center" alignV="center" format="M月d日  EEEE"/>
+	</Group>
+	<Group name="t3" x="#bg_move_x-#gx*4+#panel_z+#panel_y+#panel_x" y="#bg_move_y+#gy*7" visibility="eq(#weather,0)*eq(#calendar,0)*eqs(@alarm_time_dis2,'t3')">
+		<Var name="word_rows1" expression="ifelse(isnull(@word_rows1),'永远相信',@word_rows1)" type="string" const="true"/>
+		<Var name="word_rows2" expression="ifelse(isnull(@word_rows2),'美好的事情即将发生',@word_rows2)" type="string" const="true"/>
+		<Var name="word_rows3" expression="ifelse(isnull(@word_rows3),'Always believe that something wonderful',@word_rows3)" type="string" const="true"/>
+		<Var name="word_rows4" expression="ifelse(isnull(@word_rows4),'is about to happen',@word_rows4)" type="string" const="true"/>
+		<Group name="wordtext" x="70" y="106" >
+			<Text x="-7" y="0" color="#ffffffff" size="100" textExp="@word_rows1" />
+			<Text x="-7" y="117" color="#ffffffff" size="50" textExp="@word_rows2" />
+			<Text x="0" y="182" color="#ffffffff" size="30" textExp="@word_rows3" />
+			<Text x="0" y="230" color="#ffffffff" size="30" textExp="@word_rows4" />
+		</Group>
+		<Group name="datetimebox" x="470" y="906">
+			<DateTime  x="0" y="-10" color="#ffffff" size="70" format="kk:mm" />
+			<DateTime  x="0" y="75" color="#ffffff" size="25" format="MM月dd日 EEEE" />
+			<DateTime  x="0" y="115" color="#ffffff" size="25" format="NNNN" />
+		</Group>
+	</Group>
+	
+
+ </Group>
+<Group visibility="#star">
+	<Image name="liuxing" x="400" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="400" y="-200" time="0"/>
+			<Position x="-700" y="435" time="1700"/>
+			<Position x="-700" y="435" time="5000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="447" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="447" y="-200" time="0"/>
+			<Position x="-800" y="520" time="1800"/>
+			<Position x="-800" y="520" time="5000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="500" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="500" y="-200" time="0"/>
+			<Position x="500" y="-200" time="1900"/>
+			<Position x="-900" y="609" time="4000"/>
+			<Position x="-900" y="609" time="7000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="600" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="600" y="-200" time="0"/>
+			<Position x="-1000" y="724" time="2500"/>
+			<Position x="-1000" y="724" time="5000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image name="liuxing" x="600" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="600" y="-200" time="0"/>
+			<Position x="600" y="-200" time="3500"/>
+			<Position x="-1000" y="724" time="5500"/>
+			<Position x="-1000" y="724" time="8000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image name="liuxing" x="630" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="630" y="-200" time="0"/>
+			<Position x="630" y="-200" time="4000"/>
+			<Position x="-1000" y="741" time="6000"/>
+			<Position x="-1000" y="741" time="7000"/>
+		</PositionAnimation>
+	</Image>
+
+   <Image name="liuxing" x="650" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="650" y="-200" time="0"/>
+			<Position x="650" y="-200" time="2300"/>
+			<Position x="-1000" y="753" time="4000"/>
+			<Position x="-1000" y="753" time="5500"/>
+		</PositionAnimation>
+	</Image>
+
+   <Image name="liuxing" x="700" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="700" y="-200" time="0"/>
+			<Position x="700" y="-200" time="1000"/>
+			<Position x="-1100" y="840" time="3500"/>
+			<Position x="-1100" y="840" time="5500"/>
+		</PositionAnimation>
+	</Image>
+
+	 <Image name="liuxing" x="750" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="750" y="-200" time="0"/>
+			<Position x="750" y="-200" time="4000"/>
+			<Position x="-1100" y="868" time="6000"/>
+			<Position x="-1100" y="868" time="7000"/>
+		</PositionAnimation>
+	</Image>
+	
+	
+	<Group x="0" y="650">
+	<Image name="liuxing" x="400" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="400" y="-200" time="0"/>
+			<Position x="-700" y="435" time="1700"/>
+			<Position x="-700" y="435" time="5000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="447" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="447" y="-200" time="0"/>
+			<Position x="-800" y="520" time="1800"/>
+			<Position x="-800" y="520" time="5000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="500" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="500" y="-200" time="0"/>
+			<Position x="500" y="-200" time="1900"/>
+			<Position x="-900" y="609" time="4000"/>
+			<Position x="-900" y="609" time="7000"/>
+		</PositionAnimation>
+	</Image>
+	<Image name="liuxing" x="600" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="600" y="-200" time="0"/>
+			<Position x="-1000" y="724" time="2500"/>
+			<Position x="-1000" y="724" time="5000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image name="liuxing" x="600" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="600" y="-200" time="0"/>
+			<Position x="600" y="-200" time="3500"/>
+			<Position x="-1000" y="724" time="5500"/>
+			<Position x="-1000" y="724" time="8000"/>
+		</PositionAnimation>
+	</Image>
+
+	<Image name="liuxing" x="630" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="630" y="-200" time="0"/>
+			<Position x="630" y="-200" time="4000"/>
+			<Position x="-1000" y="741" time="6000"/>
+			<Position x="-1000" y="741" time="7000"/>
+		</PositionAnimation>
+	</Image>
+
+   <Image name="liuxing" x="650" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="650" y="-200" time="0"/>
+			<Position x="650" y="-200" time="2300"/>
+			<Position x="-1000" y="753" time="4000"/>
+			<Position x="-1000" y="753" time="5500"/>
+		</PositionAnimation>
+	</Image>
+
+   <Image name="liuxing" x="700" y="-200" src="xx2.png">
+		<PositionAnimation>
+			<Position x="700" y="-200" time="0"/>
+			<Position x="700" y="-200" time="1000"/>
+			<Position x="-1100" y="840" time="3500"/>
+			<Position x="-1100" y="840" time="5500"/>
+		</PositionAnimation>
+	</Image>
+
+	 <Image name="liuxing" x="750" y="-200" src="xx.png">
+		<PositionAnimation>
+			<Position x="750" y="-200" time="0"/>
+			<Position x="750" y="-200" time="4000"/>
+			<Position x="-1100" y="868" time="6000"/>
+			<Position x="-1100" y="868" time="7000"/>
+		</PositionAnimation>
+	</Image>
+	</Group>
+</Group>
+			<!--星星闪烁特效开始-->
+<Group visibility="ifelse(isnull(#off2),1,#off2)">		
+		<Image x="1260" y="130"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="200" time="750"/>
+			   <Alpha a="100" time="1500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="1260" y="1000"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="200" time="750"/>
+			   <Alpha a="100" time="1500"/>
+			</AlphaAnimation>
+		</Image>	
+			
+		<Image x="1260" y="1130"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="200" time="750"/>
+			   <Alpha a="100" time="1500"/>
+			</AlphaAnimation>
+		</Image>	
+			
+		<Image x="1130" y="320"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="930" y="1020"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1500"/>
+			</AlphaAnimation>
+		</Image>	
+			
+		<Image x="228" y="263"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1000"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="360" y="340"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1800"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="1545" y="136"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1300"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="1545" y="936"  align="center" alignV="center"    src="star_1.png">
+			<AlphaAnimation> 
+			   <Alpha a="100" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="100" time="1300"/>
+			</AlphaAnimation>
+		</Image>		
+		<Image x="450" y="76"  align="center" alignV="center"    src="star_2.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="10" time="1500"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="450" y="956"  align="center" alignV="center"    src="star_2.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="10" time="1500"/>
+			</AlphaAnimation>
+		</Image>		
+		<Image x="865" y="96"  align="center" alignV="center"    src="star_2.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="10" time="1500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="865" y="496"  align="center" alignV="center"    src="star_2.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="10" time="1500"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="865" y="996"  align="center" alignV="center"    src="star_2.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="750"/>
+			   <Alpha a="10" time="1500"/>
+			</AlphaAnimation>
+		</Image>		
+		<Image x="584" y="137"  align="center" alignV="center"    src="star_4.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="800"/>
+			   <Alpha a="10" time="1750"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="1281" y="-121"  align="center" alignV="center"    src="star_4.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="200" time="800"/>
+			   <Alpha a="10" time="1650"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="1891" y="-112"  align="center" alignV="center"    src="star_4.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="200" time="800"/>
+			   <Alpha a="10" time="1850"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="1591" y="388"  align="center" alignV="center"    src="star_4.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="200" time="800"/>
+			   <Alpha a="10" time="1850"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="1350" y="433"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="2500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="107" y="205"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		<Image x="107" y="205"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>
+		<Image x="430" y="1150"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>	
+		<Image x="430" y="1200"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>			
+		<Image x="1600" y="370"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>
+		
+		
+		<Image x="1200" y="570"  align="center" alignV="center"    src="star_3.png">
+			<AlphaAnimation> 
+			   <Alpha a="10" time="0"/>
+			   <Alpha a="255" time="1750"/>
+			   <Alpha a="10" time="3500"/>
+			</AlphaAnimation>
+		</Image>
+	</Group>
+<!--星星闪烁特效结束-->
+		
+	<Group name="charge" x="0" y="480">
+		<Image x="#screen_width/2" align="center" src="Charging/B_light_1.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="-480" time="12800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+20" align="center" src="Charging/B_light_2.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="1000"/>
+				<Position y="-480" time="13800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+40" align="center" src="Charging/B_light_3.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="2000"/>
+				<Position y="-480" time="14800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+60" align="center" src="Charging/B_light_4.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="3000"/>
+				<Position y="-480" time="15800"/>
+			</PositionAnimation>
+		</Image>
+		
+		
+		
+		<Image x="#screen_width/2" align="center" src="Charging/B_light_3.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="4000"/>
+				<Position y="-480" time="16800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+20" align="center" src="Charging/B_light_4.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="5000"/>
+				<Position y="-480" time="17800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+40" align="center" src="Charging/B_light_1.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="6000"/>
+				<Position y="-480" time="18800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+60" align="center" src="Charging/B_light_2.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="7000"/>
+				<Position y="-480" time="19800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="200" align="center" src="Charging/B_light_2.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="8000"/>
+				<Position y="-480" time="20800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+40" align="center" src="Charging/B_light_3.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="9000"/>
+				<Position y="-480" time="21800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+60" align="center" src="Charging/B_light_4.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="10000"/>
+				<Position y="-480" time="22800"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+20" align="center" src="Charging/B_light_1.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="11000"/>
+				<Position y="-480" time="23800"/>
+			</PositionAnimation>
+		</Image>
+			
+		
+		
+		<Image x="#screen_width/2" align="center" src="Charging/B_light_3.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="500"/>
+				<Position y="-480" time="13300"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+20" align="center" src="Charging/B_light_4.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="1500"/>
+				<Position y="-480" time="14300"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+40" align="center" src="Charging/B_light_1.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="2500"/>
+				<Position y="-480" time="15300"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+60" align="center" src="Charging/B_light_2.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="3500"/>
+				<Position y="-480" time="16300"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="200" align="center" src="Charging/B_light_2.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="250"/>
+				<Position y="-480" time="13050"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+40" align="center" src="Charging/B_light_3.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="1250"/>
+				<Position y="-480" time="14050"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+60" align="center" src="Charging/B_light_4.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="2250"/>
+				<Position y="-480" time="15050"/>
+			</PositionAnimation>
+		</Image>
+		<Image x="#screen_width/2+20" align="center" src="Charging/B_light_1.png" category="Charging">
+			<PositionAnimation>
+				<Position y="800" time="0"/>
+				<Position y="800" time="3250"/>
+				<Position y="-480" time="16050"/>
+			</PositionAnimation>
+		</Image>
+	</Group>
+	<Image x="#screen_width/2" y="#screen_height-118" align="center" src="Charging/B_B_light.png" category="Charging">
+	<AlphaAnimation>
+		<Alpha a="100" time="0"/>
+		<Alpha a="255" time="2000"/>
+		<Alpha a="100" time="4000"/>
+	</AlphaAnimation>
+	</Image>
+</Lockscreen>

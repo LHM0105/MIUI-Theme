@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="撰写评论" version="3.1.11" annotation="" tag="">
+    <resource description="resource_comment_star" x="238" y="174" width="48" height="50" uuid="8c194e85-5c67-45fc-9fd6-822fc350bd19">
+        <path src="res\drawable-hdpi\resource_comment_star.png" description="" />
+        <path src="res\drawable-hdpi\resource_comment_star_off.png" description="" />
+    </resource>
+</screenshot>

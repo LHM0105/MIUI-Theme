@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 文件夹内拖动" version="3.2.27" annotation="" tag="文件夹">
+    <resource description="folder_content_bg.9" x="46" y="172" width="628" height="986" uuid="4820952f-c426-48de-9163-4445f6e480bb">
+        <path src="res\drawable-hdpi\folder_content_bg.9.png" description="文件夹范围虚线框" />
+        <path src="res\drawable-xhdpi\folder_content_bg.9.png" description="文件夹范围虚线框" />
+    </resource>
+    <resource description="delete_zone_bg.9" x="18" y="6" width="684" height="96" uuid="211201be-93f0-485b-a2f6-c8f84740e286">
+        <path src="res\drawable-hdpi\prompt_message_bg.9.png" description="删除卸载背景" />
+        <path src="res\drawable-xhdpi\prompt_message_bg.9.png" description="删除卸载背景" />
+    </resource>
+    <resource description="delete_zone_t0" x="334" y="14" width="50" height="52" uuid="fc4266bc-bdd9-473e-9383-e23893434661">
+        <path src="res\drawable-hdpi\delete_zone_t0.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t0.png" description="删除图标" />
+        <path src="res\drawable-hdpi\delete_zone_t1.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t1.png" description="删除图标" />
+        <path src="res\drawable-hdpi\delete_zone_t2.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t2.png" description="删除图标" />
+        <path src="res\drawable-hdpi\delete_zone_t3.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t3.png" description="删除图标" />
+        <path src="res\drawable-hdpi\delete_zone_t4.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t4.png" description="删除图标" />
+        <path src="res\drawable-hdpi\delete_zone_t5.png" description="删除图标" />
+        <path src="res\drawable-xhdpi\delete_zone_t5.png" description="删除图标" />
+    </resource>
+</screenshot>

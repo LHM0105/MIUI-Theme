@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<dimen name="collapse_min_display_fraction">0.100000%</dimen>
+<dimen name="expand_min_display_fraction">0.500000%</dimen>
+<dimen name="select_tab_fraction">0.700000%</dimen>
+<dimen name="expand_accel">2000.000000dp</dimen>
+<dimen name="collapse_accel">2000.000000dp</dimen>
+<dimen name="global_screenshot_bg_padding">20.000000dp</dimen>
+<dimen name="status_bar_icon_drawing_alpha">1.000000%</dimen>
+<dimen name="status_bar_notification_icon_size">12.799988dp</dimen>
+<dimen name="notification_divider_height">3.000000dp</dimen>
+<dimen name="status_bar_icon_padding">1.500000dp</dimen>
+<dimen name="self_collapse_velocity">2000.000000dp</dimen>
+<dimen name="self_expand_velocity">2000.000000dp</dimen>
+<dimen name="qs_detail_connect_start_radius">359.000000dp</dimen>
+<dimen name="qs_detail_connect_end_radius">609.000000dp</dimen>
+<dimen name="status_bar_recents_thumbnail_left_margin">20.000000dp</dimen>
+<dimen name="status_bar_recents_thumbnail_top_margin">28.000000dp</dimen>
+<dimen name="qs_detail_connect_animate_px">180.000000dp</dimen>
+<dimen name="blinds_pop_threshold">32.000000dp</dimen>
+<dimen name="qs_detail_connect_animate_py">445.000000dp</dimen>
+<dimen name="legacy_close_view_padding_bottom">1.000000dp</dimen>
+<dimen name="pull_span_min">25.000000dp</dimen>
+<dimen name="statusbar_carrier_size">11.500000dp</dimen>
+<dimen name="statusbar_clock_size">11.500000dp</dimen>
+<dimen name="status_bar_recents_right_glow_margin">100.000000dp</dimen>
+<dimen name="navigation_bar_deadzone_size">12.000000dp</dimen>
+<dimen name="status_bar_recents_thumbnail_width">130.000000dp</dimen>
+<dimen name="status_bar_recents_thumbnail_height">115.000000dp</dimen>
+<dimen name="notification_row_max_height">263.000000dp</dimen>
+<dimen name="navigation_bar_deadzone_size_max">32.000000dp</dimen>
+<dimen name="notification_max_height">263.000000dp</dimen>
+<dimen name="notification_min_height"></dimen>
+<dimen name="glowpadview_glow_radius"></dimen>
+<dimen name="notification_padding_right"></dimen>
+<dimen name="notification_padding_left"></dimen>
+<dimen name="notification_row_min_height"></dimen>
+<dimen name="screenshot_thumbnail_padding_right">0.000000dp</dimen>
+<dimen name="glowpadview_inner_radius"></dimen>
+<dimen name="notification_side_padding">0.000000dp</dimen>
+<dimen name="notification_stack_margin_bottom">0.000000dp</dimen>
+<dimen name="top_stack_peek_amount">0.000000dp</dimen>
+<dimen name="bottom_stack_peek_amount">0.000000dp</dimen>
+<dimen name="z_distance_between_notifications">1.000000dp</dimen>
+<dimen name="fling_gesture_max_output_velocity">3000.000000dp</dimen>
+<dimen name="fling_gesture_max_x_velocity">200.000000dp</dimen>
+<dimen name="fling_collapse_min_velocity">200.000000dp</dimen>
+<dimen name="fling_expand_min_velocity">100.000000dp</dimen>
+<dimen name="qs_detail_item_height">51.000000dp</dimen>
+<dimen name="notification_content_margin_left_to_icon"></dimen>
+<dimen name="block_notification_dialog_text_size">14.000000sp</dimen>
+<dimen name="notification_content_to_icon_length"></dimen>
+<dimen name="notification_block_width">64.000000dp</dimen>
+<dimen name="notification_large_icon_width"></dimen>
+<dimen name="notification_large_icon_height"></dimen>
+<dimen name="system_bar_height"></dimen>
+<dimen name="navigation_bar_size"></dimen>
+<dimen name="notification_action_height"></dimen>
+<dimen name="notification_action_text_size"></dimen>
+<dimen name="qs_detail_separated_text_size">11.000000sp</dimen>
+<dimen name="qs_detail_header_text_size">16.000000sp</dimen>
+<dimen name="qs_detail_button_text_size">14.000000sp</dimen>
+<dimen name="qs_detail_empty_text_size">14.000000sp</dimen>
+<dimen name="qs_detail_connect_item_primary_text_size">13.000000sp</dimen>
+<dimen name="qs_detail_item_secondary_text_size">11.000000sp</dimen>
+<dimen name="qs_detail_item_primary_text_size">14.000000sp</dimen>
+<dimen name="taskmanager_screenshot_distance_to_bottom">0.5</dimen>
+<dimen name="match_parent">16777215.000000px</dimen>
+<dimen name="status_bar_edge_ignore">5.000000dp</dimen>
+<dimen name="screen_pinning_request_button_height">66.000000dp</dimen>
+<dimen name="taskmanager_icon_distance_to_bottom">0.26458</dimen>
+<dimen name="float_notification_panel_width"></dimen>
+<dimen name="screen_pinning_request_width"></dimen>
+<dimen name="float_notification_content_width">333.000000dp</dimen>
+<dimen name="standard_float_notification_panel_width">390.000000dp</dimen>
+<dimen name="screen_pinning_request_inner_padding">14.000000dp</dimen>
+<dimen name="screen_pinning_request_button_width">84.000000dp</dimen>
+<dimen name="screen_pinning_nav_highlight_outer_size">84.000000dp</dimen>
+<dimen name="screen_pinning_nav_highlight_size">56.000000dp</dimen>
+<dimen name="screenshot_thumbnail_padding_top">15.000000dp</dimen>
+<dimen name="managed_profile_toast_padding">4.000000dp</dimen>
+<dimen name="screen_pinning_request_nav_side_padding">7.000000dp</dimen>
+<dimen name="screen_pinning_request_nav_icon_padding">18.000000dp</dimen>
+<dimen name="screen_pinning_request_frame_padding">0.000000dp</dimen>
+<dimen name="screen_pinning_request_side_width">34.000000dp</dimen>
+<dimen name="phone_float_notification_shock_distance">5.000000dp</dimen>
+<dimen name="notification_panel_title_margin_top">80.000000dp</dimen>
+<dimen name="status_bar_icon_size"></dimen>
+<dimen name="notification_panel_title_margin_bottom">10.000000dp</dimen>
+<dimen name="status_bar_height"></dimen>
+<dimen name="notification_panel_clear_margin_top">15.000000dp</dimen>
+<dimen name="single_page_brightness_panel_height">50.000000dp</dimen>
+<dimen name="dual_page_clear_button_margin_top">11.000000dp</dimen>
+<dimen name="dual_page_clear_button_margin_bottom">18.000000dp</dimen>
+<dimen name="notification_panel_width"></dimen>
+<dimen name="notification_filter_view_width">36.000000dp</dimen>
+<dimen name="notification_panel_app_info_text_size">23.000000sp</dimen>
+<dimen name="standard_notification_panel_width">440.000000dp</dimen>
+<dimen name="disable_notification_title_text_size">16.000000sp</dimen>
+<dimen name="dessert_case_cell_size">192.000000dp</dimen>
+<dimen name="notification_edit_view_margin_bottom">16.000000dp</dimen>
+<dimen name="disable_notification_description_margin_bottom">14.000000dp</dimen>
+<dimen name="expanded_status_bar_toggles_height">180.000000dp</dimen>
+<dimen name="status_bar_recents_app_icon_top_margin">8.000000dp</dimen>
+<dimen name="status_bar_recents_app_icon_left_margin">0.000000dp</dimen>
+<dimen name="status_bar_recents_item_padding">0.000000dp</dimen>
+<dimen name="oldman_status_bar_clock_text_size">16.000000dp</dimen>
+<dimen name="notification_panel_clear_margin_bottom">20.000000dp</dimen>
+<dimen name="task_access_locked_app_padding_vertical">37.000000dp</dimen>
+<dimen name="clean_toast_bottom_margin">47.000000dp</dimen>
+<dimen name="expanded_status_bar_land_toggles_margin_top">23.000000dp</dimen>
+<dimen name="expanded_status_bar_land_toggles_brightness_panel_height">53.000000dp</dimen>
+<dimen name="status_bar_recents_app_label_width">88.000000dp</dimen>
+<dimen name="expanded_status_bar_toggle_max_land_height">81.000000dp</dimen>
+<dimen name="status_bar_recents_app_label_left_margin">0.000000dp</dimen>
+<dimen name="expanded_status_bar_toggle_max_height">95.000000dp</dimen>
+<dimen name="expanded_status_bar_toggle_max_width">104.000000dp</dimen>
+<dimen name="status_bar_recents_text_description_padding">8.000000dp</dimen>
+<dimen name="expanded_status_bar_toggle_min_width">70.000000dp</dimen>
+<dimen name="single_page_clear_button_gap">12.000000dp</dimen>
+<dimen name="single_page_toggles_space">8.000000dp</dimen>
+<dimen name="expanded_status_bar_brightness_panel_padding_bottom">25.000000dp</dimen>
+<dimen name="expanded_status_bar_brightness_panel_padding_left">32.000000dp</dimen>
+<dimen name="expanded_status_bar_brightness_panel_padding_right">32.000000dp</dimen>
+<dimen name="expanded_status_bar_land_brightness_panel_padding_bottom">20.000000dp</dimen>
+<dimen name="expanded_status_bar_land_brightness_panel_padding_left">45.000000dp</dimen>
+<dimen name="expanded_status_bar_land_brightness_panel_padding_right">45.000000dp</dimen>
+<dimen name="oldman_status_bar_basic_text_size">16.000000dp</dimen>
+<dimen name="single_page_toggles_height">83.000000dp</dimen>
+<dimen name="oldman_status_bar_clock_text_size_s">16.000000dp</dimen>
+<dimen name="single_page_toggles_offset">8.000000dp</dimen>
+<dimen name="recent_task_button_interval">10.000000dp</dimen>
+<dimen name="recent_task_icon_to_bottom_min">168.000000dp</dimen>
+<dimen name="recent_task_music_control_height">100.000000dp</dimen>
+<dimen name="recent_task_back_to_prev_padding">3.000000dp</dimen>
+<dimen name="recent_task_screenshot_menu_padding">10.000000dp</dimen>
+<dimen name="recent_task_item_text_size">15.000000dp</dimen>
+<dimen name="expanded_header_no_search_padding_top">30.000000dp</dimen>
+<dimen name="expanded_header_no_search_height">101.000000dp</dimen>
+<dimen name="expanded_status_bar_toggles_brightness_panel_height">68.000000dp</dimen>
+<dimen name="expanded_account_height">42.000000dp</dimen>
+<dimen name="expanded_header_search_anim_bottom_distance">11.000000dp</dimen>
+<dimen name="expanded_header_height">134.000000dp</dimen>
+<dimen name="expanded_header_padding_top">3.000000dp</dimen>
+<dimen name="recent_task_music_element_height">118.000000dp</dimen>
+<dimen name="recent_task_shadow_height">8.000000dp</dimen>
+<dimen name="recent_task_screenshot_menu_padding_bottom">20.000000dp</dimen>
+<dimen name="expanded_search_text_size">12.000000sp</dimen>
+<dimen name="mtp_action_text_size">14.000000sp</dimen>
+<dimen name="expanded_account_size">9.000000sp</dimen>
+<dimen name="expanded_content_size">11.000000sp</dimen>
+<dimen name="expanded_title_size">16.000000sp</dimen>
+<dimen name="expanded_weather_size">12.000000dp</dimen>
+<dimen name="recent_task_screenshot_to_bottom_min">150.000000dp</dimen>
+<dimen name="recent_task_txt_memory_text_size">11.000000sp</dimen>
+<dimen name="oldman_status_bar_incall_text_size">16.000000dp</dimen>
+<dimen name="recent_task_no_recent_msg_padding_bottom">12.000000dp</dimen>
+<dimen name="oldman_status_bar_common_padding">4.000000dp</dimen>
+<dimen name="recent_task_padding_bottom">14.000000dp</dimen>
+<dimen name="recent_task_item_horizontal_padding">10.000000dp</dimen>
+<dimen name="recent_task_txt_memory_margin_top">17.000000dp</dimen>
+<dimen name="recent_task_lock_flag_offset_icon_mode">1.000000dp</dimen>
+<dimen name="recent_task_lock_flag_offset_screenshot_mode">7.000000dp</dimen>
+<dimen name="no_notification_tips_text_size">13.000000sp</dimen>
+<dimen name="expanded_notification_blocker_text_size">12.000000dp</dimen>
+<dimen name="navbar_search_outerring_radius">170.000000dp</dimen>
+<dimen name="navbar_search_panel_height">230.000000dp</dimen>
+<dimen name="close_handle_underlap">18.000000dp</dimen>
+<dimen name="navigation_key_width">80.000000dp</dimen>
+<dimen name="navbar_search_outerring_diameter">340.000000dp</dimen>
+<dimen name="navigation_menu_key_width">40.000000dp</dimen>
+<dimen name="expanded_date_size">11.000000dp</dimen>
+<dimen name="statusbar_text_bottom_padding">0.000000dp</dimen>
+<dimen name="statusbar_battery_size">10.500000dp</dimen>
+<dimen name="toggle_text_size">12.000000sp</dimen>
+<dimen name="statusbar_battery_text_bottom_padding">0.300000dp</dimen>
+<color name="screen_pinning_request_window_bg">#80000000</color>
+<color name="safepay_status_bar_blue_bg">#ff258ce3</color>
+<color name="status_bar_expanded_title">#ffffffff</color>
+<color name="status_bar_expanded_weather_publish_time">#8cffffff</color>
+<color name="status_bar_expanded_content">#80ffffff</color>
+<color name="battery_indicator_power_save">#ffff9c1a</color>
+<color name="toggle_lable_color_n">#ff299898</color>
+<color name="battery_indicator_low">#ffe30101</color>
+<color name="battery_indicator">#ff47c200</color>
+<color name="status_bar_expanded_weather">#ccffffff</color>
+<color name="system_accent_color">#ff80cbc4</color>
+<color name="status_bar_expanded_date">#66ffffff</color>
+<color name="screen_pinning_primary_text">#de000000</color>
+<color name="status_bar_background_fullscreen_color">#7f000000</color>
+<color name="status_bar_background_transparent_color">#00000000</color>
+<color name="status_bar_background_color">#ff000000</color>
+<color name="status_bar_expanded_account">#66ffffff</color>
+<color name="qs_detail_header_text">#e6ffffff</color>
+<color name="expanded_notification_blocker_color">#b3ffffff</color>
+<color name="expanded_notification_manager_color">#cc000000</color>
+<color name="qs_detail_transition">#ffffffff</color>
+<color name="search_switch_bg_color">#ff1d1f21</color>
+<color name="qs_detail_button">#ff000000</color>
+<color name="block_notification_dialog_text_color">#ff7b7b7b</color>
+<color name="screenshot_top_msg_bg">#99000000</color>
+<color name="status_bar_expanded_search">#e6ffffff</color>
+<color name="screenshot_button_color">#ddffffff</color>
+<color name="status_bar_green_bar_bg_n">#ff53c224</color>
+<color name="status_bar_background_keyguard_color">#00000000</color>
+<color name="status_bar_green_bar_bg_p">#ff47a51f</color>
+<color name="screenshot_ui_bg">#ff000000</color>
+<color name="status_bar_network_flow_exceed_color">#fff75959</color>
+<color name="toggle_lable_color_p">#ff299898</color>
+<color name="tab_lable_color_n">#80ffffff</color>
+<color name="no_notification_tips_text">#80000000</color>
+<color name="safepay_progressbar_progress">#ffffffff</color>
+<color name="safepay_status_bar_orange_bg">#ffe66700</color>
+<color name="safepay_status_bar_green_bg">#ff50b017</color>
+<color name="safepay_progressbar_background">#33ffffff</color>
+<color name="safepay_status_bar_yellow_bg">#ffed9523</color>
+<color name="task_manager_text">#77ffffff</color>
+<color name="task_item_text_shadowColor">#ff000000</color>
+<color name="status_bar_textColor_darkmode">#a6000000</color>
+<color name="mdb_restore_white">#ffffffff</color>
+<color name="tab_lable_color_p">#ffffffff</color>
+<color name="mdb_restore_shadow">#66000000</color>
+<color name="status_bar_red_bar_color_bg_n">#ffff4800</color>
+<color name="screen_pinning_nav_icon_highlight_outer">#4080cbc4</color>
+<color name="status_bar_textColor">#ccffffff</color>
+<color name="screen_pinning_request_bg">#ff009688</color>
+<color name="recents_no_apps">#ff464646</color>
+<color name="task_access_locked_app_bg">#ffffffff</color>
+<color name="status_bar_red_bar_color_bg_p">#ffdb3502</color>
+<color name="task_access_locked_app_msg">#ffa3a3a3</color>
+<color name="system_bar_background_opaque">#ff000000</color>
+<color name="task_item_text">#ffffffff</color>
+<color name="system_bar_background_semi_transparent">#66000000</color>
+<color name="mdb_restore_grey">#ffc2c2c2</color>
+<color name="qs_detail_item_primary_text_color">#b3000000</color>
+<color name="qs_detail_separated_text">#4d000000</color>
+<color name="qs_detail_connect_item_secondary_text_color">#ff000000</color>
+<color name="qs_detail_connect_item_primary_text_color">#e633b4ff</color>
+<color name="qs_detail_disconnect_header_color">#ff7e95a1</color>
+<color name="qs_detail_connect_header_color">#ff2fa5dc</color>
+<color name="oldman_status_bar_basic_text_color">#b4ffffff</color>
+<color name="oldman_status_bar_basic_text_color_rev">#b4000000</color>
+<color name="oldman_status_bar_incall_text_color">#ffffffff</color>
+<color name="oldman_status_bar_incall_text_color_rev">#ff000000</color>
+<color name="oldman_status_bar_clock_text_color">#b4ffffff</color>
+<bool name="auto_modify_expanded_header_color">true</bool>
+<bool name="expanded_status_bar_darkmode">false</bool>
+<bool name="taskmanager_default_is_screenshot_mode">false</bool>
+<bool name="config_show_clear_button_in_bottom">true</bool>
+<bool name="config_show_statusbar_search">true</bool>
+<bool name="config_show_statusbar_blur_bg">true</bool>
+<bool name="config_flash_camera">false</bool>
+<bool name="config_dead_zone_flash">false</bool>
+<bool name="config_protect_csp">false</bool>
+<bool name="config_statusBarShowNumber">false</bool>
+<bool name="config_showPhoneRSSIForData">false</bool>
+<bool name="config_showMin3G">false</bool>
+<bool name="config_showRotationLock">true</bool>
+<bool name="config_recents_interface_for_tablets">false</bool>
+<bool name="show_expanded_header_on_land">false</bool>
+<bool name="config_recents_thumbnail_image_fits_to_xy">false</bool>
+<bool name="miui_font_scale_switch">true</bool>
+<bool name="config_hspa_data_distinguishable">true</bool>
+<integer name="config_vibration_duration">#00000000</integer>
+<integer name="config_search_panel_view_vibration_duration">#00000014</integer>
+<integer name="notification_panel_layout_gravity">#00000037</integer>
+<integer name="blinds_pop_duration_ms">#0000000a</integer>
+<integer name="navigation_bar_deadzone_hold">#0000014d</integer>
+<integer name="quick_settings_detail_max_item_count">#0000000a</integer>
+<integer name="status_bar_recents_bg_gradient_degrees">#0000005a</integer>
+<integer name="config_maxNotificationIcons">#00000005</integer>
+<integer name="status_bar_blur_exit_time">#000000c8</integer>
+<integer name="config_show_search_delay">#000000c8</integer>
+<integer name="battery_columns">#00000001</integer>
+<integer name="expanded_status_bar_toggles_land_rows">#00000002</integer>
+<integer name="expanded_status_bar_toggles_rows">#00000003</integer>
+<integer name="status_bar_blur_enter_time">#000000fa</integer>
+<integer name="expanded_status_bar_toggle_land_space_weight">#00000066</integer>
+<integer name="expanded_status_bar_toggle_space_weight">#0000002b</integer>
+<integer name="flash_on_value">#00000064</integer>
+<integer name="navigation_bar_deadzone_decay">#0000014d</integer>
+<integer name="config_task_open_animator_duration">#0000012c</integer>
+<integer name="notification_long_press_item_disabled_alpha">#00000014</integer>
+<string name="mdb_restore_cancel">取消</string>
+<string name="mdb_usb_disconnection_exit">USB连接断开，终止恢复</string>
+<string name="mdb_restore_mode">恢复模式</string>
+<string name="mdb_entering">正在进入</string>
+<string name="status_bar_recording_back">点击返回录音</string>
+<string name="status_bar_recording_pause">点击返回录音</string>
+<string name="usb_share_net_info">使用电脑网络上网</string>
+<string name="battery_profiles">使用省电模式</string>
+<string name="mdb_restore_info1">恢复你手机中的数据，设置和应用</string>
+<string name="mdb_restore_info2">为了保证数据完整，请不要断开链接</string>
+<string name="block_record_notification_text">%1$s，点击查看</string>
+<string name="notification_hidden_text">内容已隐藏</string>
+<string name="block_record_notification_more_text">%1$s等%2$d个应用，点击查看</string>
+<string name="block_notification_content_text">不再提示%1$s的所有通知,您也可以在系统设置的通知管理中更改</string>
+<string name="block_notification_text">屏蔽</string>
+<string name="notification_otg_mouse_in">鼠标已连接</string>
+<string name="notification_otg_gamestick_out">游戏手柄已断开</string>
+<string name="notification_otg_touchScreen_in">触摸屏已连接</string>
+<string name="notification_otg_touchPad_in">触摸板已连接</string>
+<string name="notification_otg_gamestick_in">游戏手柄已连接</string>
+<string name="notification_otg_stylus_in">手写笔已连接</string>
+<string name="notification_otg_mouse_out">鼠标已断开</string>
+<string name="notification_otg_keyboard_out">键盘已断开</string>
+<string name="notification_otg_trackball_in">轨迹球已连接</string>
+<string name="notification_otg_unknow_in">OTG设备已连接</string>
+<string name="notification_otg_keyboard_in">键盘已连接</string>
+<string name="network_speed_suffix">%1$s%2$s</string>
+<string name="ext_media_safe_remove">安全移除</string>
+<string name="status_bar_network_flow_content">剩余:%2$s</string>
+<string name="status_bar_network_flow_today">今日:%1$s</string>
+<string name="megabyte_per_second">M/s</string>
+<string name="kilobyte_per_second">K/s</string>
+<string name="block_record_notification_title">屏蔽记录</string>
+<string name="expanded_confirm_disable_notification">确认屏蔽</string>
+<string name="flash_device">/sys/class/leds/flashlight/brightness</string>
+<string name="status_bar_no_recent_apps">最近没有运行任何应用</string>
+<string name="recent_task_lock_text">锁定任务</string>
+<string name="status_bar_date_formatter">%2$s\n%1$s</string>
+<string name="app_label">系统用户界面</string>
+<string name="battery_low_percent_format">%d%%</string>
+<string name="audio_effect_settings">设置耳机类型</string>
+<string name="battery_low_title">请连接充电器</string>
+<string name="recent_task_app_info_text">应用详情</string>
+<string name="recent_task_unlock_text">解锁任务</string>
+<string name="oldman_airplane_mode_text">飞行模式</string>
+<string name="save_mode_btn_ok">知道了</string>
+<string name="notification_template_text">发来一条通知，点击查看</string>
+<string name="oldman_incall_text">点击返回通话</string>
+<string name="invalid_charger">充电功能。\n只能使用随附的充电器充电。</string>
+<string name="enable_power_save_mode">省电模式</string>
+<string name="screen_button_notification_title">手机屏幕下方按键功能已停用</string>
+<string name="vpn_text">触摸可管理网络。</string>
+<string name="vpn_text_long">已连接到“%s”。触摸可管理网络。</string>
+<string name="vpn_title">已激活</string>
+<string name="vpn_title_long">VPN</string>
+<string name="media_projection_remember_text">不再显示</string>
+<string name="media_projection_action_text">立即开始</string>
+<string name="audio_effect_custom">设置</string>
+<string name="media_projection_dialog_text">%s将开始截取您的屏幕上显示的所有内容。</string>
+<string name="usb_device_confirm_prompt">设备时打开%1$s吗？</string>
+<string name="audio_effect_info">让您听到的声音更美好</string>
+<string name="usb_accessory_confirm_prompt">配件时打开%1$s吗？</string>
+<string name="usb_accessory_uri_prompt">配件适用的应用。要了解此配件的详情，请访问：%1$s</string>
+<string name="title_usb_accessory">配件</string>
+<string name="label_view">查看</string>
+<string name="always_use_device">设备</string>
+<string name="usb_debugging_title">调试吗？</string>
+<string name="always_use_accessory">配件</string>
+<string name="mdb_restore_label">MDB恢复</string>
+<string name="usb_debugging_always">一律允许使用这台计算机进行调试</string>
+<string name="notification_otg_unknow_out">OTG设备已断开</string>
+<string name="usb_debugging_message">密钥指纹如下：\n%1$s</string>
+<string name="notification_otg_trackball_out">轨迹球已断开</string>
+<string name="notification_otg_touchPad_out">触摸板已断开</string>
+<string name="notification_otg_touchScreen_out">触摸屏已断开</string>
+<string name="notification_otg_stylus_out">手写笔已断开</string>
+<string name="status_bar_settings_battery_meter_format">%d%%</string>
+<string name="status_bar_settings_airplane">飞行模式</string>
+<string name="bluetooth_tethered">已通过蓝牙共享网络</string>
+<string name="status_bar_network_name_separator">|</string>
+<string name="accessibility_bluetooth_connected">蓝牙已连接。</string>
+<string name="accessibility_camera_button">相机</string>
+<string name="accessibility_search_light">搜索</string>
+<string name="accessibility_recent">最近运行的应用</string>
+<string name="accessibility_ime_switch_button">输入法切换按钮。</string>
+<string name="accessibility_menu">菜单</string>
+<string name="quick_settings_bluetooth_detail_empty_text">没有可用的配对设备</string>
+<string name="accessibility_home">主屏幕</string>
+<string name="quick_settings_bluetooth_label">蓝牙</string>
+<string name="accessibility_back">返回</string>
+<string name="quick_settings_connecting">正在连接</string>
+<string name="usb_storage_error_message">大容量存储设备时出现问题。</string>
+<string name="usb_storage_message">存储设备之间复制文件，请触摸下面的按钮。</string>
+<string name="usb_storage_notification_message">选择将文件复制到计算机或从计算机复制到存储设备。</string>
+<string name="usb_storage_notification_title">已连接</string>
+<string name="usb_accessory_permission_prompt">配件吗？</string>
+<string name="usb_storage_stop_notification_message">存储设备。</string>
+<string name="usb_device_permission_prompt">设备吗？</string>
+<string name="usb_storage_stop_notification_title">存储设备</string>
+<string name="screenshot_saved_title">已捕获屏幕截图</string>
+<string name="screenshot_saved_text">触摸可查看您的屏幕截图</string>
+<string name="screenshot_saving_title">正在保存屏幕截图...</string>
+<string name="screenshot_saving_text">正在保存屏幕截图</string>
+<string name="screenshot_saving_ticker">正在保存屏幕截图...</string>
+<string name="long_screenshot_out_of_memory_error">图片太大导致失败</string>
+<string name="long_screenshot_processing">处理中...</string>
+<string name="long_screenshot_top_msg">正在截长屏...</string>
+<string name="accessibility_phone_one_bar">手机信号强度为一格。</string>
+<string name="accessibility_bluetooth_disconnected">蓝牙连接已断开。</string>
+<string name="accessibility_no_phone">没有手机信号。</string>
+<string name="accessibility_wifi_one_bar">格。</string>
+<string name="accessibility_no_wifi">信号。</string>
+<string name="accessibility_wifi_three_bars">格。</string>
+<string name="accessibility_wifi_two_bars">格。</string>
+<string name="accessibility_data_three_bars">数据信号强度为三格。</string>
+<string name="accessibility_data_two_bars">数据信号强度为两格。</string>
+<string name="accessibility_data_signal_full">数据信号满格。</string>
+<string name="accessibility_data_four_bars">数据信号强度为四格。</string>
+<string name="screenshot_failed_text">无法进行屏幕截图，原因可能是存储空间不足，或者该应用或您所属的单位不允许执行此操作。</string>
+<string name="accessibility_phone_four_bars">手机信号强度为四格。</string>
+<string name="accessibility_phone_signal_full">手机信号满格。</string>
+<string name="accessibility_no_data">没有数据网络信号。</string>
+<string name="accessibility_data_one_bar">数据信号强度为一格。</string>
+<string name="accessibility_phone_two_bars">手机信号强度为两格。</string>
+<string name="accessibility_phone_three_bars">手机信号强度为三格。</string>
+<string name="accessibility_wifi_signal_full">信号满格。</string>
+<string name="accessibility_no_wimax">信号。</string>
+<string name="accessibility_bluetooth_tether">蓝牙共享网络。</string>
+<string name="accessibility_data_connection_edge">EDGE</string>
+<string name="accessibility_data_connection_cdma">CDMA</string>
+<string name="accessibility_data_connection_4g">4G</string>
+<string name="accessibility_tty_enabled">电传打字机已启用。</string>
+<string name="accessibility_remove_notification">清除通知。</string>
+<string name="ext_media_nofs_notification_message">存储设备中无文件或使用了不支持的文件系统。</string>
+<string name="accessibility_battery_level">%d%%。</string>
+<string name="accessibility_airplane_mode">飞行模式。</string>
+<string name="expanded_notification_manager">通知管理</string>
+<string name="no_notification_tips">暂无通知</string>
+<string name="screenshot_dlg_cancel">取消</string>
+<string name="disable_notification_summary">不再提示该应用所有通知</string>
+<string name="screenshot_delete_dlg_msg">确定要删除这张截屏？</string>
+<string name="disable_notification_title">屏蔽通知</string>
+<string name="screenshot_delete_dlg_title">删除</string>
+<string name="status_bar_network_flow_purchase">&gt;</string>
+<string name="accessibility_data_connection_3.5g">3.5G</string>
+<string name="screenshot_delete">删除</string>
+<string name="status_bar_network_flow_exceed_content">color=%2$s&gt;%3$s&lt;/font&gt;</string>
+<string name="screenshot_send">发送</string>
+<string name="drive_mode_tip">开车模式，请注意行车安全</string>
+<string name="screenshot_edit">编辑</string>
+<string name="status_bar_network_flow_limit"></string>
+<string name="weather_description">&gt;</string>
+<string name="accessibility_wimax_two_bars">信号强度为两格。</string>
+<string name="screenshot_long_screenshot">截长屏</string>
+<string name="accessibility_wimax_three_bars">信号强度为三格。</string>
+<string name="no_weather_description">&gt;</string>
+<string name="weather_description_no_aqi">&gt;</string>
+<string name="accessibility_wimax_one_bar">信号强度为一格。</string>
+<string name="accessibility_data_connection_3g">3G</string>
+<string name="ext_media_nomedia_notification_message">存储设备已移除。请插入新媒体。</string>
+<string name="ext_media_mountable_notification_title">存储设备已连接</string>
+<string name="accessibility_wimax_signal_full">信号满格。</string>
+<string name="ext_media_mountable_notification_message">点击进入文件管理器</string>
+<string name="accessibility_data_connection_gprs">GPRS</string>
+<string name="dlg_ok">确定</string>
+<string name="ext_media_checking_notification_title">存储设备</string>
+<string name="accessibility_ringer_vibrate">振铃器振动。</string>
+<string name="ext_media_checking_notification_message">正在检查是否有错误。</string>
+<string name="ext_media_nofs_notification_title">存储设备中无文件</string>
+<string name="dlg_error_title">操作失败</string>
+<string name="screenshot_dlg_delete_button">删除</string>
+<string name="gps_notification_searching_text">GPS</string>
+<string name="status_bar_settings_signal_meter_wifi_nossid">已连接</string>
+<string name="long_screenshot_stop">结束截长屏</string>
+<string name="accessibility_clear_all">清除所有通知。</string>
+<string name="long_screenshot_not_support_msg">此界面不能截取长截屏。</string>
+<string name="gps_notification_found_text">确定位置</string>
+<string name="screen_pinning_title">已固定屏幕</string>
+<string name="status_bar_notification_inspect_item_title">应用信息</string>
+<string name="screen_pinning_description_accessible">这将会固定显示此屏幕，直到您取消固定为止。触摸并按住““桌面键”和“电源键”即可取消固定屏幕。</string>
+<string name="screen_pinning_description">这将会固定显示此屏幕，直到您取消固定为止。触摸并同时按住“桌面键”和“电源键”即可取消固定屏幕。</string>
+<string name="ext_media_nomedia_notification_title">存储设备已移除</string>
+<string name="quick_settings_connect_success">已连接</string>
+<string name="ext_media_safe_unmount_notification_message">存储设备。</string>
+<string name="ext_media_safe_unmount_notification_title">存储设备已安全移除</string>
+<string name="ext_media_badremoval_notification_message">存储设备，再将其移除，以防数据丢失。</string>
+<string name="quick_settings_wifi_detail_empty_text">网络</string>
+<string name="ext_media_badremoval_notification_title">存储设备已意外移除</string>
+<string name="quick_settings_done">完成</string>
+<string name="ext_media_unmountable_notification_message">存储设备已损坏，您可能需要对其重新格式化。</string>
+<string name="quick_settings_wifi_nearby">选取附近网络</string>
+<string name="status_bar_settings_signal_meter_disconnected">未连接互联网</string>
+<string name="ext_media_unmountable_notification_title">存储设备已损坏</string>
+<string name="quick_settings_wifi_label">无线网络</string>
+<string name="data_usage_disabled_dialog_enable">重新启用数据连接</string>
+<string name="float_incall_ignore">忽略</string>
+<string name="accessibility_ringer_silent">振铃器静音。</string>
+<string name="notification_manager">通知管理</string>
+<string name="data_usage_disabled_dialog_3g_title">数据网络已停用</string>
+<string name="notification_manager_des">通知中心消息提醒的屏蔽与管理</string>
+<string name="data_usage_disabled_dialog_4g_title">数据网络已停用</string>
+<string name="quick_settings_more_settings">更多设置</string>
+<string name="data_usage_disabled_dialog_mobile_title">移动数据已停用</string>
+<string name="data_usage_disabled_dialog_title">数据已停用</string>
+<string name="dlg_confirm_kill_storage_users_title">存储设备</string>
+<string name="data_usage_disabled_dialog">您已达到指定的数据流量上限。\n\n如果您重新启用数据，运营商可能会收取相应的费用。</string>
+<string name="dlg_confirm_kill_storage_users_text">存储设备前可能都无法使用。</string>
+<string name="usb_storage_stop_title">存储设备正在使用中</string>
+<string name="float_incall_message">短信</string>
+<string name="usb_storage_stop_message">存储设备。</string>
+<string name="screen_pinning_positive">知道了</string>
+<string name="status_bar_safepay_safe">支付环境安全！安全中心为您保驾护航</string>
+<string name="accessibility_managed_profile">工作资料</string>
+<string name="screen_pinning_negative">不用了</string>
+<string name="status_bar_safepay_scanning">正在检测支付环境</string>
+<string name="managed_profile_foreground_toast">您当前正在使用工作资料</string>
+<string name="status_bar_safepay_risk">检测到资金风险！请停止支付</string>
+<string name="status_bar_safepay_unknown">检测失败，安全情况未知，请联网后重试</string>
+<string name="status_bar_date_format">M月dd日\nEEEE</string>
+<string name="status_bar_recent_guide_top">上划删除</string>
+<string name="status_bar_recent_guide_bottom">下划锁定</string>
+<string name="share">分享</string>
+<string name="toast_rotation_locked">屏幕已锁定为横向浏览模式。</string>
+<string name="oldman_status_bar_time_format_24">HH:mm</string>
+<string name="oldman_status_bar_time_format_12">h:mm</string>
+<string name="status_bar_recent_guide_all">上划删除\n下划锁定</string>
+<string name="description_direction_left">向左滑动以%s。</string>
+<string name="description_direction_up">向上滑动以%s。</string>
+<string name="status_bar_recent_memory_info1"></string>
+<string name="status_bar_clock_date_format">E</string>
+<string name="status_bar_date_format_12">aa</string>
+<string name="description_target_search">搜索</string>
+<string name="usb_mode_dont_ask">下次不再询问</string>
+<string name="usb_mode_mount_storage_title">是否打开USB存储？</string>
+<string name="status_bar_recent_memory_info2">%2$s</string>
+<string name="usb_mode_notification">USB数据存储</string>
+<string name="usb_notification_ptp_info">可以通过电脑查看手机照片</string>
+<string name="usb_notification_mtp_problem">获取帮助</string>
+<string name="usb_notification">已连接USB</string>
+<string name="usb_notification_mtp_info">可以通过电脑访问手机文件</string>
+<string name="mount_storage">打开</string>
+<string name="dismount_storage">不打开</string>
+<string name="usb_ptp_text">看照片</string>
+<string name="usb_notification_mtp_ticker_text">已连接USB(传文件)</string>
+<string name="usb_mtp_text">传文件</string>
+<string name="user_guide_for_notification">有新通知，你可以下拉通知栏查看详情</string>
+<string name="usb_notification_ptp_ticker_text">已连接USB(看照片)</string>
+<string name="user_guide_for_toggle">快捷开关栏可以左右滑动</string>
+<string name="user_guide_for_toggle_list">点击此可以自定义快捷开关栏</string>
+<string name="activate_usb_title">激活</string>
+<string name="activate_usb_message">为防止第三方恶意刷入程序，请插入SIM卡用以激活USB功能</string>
+<string name="usb_function_charging_text">以充电方式连接</string>
+<string name="return_to_incall_screen">点击返回通话</string>
+<string name="call_status_dialing">正在呼叫</string>
+<string name="call_status_ringing">正在来电</string>
+<string name="reject_call">拒接来电</string>
+<string name="status_bar_style_settings">通知栏设置</string>
+<string name="settings_custom_notification">自定义通知</string>
+<string name="settings_toggle_position_reset">恢复默认设置</string>
+<string name="settings_toggle_position_divider_list">上方开关会出现在通知栏</string>
+<string name="settings_toggle_position_divider_page">上方%1$d个开关会出现在通知栏</string>
+<string name="settings_toggle_position">自定义开关</string>
+<string name="camera_key_action_category_title">非拍照模式下，执行操作</string>
+<string name="camera_key_action_setting_title">按下米键</string>
+<string name="camera_key_action_none_title">无</string>
+<string name="camera_key_action_shortcut_title">快捷操作</string>
+<string name="camera_key_action_shortcut_home">返回桌面</string>
+<string name="camera_key_action_shortcut_screenshot">截屏</string>
+<string name="camera_key_action_toggle_title">快捷开关</string>
+<string name="camera_key_action_app_title">打开应用程序</string>
+<string name="camera_key_action_shortcut_wake">锁屏或点亮屏幕</string>
+<string name="torch_activity_name">手电筒</string>
+<string name="camera_key_action_shortcut_search">搜索</string>
+<string name="camera_key_action_shortcut_call">电话</string>
+<string name="usb_storage_title">已连接</string>
+<string name="torch_opened">手电筒已开启</string>
+<string name="torch_closed">手电筒已关闭</string>
+<string name="lockscreen_carrier_default">无服务</string>
+<string name="chooseUsbActivity">设备的应用程序</string>
+<string name="torch_activity_hint">可以快速打开手电</string>
+<string name="screen_button_notification_text">可通过“桌面键+电源键”恢复</string>
+<string name="task_access_locked_app_msg">已开启应用锁</string>
+<string name="account_info">未登录</string>
+<string name="notification_header_title">最近通知</string>
+<string name="hour_minute_time_format">HH:mm</string>
+<string name="weather_publish_time">%1$s发布</string>
+<string-array name="aqi_title">
+<item>无污染</item>
+<item>优</item>
+<item>良</item>
+<item>轻度</item>
+<item>中度</item>
+<item>重度</item>
+<item>严重</item>
+</string-array>
+<string-array name="duration_entries">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>-</item>
+<item>d</item>
+</string-array>
+<string-array name="aqi_title_prefix">
+<item>%1$s</item>
+<item>空气%1$s</item>
+<item>空气%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+</string-array>
+<string-array name="aqi_title_append">
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+<item>%1$s污染</item>
+</string-array>
+<string-array name="system_foreground_notification_whitelist">
+<item>com.miui.home</item>
+<item>com.android.providers.contacts</item>
+<item>com.android.updater</item>
+<item>com.miui.gallery</item>
+<item>com.miui.player</item>
+<item>com.android.fileexplorer</item>
+<item>com.miui.securitycenter</item>
+<item>com.miui.cloudappbackup</item>
+<item>com.miui.fmradio</item>
+<item>com.android.systemui</item>
+</string-array>
+<string-array name="mcc_mnc">
+<item>40552</item>
+<item>40498</item>
+<item>40431</item>
+<item>40490</item>
+<item>40493</item>
+<item>40492</item>
+<item>40551</item>
+<item>40553</item>
+<item>40470</item>
+<item>40556</item>
+<item>40416</item>
+<item>40410</item>
+<item>40440</item>
+<item>40449</item>
+<item>40496</item>
+<item>40403</item>
+<item>40555</item>
+<item>40495</item>
+<item>40445</item>
+<item>40402</item>
+<item>40494</item>
+<item>40554</item>
+<item>40497</item>
+</string-array>
+<string-array name="weather_type">
+<item>晴</item>
+<item>多云</item>
+<item>阴</item>
+<item>雾</item>
+<item>特大暴雨</item>
+<item>大暴雨</item>
+<item>暴雨</item>
+<item>雷阵雨</item>
+<item>阵雨</item>
+<item>大雨</item>
+<item>中雨</item>
+<item>小雨</item>
+<item>雨夹雪</item>
+<item>暴雪</item>
+<item>阵雪</item>
+<item>大雪</item>
+<item>中雪</item>
+<item>小雪</item>
+<item>强沙尘暴</item>
+<item>沙尘暴</item>
+<item>沙尘</item>
+<item>扬沙</item>
+<item>冰雹</item>
+<item>浮尘</item>
+<item>霾</item>
+<item>冻雨</item>
+<item></item>
+</string-array>
+<string-array name="avoid_disturb_app_whitelist">
+<item>com.baidu.BaiduMap</item>
+<item>com.autonavi.xmgd.navigator</item>
+<item>com.autonavi.minimap</item>
+<item>com.baidu.navi</item>
+<item>com.baidu.bus</item>
+<item>com.mapbar.android.mapbarmap1</item>
+<item>com.mapbar.android.trybuynavi</item>
+<item>com.mapbar.android.gpsnavi</item>
+<item>com.tencent.map</item>
+<item>com.tencent.navsns</item>
+<item>com.uu.uunavi</item>
+<item>com.sogou.map.android.maps</item>
+<item>com.tigerknows</item>
+<item>com.autonavi.cmccmap</item>
+<item>brut.googlemaps</item>
+</string-array>
+<string-array name="carrier_simple_name">
+<item>移动</item>
+<item>联通</item>
+<item>电信</item>
+<item>HK</item>
+</string-array>
+<string-array name="carrier_name">
+<item>中国移动</item>
+<item>中国联通</item>
+<item>中国电信</item>
+<item>SmarToneVodafone</item>
+</string-array>
+</MIUI_Theme_Values>

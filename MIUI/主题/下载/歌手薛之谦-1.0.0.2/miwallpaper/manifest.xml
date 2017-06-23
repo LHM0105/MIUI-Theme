@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MiWallpaper version="1" frameRate="40" width="1440" height="720" screenWidth="720">
+
+ <Image x="-#wallpaper_offset_x*0" src="default_wallpaper.jpg"/>
+	<Image x="100" y="252">
+	
+		<SourcesAnimation>
+			
+			<Source src="muma2.png" time="100"/>
+			<Source src="muma1.png" time="400"/>
+			<Source src="muma2.png" time="700"/>
+			<Source src="muma3.png" time="1000"/>
+			<Source src="muma2.png" time="1300"/>
+
+		</SourcesAnimation>
+	 
+    </Image>
+	
+	
+
+	
+
+</MiWallpaper>

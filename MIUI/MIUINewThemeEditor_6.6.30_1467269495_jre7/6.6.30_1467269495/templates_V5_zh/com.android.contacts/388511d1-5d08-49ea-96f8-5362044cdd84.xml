@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1.2 未知联系人弹窗" version="3.2.27" annotation="" tag="联系人">
+    <resource description="quickcontact_unknown_window_title_bg.9" x="42" y="296" width="634" height="130" uuid="62952a4b-a074-4e1c-b01e-9829d46b606e">
+        <path src="res\drawable-hdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人标题" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人标题" />
+        <path src="res\drawable-xxhdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人标题" />
+        <path src="res\drawable-hdpi\quickcontact_unknown_window_title_bg_press.png" description="未知联系人标题 二态" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg_press.png" description="未知联系人标题 二态" />
+        <path src="res\drawable-xxhdpi\quickcontact_unknown_window_title_bg_press.png" description="未知联系人标题 二态" />
+    </resource>
+    <resource description="ic_send_sms_n" x="551" y="450" width="73" height="70" uuid="f37ac0f0-85b4-4fd9-a1d6-d4030283d32d">
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="发送短信按钮" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="发送短信按钮 二态" />
+    </resource>
+    <resource description="quickcontact_window_bg.9.png" x="13" y="250" width="687" height="838" uuid="a5cf8baf-7a4b-4b71-8109-b339598a3e90">
+        <path src="res\drawable-hdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+    </resource>
+    <resource description="qcb_arrow_right_p" x="594" y="328" width="50" height="60" uuid="6e35c856-e66f-4f8b-aa1d-adca9eb35ae3">
+        <path src="res\drawable-hdpi\qcb_arrow_right_n.png" description="进入指示" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_n.png" description="进入指示" />
+        <path src="res\drawable-hdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+    </resource>
+</screenshot>

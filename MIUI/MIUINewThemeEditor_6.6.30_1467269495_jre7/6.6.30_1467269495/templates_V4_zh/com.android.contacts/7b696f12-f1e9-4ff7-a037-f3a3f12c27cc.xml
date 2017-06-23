@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 收藏联系人" version="2.9.16" annotation="" tag="收藏">
+    <resource description="list_empty_image.png" x="256" y="522" width="190" height="174" uuid="8ba5101f-a24d-4b56-96db-f57e02b7d797">
+        <path src="res\drawable-xhdpi\list_empty_image.png" description="" />
+    </resource>
+    <resource description="ic_menu_add_favorite.png" x="620" y="1197" width="74" height="70" uuid="db2dba0a-f206-4a1b-b446-483b485de910">
+        <path src="res\drawable-xhdpi\ic_menu_add_favorite.png" description="添加收藏联系人" />
+    </resource>
+</screenshot>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="toggle_lable_color_p">#ff999900</color>
+<color name="no_notification_tips_text">#ff999900</color>
+<color name="toggle_lable_color_n">#ff009999</color>
+</MIUI_Theme_Values>

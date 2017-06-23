@@ -1,0 +1,929 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="ivr_menu_dialing_message_text_color">#80ffffff</color>
+<color name="fraud_call_title_text_color">#80ffffff</color>
+<color name="fraud_call_button_text_color">#ccffffff</color>
+<color name="incall_select_default_sim_text_color">#ff33b4ff</color>
+<color name="select_sim_txt_color_disable">#4d000000</color>
+<color name="select_sim_txt_color_normal">#99000000</color>
+<color name="incoming_ring_color_p">#ff109a23</color>
+<color name="incoming_message_color_n">#ff626c72</color>
+<color name="incoming_reject_color_n">#fff43f31</color>
+<color name="incoming_message_color_p">#ff535c61</color>
+<color name="incoming_message_response_list_item_text_color">#b3ffffff</color>
+<color name="incoming_reject_color_p">#ffdb2b1d</color>
+<color name="video_call_incoming_answer_voice_text_color">#ccffffff</color>
+<color name="livetalk_grey">#ff888888</color>
+<color name="livetalk_black">#ff000000</color>
+<color name="jeejen_background_color">#ff45464c</color>
+<color name="livetalk_count_down_time_color">#fffc712c</color>
+<color name="conference_desp_text_color_disable">#80ffffff</color>
+<color name="incoming_caller_name_text_color">#e6ffffff</color>
+<color name="call_tools_call_record_timer_text_color">#991f98ff</color>
+<color name="conference_title_text_color_disable">#b3ffffff</color>
+<color name="incoming_ring_color_n">#ff1bbb31</color>
+<color name="incoming_caller_info_text_color">#7fffffff</color>
+<color name="incoming_circle_text_color">#ccffffff</color>
+<color name="double_call_name_text_color_disable">#33ffffff</color>
+<color name="call_button_text_color_normal">#b3ffffff</color>
+<color name="call_button_text_color_disable">#80ffffff</color>
+<color name="double_call_desp_text_color_disable">#33ffffff</color>
+<color name="double_call_desp_text_color_normal">#80ffffff</color>
+<color name="call_button_text_color_select">#b31f98ff</color>
+<color name="ivr_menu_title_text_color">#ccffffff</color>
+<color name="call_card_suspect_info_text_color">#80ffffff</color>
+<color name="incoming_avatar_circle_color">#34ffffff</color>
+<color name="incoming_caller_info_text_shadow_color">#4c000000</color>
+<color name="incall_call_banner_text_color">#ffffffff</color>
+<color name="incall_call_desp_text_color">#99ffffff</color>
+<color name="incall_call_livetalk_provider_info_color">#4cffffff</color>
+<color name="double_call_name_text_color_normal">#ffffffff</color>
+<color name="glowpad_call_widget_normal_tint">#ffcccccc</color>
+<color name="glowpad_incoming_widget_tint">#ffa3a3a3</color>
+<color name="glowpad_incoming_widget_background_tint">#ffffffff</color>
+<color name="incall_dialpad_touch_tint">#330288d1</color>
+<color name="call_tools_text_color_disable">#80ffffff</color>
+<color name="call_tools_text_color_select">#991f98ff</color>
+<color name="call_tools_text_color_normal">#99ffffff</color>
+<color name="smart_cover_incall_call_desp_text_color">#80ffffff</color>
+<color name="a1_cover_call_info_text_color">#66ffffff</color>
+<color name="video_call_time">#ffffffff</color>
+<color name="select_sim_title_txt_color">#b3000000</color>
+<color name="smart_cover_incall_call_banner_text_color">#e6ffffff</color>
+<color name="select_sim_sumary_txt_color">#80000000</color>
+<color name="glowpad_widget_active_color">#ffffffff</color>
+<color name="incall_action_bar_text_color"></color>
+<color name="jeejen_common_button_text_color">#ffffffff</color>
+<color name="jeejen_common_text_color">#ffffffff</color>
+<bool name="config_enable_call_menu">false</bool>
+<dimen name="call_banner_small_text_size">10.000000dp</dimen>
+<dimen name="call_banner_sim_indicator_padding">1.000000dp</dimen>
+<dimen name="vt_incall_screen_image_button_height">80.000000px</dimen>
+<dimen name="call_sim_indicator_height">14.000000dp</dimen>
+<dimen name="call_banner_sim_indicator_padding_right">6.000000dp</dimen>
+<dimen name="call_banner_sim_indicator_padding_left">10.000000dp</dimen>
+<dimen name="vt_incall_screen_low_video_margin_top">6.000000px</dimen>
+<dimen name="vt_incall_screen_button_interval">4.000000dp</dimen>
+<dimen name="vt_incall_screen_high_video_image_button_margin_edge">30.000000px</dimen>
+<dimen name="vt_incall_screen_image_button_width">80.000000px</dimen>
+<dimen name="dial_panel_margin">21.659973dp</dimen>
+<dimen name="jeejen_screen_top_margin">50.000000dp</dimen>
+<dimen name="dial_panel_padding_horizontal">8.500000dp</dimen>
+<dimen name="dial_panel_button_width">106.660004dp</dimen>
+<dimen name="jeejen_common_button_text_size">24.000000dp</dimen>
+<dimen name="jeejen_common_text_size">24.000000dp</dimen>
+<dimen name="jeejen_card_elapsed_time_splitter_height">24.000000dp</dimen>
+<dimen name="jeejen_big_text_size">38.000000dp</dimen>
+<dimen name="jeejen_name_max_width">210.000000dp</dimen>
+<dimen name="jeejen_dialpad_height">324.000000dp</dimen>
+<dimen name="vt_button_screen_height">170.000000dp</dimen>
+<dimen name="vt_incall_screen_button_margin_out">6.000000px</dimen>
+<dimen name="reject_noti_text_size">14.000000sp</dimen>
+<dimen name="vt_incall_screen_low_video_image_button_margin_edge">8.000000px</dimen>
+<dimen name="incall_record_icon_size">24.000000px</dimen>
+<dimen name="incoming_call_2_info_padding">6.000000dp</dimen>
+<dimen name="incoming_call_2_banner_side_padding">10.000000dp</dimen>
+<dimen name="call_card_geo_description_max_width">120.000000dp</dimen>
+<dimen name="incoming_call_2_width">96.000000dp</dimen>
+<dimen name="incoming_call_2_name_margintop">114.000000dp</dimen>
+<dimen name="call_banner_text_size">17.000000dp</dimen>
+<dimen name="call_banner_call_state_label_text_size">16.000000dp</dimen>
+<dimen name="jeejen_screen_right_margin">8.000000dp</dimen>
+<dimen name="call_card_name_number_max_name">190.000000dp</dimen>
+<dimen name="call_card_name_number_max_number">125.000000dp</dimen>
+<dimen name="call_state_label_height">24.000000dp</dimen>
+<dimen name="vt_incall_screen_low_video_margin_left">6.000000px</dimen>
+<dimen name="incoming_call_2_state_text_size">13.000000dp</dimen>
+<dimen name="secondary_hold_state_with">58.000000dp</dimen>
+<dimen name="incoming_call_2_state__label_height">20.000000dp</dimen>
+<dimen name="incoming_call_2_total_width">102.000000dp</dimen>
+<dimen name="incoming_call_2_total_height">126.000000dp</dimen>
+<dimen name="secondary_hold_btn_with">18.000000dp</dimen>
+<dimen name="incoming_call_2_photo_height">96.000000dp</dimen>
+<dimen name="conference_title_margin_top">35.000000dp</dimen>
+<dimen name="glowpadview_outerring_diameter">270.000000dp</dimen>
+<dimen name="glowpadview_target_placement_radius">135.000000dp</dimen>
+<dimen name="incoming_call_widget_circle_size">94.000000dp</dimen>
+<dimen name="incoming_call_widget_asset_margin">28.000000dp</dimen>
+<dimen name="dsda_sub_text_marginTop">12.000000dp</dimen>
+<dimen name="notification_icon_size">64.000000dp</dimen>
+<dimen name="in_call_button_height">76.000000dp</dimen>
+<dimen name="dsda_sub_icon_marginTop">14.000000dp</dimen>
+<dimen name="call_banner_side_padding">24.000000dp</dimen>
+<dimen name="provider_info_top_bottom_padding">8.000000dp</dimen>
+<dimen name="call_info_suspect_margin_left_right">40.000000dp</dimen>
+<dimen name="call_info_desp_common_margin">7.000000dp</dimen>
+<dimen name="glowpadview_glow_radius">75.000000dp</dimen>
+<dimen name="glowpadview_inner_radius">15.000000dp</dimen>
+<dimen name="glowpadview_snap_margin">40.000000dp</dimen>
+<dimen name="glowpadview_margin_right">0.000000dp</dimen>
+<dimen name="glowpadview_margin_bottom">16777168.000000dp</dimen>
+<dimen name="indicator_bar_width">38.000000dp</dimen>
+<dimen name="call_info_label_number_text_size">13.329987sp</dimen>
+<dimen name="conference_manage_margin_top">74.000000dp</dimen>
+<dimen name="call_info_avatar_margin_top">53.000000dp</dimen>
+<dimen name="call_info_translateY_incoming">79.000000dp</dimen>
+<dimen name="call_info_translateY_pressed">54.000000dp</dimen>
+<dimen name="call_info_margin_top">137.000000dp</dimen>
+<dimen name="call_info_name_text_size">23.329987sp</dimen>
+<dimen name="call_info_name_margin_top">7.000000dp</dimen>
+<dimen name="call_info_name_text_max_size">40.000000sp</dimen>
+<dimen name="video_call_call_info_label_margin_top">2.000000dp</dimen>
+<dimen name="video_call_call_info_label_number_text_size">14.000000sp</dimen>
+<dimen name="video_call_conference_manage_add_participant_margin_top">5.000000dp</dimen>
+<dimen name="call_info_padding_start">45.329987dp</dimen>
+<dimen name="call_info_elapsed_time_text">16.659973dp</dimen>
+<dimen name="call_info_label_and_number_padding_top">3.000000dp</dimen>
+<dimen name="call_info_label_state_text_size">12.000000sp</dimen>
+<dimen name="call_info_padding_end">45.329987dp</dimen>
+<dimen name="call_info_name_text_padding">34.659973dp</dimen>
+<dimen name="video_preview_margin_top">26.669983dp</dimen>
+<dimen name="video_preview_margin_right">13.329987dp</dimen>
+<dimen name="call_info_suspect_margin_top">280.000000dp</dimen>
+<dimen name="video_preview_small_dimension">85.669983dp</dimen>
+<dimen name="video_call_incoming_answer_voice_height">32.669983dp</dimen>
+<dimen name="video_call_incoming_answer_voice_width">101.329987dp</dimen>
+<dimen name="video_call_elapsed_time_text_size">16.669983sp</dimen>
+<dimen name="video_call_elapsed_time_text_padding_top">21.000000dp</dimen>
+<dimen name="incoming_circle_reject_height">8.329987dp</dimen>
+<dimen name="incoming_circle_message_height">8.329987dp</dimen>
+<dimen name="incoming_video_call_answer_margin_top">60.000000dp</dimen>
+<dimen name="incoming_circle_text_padding_bottom">10.000000dp</dimen>
+<dimen name="call_menu_panel_margin_top">190.000000dp</dimen>
+<dimen name="incoming_message_response_list_item_text_size">13.000000sp</dimen>
+<dimen name="non_ivr_menu_icon_height">64.000000dp</dimen>
+<dimen name="non_ivr_menu_icon_width">95.000000dp</dimen>
+<dimen name="select_sim_vertical_space">27.000000dp</dimen>
+<dimen name="select_sim_vertical_mark_space">7.000000dp</dimen>
+<dimen name="select_sim_vertical_icon_space">10.000000dp</dimen>
+<dimen name="select_sim_horizontal_space">8.000000dp</dimen>
+<dimen name="mtk_volte_button_cluster_side_padding">5.000000dp</dimen>
+<dimen name="select_sim_text_size">14.000000sp</dimen>
+<dimen name="select_sim_sumary_txt_size">11.000000sp</dimen>
+<dimen name="incoming_circle_text_size">12.659973sp</dimen>
+<dimen name="incoming_guide_arrow_margin_bottom">50.000000dp</dimen>
+<dimen name="incoming_avatar_height">360.000000dp</dimen>
+<dimen name="sim_indicator_margin_right">4.000000dp</dimen>
+<dimen name="blur_dimen_radius">6.000000dp</dimen>
+<dimen name="incoming_circle_answer_height">40.000000dp</dimen>
+<dimen name="incoming_avatar_margin_bottom">19.000000dp</dimen>
+<dimen name="incoming_avatar_diameter">72.000000dp</dimen>
+<dimen name="incoming_message_response_list_item_height">59.669983dp</dimen>
+<dimen name="incoming_response_delete_margin_top">24.000000dp</dimen>
+<dimen name="incoming_caller_name_text_size">28.669983sp</dimen>
+<dimen name="incoming_caller_info_text_size">14.000000sp</dimen>
+<dimen name="incoming_ui_mode_scale_large_externel_panel_height">20.000000dp</dimen>
+<dimen name="incoming_ui_mode_scale_huge_and_godzilla_externel_panel_height">28.000000dp</dimen>
+<dimen name="incoming_arrow_margin_bottom">112.000000dp</dimen>
+<dimen name="incoming_ui_mode_scale_medium_externel_panel_height">8.000000dp</dimen>
+<dimen name="incoming_operate_btn_margin_bottom">33.000000dp</dimen>
+<dimen name="common_avatar_height">320.000000dp</dimen>
+<dimen name="incoming_panel_height">331.000000dp</dimen>
+<dimen name="double_call_info_margin">38.000000dp</dimen>
+<dimen name="double_call_info_item_height">74.000000dp</dimen>
+<dimen name="conference_caller_info_title_text_size">15.000000sp</dimen>
+<dimen name="conference_caller_info_padding_left">16.000000dp</dimen>
+<dimen name="conference_caller_info_desp_text_size">10.000000sp</dimen>
+<dimen name="conference_caller_info_title_margin_end">2.000000dp</dimen>
+<dimen name="conference_caller_info_hungup_width">60.000000dp</dimen>
+<dimen name="conference_caller_info_number_margin_end">7.000000dp</dimen>
+<dimen name="incoming_extend_radius">10.659973dp</dimen>
+<dimen name="incoming_out_radius">83.329987dp</dimen>
+<dimen name="incoming_circle_img_margin_right">13.329987dp</dimen>
+<dimen name="incoming_circle_button_height">331.000000dp</dimen>
+<dimen name="incoming_response_delete_margin_bottom">25.000000dp</dimen>
+<dimen name="double_call_name_text_size">15.000000sp</dimen>
+<dimen name="double_call_desp_text_size">12.000000sp</dimen>
+<dimen name="double_call_item_padding">17.000000dp</dimen>
+<dimen name="double_call_avatar_width">36.669983dp</dimen>
+<dimen name="video_call_incoming_answer_voice_text_margin_left">33.329987dp</dimen>
+<dimen name="call_tools_top_panel_margin_top">12.000000dp</dimen>
+<dimen name="call_tools_up_panel_margin_bottom">20.000000dp</dimen>
+<dimen name="call_tools_bottom_panel_margin_bottom">58.659973dp</dimen>
+<dimen name="call_tools_toggle_button_text_size">12.000000sp</dimen>
+<dimen name="call_tools_panel_width">320.000000dp</dimen>
+<dimen name="call_tools_text_padding">2.000000dp</dimen>
+<dimen name="call_tools_top_panel_margin_bottom">36.000000dp</dimen>
+<dimen name="conference_desp_text_size">11.000000sp</dimen>
+<dimen name="conference_caller_height">74.000000dp</dimen>
+<dimen name="double_call_avatar_margin_right">15.329987dp</dimen>
+<dimen name="conference_title_text_size">17.000000sp</dimen>
+<dimen name="video_call_preview_video_height">152.329987dp</dimen>
+<dimen name="video_call_zoom_control_height">30.000000dp</dimen>
+<dimen name="video_call_incoming_answer_voice_text_size">10.000000sp</dimen>
+<dimen name="video_call_preview_video_width">85.669983dp</dimen>
+<dimen name="video_call_incoming_answer_voice_text_padding_right">20.000000dp</dimen>
+<dimen name="call_button_padding_bottom">45.000000dp</dimen>
+<dimen name="call_button_indicator_margin_left">6.000000dp</dimen>
+<dimen name="call_tools_animator_height">33.329987dp</dimen>
+<dimen name="call_dialpad_animator_height">26.669983dp</dimen>
+<dimen name="call_button_height">64.660004dp</dimen>
+<dimen name="call_button_text_size">13.329987sp</dimen>
+<dimen name="qcif_y">144.000000dp</dimen>
+<dimen name="qcif_x">176.000000dp</dimen>
+<dimen name="vt_call_low_video_margin_top">150.000000dp</dimen>
+<dimen name="second_call_card_margintop">220.000000dp</dimen>
+<dimen name="call_button_animator_height">105.000000dp</dimen>
+<dimen name="a1_cover_hangup_margin_bottom">30.000000dp</dimen>
+<dimen name="a1_cover_slide_layout_margin_bottom">25.000000dp</dimen>
+<dimen name="a1_cover_slide_layout_height">44.000000dp</dimen>
+<dimen name="a1_cover_call_info_margin_top">10.000000dp</dimen>
+<dimen name="a1_cover_slide_layout_margin_side">35.000000dp</dimen>
+<dimen name="a1_cover_name_margin_side">25.000000dp</dimen>
+<dimen name="a1_cover_indicator_long_distance">54.000000dp</dimen>
+<dimen name="a1_cover_name_margin_top">37.000000dp</dimen>
+<dimen name="incoming_caller_info_have_avter_text_size">13.329987sp</dimen>
+<dimen name="smart_cover_incoming_panel_padding_top">56.000000dp</dimen>
+<dimen name="smart_cover_incoming_out_radius">67.129974dp</dimen>
+<dimen name="smart_cover_incoming_extend_radius">6.289978dp</dimen>
+<dimen name="smart_cover_incoming_circle_img_margin_right">74.690002dp</dimen>
+<dimen name="smart_cover_incoming_operate_btn_padding_bottom">36.359985dp</dimen>
+<dimen name="a1_cover_name_text_size">20.000000sp</dimen>
+<dimen name="a1_cover_call_divider_height">11.000000dp</dimen>
+<dimen name="a1_cover_call_info_text_size">13.000000sp</dimen>
+<dimen name="livetalk_call_provider_info_text_size">12.000000sp</dimen>
+<dimen name="a1_cover_call_divider_margin">7.000000dp</dimen>
+<dimen name="livetalk_dialog_checkbox_margin_top">13.000000dp</dimen>
+<dimen name="livetalk_call_provider_info_margin_top">23.299988dp</dimen>
+<dimen name="call_button_animator_width">114.000000dp</dimen>
+<dimen name="livetalk_dialog_message_text_size">12.000000sp</dimen>
+<dimen name="incoming_caller_name_have_avter_text_size">22.000000sp</dimen>
+<dimen name="select_sim_option_height">64.000000dp</dimen>
+<dimen name="select_sim_dialog_max_height">375.000000dp</dimen>
+<dimen name="non_ivr_menu_icon_round_corner_radius">7.000000dp</dimen>
+<dimen name="fraud_call_title_padding">23.000000dp</dimen>
+<dimen name="fraud_call_button_margin_top">13.000000dp</dimen>
+<dimen name="fraud_call_title_text_size">11.000000sp</dimen>
+<dimen name="fraud_call_button_text_size">12.000000sp</dimen>
+<dimen name="fraud_call_margin_bottom">33.000000dp</dimen>
+<dimen name="smart_cover_call_info_name_text_size">23.329987sp</dimen>
+<dimen name="smart_cover_end_btn_margin_bottom">36.359985dp</dimen>
+<dimen name="smart_cover_incoming_circle_button_height">154.000000dp</dimen>
+<dimen name="smart_cover_incoming_panel_height">270.000000dp</dimen>
+<dimen name="a1_cover_indicator_short_distance">18.000000dp</dimen>
+<dimen name="a1_cover_indicator_space">12.000000dp</dimen>
+<dimen name="a1_cover_total_height">176.000000dp</dimen>
+<dimen name="smart_cover_call_info_label_number_text_size">13.329987sp</dimen>
+<integer name="incall_exit_config_anim_duration">#000000c8</integer>
+<integer name="common_config_anim_duration">#0000012c</integer>
+<integer name="common_config_anim_delay">#00000064</integer>
+<string name="callFailed_invalid_credentials">用户名或密码错误</string>
+<string name="callFailed_number_unreachable">该号码无法拨通</string>
+<string name="callFailed_congestion">网络忙</string>
+<string name="callFailed_userBusy">线路忙</string>
+<string name="callFailed_server_unreachable">无法连接到服务器</string>
+<string name="callFailed_timedOut">无响应，已超时</string>
+<string name="unknown">未知</string>
+<string name="inCallLabel">电话</string>
+<string name="payphone">公用电话</string>
+<string name="private_num">私密号码</string>
+<string name="upgrade_vt_tx_prompt">call?</string>
+<string name="upgrade_vt_rx_prompt">call?</string>
+<string name="phone_info_divider"></string>
+<string name="antispam_marked_title">%1$s</string>
+<string name="accept_modify_call_request_prompt">request?</string>
+<string name="upgrade_vt_prompt">call?</string>
+<string name="callFailed_dsac_restricted_normal">正常通话受访问控制限制。</string>
+<string name="callFailed_dsac_restricted_emergency">急救或报警电话受访问控制限制。</string>
+<string name="callFailed_dsac_restricted">所有通话都受访问控制限制。</string>
+<string name="callFailed_incoming_cb_enabled">对方拦截了所有来电。</string>
+<string name="callFailed_cb_enabled">您无法在已启用通话限制的情况下拨出电话。</string>
+<string name="callFailed_dialToDial">DIAL请求改为使用另一个号码。</string>
+<string name="callFailed_dialToSs">DIAL请求改为SS请求。</string>
+<string name="callFailed_dialToUssd">DIAL请求改为USSD请求。</string>
+<string name="callFailed_fdn_only">外拨电话受固定拨号限制。</string>
+<string name="callFailed_outOfService">不在服务区</string>
+<string name="callFailed_simError">卡出错</string>
+<string name="callFailed_limitExceeded">限制</string>
+<string name="callFailed_powerOff">已关闭天线</string>
+<string name="callFailed_server_error">服务器错误，请稍后再试。</string>
+<string name="callFailed_noSignal">无信号</string>
+<string name="callFailed_out_of_network">网外呼叫</string>
+<string name="network_type_2g">2G</string>
+<string name="network_type">type</string>
+<string name="network_type_4g">4G</string>
+<string name="network_type_3g">3G</string>
+<string name="add_member_msg">name</string>
+<string name="volte_add_conference_member_title">conference</string>
+<string name="addConferenceMemeberText">member</string>
+<string name="card_title_incoming_conference">invitation</string>
+<string name="jeejen_card_title_call_cancel">取消通话</string>
+<string name="jeejen_card_title_incoming_call">来电</string>
+<string name="cipher_indication_notification_message">network</string>
+<string name="jeejen_card_title_call_ended">通话结束</string>
+<string name="cipher_indication_notification_title">encryption</string>
+<string name="jeejen_toggle_dialpad_text">键盘</string>
+<string name="puk_length_indicate">digits)</string>
+<string name="jeejen_card_title_in_call"></string>
+<string name="caller_manage_manage_done_text">call</string>
+<string name="jeejen_card_title_on_hold"></string>
+<string name="card_title_incoming_vt_call">视频来电</string>
+<string name="jeejen_card_title_dialing">正在拨号</string>
+<string name="voicemail_settings_for">%s</string>
+<string name="sip_call_options_title_single_sim">options</string>
+<string name="jeejen_answer_call_text">接听</string>
+<string name="description_search_button">search</string>
+<string name="jeejen_reject_call_text">挂断</string>
+<string name="jeejen_end_call_text">挂断</string>
+<string name="dm_unlock">设备已被运营商解锁</string>
+<string name="modify_call_option_vt">VT</string>
+<string name="dm_lock">设备已被运营商锁定</string>
+<string name="modify_call_option_title">call?</string>
+<string name="onscreenECT">转接</string>
+<string name="modify_call_failure_str">failed\n</string>
+<string name="onscreenHangupActiveAndAnswerWaiting">挂断当前电话，接听来电</string>
+<string name="modify_call_prompt_no">No</string>
+<string name="onscreenHangupHolding">挂断保持</string>
+<string name="onscreenHangupAll">挂断所有电话</string>
+<string name="modify_call_option_voice">Only</string>
+<string name="modify_call_option_vt_rx">receive</string>
+<string name="modify_call_option_vt_tx">transmit</string>
+<string name="modify_call_prompt_yes">Yes</string>
+<string name="volte_call_waiting_indication_text">wait...</string>
+<string name="sim_toolkit">SIM卡应用</string>
+<string name="memberStatus">状态</string>
+<string name="confirm_save_info_saved_to">录音已经保存到</string>
+<string name="confirm_device_info_full">存储卡内容已满，录音已经保存</string>
+<string name="conference_member_adding">...</string>
+<string name="confirm_save_info_saved">录音已经保存</string>
+<string name="conference_member_add_fail">.</string>
+<string name="ext_media_badremoval_notification_title">卡非正常移除</string>
+<string name="conference_member_join">conference.</string>
+<string name="error_sdcard_access">卡</string>
+<string name="conference_member_leave">conference.</string>
+<string name="str_db_playlist_name">我的录音</string>
+<string name="alert_device_error">录音出错</string>
+<string name="start_record">开始录音</string>
+<string name="removeMember">删除</string>
+<string name="stop_record">停止录音</string>
+<string name="add_conference_member_limit">time.</string>
+<string name="vt_settings">视频设置</string>
+<string name="dialog_network_priority_title">Priority</string>
+<string name="which_call_to_activate">activate?</string>
+<string name="activity_not_found">您的手机上未安装应用程序。</string>
+<string name="gemini_3g_disable_warning_case0">SIM?</string>
+<string name="no_sim_card_inserted">请插入SIM卡以启动SIM卡应用</string>
+<string name="gemini_3g_disable_warning_case1">SIM?</string>
+<string name="airplane_mode_on">飞行模式开启状态下无法启动SIM卡应用</string>
+<string name="gemini_3g_disable_warning_case2">SIM?</string>
+<string name="lable_sim_not_ready">SIM卡应用未就绪或不受支持</string>
+<string name="international_dialing_area_code">code</string>
+<string name="gemini_3g_indic">3G</string>
+<string name="international_dialing_invalid_number">anyway?</string>
+<string name="callFailed_dsac_vt_incompatible_destination">无法建立视频电话。被叫用户手机不支持视频电话，是否用语音电话拨打？</string>
+<string name="international_dialing_add_country_code_and_area_code_without_prefix">code?</string>
+<string name="no_search_result">result</string>
+<string name="voice_command_notification_ticker">call</string>
+<string name="disable_data_connection_msg">continue?</string>
+<string name="callFailed_dsac_vt_resource_unavailable">无法建立视频电话。被叫用户不在3G服务区，是否用语音电话拨打？</string>
+<string name="callFailed_dsac_vt_out_of_3G_yourphone">你的电话不在3G服务区，拨打语音电话？</string>
+<string name="international_dialing_yes">below:</string>
+<string name="callFailed_dsac_vt_bearer_not_avail">无法建立视频电话。是否用语音电话拨打？</string>
+<string name="international_dialing_click_below_button">number.</string>
+<string name="notification_voicemail">Voicemail</string>
+<string name="international_dialing_call_button">Call</string>
+<string name="callFailed_dsac_vt_bear_not_authorized">无法建立视频电话。此卡未开通视频电话业务，是否用语音电话拨打？</string>
+<string name="international_dialing_no">number:</string>
+<string name="associate_sim_missing_message">%2$s打电话吗？</string>
+<string name="turn_on_3g_service_message">on?</string>
+<string name="vt_incoming_call">视频来电</string>
+<string name="international_dialing_confirm_area_code">below.</string>
+<string name="associate_sim_missing_other">其它的</string>
+<string name="international_dialing_dialed_number">number:</string>
+<string name="fdn_only_error">numbers.</string>
+<string name="vt_local_video_effect">本地视频效果</string>
+<string name="unblock_pin2">PIN2</string>
+<string name="vt_local_video_nightmode">本地视频夜间模式</string>
+<string name="sim_permanently_locked">locked</string>
+<string name="vt_local_video_zoom">本地视频变焦</string>
+<string name="retries_left">left</string>
+<string name="vt_local_video_brightness">本地视频亮度</string>
+<string name="pin2_unblocked">succeeded</string>
+<string name="simContacts_emptyLoading_ex">%s…</string>
+<string name="one_retry_left">left</string>
+<string name="vt_peer_video_quality">对方视频质量</string>
+<string name="network_setting_all_forbidden_dialog">manually.</string>
+<string name="vt_enable_back_camera">打开后摄像头</string>
+<string name="reset_data_usage">amount</string>
+<string name="vt_peer_video_bigger">对方视图大于本地视图</string>
+<string name="vt_enable_back_camera_description">打开此项后允许切换摄像头</string>
+<string name="pin_length_indicate">digits)</string>
+<string name="vt_incoming_call_description">接受视频电话时显示本地视频</string>
+<string name="vt_outgoing_call_description">拨出视频电话时显示本地视频</string>
+<string name="buttonTxtContinue">Continue</string>
+<string name="vt_outgoing_call">拨出视频电话</string>
+<string name="callFailed_cdma_notEmergency">possible.</string>
+<string name="vt_peer_video_bigger_description">打开此项后对方视图大于本地视图</string>
+<string name="callFailed_simError_slotNumber">%s</string>
+<string name="vt_pic_replace_local_default">默认图片</string>
+<string name="callFailed_simError_cdma">error</string>
+<string name="vt_incoming_showme_disable">不显示</string>
+<string name="voice_command_notification_message">Phone</string>
+<string name="vt_incoming_showme_ask">询问我</string>
+<string name="voice_command_notification_title">control</string>
+<string name="vt_incoming_showme_always">显示</string>
+<string name="vt_pic_replace_local_freezeme">摄像头截取图片</string>
+<string name="vt_peer_video_quality_normal">普通</string>
+<string name="mt_code_forwarded_cf_busy">忙线中来电转接</string>
+<string name="mt_code_forwarded_cf_no_reply">无应答时转接</string>
+<string name="vt_pic_replace_local_mypic">我的图片</string>
+<string name="mt_code_forwarded_cf_not_reachable">无法连接时转接</string>
+<string name="vt_local_video_display">本地视频显示</string>
+<string name="sim_manage_sipcall">互联网电话</string>
+<string name="vt_sd_null">卡不可用</string>
+<string name="sim_manage_call_via">呼叫</string>
+<string name="vt_sd_not_enough">卡空间不足</string>
+<string name="manual_select_title">manually</string>
+<string name="vt_peer_video_quality_sharp">高</string>
+<string name="no_service_msg_gemini">operator.</string>
+<string name="manual_select_dialog_msg">manually?</string>
+<string name="vt_ask_show_local_yes">显示</string>
+<string name="show_always_title">again</string>
+<string name="vt_ask_show_local">显示本方视频给对方？</string>
+<string name="no_service_msg">operator.</string>
+<string name="vt_error_media">视频播放异常，视频通话中断。</string>
+<string name="vt_error_network">网络异常，视频通话中断。</string>
+<string name="vt_swap_video">交换视频</string>
+<string name="vt_change_my_pic">更改</string>
+<string name="vt_ask_show_local_no">不显示</string>
+<string name="vt_pic_saved_to_sd_fail">截图保存失败</string>
+<string name="vt_pic_saved_to_sd">截图已保存入SD卡</string>
+<string name="vt_local_video_contrast">本地视频对比度</string>
+<string name="vt_menu_switch">切换摄像头</string>
+<string name="international_dialing_title">assist</string>
+<string name="international_dialing_select_country">destination.</string>
+<string name="plmn_list_setting_add_plmn">PLMN</string>
+<string name="vt_menu_snapshot">对方视频截图</string>
+<string name="international_dialing_change_country_prefix">'+'?</string>
+<string name="vt_dis_peer_rep">替换对方视频</string>
+<string name="international_dialing_add_country_code_input_area_code">code.</string>
+<string name="vt_menu_hide_me">隐藏本地视频</string>
+<string name="international_dialing_add_country_code">(+%s)?</string>
+<string name="vt_menu_show_me">显示本地视频</string>
+<string name="international_dialing_add_country_code_and_area_code">(+%3$s)?</string>
+<string name="vt_vocie_answer">语音接听</string>
+<string name="vt_peer_video_rep_des">设置在对方无视频时显示给本地的图片</string>
+<string name="international_dialing_input_area_code">here</string>
+<string name="vt_peer_video_rep">对方视频替换图片</string>
+<string name="international_dialing_need_area_code">call.</string>
+<string name="vt_dis_peer_rep_des">当对方无视频时显示替代图片</string>
+<string name="international_dialing_add_country_code_default_input_area_code">code.</string>
+<string name="no_service_msg_title_gemini">\ %s\</string>
+<string name="vt_network_unreachable">网络异常</string>
+<string name="vt_cannot_support_setting">当前摄像头不支持此项设置</string>
+<string name="vt_auto_dropback_des">自动回落为语音电话</string>
+<string name="network_id">ID</string>
+<string name="vt_auto_dropback">自动回落</string>
+<string name="plmn_list_setting_title">networks</string>
+<string name="vt_voice_connecting">正在接通语音电话</string>
+<string name="gemini_data_connection">connection</string>
+<string name="vt_wait_voice">等待接通语音电话</string>
+<string name="no_service_msg_title">service</string>
+<string name="incoming_circle_text_message">松开短信回复</string>
+<string name="incoming_circle_text_answer">松开接听</string>
+<string name="incoming_circle_text_message_p">上滑短信回复</string>
+<string name="incoming_circle_text_reject">松开挂断</string>
+<string name="incoming_circle_text_answer_p">上滑接听</string>
+<string name="incoming_circle_text_reject_p">上滑挂断</string>
+<string name="select_audio_dialog_title">请选择接听方式</string>
+<string name="call_button_dialer_text">键盘</string>
+<string name="call_button_tools_text">功能</string>
+<string name="alert_dialog_dismiss">关闭</string>
+<string name="onscreen_change_to_video">call</string>
+<string name="mt_code_forwarded_cf_uncond">所有来电转接中</string>
+<string name="mt_code_forwarded_cf_cond">依设置来电转接中</string>
+<string name="mt_code_additional_call_forwarded">来电转接</string>
+<string name="mt_code_forwarded_cf">通话转接</string>
+<string name="mt_code_call_connected_ect">启用来电转接</string>
+<string name="mt_code_deflected_call">被转接的电话</string>
+<string name="cb_error_channel_name">correct(1-10characters).</string>
+<string name="fdn_errorcode_unknown_info">later.</string>
+<string name="cb_default_new_channel_name">Channel</string>
+<string name="cb_all_languages">Languages</string>
+<string name="cb_error_channel_id_exist">exists.</string>
+<string name="cb_error_language_select">language.</string>
+<string name="sum_cell_broadcast_control_on">broadcast</string>
+<string name="sum_cell_broadcast_control_off">broadcast</string>
+<string name="voice_mail">语音信箱</string>
+<string name="sum_voice_mail">语音信箱服务和号码</string>
+<string name="vt_pic_replace_local_description">设置在本地摄像头关闭时显示给对方的图片</string>
+<string name="mo_code_unconditional_cf_active">无条件转接已启动</string>
+<string name="vt_call_settings">视频电话设置</string>
+<string name="vt_local_video_rep">本地视频替换图片</string>
+<string name="sum_cell_broadcast_setting">broadcast</string>
+<string name="call_additional_sum">settings</string>
+<string name="cb_menu_language">Language</string>
+<string name="cell_broadcast_settings">settings</string>
+<string name="wrong_password">error</string>
+<string name="enter_callbarring_password">numbers)</string>
+<string name="cell_broadcast">broadcast</string>
+<string name="error_title">Error</string>
+<string name="fdn_errorcode_number_info">long.</string>
+<string name="fdn_errorcode_name_info">long.</string>
+<string name="fdn_errorcode_storage_info">full.</string>
+<string name="gsm_umts_network_preferneces_summary">yet!</string>
+<string name="gsm_umts_network_preferences_dialogtitle">Mode</string>
+<string name="umts_preferred_network_mode_dialogtitle">网络模式</string>
+<string name="fdn_errorcode_phb_info">later.</string>
+<string name="fdn_errorcode_pin2_info">PIN2.</string>
+<string name="net_or_simcard_busy">卡忙碌中，请稍候再试。</string>
+<string name="gsm_umts_network_preferences_title">Mode</string>
+<string name="mo_code_call_is_waiting">等待中</string>
+<string name="mo_code_call_forwarded">通话转接</string>
+<string name="mo_code_some_cf_active">条件式转接开启</string>
+<string name="mo_code_incoming_calls_barred">对方拒接来电</string>
+<string name="mo_code_outgoing_calls_barred">禁拨电话</string>
+<string name="mo_code_cug_call">封闭群组</string>
+<string name="video_call">Call</string>
+<string name="voice_call">Call</string>
+<string name="sum_voice_call">settings</string>
+<string name="internet_call">Call</string>
+<string name="sum_internet_call">settings</string>
+<string name="sum_video_call">settings</string>
+<string name="mo_code_clir_suppression_rejected">确认发送本机号码服务</string>
+<string name="mo_code_call_deflected">通话转接</string>
+<string name="mt_code_forwarded_call">被转接的电话</string>
+<string name="mt_code_cug_call">封闭群组</string>
+<string name="mt_code_call_on_hold">通话保留</string>
+<string name="mt_code_call_retrieved">恢复通话</string>
+<string name="mt_code_multi_party_call">电话会议</string>
+<string name="mt_code_on_hold_call_released">保留通话结束</string>
+<string name="mt_code_forward_check_received">业务服务设置已更改</string>
+<string name="mt_code_call_connecting_ect">来电转接中</string>
+<string name="network_forbidden">禁用</string>
+<string name="setting_for_3G_service">3G服务</string>
+<string name="enable_3G_service">启用3G服务</string>
+<string name="service_3g_off">关闭</string>
+<string name="confirm_3g_switch_to_off">确定要关闭3G服务？该操作同时会自动关闭视频电话功能.</string>
+<string name="modem_switching">切换操作大约需要10s才能完成，请稍候...</string>
+<string name="confirm_3g_switch">确定要将3G服务设置到该SIM?该操作同时会将该SIM设置为视频电话的默认SIM.</string>
+<string name="others">其它设置</string>
+<string name="card_title_hanging_up">正在挂断</string>
+<string name="card_title_in_call_short">通话</string>
+<string name="card_title_in_call">正在通话</string>
+<string name="calling_via_template">通过%s进行通话</string>
+<string name="onscreenEndCallText">挂断</string>
+<string name="respond_via_sms_custom_message">自定义短信</string>
+<string name="contactPhoto">联系人照片</string>
+<string name="lable_all_outgoing_international">calls</string>
+<string name="lable_all_out_except">PLMN</string>
+<string name="lable_all_outgoing">calls</string>
+<string name="deactivate_all">all</string>
+<string name="lable_all_incoming">calls</string>
+<string name="lable_incoming_calls_except">roaming</string>
+<string name="password_changed">successfully</string>
+<string name="cb_channel_dialog_channel_state">channel</string>
+<string name="cb_channel_dialog_channel_number">(0-65534)</string>
+<string name="cb_channel_dialog_channel_name">characters)</string>
+<string name="cb_dialog_title_language_choice">language</string>
+<string name="cb_error_channel_num">number(0-65534).</string>
+<string name="cb_menu_delete">Delete</string>
+<string name="cb_menu_edit">Edit</string>
+<string name="cb_channel_dialog_edit_channel">Channel</string>
+<string name="cb_menu_channel_list">list</string>
+<string name="cb_menu_add_channel">Channel</string>
+<string name="voice_mail_dialog_text">的语音邮件，您需要现在获取吗？</string>
+<string name="lable_call_barring">barring</string>
+<string name="lable_disable">Disabled</string>
+<string name="call_barring_sum">settings</string>
+<string name="old_password_label">numbers)</string>
+<string name="lable_enable">Enabled</string>
+<string name="invalid_password">numbers.</string>
+<string name="new_password_label">numbers)</string>
+<string name="mismatch_password">again.</string>
+<string name="confirm_password_label">password</string>
+<string name="change_password">password</string>
+<string name="waiting_close_airplane_mode">正在关闭飞行模式...</string>
+<string name="select_voice_call_sim">请选择</string>
+<string name="msim_select_default_time_left">(%d秒)</string>
+<string name="call_description_recording">正在录音…</string>
+<string name="call_recording_error_privacy">访客模式下无法启动通话录音</string>
+<string name="call_recording_error_sd_access">SD卡访问出错，录音前请插好SD卡</string>
+<string name="call_recording_error_sd_unmounted">SD卡被卸载，录音停止</string>
+<string name="call_recording_error_low_storage">SD卡空间不足，请清理SD卡后再尝试录音</string>
+<string name="call_recording_error_start_failed">录音设备被其他应用占用</string>
+<string name="call_recording_error_unknown">录音时发生未知错误</string>
+<string name="description_image_button_tools">功能键盘</string>
+<string name="description_image_button_four">四</string>
+<string name="description_image_button_six">六</string>
+<string name="description_image_button_five">五</string>
+<string name="description_image_button_eight">八</string>
+<string name="description_image_button_seven">七</string>
+<string name="description_image_button_nine">九</string>
+<string name="antispam_provider">由%s识别</string>
+<string name="antispam_notification_title">智能识别陌生号码</string>
+<string name="antispam_local_marked">本地标记</string>
+<string name="fraud_call_decline">挂断电话</string>
+<string name="fraud_call_waring">不法分子可能盗用他人电话，请不要相信陌生人提出的转账汇款需求</string>
+<string name="suspect_info">安全提示：通话中涉及财产信息请核实对方身份</string>
+<string name="fraud_call_answer">仍然接听</string>
+<string name="online_check_warning_info_by_cmb">此来电经招商银行信用卡中心确认为仿冒电话，请不要透漏个人及财产信息，并立即挂断电话</string>
+<string name="online_check_provider_info">经%s鉴定</string>
+<string name="online_check_provider_name_by_cmb">招商银行信用卡中心</string>
+<string name="wait_prompt_str">发送以下音频？\n</string>
+<string name="cancel">取消</string>
+<string name="ok">确定</string>
+<string name="description_target_answer">接听</string>
+<string name="pause_prompt_no">否</string>
+<string name="pause_prompt_yes">是</string>
+<string name="add_vm_number_str">新增号码</string>
+<string name="no_vm_number">没有语音信箱号码</string>
+<string name="no_vm_number_msg">卡中没有存储任何语音信箱号码。</string>
+<string name="description_image_button_one">一</string>
+<string name="notification_action_answer_voice">语音</string>
+<string name="notification_action_dismiss">忽略</string>
+<string name="notification_action_end_call">挂断</string>
+<string name="notification_requesting_video_call">收到视频通话邀请</string>
+<string name="emergency_call_dialog_number_for_display">紧急电话号码</string>
+<string name="manageConferenceLabel">管理电话会议</string>
+<string name="call_extension_conference_mode">会议模式</string>
+<string name="description_image_button_star">星标</string>
+<string name="description_image_button_hangup">挂断电话</string>
+<string name="vt_addtional_call_description">电话号码和呼叫等待设置</string>
+<string name="description_image_button_dialpad">数字键盘</string>
+<string name="description_image_button_message_enter">向上滑动短信回复</string>
+<string name="vt_cf_call_description">视频来电转接设置</string>
+<string name="description_image_button_message_exit">退出短信回复</string>
+<string name="vt_cb_call_description">视频电话呼叫限制设置</string>
+<string name="description_image_button_answer">向上滑动接听</string>
+<string name="ip_dial_error_toast_for_sip_call_selected">拨打网络电话时，不能使用IP拨号功能。</string>
+<string name="description_image_button_reject">向上滑动挂断</string>
+<string name="ip_prefix_edit_default_sum">dial</string>
+<string name="description_image_button_zero">零</string>
+<string name="description_image_button_pound">英镑</string>
+<string name="ip_dial_error_toast_for_no_ip_prefix_number">请在“语音电话设置”中输入IP前缀号码。</string>
+<string name="description_image_button_three">三</string>
+<string name="description_image_button_two">二</string>
+<string name="notification_action_answer_video">视频</string>
+<string name="notification_action_accept">接受</string>
+<string name="notification_incoming_call">来电</string>
+<string name="notification_on_hold">保持</string>
+<string name="notification_ongoing_call">当前通话</string>
+<string name="notification_dialing">正在拨号</string>
+<string name="fdn_contact_number_invalid">number.</string>
+<string name="fdn_contact_name_number_invalid">time.</string>
+<string name="cdma_not_support">feature</string>
+<string name="call_record_button_label">%s</string>
+<string name="fdn_phone_book_busy">later.</string>
+<string name="labelCFC">forwarding</string>
+<string name="cdma_cfu_title">Telecom</string>
+<string name="onscreen_mute_text">静音</string>
+<string name="onscreen_merge_calls_text">合并通话</string>
+<string name="onscreen_note_calls_text">便签</string>
+<string name="onscreen_swap_calls_text">切换通话</string>
+<string name="onscreen_hold_text">暂停通话</string>
+<string name="miprofile_stranger_card">陌生人名片</string>
+<string name="cdma_cfu_dialog_sum">number</string>
+<string name="alert_dialog_yes">是</string>
+<string name="dual_mic_title">Reduction</string>
+<string name="alert_dialog_no">否</string>
+<string name="dual_mic_summary">calls</string>
+<string name="minutereminder_title">reminder</string>
+<string name="incall_call_type_label_sip">互联网电话</string>
+<string name="minutereminder_summary">minute</string>
+<string name="incoming_call_forwarded_title">呼叫转移来电</string>
+<string name="voice_call_settings">语音电话设置</string>
+<string name="call_title_redialing_with_times">次重拨</string>
+<string name="enable_sip_dialog_message">互联网电话功能已停用，是否启用？</string>
+<string name="ip_prefix_setting">number</string>
+<string name="conference_call_description">%s,%s等共%s人</string>
+<string name="ip_prefix_setting_sum">settings</string>
+<string name="separate_from_conference">单独通话</string>
+<string name="enter_ip_prefix_number">number</string>
+<string name="callUnanswered_forwarded">呼叫未应答并转发</string>
+<string name="caller_manage_header">电话会议%s</string>
+<string name="dial_with_gsm_phone">普通电话拨打</string>
+<string name="call_record_wait_label">等待录音</string>
+<string name="purchase_now">现在充值</string>
+<string name="contacts_icon_label">通讯录</string>
+<string name="cancel_call">挂断</string>
+<string name="conference_call_number">人</string>
+<string name="cannot_answered_Video_Call">语音通话中，无法接听视频电话</string>
+<string name="vt_media_occupied">摄像头不可用，无法接听视频电话。请检查其他应用是否正在使用摄像头。</string>
+<string name="reminder">提示</string>
+<string name="callDurationFormat">秒</string>
+<string name="incall_error_supp_service_conference">无法进行电话会议。</string>
+<string name="cannot_answered_Voice_Call">视频通话中，无法接听语音电话</string>
+<string name="incall_error_supp_service_transfer">无法转移呼叫。</string>
+<string name="incall_error_supp_service_separate">无法分离通话。</string>
+<string name="incall_error_supp_service_switch">无法切换通话。</string>
+<string name="incall_error_supp_service_unknown">不支持此服务。</string>
+<string name="vt_media_video_fail">视频播放失败，视频通话中断。</string>
+<string name="callFailed_unobtainable_number">号码无效</string>
+<string name="dualtalk_tip_accept_disconnect_current">call.</string>
+<string name="dualtalk_tip_accept_disconnect_outgoing">call.</string>
+<string name="incall_toast_unhold">Unhold</string>
+<string name="onscreen_audio_switch_mode">切换设备</string>
+<string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">call.</string>
+<string name="onscreen_call_record">录音</string>
+<string name="dualtalk_tip_accept_disconnect_current_reject_incoming">call.</string>
+<string name="onscreen_audio_mode_headset">耳机</string>
+<string name="dualtalk_tip_accept_disconnect_incoming">call.</string>
+<string name="onscreen_audio_mode_speaker">免提</string>
+<string name="dualtalk_tip_accept_disconnect_voice">call(s).</string>
+<string name="onscreen_audio_mode_conference">会议</string>
+<string name="ring_only_once_summary">mode</string>
+<string name="onscreen_audio_mode_handset">听筒</string>
+<string name="onscreen_add_call_text">添加通话</string>
+<string name="end_call_because_can_not_hold">hold.</string>
+<string name="onscreen_audio_mode_bluetooth">蓝牙</string>
+<string name="ring_only_once_title">once</string>
+<string name="incall_error_supp_service_reject">无法拒绝呼叫。</string>
+<string name="incall_error_supp_service_hangup">无法挂断。</string>
+<string name="network_error_message">网络状况不佳，请使用普通电话拨打，通话费用将由运营商收取。</string>
+<string name="pref_camera_coloreffect_entry_greentint">偏绿</string>
+<string name="network_error_title">网络状况不佳</string>
+<string name="pref_camera_coloreffect_entry_bluetint">偏蓝</string>
+<string name="pref_camera_coloreffect_entry_sepiagreen">复古绿</string>
+<string name="pref_camera_coloreffect_entry_sepiablue">复古蓝</string>
+<string name="not_support_title">暂不支持拨打该号码</string>
+<string name="no_balance_message">电话加油包余额不足，请充值后再试。您也可以使用普通电话拨打，通话费用将由运营商收取。</string>
+<string name="call_self">无法拨打本机号码，请挂机</string>
+<string name="not_support_message">电话加油包暂不支持拨打此号码，您也可以使用普通电话拨打，通话费用将由运营商收取。</string>
+<string name="livetalk_left_minute">剩余%s分钟</string>
+<string name="non_ivr_menu_collapse_menu">收起菜单</string>
+<string name="no_balance_title">余额不足</string>
+<string name="livetalk_dial">正在使用电话加油包</string>
+<string name="vt_peer_camera_close">对方摄像头关闭</string>
+<string name="vt_peer_camera_open">对方摄像头打开</string>
+<string name="antispam_marked_count">%1$d人标记</string>
+<string name="vt_recorder_only_voice">仅声音</string>
+<string name="vt_recorder_only_peer_video">仅对方视频</string>
+<string name="vt_recording_saved">录制文件已经保存。</string>
+<string name="vt_recording_saved_sd_full">存储卡内容已满，录制文件已经保存。</string>
+<string name="call_recording_notification_title_error">通话录音出错</string>
+<string name="call_recording_notification_message">点击显示%s。</string>
+<string name="call_recording_notification_message_low_storage">存储空间已用完。</string>
+<string name="vt_recorder_start">开始录制</string>
+<string name="call_recording_notification_message_sd_unmounted">SD卡被移除。</string>
+<string name="vt_recorder_voice_and_peer_video">声音和对方视频</string>
+<string name="call_recording_notification_title">录音通知</string>
+<string name="vt_recording_error">录制出错</string>
+<string name="start_record_vt">开始录制</string>
+<string name="stop_record_vt">停止录制</string>
+<string name="sim_manage_indicator_3g">3G</string>
+<string name="vt_iot_error_03">无应答</string>
+<string name="vt_iot_error_02">电话忙</string>
+<string name="vt_iot_error_01">视频电话无法建立</string>
+<string name="card_title_conf_call">电话会议</string>
+<string name="card_title_dialing">正在拨号</string>
+<string name="card_title_on_hold">保持</string>
+<string name="card_title_call_ended">通话结束</string>
+<string name="pref_camera_coloreffect_entry_mono">单色</string>
+<string name="card_title_incoming_call">来电</string>
+<string name="pref_camera_coloreffect_entry_none">无</string>
+<string name="card_title_threeway_call">多方通话</string>
+<string name="vt_iot_error_04">网络忙</string>
+<string name="pref_camera_coloreffect_entry_posterize">色调分离</string>
+<string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+<string name="pref_camera_coloreffect_entry_negative">负片</string>
+<string name="pref_camera_coloreffect_entry_solarize">曝光</string>
+<string name="ivr_menu_list_sub_menu_count_format">%s</string>
+<string name="non_ivr_menu_view_menu">查看菜单</string>
+<string name="pref_camera_coloreffect_entry_sepia">棕褐色</string>
+<string name="ivr_menu_dialing_msg">正在转到所选服务...</string>
+<string name="ivr_menu_dialing_msg_no_mute">正在转到所选服务…[自动纠错已启用]</string>
+<string name="online_check_warning_type_by_cmb">仿冒电话</string>
+<string name="ivr_menu_list_title">语音服务快速直达</string>
+<string name="pref_camera_coloreffect_entry_redtint">偏红</string>
+<string name="pref_camera_coloreffect_entry_pastel">柔和</string>
+<string name="pref_camera_coloreffect_entry_mosaic">马赛克</string>
+<string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
+<string name="pref_camera_coloreffect_entry_aqua">水蓝色</string>
+<string-array name="lte_usim_prefer_network_mode_choices">
+<item>4G/3G/2G(Auto)</item>
+<item>3G/2G(Auto)</item>
+<item>Only</item>
+</string-array>
+<string-array name="gsm_umts_network_preferences_choices">
+<item>(auto)</item>
+<item>only</item>
+<item>only</item>
+</string-array>
+<string-array name="jeejen_auto_opendialer_number">
+<item>13800138000</item>
+</string-array>
+<string-array name="gsm_umts_network_preferences_values">
+<item>0</item>
+<item>2</item>
+<item>1</item>
+</string-array>
+<string-array name="lte_sim_prefer_network_mode_choices">
+<item>3G/2G(Auto)</item>
+<item>Only</item>
+</string-array>
+<string-array name="absent_num">
+<item>NUMBER</item>
+<item>ABSENTNUMBER</item>
+</string-array>
+<string-array name="vt_mt_local_video_display_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="vt_replace_local_video_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="language_list_id">
+<item>-1</item>
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>32</item>
+<item>33</item>
+<item>34</item>
+<item>35</item>
+<item>36</item>
+</string-array>
+<string-array name="lte_usim_prefer_network_mode_values">
+<item>9</item>
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="plmn_prefer_network_type_choices">
+<item>2G</item>
+<item>3G</item>
+<item>4G</item>
+<item>2G/3G</item>
+<item>2G/4G</item>
+<item>3G/4G</item>
+<item>2G/3G/4G</item>
+</string-array>
+<string-array name="umts_network_preferences_values">
+<item>0</item>
+<item>2</item>
+</string-array>
+<string-array name="vt_replace_local_video_values2">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="umts_network_preferences_choices">
+<item>(auto)</item>
+<item>only</item>
+</string-array>
+<string-array name="language_list_values">
+<item>Languages</item>
+<item>German</item>
+<item>English</item>
+<item>Italian</item>
+<item>French</item>
+<item>Spanish</item>
+<item>Dutch</item>
+<item>Swedish</item>
+<item>Danish</item>
+<item>Portuguese</item>
+<item>Finnish</item>
+<item>Norwegian</item>
+<item>Greek</item>
+<item>Turkish</item>
+<item>Hungarian</item>
+<item>Polish</item>
+<item>Others</item>
+<item>Czech</item>
+<item>Hebrew</item>
+<item>Arabic</item>
+<item>Russian</item>
+<item>IceLandic</item>
+</string-array>
+<string-array name="vt_incall_setting_local_video_effect_values">
+<item>none</item>
+<item>mono</item>
+<item>sepia</item>
+<item>negative</item>
+<item>solarize</item>
+<item>posterize</item>
+<item>aqua</item>
+<item>pastel</item>
+<item>mosaic</item>
+<item>red-tint</item>
+<item>blue-tint</item>
+<item>green-tint</item>
+<item>blackboard</item>
+<item>whiteboard</item>
+<item>sepiablue</item>
+<item>sepiagreen</item>
+</string-array>
+<string-array name="lte_sim_prefer_network_mode_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="transport_types">
+<item>UDP</item>
+<item>TCP</item>
+</string-array>
+</MIUI_Theme_Values>

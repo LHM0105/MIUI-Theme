@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 Edit folder name" version="2.9.16" annotation="" tag="Folders">
+    <resource description="folder_setting_rename_bg.9.png" x="104" y="364" width="398" height="92" uuid="a307b5d6-ff46-4b2a-b152-1a79121bac16">
+        <path src="res\drawable-xhdpi\folder_setting_rename_bg.9.png" description="输入框" />
+    </resource>
+    <resource description="folder_setting_confirm_p.9.png" x="508" y="366" width="120" height="90" uuid="25073a30-ece7-4d5b-8d41-17fe6108af37">
+        <path src="res\drawable-xhdpi\folder_setting_confirm_n.9.png" description="按钮常态" />
+        <path src="res\drawable-xhdpi\folder_setting_confirm_p.9.png" description="按钮二态" />
+    </resource>
+</screenshot>

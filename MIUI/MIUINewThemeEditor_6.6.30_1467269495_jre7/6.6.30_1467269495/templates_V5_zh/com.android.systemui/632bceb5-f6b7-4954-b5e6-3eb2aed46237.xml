@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.6 系统更新重启" version="3.11.26" annotation="按钮控件 在 com.android.update  模块" tag="其他">
+    <resource description="float_notification_bg.9" x="0" y="0" width="718" height="178" uuid="6e0ca4ae-f390-4c5a-a74f-156289208984">
+        <path src="res\drawable-xhdpi\float_notification_bg.9.png" description="系统更新重启按钮 背景" />
+    </resource>
+</screenshot>

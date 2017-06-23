@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<integer name="android_config_lowBatteryWarningLevel"></integer>
+<integer name="android_config_lowBatteryCloseWarningLevel"></integer>
+<integer name="securespaces_extension_hidden_majorVersion">#00000001</integer>
+<integer name="android_config_screenBrightnessSettingMinimum"></integer>
+<integer name="securespaces_extension_hidden_minorVersion">#00000000</integer>
+<integer name="android_config_screenBrightnessDim"></integer>
+<integer name="expanded_status_bar_toggles_column">#00000003</integer>
+<integer name="android_config_longPressOnPowerBehavior"></integer>
+<integer name="config_defaultNotificationLedFreq">#00000fa0</integer>
+<integer name="expanded_status_bar_toggles_land_column">#00000004</integer>
+<integer name="config_smartcover_smallwindow_right">#000003de</integer>
+<integer name="config_mp3_record_quality">#00000002</integer>
+<integer name="config_show_rounded_corners_default">#00000000</integer>
+<integer name="divider_fixed_position_in_page_style">#0000000b</integer>
+<integer name="config_smartcover_smallwindow_top">#00000000</integer>
+<integer name="android_config_criticalBatteryWarningLevel"></integer>
+<integer name="config_smartcover_smallwindow_left">#0000005a</integer>
+<integer name="securespaces_extension_encryption_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_delete_userdata_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_encryption_majorVersion">#00000001</integer>
+<integer name="securespaces_extension_accelerometer_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_delete_userdata_majorVersion">#00000001</integer>
+<integer name="shutdown_progress_frames_duration">#00000000</integer>
+<integer name="securespaces_extension_accelerometer_majorVersion">#00000001</integer>
+<integer name="anti_stranger_call_enabled">#00000001</integer>
+<integer name="securespaces_extension_read_cross_space_contacts_minorVersion">#00000000</integer>
+<integer name="securespaces_extension_read_cross_space_contacts_majorVersion">#00000001</integer>
+<integer name="shutdown_progress_frames_count">#00000032</integer>
+<integer name="config_buttonBrightnessSettingDefault">#000000ff</integer>
+<integer name="config_smartcover_smallwindow_bottom">#0000049c</integer>
+<string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
+<string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
+<string name="status_bar_toggle_cast">投射</string>
+<string name="status_bar_toggle_midrop">快传</string>
+<string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+<string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
+<string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
+<string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
+<string name="status_bar_toggle_quiet_mode">勿扰模式</string>
+<string name="status_bar_toggle_paper_mode">护眼模式</string>
+<string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+<string name="android_aerr_application"></string>
+<string name="screen_rotation_freeze_message">锁定屏幕为横屏模式</string>
+<string name="android_aerr_title"></string>
+<string name="android_aerr_process"></string>
+<string name="android_anr_application_process"></string>
+<string name="android_anr_activity_application"></string>
+<string name="android_anr_activity_process"></string>
+<string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
+<string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
+<string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
+<string name="status_bar_toggle_sync">同步</string>
+<string name="status_bar_toggle_torch">手电筒</string>
+<string name="status_bar_toggle_vibrate">振动</string>
+<string name="status_bar_toggle_wifi">WLAN</string>
+<string name="status_bar_toggle_power_mode">性能模式</string>
+<string name="status_bar_toggle_wifi_ap">热点</string>
+<string name="android_anr_title"></string>
+<string name="android_anr_process"></string>
+<string name="android_activity_resolver_use_once"></string>
+<string name="android_activity_resolver_use_always"></string>
+<string name="android_noApplications"></string>
+<string name="android_whichApplication"></string>
+<string name="android_whichHomeApplication"></string>
+<string name="android_power_off"></string>
+<string name="android_shutdown_confirm"></string>
+<string name="android_shutdown_progress"></string>
+<string name="android_reboot_safemode_confirm"></string>
+<string name="android_shutdown_confirm_question"></string>
+<string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+<string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
+<string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
+<string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+<string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+<string name="android_lockscreen_missing_sim_message_short"></string>
+<string name="android_usb_ptp_notification_title"></string>
+<string name="android_storage_usb"></string>
+<string name="android_volume_icon_description_bluetooth"></string>
+<string name="android_wireless_display_route_description"></string>
+<string name="android_gigabyteShort"></string>
+<string name="android_volume_alarm"></string>
+<string name="android_bugreport_message"></string>
+<string name="android_megabyteShort"></string>
+<string name="android_ssl_certificate"></string>
+<string name="android_fast_scroll_alphabet"></string>
+<string name="android_wifi_tether_configure_ssid_default"></string>
+<string name="android_lockscreen_forgot_pattern_button_text"></string>
+<string name="android_force_close"></string>
+<string name="android_report"></string>
+<string name="android_wait"></string>
+<string name="android_reboot_safemode_title"></string>
+<string name="securespaces_extension_accelerometer_serviceName"></string>
+<string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+<string name="miui">miui</string>
+<string name="auto_disable_screenbuttons_float_text">点击屏蔽手机触摸按键</string>
+<string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+<string name="auto_disable_screenbuttons_enable_toast_text">手机触摸按键已恢复</string>
+<string name="security_permission_xiaomi_account_missed_text">没有检测到小米账户</string>
+<string name="security_permission_validate_warning">感谢勇敢参与体验版的您\n每个积极探索都是为了成就更完美的\nMIUI</string>
+<string name="fp_nav_center_action_choose_dlg_negative_btn_text">暂不设置</string>
+<string name="android_volume_icon_description_notification"></string>
+<string name="start_security_permission_verify_text">开始验证</string>
+<string name="android_volume_icon_description_ringer"></string>
+<string name="security_permission_denied_text">此账户没有权限</string>
+<string name="android_volume_icon_description_incall"></string>
+<string name="security_permission_failed_text">内部错误，稍后再试</string>
+<string name="android_volume_icon_description_media"></string>
+<string name="android_lockscreen_emergency_call"></string>
+<string name="android_usb_cd_installer_notification_title"></string>
+<string name="android_usb_mtp_notification_title"></string>
+<string name="android_common_last_name_prefixes"></string>
+<string name="android_common_name_prefixes"></string>
+<string name="android_kilobyteShort"></string>
+<string name="auto_disable_screenbuttons_prompts_title">自动屏蔽手机触摸按键</string>
+<string name="android_byteShort"></string>
+<string name="auto_disable_screenbuttons_disable_toast_text">手机触摸按键已屏蔽，双击任意触摸按键退出</string>
+<string name="android_add_account_label"></string>
+<string name="auto_disable_screenbuttons_prompts_ok">我知道了</string>
+<string name="android_common_name_suffixes"></string>
+<string name="auto_disable_screenbuttons_prompts_message">双击任意触摸按键退出屏蔽模式并执行该按键操作。</string>
+<string name="paste">粘贴</string>
+<string name="replace">替换</string>
+<string name="cancel_action">取消</string>
+<string name="frequent_phrases">常用语</string>
+<string name="group_name_coworkers">同事</string>
+<string name="group_name_friends">朋友</string>
+<string name="securespaces_extension_delete_userdata_serviceName"></string>
+<string name="group_name_family">家人</string>
+<string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
+<string name="resource_select">选择</string>
+<string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
+<string name="group_name_contacts">联系人</string>
+<string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+<string name="maml_component_customization_title">自定义</string>
+<string name="securespaces_extension_hidden_serviceName"></string>
+<string name="default_name">缺省</string>
+<string name="fp_nav_center_action_choose_dlg_positive_btn_text">轻触回桌面</string>
+<string name="android_common_name_conjunctions"></string>
+<string name="fp_nav_center_action_choose_dlg_msg">是否将轻触Home键设置为返回桌面?\n您可在[设置-其它高级设置-按键]中调整操作习惯.</string>
+<string name="android_safe_media_volume_warning"></string>
+<string name="fp_nav_center_action_choose_dlg_title">轻触回桌面设置</string>
+<string name="auto_disable_screenbuttons_prompts_not_show_again">不再提示</string>
+<string name="securespaces_extension_read_cross_space_contacts_serviceName"></string>
+<string name="perm_send_push_lab">message</string>
+<string name="perm_send_push_dspt">messages</string>
+<string name="apply_password_confirm_dlg_msg">%s需有密码方可使用，是否将本机密码用于此功能?</string>
+<string name="select_all">全选</string>
+<string name="apply_password_confirm_dlg_title">将密码用于%s</string>
+<string name="select">选择</string>
+<string name="set_password_message">是否开启密码？</string>
+<string name="copy">复制</string>
+<string name="set_password_title">请设置密码</string>
+<string name="cut">剪切</string>
+<string name="set_password_action">设置密码</string>
+<string name="global_actions_airplane_mode">飞行模式</string>
+<string name="global_actions_reboot">重新启动</string>
+<string name="auto_start_warning_title">自启动?</string>
+<string name="auto_start_warning_allow">允许</string>
+<string name="translation_query_error">暂无释义</string>
+<string name="translation_query_error_network">查询失败，请检查网络连接</string>
+<string name="add_frequent_phrases">新建常用语</string>
+<string name="alwaysUsePrompt">下次默认选择此项，不再提示</string>
+<string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+<string name="fm_record_smaple_prefix_miui">收音录音</string>
+<string name="force_exit_skip_message">%1$s是系统关键模块，不建议强行退出</string>
+<string name="force_exit_message">已停止\ %1$s\</string>
+<string name="first_back_long_press_message">是否立即打开“长按返回键停止当前程序及其后台服务”的功能？\n\n可到“设置-&gt;系统-&gt;按键”修改。</string>
+<string name="caller_info_name_delimiter">或</string>
+<string name="call_record_or">或</string>
+<string name="call_record_sample_prefix_miui">通话录音</string>
+<string name="auto_start_warning_deny">拒绝</string>
+<string name="xspace_resolver_activity_title">请选择要使用的应用</string>
+<string name="reboot_progress">正在重启...</string>
+<string name="user_switching_dialog_text">正在切换...</string>
+<string name="security_permission_wifi_and_data_opened_text">已为您自动打开Wifi和数据流量</string>
+<string name="reboot_info_shutdown_alarm">关机后闹钟将会在%s响铃</string>
+<string name="key_btn_space">空格</string>
+<string name="key_btn_ok">确认</string>
+<string name="global_actions_shutdown">关机</string>
+<string name="global_actions_silent_mode">静音模式</string>
+<string name="reboot_info_auto_boot">关机后将会在%s自动开机</string>
+<string name="lockscreen_access_pattern_start">开始绘制图案</string>
+<string name="shutdown_confirm_title">确定要关机吗？</string>
+<string name="memory_clear_nothing_result">已经清理至最佳状态</string>
+<string name="reboot_confirm_title">确定要重新启动吗？</string>
+<string name="shutdown_progress">正在关机...</string>
+<string name="lockscreen_access_pattern_cell_added">已添加单元格</string>
+<string name="lockscreen_access_pattern_cleared">图案已清除</string>
+<string name="memory_clear_result">成功释放了%1$s内存，\n当前可用内存为%2$s</string>
+<string name="lockscreen_access_pattern_detected">图案绘制完成</string>
+<string name="subinfo_default_name">卡%d</string>
+<string name="ignore_home_when_fingerprint_enrolling_msg">将手指轻放在主屏幕按键上，但不要用力按下去</string>
+<string name="apply_password_action">使用密码</string>
+<string name="screenshot_gesture_detect_fail_alert_title">多指提示</string>
+<string name="international_livetalk_enable">电话加油包：已对国际通话启用</string>
+<string name="internal_livetalk_enable">电话加油包：已对国内通话启用</string>
+<string name="livetalk_not_enable">电话加油包：已关闭加油包</string>
+<string name="fc_dialog_jump_to_preview">查看⽇志摘要</string>
+<string name="enable_livetalk_summary">最高省70%话费</string>
+<string name="enable_livetalk_title">启用电话加油包</string>
+<string name="all_call_livetalk_remain_mins">%2$s分钟（国际）</string>
+<string name="all_call_livetalk_enable">电话加油包：已对所有通话启用</string>
+<string name="location_usage_restricted_title">后台定位受限</string>
+<string name="permdesc_manageLocationPolicy">允许应用管理和设置基于App的策略</string>
+<string name="permlab_manageLocationPolicy">管理定位策略</string>
+<string name="screenshot_gesture_detect_fail_alert_button">设置截屏手势</string>
+<string name="screenshot_gesture_detect_fail_alert_msg">多指操作已被截屏手势占用，可在设置中关闭此截屏手势</string>
+<string name="sim_added_reboot_title">SIM卡已添加，重启后生效</string>
+<string name="sim_added_reboot_confirm">重启</string>
+<string name="handy_mode_title">单手模式</string>
+<string name="handy_mode_summary">点击小屏幕外区域退出</string>
+<string name="handy_mode_enter_dlg_title">进入单手模式</string>
+<string name="handy_mode_enter_dlg_msg">您的手势已触发单手模式，是否要进入单手模式？</string>
+<string name="softap_notifif_title">已启动热点“%s”</string>
+<string name="softap_notifif_summary">%d个连接</string>
+<string name="turn_off">关闭</string>
+<string name="location_usage_restricted_body">触摸可去除限制</string>
+<string name="unknown_caller">未知号码</string>
+<string name="fc_dialog_body">是否上传此错误报告，以帮助我们分析问题？报告可能包含您的个⼈信息，但我们会做好保密并仅⽤作问题分析。</string>
+<string name="screen_paper_mode_enter_toast">护眼模式已启用，您可以在[显示]-[护眼模式]或通知栏中关闭</string>
+<string name="screen_button_notification_text">可通过“桌面键+电源键”恢复</string>
+<string name="screen_on_proximity_sensor_summary">请勿遮挡橙色区域</string>
+<string name="screen_on_proximity_sensor_title">防误触模式</string>
+<string name="screen_button_notification_title">手机屏幕下方按键功能已停用</string>
+<string name="screen_on_proximity_sensor_hint">或同时按下“返回”和“音量+”</string>
+<string name="status_bar_toggle_bluetooth">蓝牙</string>
+<string name="status_bar_toggle_rotate">方向锁定</string>
+<string name="status_bar_toggle_screen_button">屏蔽按键</string>
+<string name="status_bar_toggle_lock">锁屏</string>
+<string name="status_bar_toggle_mute">静音</string>
+<string name="status_bar_toggle_flight_mode">飞行模式</string>
+<string name="status_bar_toggle_gps">GPS</string>
+<string name="status_bar_toggle_auto_brightness">自动亮度</string>
+<string name="status_bar_toggle_data">数据</string>
+<string name="status_bar_toggle_screenshot">截屏</string>
+<bool name="android_config_intrusiveNotificationLed"></bool>
+<bool name="android_config_dreamsEnabledByDefault"></bool>
+<bool name="android_config_dreamsActivatedOnSleepByDefault"></bool>
+<bool name="android_config_dreamsActivatedOnDockByDefault"></bool>
+<bool name="android_config_alwaysUseCdmaRssi"></bool>
+<bool name="android_config_automatic_brightness_available"></bool>
+<bool name="android_config_wimaxEnabled"></bool>
+<bool name="config_show_status_bar_carrier">false</bool>
+<bool name="enable_magnifier_when_input">false</bool>
+<bool name="securespaces_extension_accelerometer">true</bool>
+<bool name="securespaces_extension_delete_userdata">true</bool>
+<bool name="android_config_cellBroadcastAppLinks"></bool>
+<bool name="securespaces_extension_encryption">true</bool>
+<bool name="android_config_useFixedVolume"></bool>
+<bool name="securespaces_extension_hidden">true</bool>
+<bool name="android_config_useMasterVolume"></bool>
+<bool name="config_show_status_bar_time_for_keyguard">false</bool>
+<bool name="config_show_status_bar_status_for_keyguard">true</bool>
+<bool name="config_show_status_bar_carrier_for_keyguard">true</bool>
+<bool name="config_show_status_bar_battery_for_keyguard">true</bool>
+<bool name="config_show_status_bar_signal_for_keyguard">true</bool>
+<bool name="config_show_status_bar_notification_for_keyguard">true</bool>
+<bool name="config_has_antispam">true</bool>
+<bool name="config_enableUsbModeSelection">false</bool>
+<bool name="config_screen_on_proximity_sensor_default">false</bool>
+<bool name="config_is_voice_mutable">true</bool>
+<bool name="securespaces_extension_read_cross_space_contacts">true</bool>
+<bool name="is_dirac_supported">true</bool>
+<bool name="is_dolby_supported">false</bool>
+<bool name="android_config_use_strict_phone_number_comparation"></bool>
+<bool name="android_preferences_prefer_dual_pane"></bool>
+<bool name="android_config_useVolumeKeySounds"></bool>
+<bool name="android_config_voice_capable"></bool>
+<dimen name="android_notification_min_height"></dimen>
+<dimen name="android_notification_row_min_height"></dimen>
+<dimen name="android_preference_item_padding_side"></dimen>
+<dimen name="android_status_bar_height"></dimen>
+<dimen name="android_notification_padding_left"></dimen>
+<dimen name="android_notification_padding_right"></dimen>
+<dimen name="boot_msg_right_padding">110.000000dp</dimen>
+<dimen name="boot_msg_textsize">11.000000sp</dimen>
+<dimen name="resolver_grid_padding_horizontal">14.000000dp</dimen>
+<dimen name="screen_on_proximity_sensor_hint_height">400.000000dp</dimen>
+<dimen name="text_edit_action_popup_text_size">13.000000sp</dimen>
+<dimen name="shift_key_text_size">15.000000sp</dimen>
+<dimen name="over_fling_distance">0.500000dp</dimen>
+<dimen name="over_scroll_distance">0.000000dp</dimen>
+<dimen name="resolver_gridview_height">340.000000dp</dimen>
+<dimen name="resolver_gridview_width">400.000000dp</dimen>
+<dimen name="normal_key_text_size">19.000000sp</dimen>
+<dimen name="miui_keyboard_height">220.000000dp</dimen>
+<dimen name="keyboard_padding_left">11.000000dp</dimen>
+<dimen name="keyboard_padding_top">7.000000dp</dimen>
+<dimen name="key_btn_height">46.000000dp</dimen>
+<dimen name="key_btn_vertical_gap">8.000000dp</dimen>
+<dimen name="global_actions_item_min_width">400.000000dp</dimen>
+<dimen name="volume_panel_top">163.000000dp</dimen>
+<dimen name="volume_dialog_expand_button_padding_right">21.000000dp</dimen>
+<dimen name="volume_dialog_expand_button_padding_left">11.000000dp</dimen>
+<dimen name="volume_dialog_row_height">25.000000dp</dimen>
+<dimen name="volume_slider_interspacing">7.000000dp</dimen>
+<dimen name="volume_dialog_padding_left">18.000000dp</dimen>
+<dimen name="volume_dialog_padding_top">12.000000dp</dimen>
+<dimen name="volume_dialog_padding_bottom">12.000000dp</dimen>
+<dimen name="volume_dialog_margin">4.000000dp</dimen>
+<dimen name="text_action_translation_max_height">190.000000dp</dimen>
+<dimen name="text_action_translation_min_height">82.000000dp</dimen>
+<dimen name="text_action_popup_padding">18.669983dp</dimen>
+<dimen name="fc_dialog_body_text_size">12.000000px</dimen>
+<dimen name="text_handle_min_size">40.000000dp</dimen>
+<dimen name="text_action_popup_off_screen">11.329987dp</dimen>
+<dimen name="phrase_list_max_height">191.000000dp</dimen>
+<dimen name="phrase_list_width">270.000000dp</dimen>
+<dimen name="android_glowpadview_glow_radius"></dimen>
+<dimen name="android_navigation_bar_size"></dimen>
+<dimen name="android_glowpadview_inner_radius"></dimen>
+<dimen name="android_notification_action_text_size"></dimen>
+<dimen name="android_notification_action_height"></dimen>
+<dimen name="android_notification_content_to_icon_length"></dimen>
+<dimen name="android_notification_content_margin_left_to_icon"></dimen>
+<dimen name="volume_dialog_expand_button_padding_top">12.000000dp</dimen>
+<dimen name="global_actions_text_size">12.000000sp</dimen>
+<dimen name="android_notification_large_icon_height"></dimen>
+<dimen name="global_actions_item_margin">40.000000dp</dimen>
+<dimen name="volume_dialog_width">0.000000dp</dimen>
+<dimen name="android_notification_height"></dimen>
+<dimen name="volume_dialog_expand_button_padding_bottom">12.000000dp</dimen>
+<dimen name="android_notification_large_icon_width"></dimen>
+<dimen name="global_actions_item_text_top_margin">6.000000dp</dimen>
+<dimen name="config_screenshot_scale">0.44444</dimen>
+<dimen name="window_background_blur_radius">15.000000dp</dimen>
+<dimen name="android_system_bar_height"></dimen>
+<dimen name="android_status_bar_icon_size"></dimen>
+<dimen name="boot_msg_left_padding">110.000000dp</dimen>
+<dimen name="boot_msg_bottom_padding">42.000000dp</dimen>
+<dimen name="boot_msg_top_padding">240.660004dp</dimen>
+<dimen name="alert_dialog_button_bar_height">48.000000dp</dimen>
+<color name="resolver_icon_mask">#70000000</color>
+<color name="realtimeblur_bg">#ab1a1a1a</color>
+<color name="fc_dialog_body_text_color">#7f000000</color>
+<color name="text_edit_action_popup_text_normal">#d9000000</color>
+<color name="global_action_item_text_color_pressed"></color>
+<color name="miui_boot_massage_dialog_background_color">#ff000000</color>
+<color name="pattern_lockscreen_paint_error_color">#66de462d</color>
+<color name="pattern_lockscreen_paint_color">#6600a2ff</color>
+<color name="text_edit_action_popup_text_pressed">#ff0091dc</color>
+<color name="android_config_defaultNotificationColor"></color>
+<color name="auto_disable_screenbuttons_float_text_color">#e5000000</color>
+<color name="float_notification_button_color_n">#ffffffff</color>
+<color name="float_notification_button_color_p">#ffffffff</color>
+<color name="global_action_item_text_color_normal"></color>
+<color name="power_off_dialog_background_cover_color">#af000000</color>
+<color name="volume_panel_text_color">#b3ffffff</color>
+<color name="boot_msg_textcolor">#73ffffff</color>
+<color name="key_text_normal">#a2ffffff</color>
+<color name="key_text_pressed">#bfffffff</color>
+<color name="float_notification_button_color_disable">#ffbdbdbd</color>
+<fraction name="volume_panel_top_margin">0.270000%</fraction>
+<fraction name="config_full_screen_expand_status_bar_height_ratio">0.500000%</fraction>
+<string-array name="organized_languages_international">
+<item>in_ID</item>
+<item>ms_MY</item>
+<item>de_DE</item>
+<item>en_IN</item>
+<item>en_GB</item>
+<item>en_US</item>
+<item>es_ES</item>
+<item>es_US</item>
+<item>fr_FR</item>
+<item>it_IT</item>
+<item>lt_LT</item>
+<item>hu_HU</item>
+<item>pt_BR</item>
+<item>ro_RO</item>
+<item>vi_VN</item>
+<item>tr_TR</item>
+<item>mk_MK</item>
+<item>ru_RU</item>
+<item>uk_UA</item>
+<item>mr_IN</item>
+<item>hi_IN</item>
+<item>bn_IN</item>
+<item>gu_IN</item>
+<item>pa_IN</item>
+<item>as_IN</item>
+<item>ta_IN</item>
+<item>te_IN</item>
+<item>kn_IN</item>
+<item>ml_IN</item>
+<item>th_TH</item>
+<item>my_MM</item>
+<item>ko_KR</item>
+<item>zh_CN</item>
+<item>zh_TW</item>
+</string-array>
+<string-array name="airtel_mcc_mnc">
+<item>40552</item>
+<item>40498</item>
+<item>40431</item>
+<item>40490</item>
+<item>40493</item>
+<item>40492</item>
+<item>40551</item>
+<item>40553</item>
+<item>40470</item>
+<item>40556</item>
+<item>40416</item>
+<item>40410</item>
+<item>40440</item>
+<item>40449</item>
+<item>40496</item>
+<item>40403</item>
+<item>40555</item>
+<item>40495</item>
+<item>40445</item>
+<item>40402</item>
+<item>40494</item>
+<item>40554</item>
+<item>40497</item>
+</string-array>
+<string-array name="organized_languages_default">
+<item>zh_CN</item>
+<item>zh_TW</item>
+<item>en_US</item>
+</string-array>
+<string-array name="float_notification_whitelist">
+<item>cn.com.fetion</item>
+<item>com.google.android.talk</item>
+<item>com.tencent.mm</item>
+<item>com.tencent.qq</item>
+<item>com.tencent.mobileqq</item>
+<item>com.xiaomi.channel</item>
+<item>com.android.calendar</item>
+<item>com.android.phone</item>
+<item>com.android.mms</item>
+<item>com.immomo.momo</item>
+<item>com.google.android.gm</item>
+<item>com.android.email</item>
+<item>android</item>
+<item>com.android.providers.downloads.ui</item>
+<item>com.android.updater</item>
+<item>com.android.settings</item>
+<item>com.android.bluetooth</item>
+<item>com.whatsapp</item>
+<item>com.jeejen.family.miui</item>
+<item>com.miui.networkassistant</item>
+<item>com.android.server.telecom</item>
+<item>com.xiaomi.midrop</item>
+<item>com.miui.securitycenter</item>
+<item>com.miui.player</item>
+<item>com.android.cts.verifier</item>
+<item>com.miui.securitycore</item>
+<item>com.lbe.security.miui</item>
+</string-array>
+<string-array name="securespaces_extension_accelerometer_userRestrictions">
+<item>ss_no_accelerometer_access,1</item>
+</string-array>
+<string-array name="securespaces_extension_read_cross_space_contacts_authorities">
+<item>com.android.contacts</item>
+<item>contacts</item>
+</string-array>
+<string-array name="securespaces_extension_read_cross_space_contacts_userRestrictions">
+<item>ss_ensure_read_cross_space_contacts,1</item>
+</string-array>
+<string-array name="boot_msg_text">
+<item>正在规划产品方案...</item>
+<item>工程师全力Coding...</item>
+<item>正在修复Bug...</item>
+<item>优化系统应用启动速度...</item>
+<item>即将升级完毕，记得来MIUI论坛反馈哟!</item>
+</string-array>
+<string-array name="screen_key_long_press_default_action">
+<item>voice_assistant</item>
+<item>none</item>
+<item>none</item>
+<item>show_menu</item>
+</string-array>
+</MIUI_Theme_Values>

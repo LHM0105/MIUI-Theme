@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="备份" version="3.2.27" annotation="" tag="">
+    <resource description="backuped_bg.9" x="0" y="48" width="722" height="438" uuid="27181b23-2e98-4d0c-909a-a7626f19c029">
+        <path src="res\drawable-xhdpi\backuped_bg.9.png" description="备份背景" />
+    </resource>
+    <resource description="backup_arrow" x="654" y="526" width="36" height="50" uuid="f907d312-a7bb-466e-8220-7f792886e859">
+        <path src="res\drawable-xhdpi\backup_arrow.png" description="进入指示" />
+    </resource>
+    <resource description="backup_unlock" x="34" y="1152" width="88" height="88" uuid="8cc3ff66-2757-44dc-b156-cc7a0c886a66">
+        <path src="res\drawable-xhdpi\backup_lock.png" description="加密按钮 二态" />
+        <path src="res\drawable-xhdpi\backup_unlock.png" description="解密按钮" />
+    </resource>
+    <resource description="backup_list_lock" x="582" y="526" width="58" height="50" uuid="27eff8f6-955f-4b85-b611-f91d935e7dc3">
+        <path src="res\drawable-xhdpi\backup_list_lock.png" description="加密图标" />
+    </resource>
+</screenshot>

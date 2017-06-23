@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IconTransform>
+    <PointsMapping>
+        <Point fromX="0.0" fromY="0.0" toX="20.0" toY="20.0" />
+        <Point fromX="0.0" fromY="90.0" toX="20.0" toY="70.0" />
+        <Point fromX="90.0" fromY="90.0" toX="70.0" toY="70.0" />
+        <Point fromX="90.0" fromY="0.0" toX="70.0" toY="20.0" />
+    </PointsMapping>
+    <IconFilters>
+        <Filter name="Edges" />
+        <Filter name="GrayScale">
+            <Param name="BlackColor" value="#00000000" />
+            <Param name="WhiteColor" value="#ffffff" />
+        </Filter>
+    </IconFilters>
+</IconTransform>

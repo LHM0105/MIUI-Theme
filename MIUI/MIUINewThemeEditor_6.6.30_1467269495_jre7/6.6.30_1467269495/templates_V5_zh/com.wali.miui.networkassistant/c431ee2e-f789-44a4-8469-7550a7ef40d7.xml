@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 流量排行" version="3.2.27" annotation="" tag="流量排行">
+    <resource description="batch_control_normal" x="318" y="1144" width="80" height="90" uuid="edf7464f-b427-439b-a2cc-6a33a2587e20">
+        <path src="res\drawable-hdpi\batch_control_disable.png" description="批量控制图标，不可按" />
+        <path src="res\drawable-hdpi\batch_control_highlight.png" description="批量控制图标，二态" />
+        <path src="res\drawable-hdpi\batch_control_normal.png" description="批量控制图标" />
+        <path src="res\drawable-xhdpi\batch_control_disable.png" description="批量控制图标，不可按" />
+        <path src="res\drawable-xhdpi\batch_control_highlight.png" description="批量控制图标，二态" />
+        <path src="res\drawable-xhdpi\batch_control_normal.png" description="批量控制图标" />
+    </resource>
+    <resource description="shadow_divider" x="0" y="229" width="720" height="28" uuid="5b744d8e-0214-4489-91e7-f8065cd9da4d">
+        <path src="res\drawable-xhdpi\shadow_divider.png" description="分割线阴影" />
+    </resource>
+    <resource description="traffic_mobile.9" x="218" y="304" width="305" height="21" uuid="9f7e58dc-f6c4-4106-8916-795ce326a3d6">
+        <path src="res\drawable-hdpi\traffic_mobile.9.png" description="手机使用流量" />
+        <path src="res\drawable-xhdpi\traffic_mobile.9.png" description="手机使用流量" />
+    </resource>
+    <resource description="traffic_wifi.9" x="214" y="335" width="94" height="27" uuid="54afdb4c-9288-4e0b-8369-234b3922d007">
+        <path src="res\drawable-hdpi\traffic_wifi.9.png" description="wifi使用流量" />
+        <path src="res\drawable-xhdpi\traffic_wifi.9.png" description="wifi使用流量" />
+    </resource>
+</screenshot>

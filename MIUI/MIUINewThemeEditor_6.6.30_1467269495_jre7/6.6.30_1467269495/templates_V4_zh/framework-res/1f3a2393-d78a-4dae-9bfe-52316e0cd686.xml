@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="越界指示，提示窗" version="2.9.29" annotation="横向或纵向滑动的越界指示都是一样的 分为两张图" tag="">
+    <resource description="overscroll_edge" x="694" y="146" width="26" height="1032" uuid="dc9ff173-2fc9-415f-b73a-ffe21c77ce28">
+        <path src="res\drawable-hdpi\overscroll_edge.png" description="" />
+        <path src="res\drawable-xhdpi\overscroll_edge.png" description="" />
+    </resource>
+    <resource description="overscroll_glow" x="462" y="146" width="258" height="1032" uuid="e8f08969-a24c-4932-ba91-6bb5a7006634">
+        <path src="res\drawable-hdpi\overscroll_glow.png" description="" />
+        <path src="res\drawable-xhdpi\overscroll_glow.png" description="" />
+    </resource>
+    <resource description="toast_frame_holo.9" x="190" y="1028" width="342" height="122" uuid="34a2ec65-80d7-4c10-900c-4f786e88b84e">
+        <path src="res\drawable-hdpi\toast_frame.9.png" description="" />
+        <path src="res\drawable-hdpi\toast_frame_holo.9.png" description="" />
+        <path src="res\drawable-xhdpi\toast_frame.9.png" description="" />
+        <path src="res\drawable-xhdpi\toast_frame_holo.9.png" description="" />
+    </resource>
+    <resource description="background_holo_light" x="0" y="50" width="720" height="1230" uuid="9bc301d5-8a17-4f8e-8dd6-e0d7fb5ad08f">
+        <path src="res\drawable-nodpi\background_holo_light.png" description="全局大部分界面背景图" />
+    </resource>
+</screenshot>

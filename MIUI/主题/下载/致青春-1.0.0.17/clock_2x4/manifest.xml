@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clock version="1" frameRate="30" screenWidth="1080" scaleByDensity="true ">
+	<ExternalCommands>
+		<Trigger action="resume">
+		</Trigger>
+		<Trigger action="pause">
+
+		</Trigger>
+	</ExternalCommands>
+
+	<VariableBinders>
+		<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,description,temperature,weather_type" countName="hasweather" denpendency="selected_city">
+			<Variable name="weather_city" type="string" column="city_name" />
+			<Variable name="weather_description" type="string" column="description" />
+			<Variable name="weather_temperature" type="int" column="temperature" />
+			<Variable name="weather_id" type="int" column="weather_type" />
+		</ContentProviderBinder>
+	</VariableBinders>	
+	
+	
+	<Var name="vw" expression="#view_width"/>
+	<Var name="vh" expression="#view_heihgt"/>
+
+
+	<Group name="time_calendar"  >
+
+		<!-- 时间 -->
+		<Time x="550" y="240" align="right" alignV="center" src="n/n.png" />
+
+		<!-- 日历 -->
+		<DateTime x="640" y="240" alignV="bottom" color="#2a744b" size="36" format="MM月dd日  EEEE"/>
+
+		<Text x="640" y="240"  color="#2a744b" size="36" format="%s℃  %s" paras="#weather_temperature,@weather_description" />
+
+
+	</Group>
+	<Image x="#vw/2" y="306" align="center" src="young_desk_txt.png"/>
+	<Image x="#vw/2" y="306" align="center" src="young_desk_txt.png"/>
+ 
+</Clock>

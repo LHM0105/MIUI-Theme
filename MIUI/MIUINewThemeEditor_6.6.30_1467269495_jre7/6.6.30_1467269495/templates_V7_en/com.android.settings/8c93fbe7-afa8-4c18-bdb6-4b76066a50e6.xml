@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 Settings" version="4.9.1" annotation="" tag="">
+    <resource description="ic_application_settings" x="62" y="367" width="77" height="642" uuid="c3d31260-a80c-4f62-b163-5d0c677cd81b">
+        <path src="res\drawable-xxhdpi\ic_about_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_accelerometer_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_accessibility_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_account_list.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_add_account_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_airplane_mode_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_android_beam_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_application_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_development_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_display_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_do_not_disturb_mode_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_gps_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_info_details.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_key_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_language_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_backup_reset_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_battery_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bluetooth_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_brightness_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_bluetooth.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_cellphone.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_config.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_headphones_a2dp.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_imaging.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_laptop.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_misc_hid.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_network_pan.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_bt_pointing_hid.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_date_time_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_power_mode_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_quiet_mode_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_ringer_volume_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_ringtone_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_screen_timeout_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_security_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_setting.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_settings_home.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_settings_nfc_payment.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_sound_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_status_bar_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_storage_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_sync_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_system_app_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_tether_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_unlock_set_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_vpn_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wallpaper_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_launcher_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_led_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_location_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_mimoney_settings.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_mobile_network_settings.png" description="" />
+    </resource>
+    <resource description="action_button_stop_normal" x="483" y="1743" width="108" height="118" uuid="ed7edb77-f4fc-4101-a053-13ba1cc5b304">
+        <path src="res\drawable-xxhdpi\action_button_stop_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_wifi_direct_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_wifi_direct_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_wifi_direct_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bottom_add_vip_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bottom_add_vip_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_bottom_add_vip_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_clear_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_clear_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_clear_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_reset_volume_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_reset_volume_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_reset_volume_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_search_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_search_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_search_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_show_process_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_show_process_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_show_process_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_stop_disable.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_stop_normal.png" description="" />
+    </resource>
+    <resource description="free_wifi_indicator" x="375" y="1195" width="110" height="60" uuid="625f4823-8baa-4659-8f93-1b60af216653">
+        <path src="res\drawable-xxhdpi\free_wifi_indicator.png" description="" />
+        <path src="res\drawable-xxhdpi\xiaomi_wifi_indicator.png" description="" />
+    </resource>
+    <resource description="ic_wifi_lock_signal_1" x="780" y="1210" width="130" height="68" uuid="cfd132e0-b64e-4eca-b490-d514bcde1637">
+        <path src="res\drawable-xxhdpi\ic_wifi_lock_signal_0.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_lock_signal_1.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_lock_signal_2.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_lock_signal_3.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_lock_signal_4.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_signal_0.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_signal_1.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_signal_2.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_signal_3.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wifi_signal_4.png" description="" />
+    </resource>
+</screenshot>

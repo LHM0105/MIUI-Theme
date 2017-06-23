@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.7 勿扰模式" version="3.9.20" annotation="" tag="设置">
+    <resource description="dndm_bottom_bar_add_vip_n" x="322" y="1138" width="80" height="90" uuid="280c54c5-3a61-43aa-b7e7-7bdf06391112">
+        <path src="res\drawable-hdpi\dndm_bottom_bar_add_vip_n.png" description="添加VIP联系人 常态" />
+        <path src="res\drawable-xhdpi\dndm_bottom_bar_add_vip_n.png" description="添加VIP联系人 常态" />
+        <path src="res\drawable-hdpi\dndm_bottom_bar_add_vip_p.png" description="添加VIP联系人 二态" />
+        <path src="res\drawable-xhdpi\dndm_bottom_bar_add_vip_p.png" description="添加VIP联系人 二态" />
+    </resource>
+    <resource description="dndm_stat_notify" x="164" y="0" width="50" height="50" uuid="b8938fbb-4ce1-458f-ae90-6e7a9d908880">
+        <path src="res\drawable-hdpi\dndm_stat_notify.png" description="勿扰模式 小图标" />
+        <path src="res\drawable-xhdpi\dndm_stat_notify.png" description="勿扰模式 小图标" />
+    </resource>
+</screenshot>

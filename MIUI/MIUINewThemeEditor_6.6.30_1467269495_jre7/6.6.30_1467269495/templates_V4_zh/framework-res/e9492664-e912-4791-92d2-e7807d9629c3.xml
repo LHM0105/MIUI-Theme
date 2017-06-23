@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="滑动条" version="2.9.16" annotation="" tag="进度条/滑动条/等待进度">
+    <resource description="scrubber_primary_holo.9" x="144" y="276" width="196" height="22" uuid="df194019-6c05-423c-aeac-6a9151ee987f">
+        <path src="res\drawable-hdpi\scrubber_primary_holo.9.png" description="橙色进度" />
+        <path src="res\drawable-hdpi\scrubber_secondary_holo.9.png" description="" />
+        <path src="res\drawable-xhdpi\scrubber_primary_holo.9.png" description="橙色进度" />
+        <path src="res\drawable-xhdpi\scrubber_secondary_holo.9.png" description="" />
+    </resource>
+    <resource description="scrubber_track_holo_light.9" x="134" y="270" width="532" height="36" uuid="b56c4368-7ab6-4771-a7f2-117430b19b4c">
+        <path src="res\drawable-hdpi\scrubber_track_holo_light.9.png" description="灰色背景" />
+        <path src="res\drawable-xhdpi\scrubber_track_holo_light.9.png" description="灰色背景" />
+    </resource>
+    <resource description="scrubber_control_disabled_holo" x="332" y="260" width="64" height="64" uuid="63658857-e58e-4e3f-b775-213acf39628d">
+        <path src="res\drawable-hdpi\scrubber_control_disabled_holo.png" description="滑块" />
+        <path src="res\drawable-hdpi\scrubber_control_focused_holo.png" description="" />
+        <path src="res\drawable-hdpi\scrubber_control_normal_holo.png" description="" />
+        <path src="res\drawable-hdpi\scrubber_control_pressed_holo.png" description="" />
+        <path src="res\drawable-xhdpi\scrubber_control_disabled_holo.png" description="滑块" />
+        <path src="res\drawable-xhdpi\scrubber_control_focused_holo.png" description="" />
+        <path src="res\drawable-xhdpi\scrubber_control_normal_holo.png" description="" />
+        <path src="res\drawable-xhdpi\scrubber_control_pressed_holo.png" description="" />
+    </resource>
+    <resource description="dialog_full_holo_light.9" x="16" y="218" width="690" height="138" uuid="65b617a0-e245-4967-bcf0-eb156b80276a">
+        <path src="res\drawable-hdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+        <path src="res\drawable-xhdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+    </resource>
+</screenshot>

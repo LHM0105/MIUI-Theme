@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 系统更新" version="2.9.16" annotation="" tag="">
+    <resource description="arrow_right.png" x="636" y="608" width="48" height="48" uuid="962faa03-f5e8-453a-a4f5-d8ab10e76838">
+        <path src="res\drawable-hdpi\arrow_right.png" description="进入指示" />
+        <path src="res\drawable-xhdpi\arrow_right.png" description="进入指示" />
+    </resource>
+    <resource description="miui_title" x="0" y="48" width="720" height="400" uuid="90b78aa2-c348-48b5-b234-436ab4f52eb7">
+        <path src="res\drawable-en-hdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-en-xhdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-hdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-xhdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-zh-TW-hdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-zh-TW-xhdpi\miui_title.png" description="miui logo" />
+        <path src="res\drawable-hdpi\miui_title_alpha.png" description="miui logo" />
+        <path src="res\drawable-xhdpi\miui_title_alpha.png" description="miui logo" />
+    </resource>
+    <resource description="check_update_n" x="318" y="1140" width="80" height="90" uuid="dd437839-d2d9-40b0-9e29-1dac349f3d81">
+        <path src="res\drawable-hdpi\check_update_n.png" description="更新按钮" />
+        <path src="res\drawable-xhdpi\check_update_n.png" description="更新按钮" />
+        <path src="res\drawable-hdpi\check_update_p.png" description="更新按钮 二态" />
+        <path src="res\drawable-xhdpi\check_update_p.png" description="更新按钮 二态" />
+    </resource>
+    <resource description="xiaomi_phone_manager" x="0" y="452" width="720" height="124" uuid="24023fa9-e804-4944-8698-96f247cf79f9">
+        <path src="res\drawable\xiaomi_phone_manager.png" description="升级提示" />
+        <path src="res\drawable-hdpi\xiaomi_phone_manager.png" description="升级提示" />
+        <path src="res\drawable-xhdpi\xiaomi_phone_manager.png" description="升级提示" />
+    </resource>
+</screenshot>

@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="blur_background_mask">#b0000000</color>
+<color name="vip_id_color">#ff808080</color>
+<color name="vip_title_color">#ffff7200</color>
+<color name="vip_grey_color">#ff666666</color>
+<color name="vip_prompt_color">#ffb3b3b3</color>
+<color name="vip_trans_white">#99ffffff</color>
+<color name="vip_divider_color">#ffcccccc</color>
+<color name="vip_name_color">#ff1a1a1a</color>
+<color name="cloud_count_normal_text_color_dark"></color>
+<color name="cloud_status_normal_text_color_dark">#ff747474</color>
+<color name="cloud_status_highlight_text_color_dark">#fffb6003</color>
+<color name="vip_white">#ffffffff</color>
+<color name="cloud_panel_text_light">#ff0e75f2</color>
+<color name="cloud_count_normal_text_color_light"></color>
+<color name="cloud_status_normal_text_color_light">#7f000000</color>
+<color name="cloud_status_highlight_text_color_light">#ffee5b1a</color>
+<string name="yellow_page_module_sms_sent">短信已发送</string>
+<string name="yellow_page_unable_send_sms">短信服务当前不可用</string>
+<string name="yellow_page_sms_sending">正在发送短信...</string>
+<string name="yellow_page_sms_send_failed">短信发送失败</string>
+<string name="yellow_page_sms_disabled_in_privacy_mode">无法在访客模式下发送信息</string>
+<string name="miui_device_name">Android</string>
+<string name="device_xiaomi">小米手机</string>
+<string name="device_pad">小米平板</string>
+<string name="device_hongmi">红米手机</string>
+<string name="solar_calendar">公历</string>
+<string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
+<string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
+<string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
+<string name="presentation_payphone">公用号码</string>
+<string name="presentation_private">私人号码</string>
+<string name="presentation_unknown">未知号码</string>
+<string name="lunar_san">三</string>
+<string name="lunar_si">四</string>
+<string name="lunar_liu">六</string>
+<string name="lunar_wu">五</string>
+<string name="lunar_ba">八</string>
+<string name="lunar_qi">七</string>
+<string name="lunar_shi">十</string>
+<string name="lunar_jiu">九</string>
+<string name="lunar_shi_er">腊</string>
+<string name="lunar_shi_yi">冬</string>
+<string name="menu_delete">删除</string>
+<string name="menu_edit">编辑</string>
+<string name="frequent_phrases_des">您可以在文字编辑时快速插入常用信息和短语</string>
+<string name="android_ringtone_default_with_actual">默认铃声（%1$s）</string>
+<string name="no_notification_tips">最近没有任何通知</string>
+<string name="cloud_state_finished">小米云已完成同步</string>
+<string name="cloud_state_disabled">小米云同步未开启</string>
+<string name="winter_solstice">冬至</string>
+<string name="summer_solstice">夏至</string>
+<string name="slight_heat">小暑</string>
+<string name="vip_level">LV%d</string>
+<string name="vip_login">点击立即登录</string>
+<string name="edit_frequent_phrases">编辑常用语</string>
+<string name="menu_add_frequent_phrases">新建常用语</string>
+<string name="vip_achievements">成就</string>
+<string name="vip_sign">签名：</string>
+<string name="vip_not_login">未登录</string>
+<string name="frequent_phrases_size_exceeded">条，请先删除不再使用的常用语</string>
+<string name="delete_frequent_phrases_confirm">确认要删除选中的常用语吗？</string>
+<string name="delete_frequent_phrases">删除常用语</string>
+<string name="add_frequent_phrases">新建常用语</string>
+<string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
+<string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+<string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageComplete.ogg</string>
+<string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
+<string name="android_ringtone_unknown">未知铃声</string>
+<string name="android_ringtone_silent">无</string>
+<string name="cloud_state_syncing">小米云正在同步</string>
+<string name="def_notification_sound">/system/media/audio/notifications/Fresh.ogg</string>
+<string name="def_alarm_alert">/system/media/audio/alarms/Daydream.ogg</string>
+<string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
+<string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
+<string name="good_friday">耶穌受難節</string>
+<string name="great_cold">大寒</string>
+<string name="slight_cold">小寒</string>
+<string name="easter">復活節</string>
+<string name="day_following_good_friday">耶穌受難節翌日</string>
+<string name="childrens_day">儿童节</string>
+<string name="chinese_youth_day">青年节</string>
+<string name="labour_day">劳动节</string>
+<string name="fools_day">愚人节</string>
+<string name="armed_forces_day">軍人節</string>
+<string name="united_nations_day">聯合國日</string>
+<string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
+<string name="insects_awaken">惊蛰</string>
+<string name="vernal_equinox">春分</string>
+<string name="spring_begins">立春</string>
+<string name="the_rains">雨水</string>
+<string name="clear_and_bright">清明</string>
+<string name="autumn_begins">立秋</string>
+<string name="great_heat">大暑</string>
+<string name="white_dews">白露</string>
+<string name="stopping_the_heat">处暑</string>
+<string name="cold_dews">寒露</string>
+<string name="autumn_equinox">秋分</string>
+<string name="hksar_establishment_day">行政區成立</string>
+<string name="retrocession_day">光復節</string>
+<string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
+<string name="grain_rain">谷雨</string>
+<string name="summer_begins">立夏</string>
+<string name="grain_buds">小满</string>
+<string name="grain_in_ear">芒种</string>
+<string name="hoar_frost_falls">霜降</string>
+<string name="winter_begins">立冬</string>
+<string name="light_snow">小雪</string>
+<string name="heavy_snow">大雪</string>
+<string name="lantern_festival">元宵节</string>
+<string name="the_spring_festival">春节</string>
+<string name="lunar_year">年</string>
+<string name="lunar_er">二</string>
+<string name="lunar_yi">一</string>
+<string name="lunar_ling">O</string>
+<string name="lunar_leap">闰</string>
+<string name="lunar_zheng">正</string>
+<string name="lunar_calendar">农历</string>
+<string name="lunar_chu_shi">初十</string>
+<string name="valentines_day">情人节</string>
+<string name="the_laba_rice_porridge_festival">腊八</string>
+<string name="new_years_day">元旦</string>
+<string name="the_mid_autumn_festival">中秋节</string>
+<string name="the_double_ninth_festival">重阳节</string>
+<string name="the_dragon_boat_festival">端午节</string>
+<string name="double_seventh_day">七夕</string>
+<string name="the_armys_day">建军节</string>
+<string name="partys_day">建党节</string>
+<string name="national_day">国庆节</string>
+<string name="teachers_day">教师节</string>
+<string name="lunar_yue">月</string>
+<string name="lunar_san_shi">三十</string>
+<string name="lunar_er_shi">二十</string>
+<string name="lunar_nian">廿</string>
+<string name="lunar_chu">初</string>
+<string name="international_womens_day">妇女节</string>
+<string name="arbor_day">植树节</string>
+<string name="tw_youth_day">青年節</string>
+<string name="tw_childrens_day">兒童節</string>
+<string name="christmas_day">圣诞节</string>
+<string name="peace_day">和平紀念</string>
+<string name="national_father_day">國父誕辰</string>
+<string name="anti_aggression_day">反侵略日</string>
+<dimen name="vip_margin_7">16.000000dp</dimen>
+<dimen name="vip_margin_6">35.299988dp</dimen>
+<dimen name="vip_margin_frame_top">25.000000dp</dimen>
+<dimen name="vip_margin_frame_left">13.299988dp</dimen>
+<dimen name="vip_margin_avatar_top">20.000000dp</dimen>
+<dimen name="vip_margin_avatar_left">17.299988dp</dimen>
+<dimen name="vip_small_avatar_margin">14.000000dp</dimen>
+<dimen name="vip_bottom_height">63.000000dp</dimen>
+<dimen name="vip_normal_text_size">12.000000sp</dimen>
+<dimen name="vip_margin_avatar_top_1">27.000000dp</dimen>
+<dimen name="content_padding_horizontal">0.000000dp</dimen>
+<dimen name="page_padding_horizontal">20.000000dp</dimen>
+<dimen name="disc_padding_top">11.000000dp</dimen>
+<dimen name="vip_text_size_1">11.299988sp</dimen>
+<dimen name="vip_small_text_size">10.000000sp</dimen>
+<dimen name="vip_tiny_text_size">8.000000sp</dimen>
+<dimen name="vip_achievement_icon_size_1">48.000000dp</dimen>
+<dimen name="vip_top_height">119.000000dp</dimen>
+<dimen name="vip_arrow_size">13.000000dp</dimen>
+<dimen name="vip_title_width">38.000000dp</dimen>
+<dimen name="cloud_state_secondary_text_size">12.000000sp</dimen>
+<dimen name="cloud_state_primary_text_size">13.000000sp</dimen>
+<dimen name="cloud_state_view_height">53.000000dp</dimen>
+<dimen name="cloud_panel_close_button_margin">16777201.000000dp</dimen>
+<dimen name="cloud_panel_close_button_padding">15.000000dp</dimen>
+<dimen name="vip_frame_size">80.000000dp</dimen>
+<dimen name="vip_margin_4">7.299988dp</dimen>
+<dimen name="vip_margin_5">7.000000dp</dimen>
+<dimen name="vip_margin_2">5.000000dp</dimen>
+<dimen name="vip_margin_3">11.000000dp</dimen>
+<dimen name="vip_badge_size">22.000000dp</dimen>
+<dimen name="vip_margin_1">12.000000dp</dimen>
+<dimen name="vip_margin_action_top">23.599976dp</dimen>
+<dimen name="vip_margin_arrow_right">23.299988dp</dimen>
+<dimen name="notification_panel_title_margin_bottom">10.000000dp</dimen>
+<dimen name="next_button_padding_vertical">16.699982dp</dimen>
+<dimen name="notification_panel_title_size">23.000000sp</dimen>
+<dimen name="no_notification_tips_text_size">13.000000sp</dimen>
+<dimen name="cloud_panel_text_size">12.000000sp</dimen>
+<dimen name="vip_frame_size_1">84.000000dp</dimen>
+<dimen name="vip_avatar_size_1">79.000000dp</dimen>
+<dimen name="vip_avatar_size">61.000000dp</dimen>
+<dimen name="vip_achievement_icon_size">20.000000dp</dimen>
+<dimen name="vip_action_size">25.000000dp</dimen>
+<dimen name="vip_title_height">16.000000dp</dimen>
+<dimen name="vip_sign_height">51.000000dp</dimen>
+<dimen name="loading_cancel_button_padding_vertical">30.000000dp</dimen>
+<dimen name="vip_margin_10">3.000000dp</dimen>
+<dimen name="vip_margin_9">10.000000dp</dimen>
+<dimen name="vip_margin_8">28.299988dp</dimen>
+<dimen name="vip_big_text_size">15.000000sp</dimen>
+<dimen name="vip_margin_12">8.500000dp</dimen>
+<dimen name="vip_margin_11">6.000000dp</dimen>
+<dimen name="notification_content_width">310.000000dp</dimen>
+<dimen name="customizer_icon_size">60.000000dp</dimen>
+<dimen name="notification_panel_title_margin_top">80.000000dp</dimen>
+<dimen name="notification_row_height">65.000000dp</dimen>
+<dimen name="notification_panel_clear_margin_bottom">20.000000dp</dimen>
+<dimen name="notification_panel_clear_margin_top">15.000000dp</dimen>
+<string-array name="mobile_operator_numeric_values">
+<item>46000</item>
+<item>46001</item>
+<item>46002</item>
+<item>46003</item>
+<item>46005</item>
+<item>46006</item>
+<item>46007</item>
+<item>46008</item>
+<item>46009</item>
+<item>46011</item>
+<item>46601</item>
+<item>46605</item>
+<item>46689</item>
+<item>46692</item>
+<item>46697</item>
+<item>45201</item>
+<item>45412</item>
+<item>45413</item>
+<item>45416</item>
+<item>45419</item>
+<item>45406</item>
+<item>45415</item>
+<item>45417</item>
+<item>45403</item>
+<item>45404</item>
+<item>45500</item>
+<item>45507</item>
+<item>52501</item>
+<item>52502</item>
+<item>52503</item>
+<item>52504</item>
+<item>Circles</item>
+<item>50213</item>
+<item>502145</item>
+<item>502148</item>
+<item>50219</item>
+<item>50212</item>
+<item>502142</item>
+<item>502147</item>
+<item>50217</item>
+<item>51011</item>
+<item>51021</item>
+<item>阿里通信</item>
+<item>中麦通信</item>
+<item>分享通信</item>
+<item>小米移动</item>
+</string-array>
+<string-array name="mobile_operator_numeric_equivalencies">
+<item>46000</item>
+<item>46001</item>
+<item>46000</item>
+<item>46003</item>
+<item>46003</item>
+<item>46001</item>
+<item>46000</item>
+<item>46000</item>
+<item>46001</item>
+<item>46003</item>
+<item>46601</item>
+<item>46605</item>
+<item>46689</item>
+<item>46692</item>
+<item>46697</item>
+<item>45201</item>
+<item>45412</item>
+<item>45413</item>
+<item>45416</item>
+<item>45419</item>
+<item>45406</item>
+<item>45415</item>
+<item>45417</item>
+<item>45403</item>
+<item>45404</item>
+<item>45500</item>
+<item>45507</item>
+<item>52501</item>
+<item>52502</item>
+<item>52503</item>
+<item>52504</item>
+<item>Circles</item>
+<item>50213</item>
+<item>502145</item>
+<item>502148</item>
+<item>50219</item>
+<item>50212</item>
+<item>502142</item>
+<item>502147</item>
+<item>50217</item>
+<item>51011</item>
+<item>51021</item>
+<item>46001</item>
+<item>46001</item>
+<item>46002</item>
+<item>46001</item>
+</string-array>
+<string-array name="di_zhi">
+<item>子</item>
+<item>丑</item>
+<item>寅</item>
+<item>卯</item>
+<item>辰</item>
+<item>巳</item>
+<item>午</item>
+<item>未</item>
+<item>申</item>
+<item>酉</item>
+<item>戌</item>
+<item>亥</item>
+</string-array>
+<string-array name="jia_zi">
+<item>甲子</item>
+<item>乙丑</item>
+<item>丙寅</item>
+<item>丁卯</item>
+<item>戊辰</item>
+<item>己巳</item>
+<item>庚午</item>
+<item>辛未</item>
+<item>壬申</item>
+<item>癸酉</item>
+<item>甲戌</item>
+<item>乙亥</item>
+<item>丙子</item>
+<item>丁丑</item>
+<item>戊寅</item>
+<item>己卯</item>
+<item>庚辰</item>
+<item>辛巳</item>
+<item>壬午</item>
+<item>癸未</item>
+<item>甲申</item>
+<item>乙酉</item>
+<item>丙戌</item>
+<item>丁亥</item>
+<item>戊子</item>
+<item>己丑</item>
+<item>庚寅</item>
+<item>辛卯</item>
+<item>壬辰</item>
+<item>癸巳</item>
+<item>甲午</item>
+<item>乙未</item>
+<item>丙申</item>
+<item>丁酉</item>
+<item>戊戌</item>
+<item>己亥</item>
+<item>庚子</item>
+<item>辛丑</item>
+<item>壬寅</item>
+<item>癸卯</item>
+<item>甲辰</item>
+<item>乙巳</item>
+<item>丙午</item>
+<item>丁未</item>
+<item>戊申</item>
+<item>己酉</item>
+<item>庚戌</item>
+<item>辛亥</item>
+<item>壬子</item>
+<item>癸丑</item>
+<item>甲寅</item>
+<item>乙卯</item>
+<item>丙辰</item>
+<item>丁巳</item>
+<item>戊午</item>
+<item>己未</item>
+<item>庚申</item>
+<item>辛酉</item>
+<item>壬戌</item>
+<item>癸亥</item>
+</string-array>
+<string-array name="tian_gan">
+<item>甲</item>
+<item>乙</item>
+<item>丙</item>
+<item>丁</item>
+<item>戊</item>
+<item>己</item>
+<item>庚</item>
+<item>辛</item>
+<item>壬</item>
+<item>癸</item>
+</string-array>
+<string-array name="mobile_operator_display_names">
+<item>中国移动</item>
+<item>中国联通</item>
+<item>中国移动</item>
+<item>中国电信</item>
+<item>中国电信</item>
+<item>中国联通</item>
+<item>中国移动</item>
+<item>中国移动</item>
+<item>中国联通</item>
+<item>中国电信</item>
+<item>远传电信</item>
+<item>亚太电信</item>
+<item>台湾之星</item>
+<item>中华电信</item>
+<item>台湾大哥大</item>
+<item>MobiFone</item>
+<item>中国移动香港</item>
+<item>中国移动香港</item>
+<item>csl.</item>
+<item>csl.</item>
+<item>HK</item>
+<item>HK</item>
+<item>HK</item>
+<item>3</item>
+<item>(2G)</item>
+<item>MAC</item>
+<item>中国电信</item>
+<item>Singtel</item>
+<item>Singtel</item>
+<item>M1</item>
+<item>M1</item>
+<item>Circles</item>
+<item>Celcom</item>
+<item>Celcom</item>
+<item>Celcom</item>
+<item>Celcom</item>
+<item>Maxis</item>
+<item>Maxis</item>
+<item>Maxis</item>
+<item>Maxis</item>
+<item>XL</item>
+<item>INDOSAT</item>
+<item>阿里通信</item>
+<item>中麦通信</item>
+<item>分享通信</item>
+<item>小米移动</item>
+</string-array>
+</MIUI_Theme_Values>

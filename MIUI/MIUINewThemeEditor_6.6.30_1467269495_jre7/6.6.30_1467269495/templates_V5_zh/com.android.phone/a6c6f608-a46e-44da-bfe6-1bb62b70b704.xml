@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 辅助功能" version="4.2.13" annotation="" tag="通话页面">
+    <resource description="ic_in_call_touch_mute_disable_miui" x="68" y="600" width="100" height="100" uuid="092dc353-f6bf-444e-84fd-a813ae83f2b5">
+        <path src="res\drawable-hdpi\ic_in_call_touch_mute_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_mute_normal_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_mute_disable_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_mute_disable_miui.png" description="" />
+    </resource>
+    <resource description="incall_tool_panel_bg_miui.9" x="0" y="578" width="720" height="414" uuid="47815b59-d7d2-4d67-a0b8-a761204297e1">
+        <path src="res\drawable-hdpi\incall_tool_panel_bg_miui.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\incall_tool_panel_bg_miui.9.png" description="背景" />
+    </resource>
+    <resource description="incall_tool_panel_button_bg_pressed_miui.9" x="240" y="578" width="238" height="202" uuid="bdf36986-b245-4530-857e-b402232d671e">
+        <path src="res\drawable-hdpi\incall_tool_panel_button_bg_normal_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_tool_panel_button_bg_normal_miui.9.png" description="" />
+        <path src="res\drawable-hdpi\incall_tool_panel_button_bg_pressed_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_tool_panel_button_bg_pressed_miui.9.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_add_call_disable_miui" x="308" y="809" width="100" height="100" uuid="be14b492-9054-499a-9f0b-a616bed7485a">
+        <path src="res\drawable-hdpi\ic_in_call_touch_add_call_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_add_call_normal_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_add_call_disable_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_add_call_disable_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_round_hold_normal_miui" x="306" y="600" width="100" height="100" uuid="31075d9a-b58d-493c-b42a-653f5856e1fd">
+        <path src="res\drawable-hdpi\ic_in_call_touch_round_hold_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_round_hold_normal_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_round_hold_disable_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_round_hold_disable_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_start_record_normal_miui" x="549" y="603" width="100" height="100" uuid="53a1191d-5d45-442c-9e50-7952d3c94d2b">
+        <path src="res\drawable-hdpi\ic_in_call_touch_start_record_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_start_record_normal_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_stop_record_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_stop_record_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_start_record_disable_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_start_record_disable_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_note_miui" x="550" y="810" width="100" height="100" uuid="3ce0fb94-dd64-4228-ba02-00eaa0813f37">
+        <path src="res\drawable-hdpi\ic_in_call_touch_note_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_note_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_contact_miui" x="66" y="810" width="100" height="100" uuid="fd4b041f-79e5-4df2-9d26-9109dc70e74e">
+        <path src="res\drawable-hdpi\ic_in_call_touch_contact_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_contact_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_keyboard_off_miui" x="291" y="991" width="135" height="135" uuid="482c4124-51f1-4472-a472-c6a20a30edd7">
+        <path src="res\drawable-hdpi\ic_in_call_touch_keyboard_off_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_keyboard_off_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_keyboard_on_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_keyboard_on_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_tools_off_miui" x="533" y="994" width="135" height="135" uuid="1535d738-2a72-43c9-99ff-d166c9a4e151">
+        <path src="res\drawable-hdpi\ic_in_call_touch_tools_off_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_tools_off_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_tools_on_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_tools_on_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_speaker_off_miui" x="49" y="993" width="135" height="135" uuid="3eef56b8-54fe-4537-a931-3273bad09aff">
+        <path src="res\drawable-hdpi\ic_in_call_touch_speaker_off_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_speaker_off_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_speaker_on_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_speaker_on_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_speaker_disable_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_speaker_disable_miui.png" description="" />
+    </resource>
+    <resource description="incall_button_end_bg_pressed_miui.9" x="60" y="1134" width="602" height="120" uuid="32576ad0-fe21-4df3-86f3-3595a5d7788e">
+        <path src="res\drawable-hdpi\incall_button_end_bg_normal_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_button_end_bg_normal_miui.9.png" description="" />
+        <path src="res\drawable-hdpi\incall_button_end_bg_pressed_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_button_end_bg_pressed_miui.9.png" description="" />
+        <path src="res\drawable-hdpi\incall_button_end_bg_disabled_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_button_end_bg_disabled_miui.9.png" description="" />
+    </resource>
+    <resource description="in_call_panel_divider_miui.9" x="0" y="781" width="718" height="6" uuid="be75b175-9cd8-491f-b6e4-93fa288e3cd2">
+        <path src="res\drawable-hdpi\in_call_panel_divider_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\in_call_panel_divider_miui.9.png" description="" />
+    </resource>
+    <resource description="incall_controls_main_buttons_bg_miui.9" x="0" y="990" width="718" height="288" uuid="24b3c7b3-c5df-4307-9dd3-e4fdca2ae41e">
+        <path src="res\drawable-hdpi\incall_controls_main_buttons_bg_miui.9.png" description="" />
+        <path src="res\drawable-xhdpi\incall_controls_main_buttons_bg_miui.9.png" description="" />
+    </resource>
+</screenshot>

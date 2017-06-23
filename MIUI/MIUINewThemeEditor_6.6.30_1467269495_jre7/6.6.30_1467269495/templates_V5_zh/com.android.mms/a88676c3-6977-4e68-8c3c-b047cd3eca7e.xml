@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 通知类短信" version="3.11.15" annotation="" tag="短信列表">
+    <resource description="mark_as_read_n" x="610" y="52" width="110" height="90" uuid="3a10c468-fe79-49f7-8555-35faad4a2038">
+        <path src="res\drawable-xhdpi\mark_as_read_n.png" description="标记为全读 常态" />
+        <path src="res\drawable-xhdpi\mark_as_read_p.png" description="标记为全读 二态" />
+    </resource>
+</screenshot>

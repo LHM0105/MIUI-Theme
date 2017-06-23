@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.1 Settings icons" version="3.4.11" annotation="" tag="Settings icons">
+    <resource description="ic_airplane_mode_settings" x="46" y="250" width="60" height="1022" uuid="5c4da4f4-c6c9-4cc1-9a3b-d11f2a96d6e4">
+        <path src="res\drawable-hdpi\ic_about_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-xhdpi\ic_about_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-hdpi\ic_accelerometer_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-xhdpi\ic_accelerometer_settings.png" description="飞行模式 图标" />
+        <path src="res\drawable-hdpi\ic_accessibility_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_accessibility_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_add_account_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_add_account_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_airplane_mode_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_airplane_mode_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_android_beam_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_android_beam_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_application_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_application_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_alarm.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_alarm.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_alarm_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_alarm_mute.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_bt.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_bt.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_bt_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_bt_mute.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_media.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_media.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_notification.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_notification.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_notification_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_notification_mute.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_phone.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_phone.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif_mute.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_ring_notif_vibrate.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_ring_notif_vibrate.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_vol.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_vol.png" description="" />
+        <path src="res\drawable-hdpi\ic_audio_vol_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_audio_vol_mute.png" description="" />
+        <path src="res\drawable-hdpi\ic_backup_reset_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_backup_reset_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_battery_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_battery_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_bluetooth_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_bluetooth_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_brightness_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_brightness_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_do_not_disturb_mode_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_do_not_disturb_mode_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_date_time_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_date_time_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_development_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_development_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_display_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_display_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_gps_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_gps_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_launcher_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_launcher_settings.png" description="" />
+        <path src="res\mipmap-hdpi\ic_launcher_settings.png" description="" />
+        <path src="res\mipmap-mdpi\ic_launcher_settings.png" description="" />
+        <path src="res\mipmap-xhdpi\ic_launcher_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_led_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_led_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_location_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_location_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_mobile_network_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_mobile_network_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_power_mode_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_power_mode_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_ringtone_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_ringtone_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_screen_timeout_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_screen_timeout_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_security_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_security_settings.png" description="" />
+        <path src="res\drawable-hdpi\ic_ringer_volume_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ic_ringer_volume_settings.png" description="" />
+    </resource>
+</screenshot>

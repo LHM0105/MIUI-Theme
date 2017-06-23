@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 旧版SD卡" version="2.9.16" annotation="" tag="2.0 SD卡">
+    <resource description="up_level_pressed.png" x="34" y="150" width="64" height="64" uuid="3fb3846a-54d0-41a8-991e-8f68b44992ac">
+        <path src="res\drawable-xhdpi\up_level.png" description="" />
+        <path src="res\drawable-xhdpi\up_level_pressed.png" description="" />
+    </resource>
+    <resource description="folder.png" x="21" y="586" width="83" height="83" uuid="cf7e8757-5954-4c77-ad09-8d416a8a3c9a">
+        <path src="res\drawable-hdpi\folder.png" description="" />
+    </resource>
+    <resource description="dropdown_pressed.9.png" x="0" y="226" width="720" height="244" uuid="04d18434-dda9-4275-b60a-c43a3b392974">
+        <path src="res\drawable-hdpi\dropdown_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\dropdown_pressed.9.png" description="" />
+    </resource>
+    <resource description="arrow_up.png" x="640" y="164" width="45" height="38" uuid="3f1f9ae6-ec4c-48fe-8e9c-ab67e7c82236">
+        <path src="res\drawable-hdpi\arrow_down.png" description="" />
+        <path src="res\drawable-hdpi\arrow_up.png" description="" />
+    </resource>
+    <resource description="bottom_bar_bg_p.9.png" x="0" y="1178" width="720" height="98" uuid="48cb9e4c-695f-435c-9c9f-f48bf8c1e6f5">
+        <path src="res\drawable-hdpi\bottom_bar_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\bottom_bar_bg_p.9.png" description="" />
+    </resource>
+    <resource description="operation_button_ftp" x="272" y="1196" width="66" height="62" uuid="b4f7ec83-ac3b-40aa-a1a0-c7b932824897">
+        <path src="res\drawable-xhdpi\operation_button_ftp.png" description="" />
+    </resource>
+</screenshot>

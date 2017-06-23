@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 空文件夹" version="2.9.16" annotation="" tag="2.0 SD卡">
+    <resource description="path_gallery_bg.9" x="6" y="142" width="710" height="86" uuid="e807d743-b681-4e35-b618-a28c583b78c7">
+        <path src="res\drawable-hdpi\path_gallery_bg.9.png" description="文件路径背景" />
+        <path src="res\drawable-xhdpi\path_gallery_bg.9.png" description="文件路径背景" />
+    </resource>
+    <resource description="path_gallery_first_item_bg.9" x="27" y="157" width="134" height="58" uuid="3a467bdc-1def-4e9f-a2bb-48c513b00a9d">
+        <path src="res\drawable-hdpi\path_gallery_first_item_bg.9.png" description="第一个按钮" />
+        <path src="res\drawable-xhdpi\path_gallery_first_item_bg.9.png" description="第一个按钮" />
+    </resource>
+    <resource description="path_gallery_item_bg.9" x="195" y="157" width="134" height="58" uuid="e66ca0bc-daf5-430c-898b-e124bfd799a0">
+        <path src="res\drawable-hdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+        <path src="res\drawable-xhdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+    </resource>
+    <resource description="empty_icon.png" x="254" y="566" width="206" height="176" uuid="a278acea-991e-4c60-a646-9eb98d465830">
+        <path src="res\drawable-hdpi\empty_icon.png" description="没有文件图标" />
+    </resource>
+    <resource description="v5_bottom_bar_ftp_icon_normal_light" x="256" y="1142" width="80" height="90" uuid="ae05abbf-ee93-4d1c-a654-5adc63cf05cd">
+        <path src="res\drawable-hdpi\v5_bottom_bar_ftp_icon_normal_light.png" description="远程管理图标" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_ftp_icon_normal_light.png" description="远程管理图标" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_ftp_icon_pressed_light.png" description="远程管理图标 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_ftp_icon_pressed_light.png" description="远程管理图标 二态" />
+    </resource>
+    <resource description="bottom_bar_filecleanup_pressed" x="386" y="1138" width="80" height="90" uuid="b304a7db-6a1e-4c61-9432-0276045627ff">
+        <path src="res\drawable-hdpi\bottom_bar_filecleanup_normal.png" description="文件清理按钮" />
+        <path src="res\drawable-xhdpi\bottom_bar_filecleanup_normal.png" description="文件清理按钮" />
+        <path src="res\drawable-hdpi\bottom_bar_filecleanup_pressed.png" description="文件清理按钮 二态" />
+        <path src="res\drawable-xhdpi\bottom_bar_filecleanup_pressed.png" description="文件清理按钮 二态" />
+    </resource>
+</screenshot>

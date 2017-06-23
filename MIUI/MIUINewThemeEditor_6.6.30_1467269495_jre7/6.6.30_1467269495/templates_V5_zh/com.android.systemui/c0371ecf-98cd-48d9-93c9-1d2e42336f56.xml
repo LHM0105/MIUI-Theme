@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 其他" version="3.4.20" annotation="" tag="其他">
+    <resource description="status_bar_red_bar_bg_p.9" x="0" y="0" width="720" height="52" uuid="e4ebd66a-fb7a-43c1-ba35-9c46d6d5b9fd">
+        <path src="res\drawable-hdpi\status_bar_green_bar_bg_n.9.png" description="绿色背景" />
+        <path src="res\drawable-xhdpi\status_bar_green_bar_bg_n.9.png" description="绿色背景" />
+        <path src="res\drawable-xxhdpi\status_bar_green_bar_bg_n.9.png" description="绿色背景" />
+        <path src="res\drawable-hdpi\status_bar_green_bar_bg_p.9.png" description="绿色背景 二态" />
+        <path src="res\drawable-xhdpi\status_bar_green_bar_bg_p.9.png" description="绿色背景 二态" />
+        <path src="res\drawable-xxhdpi\status_bar_green_bar_bg_p.9.png" description="绿色背景 二态" />
+        <path src="res\drawable-hdpi\status_bar_orange_bar_bg.9.png" description="橙色背景" />
+        <path src="res\drawable-xhdpi\status_bar_orange_bar_bg.9.png" description="橙色背景" />
+        <path src="res\drawable-xxhdpi\status_bar_orange_bar_bg.9.png" description="橙色背景" />
+        <path src="res\drawable-hdpi\status_bar_red_bar_bg_n.9.png" description="红色背景" />
+        <path src="res\drawable-xhdpi\status_bar_red_bar_bg_n.9.png" description="红色背景" />
+        <path src="res\drawable-xxhdpi\status_bar_red_bar_bg_n.9.png" description="红色背景" />
+        <path src="res\drawable-hdpi\status_bar_red_bar_bg_p.9.png" description="红色背景 二态" />
+        <path src="res\drawable-xhdpi\status_bar_red_bar_bg_p.9.png" description="红色背景 二态" />
+        <path src="res\drawable-xxhdpi\status_bar_red_bar_bg_p.9.png" description="红色背景 二态" />
+        <path src="res\drawable-hdpi\status_bar_yellow_bar_bg_n.9.png" description="黄色背景" />
+        <path src="res\drawable-xhdpi\status_bar_yellow_bar_bg_n.9.png" description="黄色背景" />
+        <path src="res\drawable-xxhdpi\status_bar_yellow_bar_bg_n.9.png" description="黄色背景" />
+        <path src="res\drawable-hdpi\status_bar_yellow_bar_bg_p.9.png" description="黄色背景 二态" />
+        <path src="res\drawable-xhdpi\status_bar_yellow_bar_bg_p.9.png" description="黄色背景 二态" />
+        <path src="res\drawable-xxhdpi\status_bar_yellow_bar_bg_p.9.png" description="黄色背景 二态" />
+    </resource>
+</screenshot>

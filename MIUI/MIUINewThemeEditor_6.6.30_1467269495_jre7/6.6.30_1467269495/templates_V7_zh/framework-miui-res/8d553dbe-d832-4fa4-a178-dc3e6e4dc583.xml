@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 全局控件2" version="4.8.25" annotation="" tag="全局控件">
+    <resource description="btn_bg_warn_single_pressed_light.9" x="68" y="1254" width="948" height="146" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+    </resource>
+    <resource description="btn_bg_dialog_single_pressed_light.9" x="64" y="1718" width="950" height="142" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_middle_normal_light.9.png" description="中按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_middle_normal_light.9.png" description="中按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_middle_normal_light.9.png" description="中按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="中按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="中按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="中按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_single_pressed_light.9.png" description="单独按钮_按下" />
+    </resource>
+    <resource description="spinner_bg_pressed_light.9" x="64" y="1096" width="954" height="138" uuid="3049f598-f84a-4c47-bf80-1243ffc794fd">
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\spinner_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\spinner_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\spinner_bg_pressed_light.9.png" description="按钮_按下" />
+    </resource>
+    <resource description="spinner_bg_edit_single_pressed_light" x="68" y="677" width="252" height="380" uuid="fd16791d-b57e-41dc-8f63-babb183c3ad1">
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_first_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_first_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_first_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_first_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_last_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_last_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_last_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_last_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_middle_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_middle_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_middle_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_middle_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_single_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_single_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_normal_light.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\spinner_bg_edit_single_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\spinner_bg_edit_single_pressed_light.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_pressed_light.png" description="按钮_按下" />
+    </resource>
+    <resource description="edit_text_bg_spinner_single_light.9" x="312" y="258" width="704" height="378" uuid="6e6ebebe-1450-4b1a-acec-eae56c66090b">
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_bg_spinner_first_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-xhdpi\edit_text_bg_spinner_first_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_first_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_bg_spinner_last_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-xhdpi\edit_text_bg_spinner_last_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_last_light.9.png" description="输入框（上）" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_bg_spinner_middle_light.9.png" description="输入框（下）" />
+        <path src="res\drawable-xhdpi\edit_text_bg_spinner_middle_light.9.png" description="输入框（下）" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_middle_light.9.png" description="输入框（下）" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_bg_spinner_single_light.9.png" description="输入框（下）" />
+        <path src="res\drawable-xhdpi\edit_text_bg_spinner_single_light.9.png" description="输入框（下）" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_single_light.9.png" description="输入框（下）" />
+    </resource>
+    <resource description="action_mode_bg_light.9" x="0" y="0" width="1076" height="192" uuid="44384e61-0488-4a6d-bdf1-63847fdcda6b">
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xhdpi\action_mode_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xxhdpi\action_mode_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_pressed_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="" />
+    </resource>
+    <resource description="action_mode_title_button_bg_disable_light.9" x="38" y="76" width="160" height="102" uuid="de6d8daf-31c0-44ba-9bd2-368edb16d555">
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+    </resource>
+    <resource description="action_mode_title_button_bg_disable_light.9" x="878" y="80" width="160" height="102" uuid="4f764e26-b9ac-41f1-b3fd-290bdc6c873e">
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\action_mode_title_default_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_disable_light.9.png" description="按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_normal_light.9.png" description="按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_bg_pressed_light.9.png" description="按钮_按下" />
+    </resource>
+    <resource description="dialog_button_bar_bg.9" x="18" y="1690" width="1036" height="202" uuid="a729c865-cd38-4c6c-a045-9a8d8e50d884">
+        <path src="res\drawable-sw600dp-xhdpi\dialog_button_bar_bg.9.png" description="按钮控件背景" />
+        <path src="res\drawable-xhdpi\dialog_button_bar_bg.9.png" description="按钮控件背景" />
+        <path src="res\drawable-xxhdpi\dialog_button_bar_bg.9.png" description="按钮控件背景" />
+    </resource>
+    <resource description="dialog_bg_light.9" x="0" y="1448" width="1076" height="470" uuid="65f51bcb-879e-46fa-b812-d8f89b831266">
+        <path src="res\drawable-sw600dp-xhdpi\dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xhdpi\dialog_bg_light.9.png" description="控件弹窗背景" />
+        <path src="res\drawable-xxhdpi\dialog_bg_light.9.png" description="控件弹窗背景" />
+    </resource>
+    <resource description="edit_text_bg_single_light.9" x="126" y="1564" width="826" height="116" uuid="9abdc509-66c4-4763-ab38-c68b19bc94cf">
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_bg_single_light.9.png" description="全局输入框" />
+        <path src="res\drawable-xhdpi\edit_text_bg_single_light.9.png" description="全局输入框" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_single_light.9.png" description="全局输入框" />
+    </resource>
+</screenshot>

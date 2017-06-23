@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="statusbar_content">#ccffffff</color>
+<color name="statusbar_content_title">#e5ffffff</color>
+<color name="statusbar_content_info">#e5ffffff</color>
+<color name="dim_foreground_disabled_holo_light">#80f7bf7e</color>
+<color name="statusbar_content_emphasis">#ccffffff</color>
+<color name="dim_foreground_holo_light">#fff7bf7e</color>
+<color name="statusbar_content_time">#ccffffff</color>
+</MIUI_Theme_Values>

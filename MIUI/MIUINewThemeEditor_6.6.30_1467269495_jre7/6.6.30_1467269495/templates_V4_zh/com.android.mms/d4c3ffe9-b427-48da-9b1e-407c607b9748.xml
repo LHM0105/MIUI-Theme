@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.1 推荐分类列表" version="2.9.20" annotation="" tag="短信推荐">
+    <resource description="open_icon.png" x="644" y="183" width="55" height="48" uuid="f5ce09fd-9b78-4bec-a164-95c527a5edba">
+        <path src="res\drawable-hdpi\open_icon.png" description="" />
+        <path src="res\drawable-xhdpi\open_icon.png" description="" />
+    </resource>
+</screenshot>

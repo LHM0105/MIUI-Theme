@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 分类浏览" version="2.9.16" annotation="" tag="1.0分类">
+    <resource description="category_icon_apk.png" x="86" y="826" width="96" height="96" uuid="e57d220c-6885-4891-859a-3296565fdddb">
+        <path src="res\drawable-xhdpi\category_icon_apk.png" description="" />
+    </resource>
+    <resource description="category_icon_document.png" x="312" y="523" width="94" height="94" uuid="ca23a78d-31ef-4c0e-bd13-56a9d7974222">
+        <path src="res\drawable-xhdpi\category_icon_document.png" description="" />
+    </resource>
+    <resource description="category_icon_favorite.png" x="310" y="823" width="94" height="94" uuid="cd393f31-f894-44ae-a026-22d0a679e676">
+        <path src="res\drawable-xhdpi\category_icon_favorite.png" description="" />
+    </resource>
+    <resource description="category_icon_music.png" x="90" y="230" width="94" height="94" uuid="df62edbf-1206-44de-be56-fab195ca3ff2">
+        <path src="res\drawable-xhdpi\category_icon_music.png" description="" />
+    </resource>
+    <resource description="category_icon_picture.png" x="535" y="230" width="94" height="94" uuid="24dd7b42-b267-4115-8ea7-f090f880256c">
+        <path src="res\drawable-xhdpi\category_icon_picture.png" description="" />
+    </resource>
+    <resource description="category_icon_video.png" x="312" y="228" width="94" height="94" uuid="05350243-2ced-402f-b660-30047834816d">
+        <path src="res\drawable-xhdpi\category_icon_video.png" description="" />
+    </resource>
+    <resource description="category_icon_zip.png" x="533" y="525" width="94" height="94" uuid="034ab648-d2b8-41bb-a560-9d3da0a93a9f">
+        <path src="res\drawable-xhdpi\category_icon_zip.png" description="" />
+    </resource>
+    <resource description="category_bar_mask.9.png" x="21" y="1106" width="673" height="47" uuid="d75b65a0-4b57-44db-8705-28c73ba3dac2">
+        <path src="res\drawable-hdpi\category_bar_empty.9.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_mask.9.png" description="" />
+    </resource>
+    <resource description="category_bar_zip.png" x="22" y="1166" width="652" height="104" uuid="10b7bcc3-b513-42b4-83c9-41e72a3a63ca">
+        <path src="res\drawable-hdpi\category_bar_apk.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_document.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_music.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_other.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_picture.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_theme.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_video.png" description="" />
+        <path src="res\drawable-hdpi\category_bar_zip.png" description="" />
+    </resource>
+    <resource description="category_button_bg_selected.9" x="26" y="162" width="218" height="288" uuid="9fad1179-3559-4fe5-9afb-5fbd37c6ca70">
+        <path src="res\drawable-hdpi\category_button_bg.9.png" description="常态" />
+        <path src="res\drawable-hdpi\category_button_bg_selected.9.png" description="按下" />
+        <path src="res\drawable-land-hdpi\category_button_bg_selected.9.png" description="按下" />
+    </resource>
+    <resource description="sd_card_icon" x="24" y="1066" width="30" height="32" uuid="9bbb8996-7cc3-4042-9f8e-aeff20c0feb2">
+        <path src="res\drawable-xhdpi\sd_card_icon.png" description="" />
+    </resource>
+    <resource description="sd_card_available_icon" x="268" y="1064" width="30" height="32" uuid="b37e9671-603c-4d40-aa91-6f520bfecbe0">
+        <path src="res\drawable-xhdpi\sd_card_available_icon.png" description="" />
+    </resource>
+    <resource description="category_icon_bluetooth" x="78" y="516" width="112" height="110" uuid="259ecba4-225f-4a87-8dbb-3e4bb72d58b5">
+        <path src="res\drawable-hdpi\category_icon_bluetooth.png" description="" />
+    </resource>
+</screenshot>

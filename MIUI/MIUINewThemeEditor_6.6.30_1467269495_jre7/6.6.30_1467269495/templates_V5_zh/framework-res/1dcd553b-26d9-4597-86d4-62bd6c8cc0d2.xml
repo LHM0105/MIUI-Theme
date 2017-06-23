@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="联系人详情 头像按下" version="3.7.8" annotation="" tag="">
+    <resource description="list_pressed_holo_light.9" x="28" y="158" width="162" height="166" uuid="26a7e4a7-6121-4053-8b1d-5b9a78bf3a48">
+        <path src="res\drawable-xhdpi\list_pressed_holo_light.9.png" description="头像按下" />
+    </resource>
+</screenshot>

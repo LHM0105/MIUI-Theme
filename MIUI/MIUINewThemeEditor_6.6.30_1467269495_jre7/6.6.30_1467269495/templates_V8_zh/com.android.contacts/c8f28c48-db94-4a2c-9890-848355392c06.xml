@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 联系人弹窗" version="4.8.5" annotation="" tag="联系人">
+    <resource description="ic_send_sms_p" x="842" y="758" width="104" height="108" uuid="0f5033a9-4ec5-4bff-be55-951678db90b2">
+        <path src="res\drawable-xhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+        <path src="res\drawable-xhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+        <path src="res\drawable-hdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-hdpi\ic_send_sms_p.png" description="短信 二态" />
+        <path src="res\drawable-xhdpi\ic_send_sms_p.png" description="短信 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="短信 二态" />
+    </resource>
+    <resource description="quickcontact_window_title_bg_press.9" x="64" y="392" width="954" height="206" uuid="3cb3af6f-5f41-469f-b1fa-7b6998f3d375">
+        <path src="res\drawable-hdpi\quickcontact_window_title_bg.9.png" description="联系人弹窗标题常态" />
+        <path src="res\drawable-xhdpi\quickcontact_window_title_bg.9.png" description="联系人弹窗标题常态" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_title_bg.9.png" description="联系人弹窗标题常态" />
+        <path src="res\drawable-xhdpi\quickcontact_window_title_bg_press.9.png" description="联系人弹窗标题按下态" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_title_bg_press.9.png" description="联系人弹窗标题按下态" />
+        <path src="res\drawable-hdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人弹窗标题常态" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人弹窗标题常态" />
+        <path src="res\drawable-xxhdpi\quickcontact_unknown_window_title_bg.9.png" description="未知联系人弹窗标题常态" />
+        <path src="res\drawable-xhdpi\quickcontact_unknown_window_title_bg_press.9.png" description="未知联系人弹窗标题按下态" />
+        <path src="res\drawable-xxhdpi\quickcontact_unknown_window_title_bg_press.9.png" description="未知联系人弹窗标题按下态" />
+    </resource>
+    <resource description="quickcontact_window_bg.9" x="50" y="376" width="986" height="1232" uuid="d76a62ad-d7a1-481e-a082-4f42274cbbf2">
+        <path src="res\drawable-hdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_bg.9.png" description="弹窗背景" />
+    </resource>
+    <resource description="quickcontact_track_background.9" x="64" y="600" width="954" height="122" uuid="c844c48b-53b4-478a-82ea-9bbdd7572e79">
+        <path src="res\drawable-hdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+        <path src="res\drawable-xhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+        <path src="res\drawable-xxhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+    </resource>
+    <resource description="quickcontact_window_footer" x="64" y="1494" width="954" height="98" uuid="67e30da9-2a89-410f-afd5-a5e13fe5a718">
+        <path src="res\drawable-hdpi\quickcontact_window_footer.png" description="窗口底部遮罩" />
+        <path src="res\drawable-xhdpi\quickcontact_window_footer.png" description="窗口底部遮罩" />
+        <path src="res\drawable-xxhdpi\quickcontact_window_footer.png" description="窗口底部遮罩" />
+    </resource>
+    <resource description="qcb_arrow_right_p" x="872" y="440" width="100" height="108" uuid="4e1bcc37-8364-4a87-9ac4-4be54df873b3">
+        <path src="res\drawable-hdpi\qcb_arrow_right_n.png" description="进入指示 常态" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_n.png" description="进入指示 常态" />
+        <path src="res\drawable-xxhdpi\qcb_arrow_right_n.png" description="进入指示 常态" />
+        <path src="res\drawable-hdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+        <path src="res\drawable-xhdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+        <path src="res\drawable-xxhdpi\qcb_arrow_right_p.png" description="进入指示 二态" />
+    </resource>
+</screenshot>

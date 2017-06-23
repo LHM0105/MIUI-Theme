@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 文件清理" version="3.4.17" annotation="" tag="4.0 文件清理">
+    <resource description="bg_waiting" x="2" y="52" width="714" height="810" uuid="32efc2a0-09ec-415b-af51-c02d043e8d52">
+        <path src="res\drawable-hdpi\bg_cleaned.png" description="清理完成背景" />
+        <path src="res\drawable-xhdpi\bg_cleaned.png" description="清理完成背景" />
+        <path src="res\drawable-hdpi\bg_scanned.png" description="可删除背景" />
+        <path src="res\drawable-xhdpi\bg_scanned.png" description="可删除背景" />
+        <path src="res\drawable-hdpi\bg_waiting.png" description="扫描中背景" />
+        <path src="res\drawable-xhdpi\bg_waiting.png" description="扫描中背景" />
+    </resource>
+    <resource description="point" x="184" y="358" width="336" height="180" uuid="3c3ae1d0-617a-41e7-99bb-ec6a3ff4bfc9">
+        <path src="res\drawable-hdpi\digit0.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit0.png" description="数字" />
+        <path src="res\drawable-hdpi\digit1.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit1.png" description="数字" />
+        <path src="res\drawable-hdpi\digit2.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit2.png" description="数字" />
+        <path src="res\drawable-hdpi\digit3.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit3.png" description="数字" />
+        <path src="res\drawable-hdpi\digit4.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit4.png" description="数字" />
+        <path src="res\drawable-hdpi\digit5.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit5.png" description="数字" />
+        <path src="res\drawable-hdpi\digit6.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit6.png" description="数字" />
+        <path src="res\drawable-hdpi\digit7.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit7.png" description="数字" />
+        <path src="res\drawable-hdpi\digit8.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit8.png" description="数字" />
+        <path src="res\drawable-hdpi\digit9.png" description="数字" />
+        <path src="res\drawable-xhdpi\digit9.png" description="数字" />
+        <path src="res\drawable-hdpi\point.png" description="数字" />
+        <path src="res\drawable-xhdpi\point.png" description="数字" />
+    </resource>
+    <resource description="mb" x="527" y="363" width="87" height="53" uuid="6b7556eb-65f8-4f0d-8d21-6b4f49e862b1">
+        <path src="res\drawable-hdpi\gb.png" description="单位" />
+        <path src="res\drawable-xhdpi\gb.png" description="单位" />
+        <path src="res\drawable-hdpi\mb.png" description="单位" />
+        <path src="res\drawable-xhdpi\mb.png" description="单位" />
+    </resource>
+    <resource description="list_bg.9" x="4" y="882" width="702" height="240" uuid="196145f4-07d3-407a-8c36-175ee2a70172">
+        <path src="res\drawable-hdpi\list_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\list_bg.9.png" description="列表背景" />
+    </resource>
+    <resource description="bg_o.9" x="24" y="600" width="674" height="252" uuid="8a15d266-4a43-4899-b993-c378dcc0c0ca">
+        <path src="res\drawable-hdpi\bg_b.9.png" description="扫描中底部背景" />
+        <path src="res\drawable-xhdpi\bg_b.9.png" description="扫描中底部背景" />
+        <path src="res\drawable-hdpi\bg_g.9.png" description="清理完成底部背景" />
+        <path src="res\drawable-xhdpi\bg_g.9.png" description="清理完成底部背景" />
+        <path src="res\drawable-hdpi\bg_o.9.png" description="可清理状态底部背景" />
+        <path src="res\drawable-xhdpi\bg_o.9.png" description="可清理状态底部背景" />
+    </resource>
+    <resource description="check" x="636" y="907" width="54" height="54" uuid="1475f9a5-cc4a-4918-a5b4-c4331ce6194b">
+        <path src="res\drawable-hdpi\check.png" description="完成图标" />
+        <path src="res\drawable-xhdpi\check.png" description="完成图标" />
+    </resource>
+    <resource description="bottom_bar_bg_light" x="10" y="1132" width="698" height="144" uuid="3b3140aa-4101-41c3-b4ef-94a2e52af1b2">
+        <path src="res\drawable-hdpi\bottom_bar_bg_light.png" description="底拦背景" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg_light.png" description="底拦背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="transparent">#44000000</color>
+<color name="black_color">#ff000000</color>
+<bool name="device_is_pad">false</bool>
+<bool name="record_loc_log">false</bool>
+<bool name="debug_mode">false</bool>
+<bool name="force_enable">false</bool>
+<bool name="show_tip_on_first">false</bool>
+<bool name="show_tip">true</bool>
+<bool name="is_filter">true</bool>
+<integer name="dialog_content">#00000000</integer>
+<integer name="dialog_type">#00000000</integer>
+<string name="location_warning_message1">打开百度网络定位服务功能后，您将允许百度的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也会加密并收集此类数据。</string>
+<string name="location_warning_message2">当加密收集数据时将会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，我们承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括：</string>
+<string name="location_warning_message3">AP的ID、信号强度信息</string>
+<string name="location_warning_message4">网的情况）</string>
+<string name="location_warning_title">提示</string>
+<string name="location_warning_title_first">提示</string>
+<string name="location_warning_title_close">提示</string>
+<string name="location_warning_message">网的情况）。</string>
+<string name="location_warning_message_1">允许百度的位置服务收集匿名地点数据。系统可能会将部分数据存储在您的设备上。即使您的设备未运行任何应用，该服务也会收集此类数据。当收集数据时将会产生一定的流量费用。</string>
+<string name="always_wifi_scan_tip_content">即使在WLAN关闭时，也允许网络定位服务和应用程序扫描WLAN</string>
+<string name="always_wifi_scan_tip_tittle">总是允许扫描</string>
+<string name="close_agree">确定</string>
+<string name="close_disagree">取消</string>
+<string name="agree">同意</string>
+<string name="disagree">不同意</string>
+<string name="sanxing">124i</string>
+<string name="changhong">nl1036</string>
+<string name="location_warning_message5">-</string>
+<string name="location_warning_title_first_1">同意记录地点信息</string>
+<string name="location_warning_title_1">同意记录地点信息</string>
+<string name="location_first_warning_message">为了给您带来更好的用户体验，系统会开启网络定位服务。</string>
+<string name="location_close_warning_message">关闭网络定位服务部分应用将无法定位。</string>
+<string name="location_warning_title_close_1">同意记录地点信息</string>
+<string name="app_label">网络位置</string>
+<string name="app_name">网络位置</string>
+</MIUI_Theme_Values>

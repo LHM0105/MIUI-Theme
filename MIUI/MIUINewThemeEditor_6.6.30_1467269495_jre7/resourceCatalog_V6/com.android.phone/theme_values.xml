@@ -1,0 +1,1156 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="phone_settings_background_color">#fff5f5f5</color>
+<color name="manage_conference_secondary_text_color">#ff888888</color>
+<color name="on_hold_dim_effect">#cc000000</color>
+<color name="people_app_theme_color">#ff33b5e5</color>
+<color name="dtmf_dialer_display_text">#ffffffff</color>
+<color name="incall_call_banner_text_color">#ffffffff</color>
+<color name="incall_secondary_info_background">#8033b5e5</color>
+<color name="incall_call_banner_background">#a0000000</color>
+<color name="phone_settings_actionbar_text_color">#ffffffff</color>
+<color name="emergency_button_text_color">#b2ffffff</color>
+<color name="incall_select_default_sim_text_color">#fff05000</color>
+<color name="incall_callTypeSip">#ff99ce3f</color>
+<bool name="send_mic_mute_to_AudioManager">true</bool>
+<bool name="allow_emergency_numbers_in_call_log">true</bool>
+<bool name="has_in_call_noise_suppression">false</bool>
+<bool name="config_voice_privacy_disable">false</bool>
+<bool name="csp_enabled">false</bool>
+<bool name="config_apn_expand">true</bool>
+<bool name="config_support_dialing_emergency_number_directly">true</bool>
+<bool name="config_prefer_2g">true</bool>
+<bool name="config_enabled_lte">false</bool>
+<bool name="config_show_cdma">false</bool>
+<bool name="config_use_hfa_for_provisioning">false</bool>
+<bool name="config_carrier_settings_enable">false</bool>
+<bool name="config_call_recording">true</bool>
+<bool name="config_default_anti_strange">true</bool>
+<bool name="config_hard_redial">true</bool>
+<bool name="config_operator_selection_expand">true</bool>
+<bool name="config_show_call_barring">false</bool>
+<bool name="config_smsc_address_encoded">false</bool>
+<bool name="config_preferred_network_mode_auto_adapt">true</bool>
+<bool name="config_call_stream_recording">true</bool>
+<bool name="voip_enabled">true</bool>
+<bool name="allow_local_dtmf_tones">true</bool>
+<bool name="config_show_onscreen_dial_button">true</bool>
+<bool name="dtmf_type_enabled">false</bool>
+<bool name="auto_retry_enabled">false</bool>
+<bool name="tty_enabled">false</bool>
+<bool name="hac_enabled">false</bool>
+<bool name="world_phone">false</bool>
+<bool name="config_enable_dialer_key_vibration">true</bool>
+<bool name="ignore_perso_locked_events">false</bool>
+<bool name="icc_perso_unlock_allow_dismiss">true</bool>
+<integer name="dialpad_layout_weight_additional_buttons">#0000000f</integer>
+<integer name="dialpad_layout_weight_digits">#00000014</integer>
+<integer name="dialpad_layout_weight_dialpad">#00000041</integer>
+<integer name="OtaShowActivateFailTimes">#00000000</integer>
+<integer name="OtaPlaySuccessFailureTone">#00000000</integer>
+<integer name="OtaShowActivationScreen">#00000001</integer>
+<integer name="OtaShowListeningScreen">#00000000</integer>
+<string name="alertdialogtitle">结果...</string>
+<string name="phone_number_hint_text">号码。</string>
+<string name="name_hint_text">姓名。</string>
+<string name="sim_contact_number">号码</string>
+<string name="sim_contact_name">姓名</string>
+<string name="voice_privacy">语音隐私权</string>
+<string name="pin2_invalid_or_name_is_too_long">FDN未更新：您输入的PIN有误或输入的名字过长。</string>
+<string name="back">返回</string>
+<string name="voice_privacy_summary">启用增强型隐秘模式</string>
+<string name="add">添加</string>
+<string name="allContactdeleteSuccess">从SIM删除所有联系人成功</string>
+<string name="allContactdeleteFailed">!!!</string>
+<string name="exportAllcontatsSuccess">导出所有联系人到SIM成功</string>
+<string name="exportAllcontatsFailed">!!!</string>
+<string name="exportAllcontatsNoContacts">没有找到联系人以导出到SIM卡！</string>
+<string name="cursorError">!!!</string>
+<string name="telocation_contacts_countrycode_hint">输入国家码</string>
+<string name="telocation_contacts_countrycode">国家码设置</string>
+<string name="telocation_call_assistant">拨号辅助</string>
+<string name="telocation_custom_location_summary">自定义地区归属地、号段归属地</string>
+<string name="telocation_countrycode_alert_message_warning">您输入的国家码可能不正确，是否使用该国家码？</string>
+<string name="telocation_auto_country_code_summary">在通讯录中的号码前自动加拨国家码，已设置国家码的号码会直接拨出</string>
+<string name="telocation_auto_country_code">自动加拨国家码</string>
+<string name="telocation_contacts_countrycode_summary">%s</string>
+<string name="telocation_countrycode_alert_message_wrong">您输入的国家码格式不正确，请重新输入</string>
+<string name="telocation_countrycode_alert_title">提示</string>
+<string name="undefined">未设置</string>
+<string name="remove">删除</string>
+<string name="telocation_enable_title">显示归属地</string>
+<string name="telocation_custom_location_title">自定义归属地</string>
+<string name="telocation_setting">归属地设置</string>
+<string name="telocation_show_settings">显示设置</string>
+<string name="telocation_countrycode_alert_message">请输入无国家码的号码。</string>
+<string name="telocation_number_type_tel">座机</string>
+<string name="telocation_error_message_number">%s仅支持数字</string>
+<string name="telocation_confim_delete_title">你将删除这个自定义的归属地信息。</string>
+<string name="telocation_number_type_mob">手机</string>
+<string name="call_record_auto_unknown_number">陌生号码</string>
+<string name="config_dialing_emergency_number_suffix"></string>
+<string name="call_description_recording">正在录音…</string>
+<string name="carrier_settings_menu"></string>
+<string name="telocation_jituan_error_message_number">%s仅支持数字和通配符</string>
+<string name="call_record_auto_whitelist">指定号码</string>
+<string name="preferred_network_type_pref_entries_4g_preferred">4G网络优先</string>
+<string name="call_record_auto_whitelist_no_item">点击+按钮添加号码</string>
+<string name="incall_default_activity">com.android.incallui.InCallActivity</string>
+<string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
+<string name="telocation_custom_empty">点击底部按钮添加自定义归属地</string>
+<string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
+<string name="telocation_edit_custom_location_title">自定义地区归属地、号段归属地、支持通配符#</string>
+<string name="carrier_settings"></string>
+<string name="telocation_custom_number_hint">区号如010、集团号如68#####</string>
+<string name="incall_default_package">com.android.incallui</string>
+<string name="dialer_default_package">com.android.contacts</string>
+<string name="incall_default_class">com.android.incallui.CallHandlerService</string>
+<string name="telocation_custom_name_hint">名称</string>
+<string name="telocation_number_type">号码类型</string>
+<string name="telocation_number_type_jituan">集团号</string>
+<string name="unknown">未知</string>
+<string name="call_recording_notification_summary">完成后在通知栏显示</string>
+<string name="fdnListLabel">固定拨号列表</string>
+<string name="call_recording_notification_toggle_title">录音通知</string>
+<string name="phoneIconLabel">电话</string>
+<string name="call_recording_setting">通话录音</string>
+<string name="emergencyDialerIconLabel">紧急拨号器</string>
+<string name="call_recording_notification_title_error">通话录音出错</string>
+<string name="phoneAppLabel">通讯服务</string>
+<string name="call_recording_notification_title">录音通知</string>
+<string name="preferred_network_type_pref_entries_3g_preferred">3G网络优先</string>
+<string name="call_record_auto_whitelist_summary">%d个号码</string>
+<string name="call_record_add_numbers">添加号码</string>
+<string name="call_recording_notification_message_sd_unmounted">SD卡被移除。</string>
+<string name="no_vm_number_msg">卡上未存储语音信箱号码。</string>
+<string name="call_recording_notification_message">点击显示%s。</string>
+<string name="no_vm_number">缺少语音信箱号码</string>
+<string name="call_recording_notification_message_low_storage">存储空间已用完。</string>
+<string name="ok">确定</string>
+<string name="call_record_auto_summary">通话接通时自动录音，保存到SD卡的MIUI/sound_recorder/call_rec</string>
+<string name="send_button">发送</string>
+<string name="call_record_auto_scenario_title">自动录音对象</string>
+<string name="cancel">取消</string>
+<string name="auto_record_yellowpage">黄页号码</string>
+<string name="enter_input">消息的长度必须介于%d与%d个字符之间，请重试。</string>
+<string name="call_record_auto_title">自动录音</string>
+<string name="mmiStarted">码已启动</string>
+<string name="ussdRunning">代码...</string>
+<string name="private_num">私密号码</string>
+<string name="payphone">公用电话</string>
+<string name="call_record_whitelist_custom">自定义</string>
+<string name="call_record_auto_whitelist_summary_for_one">1个号码</string>
+<string name="sim_ndp_dismiss_text">关闭</string>
+<string name="respond_via_sms_canned_response_4">现在无法接听。能稍后再打给我吗？</string>
+<string name="respond_via_sms_cannot_empty">拒接短信不能为空</string>
+<string name="respond_via_sms_setting_title">快速回复</string>
+<string name="respond_via_sms_setting_summary"></string>
+<string name="respond_via_sms_edittext_dialog_title">快速回复</string>
+<string name="respond_via_sms_menu_reset_default_activity">还原默认设置</string>
+<string name="respond_via_sms_confirmation_format">%s。</string>
+<string name="set_primary">SetPrimary</string>
+<string name="add_vm_number_str">添加号码</string>
+<string name="advanced_settings_container">container</string>
+<string name="puk_unlocked">卡已解锁。正在解锁您的手机...</string>
+<string name="label_ndp">PIN</string>
+<string name="label_nsdp">PIN</string>
+<string name="label_cdp">PIN</string>
+<string name="label_spdp">PIN</string>
+<string name="ims_menu_discard">Discard</string>
+<string name="not_voice_capable">不支持语音呼叫</string>
+<string name="remove_ims_account">account</string>
+<string name="label_sdp">PIN</string>
+<string name="respond_via_sms_canned_response_2">我马上会打给你。</string>
+<string name="respond_via_sms_canned_response_1">现在无法接听。有什么事吗？</string>
+<string name="label_rn2dp">PIN</string>
+<string name="description_image_button_two">二</string>
+<string name="label_rn1dp">PIN</string>
+<string name="description_image_button_one">一</string>
+<string name="label_rcdp">PIN</string>
+<string name="label_rhrpd">PIN</string>
+<string name="description_image_button_three">三</string>
+<string name="label_rdp">PIN</string>
+<string name="label_rspdp">PIN</string>
+<string name="sim_ndp_unlock_text">解锁</string>
+<string name="label_puk">码</string>
+<string name="description_image_button_pound">英镑</string>
+<string name="description_dial_button">拨号</string>
+<string name="description_image_button_star">星标</string>
+<string name="description_image_button_zero">零</string>
+<string name="vibrate_on_ring_title">响铃时振动</string>
+<string name="dtmf_tone_enable_title">拨号键盘触摸音效</string>
+<string name="description_delete_button">键</string>
+<string name="ringtone_title">手机铃声</string>
+<string name="requesting_sp_unlock">服务提供商解锁…</string>
+<string name="requesting_corporate_unlock">公司解锁…</string>
+<string name="requesting_unlock">正在请求网络解锁...</string>
+<string name="respond_via_sms_canned_response_3">我稍后会再打给你。</string>
+<string name="requesting_nw_subset_unlock">网络子解锁…</string>
+<string name="requesting_sim_unlock">解锁…</string>
+<string name="requesting_rnw1_unlock">网络1解锁…</string>
+<string name="description_image_button_five">五</string>
+<string name="description_image_button_four">四</string>
+<string name="requesting_rhrpd_unlock">解锁…</string>
+<string name="description_image_button_nine">九</string>
+<string name="requesting_rnw2_unlock">网络2解锁…</string>
+<string name="description_image_button_eight">八</string>
+<string name="description_image_button_seven">七</string>
+<string name="description_image_button_six">六</string>
+<string name="requesting_puk_unlock">解锁…</string>
+<string name="requesting_ruim_unlock">解锁…</string>
+<string name="requesting_rc_unlock">公司解锁…</string>
+<string name="preference_category_ringtone">铃声和振动</string>
+<string name="requesting_rsp_unlock">服务提供商解锁…</string>
+<string name="dial_pad_autocomplete">拨号键盘自动补全</string>
+<string name="corporate_unlock_failed">公司解锁请求失败</string>
+<string name="sp_unlock_failed">服务提供商解锁请求失败</string>
+<string name="nw_subset_unlock_failed">网络子解锁请求失败</string>
+<string name="unlock_failed">网络解锁请求失败</string>
+<string name="tty_mode_entries_off">Off</string>
+<string name="tty_mode_entries_vco">VCO</string>
+<string name="dtmf_tone_entries_normal">Normal</string>
+<string name="sim_unlock_failed">解锁请求失败</string>
+<string name="dtmf_tone_entries_long">Long</string>
+<string name="clir_choices_hide_number">number</string>
+<string name="clir_choices_show_number">number</string>
+<string name="tty_mode_entries_full">Full</string>
+<string name="tty_mode_entries_hco">HCO</string>
+<string name="rc_unlock_failed">公司解锁请求失败</string>
+<string name="clir_choices_network_default">default</string>
+<string name="rnw1_unlock_failed">网络1解锁请求失败</string>
+<string name="rnw2_unlock_failed">网络2解锁请求失败</string>
+<string name="rhrpd_unlock_failed">解锁请求失败</string>
+<string name="rsp_unlock_failed">服务提供商解锁请求失败</string>
+<string name="ruim_unlock_failed">解锁请求失败</string>
+<string name="cancel_call">Cancel</string>
+<string name="place_a_call3">3</string>
+<string name="unlock_success">网络解锁成功</string>
+<string name="puk_unlock_failed">解锁失败</string>
+<string name="sip_add_account_tip_text">要使用互联网通话，请添加SIP账户</string>
+<string name="set_subscription">subscriptions</string>
+<string name="place_a_call2">2</string>
+<string name="place_a_call1">1</string>
+<string name="rnw2_unlock_success">网络2解锁成功</string>
+<string name="rnw1_unlock_success">网络1解锁成功</string>
+<string name="rhrpd_unlock_success">解锁成功</string>
+<string name="sp_unlock_success">服务提供商解锁成功</string>
+<string name="nw_subset_unlock_success">网络子解锁成功</string>
+<string name="contactScreen">添加/编辑SIM联系人</string>
+<string name="sim_unlock_success">解锁成功</string>
+<string name="corporate_unlock_success">公司解锁成功</string>
+<string name="rsp_unlock_success">服务提供商解锁成功</string>
+<string name="contactdeleteSuccess">从删除SIM联系人成功</string>
+<string name="rc_unlock_success">公司解锁成功</string>
+<string name="contactdeleteFailed">!!!</string>
+<string name="contactUpdateSuccess">更新SIM联系人成功</string>
+<string name="contactUpdateFailed">!!!</string>
+<string name="contactAddSuccess">添加联系人到SIM成功</string>
+<string name="contactAddFailed">!!!</string>
+<string name="enterName">输入姓名:</string>
+<string name="enterNumber">输入手机号码:</string>
+<string name="delete">删除</string>
+<string name="dial">拨号</string>
+<string name="labelGSMMore">通话设置</string>
+<string name="labelCDMAMore">通话设置</string>
+<string name="ruim_unlock_success">解锁成功</string>
+<string name="puk_unlock_success">解锁成功</string>
+<string name="voicemail_abbreviated">语音信箱：</string>
+<string name="voicemail">语音信箱</string>
+<string name="settings_label">网络设置</string>
+<string name="sendSms">发送SMS</string>
+<string name="apn_settings">(APN)</string>
+<string name="editContact">编辑</string>
+<string name="deleteSimContacts">删除SIM联系人</string>
+<string name="deleteAllSimEntries">删除所有SIM联系人</string>
+<string name="addSimEntries">添加SIM联系人</string>
+<string name="exportContactScreen">导出手机联系人到SIM</string>
+<string name="sum_cdma_call_settings">的其他通话设置</string>
+<string name="additional_cdma_call_settings">通话设置</string>
+<string name="sum_gsm_call_settings">通话的设置</string>
+<string name="additional_gsm_call_settings">其他设置</string>
+<string name="call_settings">通话设置</string>
+<string name="networks">网络运营商</string>
+<string name="display_name">DisplayName</string>
+<string name="username">UserName</string>
+<string name="password">Password</string>
+<string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+<string name="domain_address">SipDomain</string>
+<string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+<string name="sip_always">SIP_ALWAYS</string>
+<string name="sip_always_send_keepalive">一律发送</string>
+<string name="sip_system_decide">自动</string>
+<string name="no_vt_allowed">如需拨打视频电话，请关掉TTY模式</string>
+<string name="default_call_type">CSVoice</string>
+<string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
+<string name="ims_service_capability_title">capability</string>
+<string name="ims_menu_save">Save</string>
+<string name="proxy_address">ProxyAddress</string>
+<string name="port">Port</string>
+<string name="transport">Protocol</string>
+<string name="send_keepalive">SendKeepAlive</string>
+<string name="call_type">CallType</string>
+<string name="ims_accounts_title">account</string>
+<string name="ims_service_capability">capability</string>
+<string name="mo_call_type_title">Type</string>
+<string name="ims_edit_title">details</string>
+<string name="auth_username">AuthUserName</string>
+<string name="technology_news_disable">已停用技术新闻</string>
+<string name="enable_disable_multi_category">多类别</string>
+<string name="enable_disable_technology_news">技术新闻</string>
+<string name="technology_news_enable">已启用技术新闻</string>
+<string name="mhh_enable">医疗、保健和医院信息已启用</string>
+<string name="mhh_disable">医疗、保健和医院信息已停用</string>
+<string name="maintenance_disable">已停用维护</string>
+<string name="enable_disable_local">本地</string>
+<string name="entertainment_news_settings">娱乐新闻</string>
+<string name="sports_news_settings">体育新闻</string>
+<string name="bf_news_settings">商业财经新闻</string>
+<string name="general_news_settings">一般新闻</string>
+<string name="atr_enable">已启用区域路况报导</string>
+<string name="atr_disable">已停用区域路况报导</string>
+<string name="local_weather_disable">已停用本地天气预报</string>
+<string name="enable_disable_atr">区域路况报告</string>
+<string name="restaurants_enable">已启用餐馆信息</string>
+<string name="restaurants_disable">已停用餐馆信息</string>
+<string name="lafs_disable">已停用本地机场航班时刻表</string>
+<string name="enable_disable_restaurants">餐馆</string>
+<string name="enable_disable_lafs">本地机场航班时刻表</string>
+<string name="lafs_enable">已启用本地机场航班时刻表</string>
+<string name="cell_bc_sms_enable">已启用小区广播短信</string>
+<string name="enable_disable_cell_bc_sms">小区广播短信</string>
+<string name="throttle_rate">数据传输速率政策</string>
+<string name="throttle_time_frame">数据使用时段</string>
+<string name="cell_broadcast_sms">小区广播短信</string>
+<string name="throttle_help">了解详情</string>
+<string name="local_enable">已启用本地新闻</string>
+<string name="local_disable">已停用本地新闻</string>
+<string name="enable_disable_regional">区域</string>
+<string name="national_disable">已停用国内新闻</string>
+<string name="enable_disable_international">国际</string>
+<string name="international_enable">已启用国际新闻</string>
+<string name="regional_enable">已启用地方新闻</string>
+<string name="regional_disable">已停用地方新闻</string>
+<string name="enable_disable_national">国内</string>
+<string name="national_enable">已启用国内新闻</string>
+<string name="lodgings_disable">已停用房屋租赁信息</string>
+<string name="lodgings_enable">已启用房屋租赁信息</string>
+<string name="enable_disable_lodgings">房屋租赁信息</string>
+<string name="retail_directory_disable">已停用零售店名录</string>
+<string name="retail_directory_enable">已启用零售店名录</string>
+<string name="enable_disable_retail_directory">零售目录</string>
+<string name="list_language_title">语言</string>
+<string name="international_disable">已停用国际新闻</string>
+<string name="list_language_dtitle">语言</string>
+<string name="list_language_summary">选择新闻语言</string>
+<string name="local_weather_enable">已启用本地天气预报</string>
+<string name="enable_disable_local_weather">本地天气</string>
+<string name="enable_disable_advertisements">广告</string>
+<string name="advertisements_enable">已启用广告</string>
+<string name="advertisements_disable">已停用广告</string>
+<string name="enable_disable_stock_quotes">股票报价</string>
+<string name="stock_quotes_enable">已启用股票报价</string>
+<string name="stock_quotes_disable">已停用股票价格</string>
+<string name="enable_disable_eo">招聘信息</string>
+<string name="eo_enable">已启用招聘信息</string>
+<string name="eo_disable">已停用招聘信息</string>
+<string name="enable_disable_mhh">医疗、保健和医院</string>
+<string name="preferred_network_type_pref_entries_only_3g">仅使用3G网络</string>
+<string name="preferred_network_type_pref_entries_only_2g">仅使用2G网络(更省电)</string>
+<string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G网络优先(CDMA)</string>
+<string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G网络优先(CDMA)</string>
+<string name="preferred_network_type_pref_entries_auto">自动选择</string>
+<string name="preferred_network_type_cdma">CDMA</string>
+<string name="preferred_network_type_pref_entries_global">全球</string>
+<string name="preferred_network_type_title">网络类型选择</string>
+<string name="autoip_summary">为异地呼叫号码自动添加IP号码前缀，需要在下面输入IP号码前缀和当前所在地区号</string>
+<string name="autoip_setting">智能IP拨号设置</string>
+<string name="autoip_current_areacode_summary">当前所在地区号，若漫游则应为漫游地区号。例如:010</string>
+<string name="autoip_current_areacode">所在地区号</string>
+<string name="autoip_autoip_current_areacode_summary">%s</string>
+<string name="autoip_prefix_summary">%s</string>
+<string name="callwait_open_hint">\ 来电等待\ 是运营商提供的服务，如果您收到\ MMI码错误\ 的提示,请联系当地运营商开通来电等待业务</string>
+<string name="autoip_exception">无需IP拨号的号码</string>
+<string name="open_miui">继续开启</string>
+<string name="autoip_exception_summary">共%d人</string>
+<string name="autoip_support_local_numbers">所在地号码使用IP拨号</string>
+<string name="preferred_network_restrict_network_changed_incall">通话中禁止设置网络类型</string>
+<string name="autoip_add_zero_prefix">手机号码前加拨0</string>
+<string name="cdma_system_select_dialogtitle">系统选择</string>
+<string name="cdma_system_select_title">系统选择</string>
+<string name="cdma_system_select_summary">漫游模式</string>
+<string name="throttle_current_usage">当前时段使用的数据</string>
+<string name="enable_disable_administrative">管理</string>
+<string name="emergency_broadcast_disable">已停用紧急广播</string>
+<string name="emergency_broadcast_enable">已启用紧急广播</string>
+<string name="enable_disable_emergency_broadcast">紧急广播</string>
+<string name="maintenance_enable">已启用维护</string>
+<string name="enable_disable_maintenance">维护</string>
+<string name="administrative_disable">已停用管理</string>
+<string name="administrative_enable">已启用管理</string>
+<string name="t9_indexing_method_title">T9搜索设定</string>
+<string name="dial_related_setting_catory">拨号</string>
+<string name="emergency_call_area_code_edit_dialog_button">呼叫</string>
+<string name="cb_sms_settings">小区广播短信设置</string>
+<string name="auto_redial_pref_title">自动重拨</string>
+<string name="cell_bc_sms_disable">已停用小区广播短信</string>
+<string name="t9_indexing_rebuilding_message">正在重建T9索引…</string>
+<string name="t9_indexing_method_zhuyin">注音</string>
+<string name="t9_indexing_method_pinyin">拼音</string>
+<string name="auto_redial_pref_summary">拨打电话未接通，系统自动重拨10次，手动挂断取消</string>
+<string name="auto_retry_mode_title">自动重拨</string>
+<string name="auto_retry_mode_summary">启用自动重拨模式</string>
+<string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
+<string name="preferred_network_type_3g_only_warning">你选择了“仅使用3G网络”作为你的首选网络类型，如果你的SIM卡没有3G功能，将会出现没有信号的情况！\n点击“确定”继续。</string>
+<string name="autoip_exception_summary_more">共%d人</string>
+<string name="autoip_no_exceptions">请添加拨打时无需添加前缀的号码</string>
+<string name="autoip_areacode_required">启用智能IP拨号，请务必设置当前所在地区号</string>
+<string name="autoip_areacode_required_accept">知道了</string>
+<string name="emergency_call_area_code_edit_dialog_hint">例如：010</string>
+<string name="cdma_subscription_dialogtitle">订阅</string>
+<string name="cdma_subscription_summary">之间进行切换</string>
+<string name="autoip_areacode_required_for_emergency_number">紧急呼叫需要的地区码</string>
+<string name="cdma_lte_data_service">设置数据服务</string>
+<string name="cdma_activate_device">激活设备</string>
+<string name="summary_manage_subscriptions">subscriptions</string>
+<string name="network_settings_sel_sub">Settings</string>
+<string name="cdma_options">选项</string>
+<string name="gsm_umts_options">选项</string>
+<string name="auto_answer_delay_entries_delay_5s">5秒</string>
+<string name="auto_answer_delay_entries_delay_3s">3秒</string>
+<string name="auto_answer_scenario_title">自动接听场景</string>
+<string name="auto_answer_delay_entries_delay_10s">10秒</string>
+<string name="auto_answer_scenario_enteries_headset_only">仅有耳机连接时</string>
+<string name="auto_answer_scenario_enteries_always">任何时候</string>
+<string name="cdma_subscription_title">订阅</string>
+<string name="auto_answer_scenario_enteries_headset_bluetooth">有蓝牙或者耳机连接时</string>
+<string name="auto_answer_scenario_enteries_bluetooth_only">仅有蓝牙连接时</string>
+<string name="pocket_mode_title">防止误操作</string>
+<string name="antispam_notification_title">智能识别陌生号码</string>
+<string name="enable_antispam_strange_title">拦截骚扰电话</string>
+<string name="enable_antispam_strange_summary">陌生人来电第一声响铃静音</string>
+<string name="flash_when_ring_title">来电闪光灯</string>
+<string name="enable_proximity_summary">通话中使用距离感应器自动开关屏幕</string>
+<string name="enable_proximity_title">启用距离感应器</string>
+<string name="pocket_mode_summary">防止手机在裤兜里拿出来时误接误挂</string>
+<string name="flash_when_ring_summary">LED灯会持续闪动以提醒</string>
+<string name="auto_answer_pref_summary">启用来电自动接听，但通话中来电不自动接听</string>
+<string name="auto_answer_pref_title">自动接听</string>
+<string name="auto_answer_delay_entries_immediately">0秒</string>
+<string name="auto_answer_delay_title">自动接听延迟设置</string>
+<string name="auto_answer_setting_title">自动接听设置</string>
+<string name="answer_features_setting_category">接听</string>
+<string name="auto_answer_summary_delay">%s秒)</string>
+<string name="auto_answer_summary_not_enabled">未启用</string>
+<string name="sum_cfu_enabled">{0}</string>
+<string name="sum_cfu_enabled_no_number">未提供电话号码</string>
+<string name="messageCFU">始终使用此号码</string>
+<string name="sum_cfu_enabled_indicator">转接所有来电</string>
+<string name="labelCF">来电转接</string>
+<string name="labelCFU">始终转接</string>
+<string name="missed_call_notify_five_times">次</string>
+<string name="missed_call_notify_ten_times">次</string>
+<string name="missed_call_notify_twice">次</string>
+<string name="missed_call_notify_thrice">次</string>
+<string name="handon_ringer_title">拿起时铃声减弱</string>
+<string name="handon_ringer_summary">振动开启时无效</string>
+<string name="turnover_mute_summary">手机水平放置时来电翻转可静音</string>
+<string name="turnover_mute_title">翻转静音</string>
+<string name="answer_state_setting_summary">设置来电时翻转静音、启用闪光灯或距离感应等</string>
+<string name="answer_state_setting_title">来电时状态设置</string>
+<string name="reject_via_sms">来电拒接短信</string>
+<string name="sum_cfnry_disabled">未启用</string>
+<string name="disable_cfnry_forbidden">您的运营商不支持在手机无人接听时停用来电转接功能。</string>
+<string name="labelCFNRc">无法接通时转接</string>
+<string name="messageCFNRc">无法接通时的转接号码</string>
+<string name="sum_cfnrc_enabled">{0}</string>
+<string name="sum_cfnrc_disabled">未启用</string>
+<string name="disable_cfnrc_forbidden">您的运营商不支持在手机无法接通时停用来电转接功能。</string>
+<string name="labelCFNRy">无人接听时转接</string>
+<string name="messageCFNRy">无人接听时的转接号码</string>
+<string name="sum_cfnry_enabled">{0}</string>
+<string name="reject_via_sms_title">来电拒接短信设置</string>
+<string name="reject_via_sms_summary">设置来电挂断时向对方发送短信的内容</string>
+<string name="missed_call_notify_times_summary">未接来电提醒的次数，每次间隔5分钟</string>
+<string name="missed_call_notify_times_title">未接来电提醒次数</string>
+<string name="missed_call_notify_once">次</string>
+<string name="missed_call_notify_none">不提醒</string>
+<string name="sum_cfb_disabled">未启用</string>
+<string name="sum_cfb_enabled">{0}</string>
+<string name="messageCFB">占线时的转接号码</string>
+<string name="labelCFB">占线时转接</string>
+<string name="disable_cfb_forbidden">您的运营商不支持在手机占线时停用来电转接功能。</string>
+<string name="sum_cfu_disabled">未启用</string>
+<string name="sum_xdivert_disabled">off</string>
+<string name="xdivert_button">settings</string>
+<string name="proceed">Proceed</string>
+<string name="sum_xdivert_enabled">on</string>
+<string name="xdivert_setting">settings</string>
+<string name="sub2LineNumber">number:</string>
+<string name="call_forwarding_settings">来电转接设置</string>
+<string name="call_forwarding_number_hint">请输入转接号码</string>
+<string name="managed_roaming_dialog_cancel_button">否</string>
+<string name="ota_title_activate">激活您的手机</string>
+<string name="ota_touch_activate">需要拨打特别号码才能激活您的手机服务。\n\n在按下“激活”后，按照语音提示激活您的手机。</string>
+<string name="managed_roaming_title_sub2">漫游受限(SIM卡2)</string>
+<string name="managed_roaming_title_sub3">漫游受限(SIM卡3)</string>
+<string name="managed_roaming_dialog_content">发现受限网络。是否尝试手动选网？</string>
+<string name="managed_roaming_dialog_ok_button">是</string>
+<string name="cfu_title">始终转接</string>
+<string name="network_message">网络报文</string>
+<string name="cfb_title">占线时转接</string>
+<string name="managed_roaming_title">漫游受限</string>
+<string name="cfnrc_title_cta">隐含呼叫转移</string>
+<string name="managed_roaming_title_sub1">漫游受限(SIM卡1)</string>
+<string name="cfnrc_title">无法接通时转接</string>
+<string name="importAllSimEntries">全部导入</string>
+<string name="importSimEntry">导入</string>
+<string name="dial_emergency_empty_error">电话未拨出，请拨打紧急呼救电话！</string>
+<string name="dial_emergency_error">不是紧急呼救号码！</string>
+<string name="emergency_enable_radio_dialog_title">紧急呼叫</string>
+<string name="incall_error_no_active_sim">拨号未送出，因为没有启用的sim卡。</string>
+<string name="phone_numbers">Numbers</string>
+<string name="sub1LineNumber">number:</string>
+<string name="xdivert_title">X-Divert</string>
+<string name="xdivert_summary">Settings</string>
+<string name="dtmf_tones_title">音</string>
+<string name="dtmf_tones_summary">音长度</string>
+<string name="hac_mode_title">助听器</string>
+<string name="hac_mode_summary">启用助听器兼容模式</string>
+<string name="importingSimContacts">联系人</string>
+<string name="importToFDNfromContacts">从联系人导入</string>
+<string name="ota_hfa_activation_dialog_message">手机正在激活您的移动数据网络服务。\n\n此过程最多5分钟就能完成。</string>
+<string name="ota_hfa_activation_title">正在激活…</string>
+<string name="ota_activate">激活</string>
+<string name="ota_skip_activation_dialog_skip_label">跳过</string>
+<string name="ota_skip_activation_dialog_message">网络）。如果您不激活手机，每次开机时都会收到激活提示。</string>
+<string name="ota_skip_activation_dialog_title">略过激活步骤？</string>
+<string name="notification_missedCallsMsg">个未接电话</string>
+<string name="notification_missedCallsTitle">未接电话</string>
+<string name="card_title_callconnectingect">ECT</string>
+<string name="card_title_forwardcheckreceived">正向检查收到</string>
+<string name="card_title_deflectedcall">转移呼叫</string>
+<string name="card_title_callconnectedect">已链接</string>
+<string name="card_title_callretrieved">恢复呼叫</string>
+<string name="card_title_callonhold">搁置</string>
+<string name="card_title_callonhold_released">呼叫释放</string>
+<string name="card_title_multipartycall">多方通话</string>
+<string name="card_title_clir_suppression_rejected">抑制拒绝</string>
+<string name="card_title_call_deflected">呼叫转移</string>
+<string name="card_title_MTcall_forwarding">来电呼叫转移</string>
+<string name="card_title_forwarded_MTcall">转移来电</string>
+<string name="card_title_outgoing_barred">被禁止拨出电话</string>
+<string name="card_title_incoming_barred">被禁止来电</string>
+<string name="incall_error_turn_off_airplane_mode">关闭飞行模式</string>
+<string name="incall_status_dialed_mmi">序列...</string>
+<string name="incall_error_call_failed">拨号未送出。</string>
+<string name="incall_error_no_phone_number_supplied">拨号未送出，因为输入的号码无效。</string>
+<string name="incall_error_out_of_service">无法访问移动网络</string>
+<string name="incall_error_emergency_only">尚未注册网络。</string>
+<string name="incall_error_power_off">要进行呼叫，请先关闭飞行模式。</string>
+<string name="notification_missedCall_message">短信</string>
+<string name="notification_missedCall_call_back">回拨</string>
+<string name="notification_network_selection_text">所选网络（%s）不可用</string>
+<string name="notification_network_selection_title">无服务</string>
+<string name="notification_voicemail_text_format">%s</string>
+<string name="notification_voicemail_no_vm_number">语音信箱号码未知</string>
+<string name="notification_voicemail_title">新语音邮件</string>
+<string name="notification_voicemail_title_count">(%d)</string>
+<string name="notification_missedCallTicker">来自%s的未接电话</string>
+<string name="mismatch_pin2">不一致，请重试。</string>
+<string name="bad_pin2">有误，请重试。</string>
+<string name="invalid_puk2">PUK2。</string>
+<string name="invalid_pin2">PIN2。</string>
+<string name="label_puk2_code">码</string>
+<string name="pin2_changed">PIN2。</string>
+<string name="pin2_lock_warning">\n请注意，再次输错会锁定受PIN2限制的功能！</string>
+<string name="fdn_enable_puk2_requested">密码不正确，PIN2码已被锁定。请更改PIN2码并重试！</string>
+<string name="bad_puk2">有误，请重试。</string>
+<string name="confirm_pin2_label">确认新PIN2码</string>
+<string name="pin_lock_warning">\n请注意，再次输错会导致锁定SIM卡！</string>
+<string name="puk_lock_warning">\n请注意，再次输错会导致USIM卡无法使用！</string>
+<string name="puk_label">输入PUK码'</string>
+<string name="enter_pin2_text">PIN2</string>
+<string name="old_pin2_label">正在使用的PIN2</string>
+<string name="new_pin2_label">新PIN2</string>
+<string name="card_title_conditionalCF">呼叫转移条件已启用</string>
+<string name="card_title_unconditionalCF">呼叫转移无条件已启用</string>
+<string name="fake_phone_activity_placeCall_text">Call</string>
+<string name="fake_phone_activity_infoText_text">number</string>
+<string name="card_title_cugcall">呼叫</string>
+<string name="card_title_calliswaiting">呼叫等待</string>
+<string name="card_title_MOcall_forwarding">传出呼叫转发</string>
+<string name="fake_phone_activity_phoneNumber_text">555-1234</string>
+<string name="doneButton">完成</string>
+<string name="pin_progress_unlock_icc">正在解锁SIM卡...</string>
+<string name="pin_progress_set_fdn_lock">正在设置固定拨号...</string>
+<string name="pin_progress_change_pin">正在修改PIN...</string>
+<string name="pin_attempts">\n还有%d次尝试机会。</string>
+<string name="pin_progress_set_icc_lock">正在设置SIM锁定...</string>
+<string name="pin_progress_change_pin2">正在修改PIN2...</string>
+<string name="puk2_label">输入PUK2码</string>
+<string name="voicemail_number_not_set">&lt;未设置&gt;</string>
+<string name="voicemail_notification_vibrate_when_title">振动</string>
+<string name="voicemail_notification_ringtone_title">提示音</string>
+<string name="voice_report_incoming_call">来电话了</string>
+<string name="fdn">固定拨号</string>
+<string name="voicemail_settings_number_label">语音信箱号码</string>
+<string name="voicemail_provider">运营商服务</string>
+<string name="voicemail_provider_summary">我的运营商</string>
+<string name="simContacts_airplaneMode">卡导入联系人，请先关闭飞行模式。</string>
+<string name="tty_mode_option_title">模式</string>
+<string name="tty_mode_option_summary">模式</string>
+<string name="enable_pin">PIN</string>
+<string name="call_waiting_tone_stop_summary"></string>
+<string name="fdn_contacts_empty">固定拨号列表无联系人</string>
+<string name="call_waiting_tone_continuously">提示音一直响</string>
+<string name="simContacts_emptyLoading">卡读取...</string>
+<string name="exportContacts">正在导出联系人到SIM卡...</string>
+<string name="simContacts_title">选择要导入的联系人</string>
+<string name="set_smsc_address_title">设置短信中心号码</string>
+<string name="set_smsc_address_timeout">设置短信中心号码超时，请稍后重试</string>
+<string name="voicemail_settings_number_hint">请输入语音信箱号码</string>
+<string name="voicemail_settings">语音信箱设置</string>
+<string name="enter_pin_text">PIN：</string>
+<string name="change_pin">PIN</string>
+<string name="set_smsc_address_error">设置短信中心号码失败，请稍后重试</string>
+<string name="fdn_contact_deleted">已删除固定拨号联系人。</string>
+<string name="deleting_fdn_contact">正在删除固定拨号联系人...</string>
+<string name="fdn_invalid_number">位。</string>
+<string name="pin2_invalid">码有误。</string>
+<string name="command_error_fdn_failure">在FDN开启的时候不支持此操作，请关闭FDN后再试。</string>
+<string name="voice_report_unknown_num">未知号码</string>
+<string name="delete_fdn_contact">删除固定拨号联系人</string>
+<string name="uplmn_list_setting_title">偏好设置</string>
+<string name="fdn_contact_updated">已更新固定拨号联系人。</string>
+<string name="cdma_display_precise_call_state_message">如果您所在地运营商不支持，开启此开关可能无法显示正确的通话状态。确定开启吗？</string>
+<string name="other_settings_category">其他</string>
+<string name="disable_sim_pin">PIN</string>
+<string name="cdma_display_precise_call_state_title">显示准确通话状态</string>
+<string name="cdma_display_precise_call_state_summary">通话计时受网络运营商限制。如当地运营商支持，接通状态会更准确</string>
+<string name="call_waiting_tone_twice_only">提示音响两次</string>
+<string name="call_waiting_tone_twice_and_vibrate">提示音响同时振动两次</string>
+<string name="puk_requested">码。</string>
+<string name="bad_puk">PUK不正确，请重试。</string>
+<string name="pin_failed">有误。</string>
+<string name="pin_changed">PIN。</string>
+<string name="change_password">更改呼叫限制密码</string>
+<string name="enable_pin_ok">已启用。</string>
+<string name="disable_pin_ok">码。</string>
+<string name="lable_incoming_calls_except">漫游时拒接来电</string>
+<string name="enable_sim_pin">PIN</string>
+<string name="deactivate_all">取消所有限制</string>
+<string name="enable_in_progress">请稍候...</string>
+<string name="call_waiting_tone_title">来电等待提示音</string>
+<string name="call_waiting_summary">在通话期间，通知我有其他来电</string>
+<string name="call_waiting_title">来电等待</string>
+<string name="wrong_password">密码错误。</string>
+<string name="invalid_puk">PUK不正确，输入8位数字的PUK。</string>
+<string name="invalid_pin">PIN。</string>
+<string name="mismatch_pin">不一致，请重试。</string>
+<string name="bad_pin">有误，请重试。</string>
+<string name="get_smsc_address_timeout">获取短信中心号码超时，请稍后重试</string>
+<string name="confirm_pin_label">PIN</string>
+<string name="get_smsc_address_error">获取短信中心号码失败，请稍后重试</string>
+<string name="new_pin_label">新PIN</string>
+<string name="caller_id_summary">设置在外拨电话时是否发送本机号码，需运营商支持</string>
+<string name="old_pin_label">正在使用的PIN</string>
+<string name="caller_id_title">发送本机号码</string>
+<string name="call_barring_sum">呼叫限制设置</string>
+<string name="lable_disable">已禁用</string>
+<string name="lable_enable">已启动</string>
+<string name="old_password_label">位数字)</string>
+<string name="new_password_label">位数字)</string>
+<string name="multi_category_enable">已启用多类别</string>
+<string name="multi_category_disable">已停用多类别</string>
+<string name="callind_multi_sim">Settings</string>
+<string name="manage_fdn_list">固定拨号列表</string>
+<string name="fdn_activation">激活固定拨号</string>
+<string name="fdn_enabled">已启用固定拨号</string>
+<string name="enable_fdn">启用固定拨号</string>
+<string name="fdn_disabled">未启用固定拨号</string>
+<string name="change_pin2">PIN2</string>
+<string name="disable_fdn">停用固定拨号</string>
+<string name="lable_all_outgoing_international">禁拨国际电话</string>
+<string name="lable_all_incoming">拒接所有来电</string>
+<string name="lable_all_out_except">禁拨本国外的国际电话</string>
+<string name="confirm_password_label">确认新密码</string>
+<string name="invalid_password">位数字。</string>
+<string name="password_changed">密码改变成功</string>
+<string name="mismatch_password">两次输入的新密码不相同，请重新输入。</string>
+<string name="enter_callbarring_password">位数字)</string>
+<string name="call_settings_category">通话</string>
+<string name="connect_disconnect_vibrate_title">对方接通/挂断时振动</string>
+<string name="cfnry_title">无人接听时转接</string>
+<string name="disable_all_cf">取消所有呼叫转移</string>
+<string name="get_pin2">PIN2</string>
+<string name="name">名称</string>
+<string name="fdn_summary">固定拨号只能拨打指定号码</string>
+<string name="add_fdn_contact">添加固定拨号联系人</string>
+<string name="adding_fdn_contact">正在添加固定拨号联系人...</string>
+<string name="number">号码</string>
+<string name="save">保存</string>
+<string name="updating_fdn_contact">正在更新固定拨号联系人...</string>
+<string name="edit_fdn_contact">编辑固定拨号联系人</string>
+<string name="fdn_contact_added">已添加固定拨号联系人。</string>
+<string name="connect_disconnect_vibrate_weak">弱振动</string>
+<string name="enable_fdn_ok">停用固定拨号</string>
+<string name="connect_disconnect_vibrate_normal">振动</string>
+<string name="connect_disconnect_vibrate_none">不振动</string>
+<string name="connect_disconnect_vibrate_summary">当您正在拨打的对象呼叫本人时震动</string>
+<string name="menu_add">添加联系人</string>
+<string name="sum_fdn_manage_list">管理手机号码列表</string>
+<string name="lable_all_outgoing">禁拨所有电话</string>
+<string name="sum_fdn_change_pin">码</string>
+<string name="lable_call_barring">呼叫限制</string>
+<string name="disable_fdn_ok">启用固定拨号</string>
+<string name="msim_set_sub_not_supported_phone_in_call">正在通话中，无法设置</string>
+<string name="msim_set_sub_not_supported_slot_id_error">卡出错，请稍后重试</string>
+<string name="msim_info_editor_name">卡名称</string>
+<string name="msim_info_editor_number">卡号码</string>
+<string name="msim_info_editor_set_name_error">设置名称错误，请稍后重试</string>
+<string name="msim_apn_not_set">未设置</string>
+<string name="msim_mode_progress_deactivating_message">正在停用…</string>
+<string name="msim_mode_progress_activating_message">正在启用…</string>
+<string name="msim_switch_data_conn_toast_for_h2xct">网络。</string>
+<string name="msim_switch_data_conn_toast">卡信息中修改。</string>
+<string name="international_roaming_setting">国际漫游设置</string>
+<string name="msim_pref_title_data">上网</string>
+<string name="msim_pref_title_voice">拨号</string>
+<string name="msim_select_default_time_left">(%d秒)</string>
+<string name="msim_not_set_summary">不设置</string>
+<string name="msim_set_icc_card_error">设置失败，请稍后重试</string>
+<string name="preference_dial_pad_touch_tone_default">默认</string>
+<string name="preference_dial_pad_touch_tone_piano">钢琴音</string>
+<string name="preference_telocation_summary_countrycode_on">自动加拨国家码</string>
+<string name="msim_setting_screen_title">双卡和移动网络</string>
+<string name="preference_telocation_summary_countrycode_off">不自动加拨国家码</string>
+<string name="telephony_setting">电话</string>
+<string name="msim_setting_categery_title">卡信息</string>
+<string name="msim_setting_sim_info_editor_title">编辑卡信息</string>
+<string name="msim_setting_no_sim_indicator">卡</string>
+<string name="msim_default_setting">默认卡设置</string>
+<string name="msim_general_setting">通用设置</string>
+<string name="msim_enable_sim">启用</string>
+<string name="msim_sim_radio_off">未启用</string>
+<string name="msim_sim_lock">已锁定</string>
+<string name="msim_setting_operator_network_title">运营商网络设置</string>
+<string name="preference_telocation_summary_teloc_off">不显示归属地</string>
+<string name="preference_telocation_summary_teloc_on">显示归属地</string>
+<string name="network_id">ID</string>
+<string name="dialog_network_priority_title">优先级</string>
+<string name="uplmn_list_setting_add_plmn">PLMN</string>
+<string name="gsm_umts_network_preferences_title">网络模式</string>
+<string name="gsm_umts_network_preferences_dialogtitle">网络模式</string>
+<string name="uplmn_numeric_is_empty">为空，请重新输入</string>
+<string name="voicemail_settings_number_title">语音信箱号码</string>
+<string name="general_setting">常用电话设置</string>
+<string name="select_voice_call_sim">请选择</string>
+<string name="call_record_setting">通话录音设置</string>
+<string name="voip_setting">免费网络电话</string>
+<string name="cloud_antispam_title">智能识别陌生号码</string>
+<string name="preference_telocation_title">归属地</string>
+<string name="preference_dial_pad_touch_tone_title">拨号音</string>
+<string name="preference_auto_ip_summary_disable">未启用</string>
+<string name="call_record_off_summary">未启用自动录音</string>
+<string name="autoip">智能IP拨号</string>
+<string name="call_record_auto_always">所有通话</string>
+<string name="call_record_on_summary">已启用自动录音</string>
+<string name="call_remove_exception_numbers_confirm">您确认删除这%d个号码吗？</string>
+<string name="autoip_prefix">IP号码前缀</string>
+<string name="ota_title_activate_success">手机已激活。</string>
+<string name="ota_listen">按照语音提示操作，直至提示手机已激活。</string>
+<string name="ota_title_problem_with_activation">激活时遇到问题</string>
+<string name="ota_progress">正在向您的手机中写入程序，请稍候。</string>
+<string name="ota_speaker">免提</string>
+<string name="ota_successful">分钟即可开始使用服务。</string>
+<string name="ota_failure">写入程序失败</string>
+<string name="sip_menu_save">保存</string>
+<string name="sip_menu_discard">舍弃</string>
+<string name="alert_dialog_close">关闭个人资料</string>
+<string name="alert_dialog_ok">确定</string>
+<string name="close_profile">关闭</string>
+<string name="primary_account_summary_with">主帐户。%s</string>
+<string name="registration_status_checking_status">正在检查状态...</string>
+<string name="registration_status_registering">正在注册...</string>
+<string name="registration_status_still_trying">仍在尝试...</string>
+<string name="registration_status_not_receiving">不接听电话。</string>
+<string name="no_sip_account_found">此手机上没有互联网呼叫帐户，要立即添加一个吗？</string>
+<string name="sip_receive_calls">接听来电</string>
+<string name="sip_call_options_title">使用互联网电话</string>
+<string name="sip_receive_calls_summary">会缩短电池待机时间</string>
+<string name="sip_call_options_entry_1">数据网络接通时适用于所有通话</string>
+<string name="sip_call_options_wifi_only_title">WLAN）</string>
+<string name="sip_call_options_entry_2">仅适用于互联网电话</string>
+<string name="third_party_account_summary">“%s”应用当前正在使用此帐户。</string>
+<string name="sip_edit_title">帐户详情</string>
+<string name="registration_status_server_unreachable">帐户注册失败：请检查服务器名称。</string>
+<string name="username_title">用户名</string>
+<string name="password_title">密码</string>
+<string name="sip_edit_new_title">帐户详情</string>
+<string name="domain_address_title">服务器</string>
+<string name="port_title">端口号</string>
+<string name="display_name_title">显示名称</string>
+<string name="proxy_address_title">出站代理地址</string>
+<string name="sip_account_list">帐户</string>
+<string name="remove_sip_account">删除帐户</string>
+<string name="add_sip_account">添加帐户</string>
+<string name="sip_menu_add">添加</string>
+<string name="removing_account">正在删除帐户...</string>
+<string name="saving_account">正在保存帐户...</string>
+<string name="alert_dialog_dismiss">关闭</string>
+<string name="other_settings">其他通话设置</string>
+<string name="selectContact">选择联系人</string>
+<string name="sip_settings">互联网电话设置</string>
+<string name="alert_dialog_in_ecm_call">进行紧急呼救时无法执行所选操作。</string>
+<string name="progress_dialog_exiting_ecm">正在退出紧急回拨模式</string>
+<string name="alert_dialog_yes">是</string>
+<string name="alert_dialog_no">否</string>
+<string name="ota_spc_failure">故障太多</string>
+<string name="ota_unsuccessful">您的手机未激活。\n您可能需要找一个手机信号更好的位置（窗户附近或室外）。\n\n请重试或致电客户服务小组寻求更多解决方法。</string>
+<string name="ota_call_end">上一步</string>
+<string name="sip_call_options_entry_3">每次呼叫时询问</string>
+<string name="network_settings_forbidden">（禁用）</string>
+<string name="internet_phone">互联网电话</string>
+<string name="no_sip_account_found_title">没有互联网电话帐户</string>
+<string name="network_settings_turn_off">已关闭</string>
+<string name="reset_my_choice_hint">您可以在“手机”&gt;“设置”&gt;“互联网呼叫设置”&gt;“帐户”屏幕中更改默认使用的互联网呼叫帐户。</string>
+<string name="network_settings_select_automatic_hint">目前无法链接到您选择的网络，\n启用自动选择网络</string>
+<string name="pstn_phone">手机拨号</string>
+<string name="network_settings_data_connected_change">数据服务使用中时无法更改网络。是否停止使用当前数据服务并选择另一可用网络？</string>
+<string name="pick_outgoing_sip_phone">使用互联网电话帐户：</string>
+<string name="network_settings_automatically_option">自动选择首选网络，%s</string>
+<string name="remember_my_choice">总是用于拨打互联网电话</string>
+<string name="sip_call_options_wifi_only_entry_1">适用于所有通话</string>
+<string name="network_settings_duringcall">通话过程中不允许该操作</string>
+<string name="pick_outgoing_call_phone_type">拨打电话</string>
+<string name="sip_accounts_title">帐户</string>
+<string name="sip_accounts">帐户</string>
+<string name="phone_in_ecm_call_notification_text">数据连接已停用</string>
+<string name="phone_in_ecm_notification_title">紧急回拨模式</string>
+<string name="phone_entered_ecm_text">已进入紧急回拨模式</string>
+<string name="ecm_exit_dialog">EcmExitDialog</string>
+<string name="ota_next">下一步</string>
+<string name="ota_try_again">重试</string>
+<string name="roaming_disable">漫游时连接到移动数据网络服务</string>
+<string name="roaming_enable">漫游时连接到移动数据网络服务</string>
+<string name="roaming_warning">是否要允许移动数据网络漫游？这可能产生大量漫游费！</string>
+<string name="roaming_reenable_message">移动数据网络连接已断开，因为您已离开本地网络并关闭了移动数据网络漫游功能。</string>
+<string name="always_enable_mms">始终接收彩信</string>
+<string name="ussd_dialog_sep">----------</string>
+<string name="always_enable_mms_summary">在禁用数据时仍然接受彩信，可能会产生数据流量费用</string>
+<string name="no_wifi_available">网络才能使用互联网电话（使用“无线与网络”设置）。</string>
+<string name="network_unlock">网络解锁</string>
+<string name="no_voip">不支持互联网电话</string>
+<string name="networks_title">选取运营商</string>
+<string name="no_volte">无法拨打IMS电话</string>
+<string name="network_settings_warn_message">关闭后将仅使用您手动选择的运营商网络注册，手机将不会自动选择其他运营商</string>
+<string name="network_settings_auto_select_title">关闭自动选择</string>
+<string name="network_settings_next">下一步</string>
+<string name="network_settings_confirm_message">关闭后可能导致无信号或服务不可用，确定要关闭吗？</string>
+<string name="network_settings_query_failed_message">搜索网络运营商失败。</string>
+<string name="retry_btn">重试</string>
+<string name="network_settings_information">信息</string>
+<string name="no_internet_available_title">无互联网连接</string>
+<string name="no_wifi_available_title">连接</string>
+<string name="no_internet_available">要拨打互联网电话，请先检查互联网连接情况。</string>
+<string name="load_networks_progress">正在搜索...</string>
+<string name="connect_later">目前无法连接到此网络，请稍后重试。</string>
+<string name="not_allowed">卡不允许连接到此网络。</string>
+<string name="register_on_network">正在%s上注册...</string>
+<string name="empty_networks_list">未找到网络。</string>
+<string name="registration_done">已在网络上注册。</string>
+<string name="sum_select_automatically">自动选择首选网络</string>
+<string name="register_automatically">自动注册...</string>
+<string name="select_automatically">自动选择</string>
+<string name="preferred_network_mode_dialogtitle">首选网络类型</string>
+<string name="network_forbidden">（禁用）</string>
+<string name="preferred_network_mode_title">首选网络类型</string>
+<string name="preferred_network_mode_summary">更改网络运行方式</string>
+<string name="roaming">移动数据网络漫游</string>
+<string name="data_enabled">启用数据网络</string>
+<string name="data_enable_summary">允许通过移动网络存取数据</string>
+<string name="fdn_check_failure">拨号应用的固定拨号设置已启用。因此，部分与拨号相关的功能将不能正常使用。</string>
+<string name="not_a_valid_port">之间。</string>
+<string name="stk_cc_ss_to_ss_error">更新SS请求</string>
+<string name="empty_alert">“%s”属于必填字段，不能留空。</string>
+<string name="close_dialog">确定</string>
+<string name="radio_off_error">请先开启无线装置，然后再查看这些设置。</string>
+<string name="default_transport">UDP</string>
+<string name="default_port">5060</string>
+<string name="advanced_settings_hide">触摸可全部隐藏</string>
+<string name="advanced_settings_show">触摸可全部显示</string>
+<string name="default_preference_summary">&lt;未设置&gt;</string>
+<string name="auth_username_summary">用于身份验证的用户名</string>
+<string name="optional_summary">&lt;可选&gt;</string>
+<string name="display_name_summary">&lt;与用户名相同&gt;</string>
+<string name="disable">禁用</string>
+<string name="enable">启用</string>
+<string name="vm_change_failed">无法更改语音信箱号码。\n如果此问题仍然存在，请与您的运营商联系。</string>
+<string name="registration_status_invalid_credentials">帐户注册失败：用户名或密码有误。</string>
+<string name="fw_change_failed">无法更改转接号码。\n如果此问题仍然存在，请与您的运营商联系。</string>
+<string name="fw_get_in_vm_failed">无法检索和保存当前转接号码设置。\n仍然要切换到新的服务提供商吗？</string>
+<string name="no_change">未做任何更改。</string>
+<string name="registration_status_no_wifi_data">网络，帐户注册已停止。</string>
+<string name="registration_status_not_running">帐户注册失败。</string>
+<string name="change_num">更新</string>
+<string name="registration_status_done">接听电话。</string>
+<string name="vm_changed">语音信箱号码已更改。</string>
+<string name="registration_status_failed_try_later">帐户注册失败：（%s）；系统会在稍后重试</string>
+<string name="registration_status_no_data">由于未连接至互联网，帐户注册已停止。</string>
+<string name="sum_voicemail_choose_provider">选择语音信箱服务</string>
+<string name="voicemail_default">我的运营商</string>
+<string name="mobile_networks">移动网络设置</string>
+<string name="label_available">可用网络</string>
+<string name="sum_hide_caller_id">外拨电话时隐藏本机号码</string>
+<string name="sum_loading_settings">正在加载设置...</string>
+<string name="labelCallerId">本机号码</string>
+<string name="labelCW">来电等待</string>
+<string name="sum_default_caller_id">外拨电话时按照运营商的默认设置来显示本机号码</string>
+<string name="sum_show_caller_id">外拨电话时显示本机号码</string>
+<string name="reading_settings">正在读取设置...</string>
+<string name="updating_settings">正在更新设置...</string>
+<string name="sum_cw_disabled">在通话期间，通知我有其他来电</string>
+<string name="error_updating_title">通话设置出错</string>
+<string name="advanced_settings">可选设置</string>
+<string name="sum_cw_enabled">在通话期间，通知我有其他来电</string>
+<string name="auth_username_title">身份验证用户名</string>
+<string name="set_primary_title">设置为主帐户</string>
+<string name="set_primary_summary">用于外拨电话</string>
+<string name="transport_title">传输类型</string>
+<string name="send_keepalive_title">发送持续连接消息</string>
+<string name="stk_cc_ss_to_ussd_error">SS请求改为USSD请求</string>
+<string name="exception_error">卡出错。</string>
+<string name="stk_cc_ss_to_dial_error">SS请求改为DIAL请求</string>
+<string name="reverting_settings">正在恢复设置...</string>
+<string name="response_error">网络响应异常。</string>
+<dimen name="dialpad_digits_text_size">35.000000sp</dimen>
+<dimen name="emergency_dialer_digits_height">0.000000px</dimen>
+<dimen name="dialpad_horizontal_margin">4.000000dp</dimen>
+<dimen name="dialpad_vertical_margin">2.000000dp</dimen>
+<dimen name="otalistenprogress_layout_marginTop">5.000000dp</dimen>
+<dimen name="otasuccessfail_layout_marginTop">10.000000dp</dimen>
+<dimen name="otaactivate_layout_marginTop">10.000000dp</dimen>
+<dimen name="emergency_input_text_size">20.000000sp</dimen>
+<dimen name="emergency_button_back_text_size">14.000000sp</dimen>
+<dimen name="emergency_button_back_padding_right">35.000000dp</dimen>
+<dimen name="emergency_dialer_margin_top">76.000000dp</dimen>
+<dimen name="blur_dimen_radius">6.000000dp</dimen>
+<dimen name="notification_icon_size">64.000000dp</dimen>
+<dimen name="dialpad_button_margin">3.000000dp</dimen>
+<dimen name="dialpad_center_margin">3.000000dp</dimen>
+<dimen name="call_banner_side_padding">24.000000dp</dimen>
+<dimen name="call_banner_top_bottom_padding">16.000000dp</dimen>
+<dimen name="provider_info_top_bottom_padding">8.000000dp</dimen>
+<dimen name="call_banner_name_number_right_padding">50.000000sp</dimen>
+<dimen name="call_banner_height">80.000000dp</dimen>
+<dimen name="in_call_touch_ui_upper_margin">2.000000dp</dimen>
+<dimen name="incoming_call_widget_circle_size">94.000000dp</dimen>
+<dimen name="incoming_call_widget_asset_margin">28.000000dp</dimen>
+<dimen name="select_sim_max_width">96.000000dp</dimen>
+<dimen name="select_sim_text_size">12.000000sp</dimen>
+<dimen name="preference_dialog_edittext_padding_side"></dimen>
+<dimen name="select_sim_vertical_space">27.000000dp</dimen>
+<dimen name="button_cluster_side_padding">20.000000dp</dimen>
+<dimen name="select_sim_divider_padding">23.000000dp</dimen>
+<dimen name="in_call_end_button_height">74.000000dp</dimen>
+<dimen name="in_call_button_height">76.000000dp</dimen>
+<dimen name="extra_row_button_height"></dimen>
+<dimen name="extra_row_button_width">56.000000dp</dimen>
+<string-array name="missed_call_notify_times_entry_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>5</item>
+<item>10</item>
+</string-array>
+<string-array name="cdma_subscription_choices">
+<item>RUIM/SIM</item>
+<item>NV</item>
+</string-array>
+<string-array name="dtmf_tone_entries">
+<item>正常</item>
+<item>长</item>
+</string-array>
+<string-array name="cdma_system_select_values">
+<item>0</item>
+<item>2</item>
+</string-array>
+<string-array name="dtmf_tone_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="uplmn_prefer_network_mode_td_choices">
+<item>GSM</item>
+<item>TD-SCDMA</item>
+<item>LTE</item>
+<item>mode</item>
+</string-array>
+<string-array name="ims_video_cs_call_types">
+<item>Video</item>
+<item>CSVoice</item>
+</string-array>
+<string-array name="uplmn_prefer_network_mode_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="uplmn_prefer_network_mode_w_choices">
+<item>GSM</item>
+<item>WCDMA</item>
+<item>LTE</item>
+<item>mode</item>
+</string-array>
+<string-array name="cdma_system_select_choices">
+<item>仅本地系统</item>
+<item>自动</item>
+</string-array>
+<string-array name="preferred_network_mode_choices">
+<item>LTE/WCDMA</item>
+<item>LTE</item>
+<item>通用</item>
+<item>GSM/WCDMA/LTE</item>
+<item>LTE/EvDo</item>
+<item>CDMA/EvDo/GSM/WCDMA</item>
+<item>EvDo</item>
+<item>功能</item>
+<item>自动选择</item>
+<item>自动选择</item>
+<item>WCDMA</item>
+<item>GSM</item>
+<item>GSM/WCDMA</item>
+<item>GSM/WCDMA/LTE</item>
+<item>LTE/EvDo</item>
+<item>CDMA/EvDo/GSM/WCDMA</item>
+<item>only</item>
+<item>EvDo</item>
+<item>auto</item>
+<item>auto</item>
+<item>only</item>
+<item>only</item>
+<item>preferred</item>
+</string-array>
+<string-array name="clir_display_values">
+<item>网络默认设置</item>
+<item>隐藏号码</item>
+<item>显示号码</item>
+</string-array>
+<string-array name="voicemail_notification_vibrate_when_values">
+<item>always</item>
+<item>silent</item>
+<item>never</item>
+</string-array>
+<string-array name="list_language_values">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+</string-array>
+<string-array name="preferred_network_mode_values">
+<item>22</item>
+<item>21</item>
+<item>20</item>
+<item>19</item>
+<item>18</item>
+<item>17</item>
+<item>16</item>
+<item>15</item>
+<item>14</item>
+<item>13</item>
+<item>12</item>
+<item>11</item>
+<item>10</item>
+<item>9</item>
+<item>8</item>
+<item>7</item>
+<item>6</item>
+<item>5</item>
+<item>4</item>
+<item>3</item>
+<item>2</item>
+<item>1</item>
+<item>0</item>
+</string-array>
+<string-array name="auto_answer_delay_entry_values">
+<item>0</item>
+<item>3</item>
+<item>5</item>
+<item>10</item>
+</string-array>
+<string-array name="cdma_subscription_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="transport_types">
+<item>UDP</item>
+<item>TCP</item>
+</string-array>
+<string-array name="tty_mode_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="call_waiting_tone_entry_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="ims_call_types">
+<item>Voice</item>
+<item>Video</item>
+<item>CSVoice</item>
+</string-array>
+<string-array name="ims_voice_cs_call_types">
+<item>Voice</item>
+<item>CSVoice</item>
+</string-array>
+<string-array name="absent_num">
+<item>NUMBER</item>
+<item>ABSENTNUMBER</item>
+</string-array>
+<string-array name="clir_values">
+<item>DEFAULT</item>
+<item>HIDE</item>
+<item>SHOW</item>
+</string-array>
+<string-array name="ims_call_cap_types">
+<item>Voice</item>
+<item>Video</item>
+</string-array>
+<string-array name="tty_mode_entries">
+<item>TTY</item>
+<item>完整</item>
+<item>HCO</item>
+<item>VCO</item>
+</string-array>
+<string-array name="cs_call_type">
+<item>CSVoice</item>
+</string-array>
+<string-array name="list_language_entries">
+<item>英语</item>
+<item>法语</item>
+<item>西班牙语</item>
+<item>日语</item>
+<item>韩语</item>
+<item>中文</item>
+<item>希伯来语</item>
+</string-array>
+<string-array name="cdma_call_waiting_entry_values">
+<item>1</item>
+<item>0</item>
+</string-array>
+<string-array name="t9_indexing_method_entry_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="connect_disconnect_vibrate_entry_values">
+<item>100</item>
+<item>50</item>
+<item>0</item>
+</string-array>
+</MIUI_Theme_Values>

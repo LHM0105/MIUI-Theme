@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="长按电源键" version="2.9.21" annotation="" tag="">
+    <resource description="ic_lock_airplane_mode_off.png" x="59" y="446" width="47" height="47" uuid="1c8f59d5-9e67-4abc-bd4f-78b60d319997">
+        <path src="res\drawable-xhdpi\ic_lock_airplane_mode_off.png" description="" />
+    </resource>
+    <resource description="ic_lock_audio_vol.png" x="60" y="574" width="47" height="47" uuid="9140354c-f0ef-430e-b572-1bdd959bc3f4">
+        <path src="res\drawable-xhdpi\ic_audio_vol_mute.png" description="" />
+        <path src="res\drawable-xhdpi\ic_lock_audio_vol.png" description="" />
+    </resource>
+    <resource description="ic_lock_reboot.png" x="56" y="706" width="47" height="47" uuid="c4961242-11ba-4e80-884a-7c7c53e2b218">
+        <path src="res\drawable-xhdpi\ic_lock_reboot.png" description="" />
+    </resource>
+    <resource description="ic_lock_power_off.png" x="55" y="834" width="47" height="47" uuid="39789e15-74da-44a7-8b88-977f18dc229a">
+        <path src="res\drawable-xhdpi\ic_lock_power_off.png" description="" />
+    </resource>
+</screenshot>

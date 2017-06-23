@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 新信息" version="2.9.20" annotation="" tag="新信息">
+    <resource description="home_button_p.png" x="20" y="74" width="72" height="74" uuid="3c5a7a80-4372-48e0-b0a3-b9c9432de475">
+        <path src="res\drawable-hdpi\home_button_n.png" description="" />
+        <path src="res\drawable-hdpi\home_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\home_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\home_button_p.png" description="" />
+    </resource>
+    <resource description="recipient_view_bg_pressed.9.png" x="120" y="80" width="166" height="62" uuid="6106e6df-332f-4be9-b1ae-af1b362e8f39">
+        <path src="res\drawable-hdpi\recipient_view_bg_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\recipient_view_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\recipient_view_bg_normal.9.png" description="" />
+        <path src="res\drawable-xhdpi\recipient_view_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="insert_attachment_button_n.png" x="16" y="1180" width="85" height="85" uuid="3ffff20b-469d-4241-9fdc-0aa47f476889">
+        <path src="res\drawable-hdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-hdpi\insert_attachment_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="624" y="1180" width="86" height="86" uuid="50e77c23-f35c-43c9-ae82-c49fce3a1604">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="add_recipients_normal.png" x="620" y="72" width="80" height="80" uuid="93c5d38a-29b5-4236-9bdb-045232053198">
+        <path src="res\drawable-hdpi\add_recipients_normal.png" description="" />
+        <path src="res\drawable-hdpi\add_recipients_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\add_recipients_normal.png" description="" />
+        <path src="res\drawable-xhdpi\add_recipients_pressed.png" description="" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1160" width="720" height="120" uuid="c35830c5-95fb-4691-85ef-593bee1e5555">
+        <path src="res\drawable-hdpi\message_edit_bottom_panel.9.png" description="" />
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="" />
+    </resource>
+    <resource description="title_bar_bg.9.png" x="-2" y="54" width="720" height="115" uuid="39da3066-150b-42b4-a3aa-cc7a69514c66">
+        <path src="res\drawable-hdpi\title_bar_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\title_bar_bg.9.png" description="" />
+    </resource>
+    <resource description="recent_contact_list_bg.9" x="0" y="180" width="720" height="150" uuid="8dfe37d1-a9f1-4698-a76f-a3825cef2efc">
+        <path src="res\drawable-hdpi\recent_contact_list_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_list_bg.9.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="104" y="1182" width="502" height="82" uuid="91122a58-1164-43c2-bf67-11b614dc5445">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+    <resource description="recipients_editor_bg_n.9" x="108" y="64" width="498" height="96" uuid="0f29aa1b-6acb-4b30-b185-71fd14f416b4">
+        <path src="res\drawable-hdpi\msg_editor_bg.png" description="网络短信 选择联系人" />
+        <path src="res\drawable-hdpi\recipients_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\recipients_editor_bg_p.9.png" description="选择联系人 按下" />
+        <path src="res\drawable-xhdpi\msg_editor_bg.png" description="网络短信 选择联系人" />
+        <path src="res\drawable-xhdpi\recipients_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\recipients_editor_bg_p.9.png" description="选择联系人 按下" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="22" y="186" width="188" height="58" uuid="99b7b453-1fd6-4a0f-8504-cdef770a4bb6">
+        <path src="res\drawable-hdpi\recent_contact_item_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\recent_contact_item_bg_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="recent_contact_divider_v" x="233" y="193" width="8" height="42" uuid="227a2b55-a8e0-4346-8db4-d12f0b14d5cc">
+        <path src="res\drawable-hdpi\recent_contact_divider_v.png" description="" />
+        <path src="res\drawable-xhdpi\recent_contact_divider_v.png" description="" />
+    </resource>
+</screenshot>

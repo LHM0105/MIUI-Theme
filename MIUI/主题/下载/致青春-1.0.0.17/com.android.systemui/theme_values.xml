@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="toggle_lable_color_p">#ffffffff</color>
+<bool name="auto_modify_expanded_header_color">false</bool>
+<color name="qs_detail_separated_text">#4dffffff</color>
+<color name="qs_detail_connect_item_secondary_text_color">#e0ffffff</color>
+<color name="task_manager_text">#77fffffe</color>
+<color name="status_bar_textColor">#ccfffffe</color>
+<color name="task_item_text_shadowColor">#ff000001</color>
+<bool name="config_hspa_data_distinguishable">false</bool>
+<color name="no_notification_tips_text">#80ffffffff</color>
+<color name="qs_detail_button">#ffffffff</color>
+<color name="qs_detail_item_primary_text_color">#b3ffffff</color>
+<color name="qs_detail_connect_header_color">#ff284f5e</color>
+<color name="qs_detail_disconnect_header_color">#ffffffff</color>
+<color name="status_bar_expanded_search">#e6fffffe</color>
+<color name="toggle_lable_color_n">#99ffffff</color>
+</MIUI_Theme_Values>

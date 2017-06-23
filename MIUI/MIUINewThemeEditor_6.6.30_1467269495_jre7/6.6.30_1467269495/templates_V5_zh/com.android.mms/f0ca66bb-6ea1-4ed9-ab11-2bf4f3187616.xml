@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 短信对话页面" version="2.9.20" annotation="" tag="短信会话界面">
+    <resource description="mi_message_bubble_out_bg_p.9.png" x="564" y="794" width="140" height="146" uuid="e4ff0b06-d3b2-438d-b293-bafbd59635ae">
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_p.9.png" description="网络短信按下" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_p.9.png" description="网络短信按下" />
+    </resource>
+    <resource description="message_bubble_in_bg_p.9.png" x="24" y="280" width="122" height="148" uuid="390335a9-e79e-4d5e-adb7-ec5204ac409c">
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+    </resource>
+    <resource description="favourite_bubble_out" x="61" y="348" width="59" height="59" uuid="4551762e-2a82-4750-a989-2d2542539088">
+        <path src="res\drawable-xhdpi\favourite_bubble_in.png" description="短信收藏" />
+        <path src="res\drawable-xxhdpi\favourite_bubble_in.png" description="短信收藏" />
+    </resource>
+    <resource description="favourite_bubble_in" x="576" y="605" width="52" height="55" uuid="5f131d2b-204a-49f5-bc55-f727c286f49e">
+        <path src="res\drawable-xhdpi\favourite_bubble_out.png" description="短信收藏" />
+        <path src="res\drawable-xxhdpi\favourite_bubble_out.png" description="短信收藏" />
+    </resource>
+    <resource description="message_bubble_out_bg_n.9" x="552" y="540" width="156" height="144" uuid="b1ba4b6e-b62a-48a5-9749-9903d4fed9f5">
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_n.9.png" description="普通短信发出" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_n.9.png" description="普通短信发出" />
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_p.9.png" description="普通短信发出 二态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_p.9.png" description="普通短信发出 二态" />
+    </resource>
+    <resource description="compose_mi_msg_editor_bg.9" x="92" y="1142" width="526" height="116" uuid="d5139071-3bf6-4a9e-9c8a-5513a8d0f869">
+        <path src="res\drawable-xhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xxhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+        <path src="res\drawable-xxhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+    </resource>
+    <resource description="conversation_bg.9" x="0" y="50" width="720" height="1230" uuid="26527dc0-1650-4b9d-991a-dbd6686a09c5">
+        <path src="res\drawable-xhdpi\conversation_bg.9.png" description="短信会话背景" />
+        <path src="res\drawable-xxhdpi\conversation_bg.9.png" description="短信会话背景" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="8" y="1120" width="700" height="150" uuid="74c9dc1f-c900-4414-8fcb-c1b49c34bf9c">
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+    </resource>
+    <resource description="call_btn_p.png" x="612" y="76" width="84" height="84" uuid="bb86a0b7-51b8-4654-af73-890b0cb7c68e">
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="呼叫按钮" />
+        <path src="res\drawable-xxhdpi\call_btn_n.png" description="呼叫按钮" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="呼叫按钮 二态" />
+        <path src="res\drawable-xxhdpi\call_btn_p.png" description="呼叫按钮 二态" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="9" y="58" width="702" height="135" uuid="55ad49e4-6115-4d1c-9436-8e66710cf577">
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="联系人标题背景" />
+        <path src="res\drawable-xxhdpi\title_bar_tall_bg.9.png" description="联系人标题背景" />
+    </resource>
+    <resource description="timed_message_indicator_n.9" x="404" y="996" width="100" height="108" uuid="c71fa8e9-140a-429c-94bf-b6b05b682854">
+        <path src="res\drawable-xhdpi\timed_message_indicator_d.9.png" description="定时短信不可按" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_d.9.png" description="定时短信不可按" />
+        <path src="res\drawable-xhdpi\timed_message_indicator_n.9.png" description="定时短信" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_n.9.png" description="定时短信" />
+        <path src="res\drawable-xhdpi\timed_message_indicator_p.9.png" description="定时短信按下" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_p.9.png" description="定时短信按下" />
+    </resource>
+    <resource description="mx_type_divider_n" x="24" y="692" width="670" height="26" uuid="e4dedd50-3925-47b3-b0c4-ef9724d01ec6">
+        <path src="res\drawable-xhdpi\mx_type_divider_n.png" description="分割线" />
+        <path src="res\drawable-xxhdpi\mx_type_divider_n.png" description="分割线" />
+    </resource>
+    <resource description="insert_attachment_button_n" x="18" y="1194" width="52" height="56" uuid="4c1f16f2-20b0-44d7-8228-c5c504f14cc0">
+        <path src="res\drawable-xhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="附件按钮 选中" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="附件按钮" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="附件按钮 二态" />
+    </resource>
+    <resource description="send_btn_p.png" x="646" y="1188" width="54" height="64" uuid="7dc2f773-db29-47f1-83b9-bb0850f54374">
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="发送按钮 不可按" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="发送按钮" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="发送按钮 按下" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="发送按钮 按下" />
+    </resource>
+    <resource description="message_date_bg.9" x="262" y="488" width="197" height="48" uuid="bdd51e45-466f-4edb-99a7-09e8e58924dc">
+        <path src="res\drawable-xhdpi\message_date_bg.9.png" description="时间背景" />
+        <path src="res\drawable-xxhdpi\message_date_bg.9.png" description="时间背景" />
+    </resource>
+    <resource description="message_bubble_out_alert_bg_n.9" x="574" y="212" width="132" height="200" uuid="16f0ed94-2dbe-4ff7-b10e-0d5160e64a0d">
+        <path src="res\drawable-xhdpi\message_bubble_out_alert_bg_n.9.png" description="短信发送失败" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_bg_n.9.png" description="短信发送失败" />
+    </resource>
+    <resource description="alert_btn_p.9" x="596" y="302" width="92" height="70" uuid="f2f985e7-50a7-4f4f-a4cb-c52ca56a15f1">
+        <path src="res\drawable-xhdpi\alert_btn_n.9.png" description="重发按钮" />
+        <path src="res\drawable-xxhdpi\alert_btn_n.9.png" description="重发按钮" />
+        <path src="res\drawable-xhdpi\alert_btn_p.9.png" description="重发按钮 二态" />
+        <path src="res\drawable-xxhdpi\alert_btn_p.9.png" description="重发按钮 二态" />
+    </resource>
+    <resource description="nickname_icon_p.9" x="109" y="1200" width="74" height="47" uuid="52867524-48ae-4737-bed1-f35aaf4f9fed">
+        <path src="res\drawable-xhdpi\nickname_icon_n.9.png" description="称呼" />
+        <path src="res\drawable-xxhdpi\nickname_icon_n.9.png" description="称呼" />
+        <path src="res\drawable-xhdpi\nickname_icon_p.9.png" description="称呼 二态" />
+        <path src="res\drawable-xxhdpi\nickname_icon_p.9.png" description="称呼 二态" />
+    </resource>
+    <resource description="timing_button_p" x="107" y="1153" width="58" height="43" uuid="f056ad5b-3ce5-49e7-b480-6672c7c135f6">
+        <path src="res\drawable-xhdpi\timing_button_n.png" description="定时短信" />
+        <path src="res\drawable-xxhdpi\timing_button_n.png" description="定时短信" />
+        <path src="res\drawable-xhdpi\timing_button_p.png" description="定时短信 二态" />
+        <path src="res\drawable-xxhdpi\timing_button_p.png" description="定时短信 二态" />
+    </resource>
+    <resource description="ic_contact_photo_mask_medium" x="27" y="76" width="87" height="88" uuid="126f62ee-5c74-4712-b639-f60ed30b863d">
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg_medium.png" description="对话页面头像顶部图层" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg_medium.png" description="对话页面头像顶部图层" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask_medium.png" description="对话页面头像遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask_medium.png" description="对话页面头像遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_photo_bg_medium.png" description="对话页面头像背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_photo_bg_medium.png" description="对话页面头像背景" />
+    </resource>
+</screenshot>

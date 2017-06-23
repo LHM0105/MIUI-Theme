@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="联系人搜索" version="4.8.6" annotation="" tag="其他">
+    <resource description="alphabet_indexer_text_highlight_bg" x="1008" y="326" width="70" height="68" uuid="15dd69fb-7570-405d-970c-4bfb6e1bcce7">
+        <path src="res\drawable-sw600dp-xhdpi\alphabet_indexer_text_highlight_bg.png" description="联系人侧边字顺索引背景" />
+        <path src="res\drawable-xhdpi\alphabet_indexer_text_highlight_bg.png" description="联系人侧边字顺索引背景" />
+        <path src="res\drawable-xxhdpi\alphabet_indexer_text_highlight_bg.png" description="联系人侧边字顺索引背景" />
+    </resource>
+    <resource description="edit_text_search_normal_light.9" x="0" y="196" width="1078" height="116" uuid="62d5318d-68c8-439f-8ed2-e5497515e8d8">
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_normal_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xhdpi\edit_text_search_normal_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xxhdpi\edit_text_search_normal_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-sw600dp-xhdpi\search_mode_bg_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xhdpi\search_mode_bg_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xxhdpi\search_mode_bg_light.9.png" description="搜索背景" />
+    </resource>
+    <resource description="alphabet_indexer_overlay.9" x="438" y="904" width="208" height="218" uuid="487b313b-204f-44f9-9ae7-9c35ddb35683">
+        <path src="res\drawable-sw600dp-xhdpi\alphabet_indexer_overlay.9.png" description="联系人字顺索引背景" />
+        <path src="res\drawable-xhdpi\alphabet_indexer_overlay.9.png" description="联系人字顺索引背景" />
+        <path src="res\drawable-xxhdpi\alphabet_indexer_overlay.9.png" description="联系人字顺索引背景" />
+    </resource>
+    <resource description="search_mode_input_bg_light.9" x="0" y="0" width="1080" height="186" uuid="4d9443a3-463c-49b9-bb05-36df58d6852e">
+        <path src="res\drawable-sw600dp-xhdpi\search_mode_input_bg_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xhdpi\search_mode_input_bg_light.9.png" description="搜索背景" />
+        <path src="res\drawable-xxhdpi\search_mode_input_bg_light.9.png" description="搜索背景" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_back_search_normal_light.png" description="返回_常态" />
+        <path src="res\drawable-xhdpi\action_bar_back_search_normal_light.png" description="返回_常态" />
+        <path src="res\drawable-xxhdpi\action_bar_back_search_normal_light.png" description="返回_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\action_bar_back_search_pressed_light.png" description="返回_按下" />
+        <path src="res\drawable-xhdpi\action_bar_back_search_pressed_light.png" description="返回_按下" />
+        <path src="res\drawable-xxhdpi\action_bar_back_search_pressed_light.png" description="返回_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xxhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xxhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+    </resource>
+    <resource description="search_mode_input_bg_light.9" x="128" y="64" width="920" height="114" uuid="97a4d02f-ee38-403a-bc7d-34a52c420d15">
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-xxhdpi\edit_text_search_input_bg_light.9.png" description="搜索输入框" />
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xxhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+    </resource>
+    <resource description="list_view_item_group_header_bg_light.9" x="0" y="708" width="1080" height="86" uuid="1d311df1-d77e-4939-a1f7-23323fe15723">
+        <path src="res\drawable-sw600dp-xhdpi\list_view_item_group_header_bg_light.9.png" description="小标题背景" />
+        <path src="res\drawable-xhdpi\list_view_item_group_header_bg_light.9.png" description="小标题背景" />
+        <path src="res\drawable-xxhdpi\list_view_item_group_header_bg_light.9.png" description="小标题背景" />
+    </resource>
+    <resource description="edit_text_search_clear_btn_on_light" x="944" y="92" width="68" height="68" uuid="7b17d0e7-eb4a-4251-b044-0f604b01e77b">
+        <path src="res\drawable-sw600dp-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+        <path src="res\drawable-xxhdpi\edit_text_search_clear_btn_on_light.png" description="删除" />
+    </resource>
+</screenshot>

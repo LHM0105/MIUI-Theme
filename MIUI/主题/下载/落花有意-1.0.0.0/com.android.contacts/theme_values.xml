@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="tab_text_color_unfocused">#ff000000</color>
+<color name="list_divider_stroke">#00e3e3e3</color>
+<color name="tab_text_color_focused">#ff000000</color>
+<color name="tab_color_dialer">#ff71acd4</color>
+<color name="dialer_digits_text_color">#ff000000</color>
+</MIUI_Theme_Values>

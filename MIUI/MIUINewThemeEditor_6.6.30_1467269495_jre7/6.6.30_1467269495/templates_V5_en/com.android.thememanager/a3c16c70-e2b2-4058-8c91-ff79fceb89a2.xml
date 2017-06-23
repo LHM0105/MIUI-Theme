@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 Comments page" version="3.10.23" annotation="" tag="New Themes">
+    <resource description="resource_comment_v5_secondary_tab_bg_left_normal_light.9" x="20" y="398" width="676" height="88" uuid="bff98d0c-32c1-4157-aefa-b2a54082e46b">
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_left_normal_light.9.png" description="左按钮 常态" />
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_left_pressed_light.9.png" description="左按钮 二态" />
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_middle_normal_light.9.png" description="中间按钮 常态" />
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_middle_pressed_light.9.png" description="中间按钮 二态" />
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_right_normal_light.9.png" description="右按钮 常态" />
+        <path src="res\drawable-hdpi\resource_comment_v5_secondary_tab_bg_right_pressed_light.9.png" description="右按钮 二态" />
+    </resource>
+    <resource description="resource_comment_average_score_bg" x="22" y="164" width="188" height="232" uuid="7325a05a-3d77-4ec1-86fb-0c5ac91ed4f9">
+        <path src="res\drawable-hdpi\resource_comment_average_score_bg.png" description="平均得分背景" />
+        <path src="res\drawable-xhdpi\resource_comment_average_score_bg.png" description="平均得分背景" />
+        <path src="res\drawable-xxhdpi\resource_comment_average_score_bg.png" description="平均得分背景" />
+    </resource>
+    <resource description="resource_progressbar.9" x="312" y="194" width="308" height="28" uuid="c841e8b0-be0c-4ab9-87f6-9d935c735cb2">
+        <path src="res\drawable-hdpi\resource_progressbar.9.png" description="评分进度条" />
+        <path src="res\drawable-xhdpi\resource_progressbar.9.png" description="评分进度条" />
+        <path src="res\drawable-xxhdpi\resource_progressbar.9.png" description="评分进度条" />
+    </resource>
+    <resource description="resource_divider.9" x="0" y="510" width="720" height="28" uuid="86bbb6b7-a821-467e-8889-29bd7c23d080">
+        <path src="res\drawable-hdpi\resource_divider.9.png" description="分隔线" />
+        <path src="res\drawable-xhdpi\resource_divider.9.png" description="分隔线" />
+        <path src="res\drawable-xxhdpi\resource_divider.9.png" description="分隔线" />
+    </resource>
+</screenshot>

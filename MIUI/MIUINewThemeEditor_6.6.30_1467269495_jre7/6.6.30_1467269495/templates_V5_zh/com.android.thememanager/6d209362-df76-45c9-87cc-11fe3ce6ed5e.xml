@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3.3 壁纸编辑2" version="3.2.27" annotation="" tag="旧 混搭">
+    <resource description="wallpaper_detail_popup_bg.9" x="274" y="810" width="440" height="304" uuid="3e09a4d2-8c24-4ea1-9ecb-64a0d8e0e079">
+        <path src="res\drawable-hdpi\wallpaper_detail_popup_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xhdpi\wallpaper_detail_popup_bg.9.png" description="弹窗背景" />
+        <path src="res\drawable-xxhdpi\wallpaper_detail_popup_bg.9.png" description="弹窗背景" />
+    </resource>
+</screenshot>

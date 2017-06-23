@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 程序详情" version="3.2.27" annotation="" tag="流量排行">
+    <resource description="app_detail_highlight" x="386" y="1134" width="80" height="90" uuid="2c5d3c15-b19d-4b20-9ae2-fc6eda883ccd">
+        <path src="res\drawable-hdpi\app_detail_disable.png" description="详情图标 不可按" />
+        <path src="res\drawable-hdpi\app_detail_highlight.png" description="详情图标 二态" />
+        <path src="res\drawable-hdpi\app_detail_normal.png" description="详情图标" />
+        <path src="res\drawable-xhdpi\app_detail_disable.png" description="详情图标 不可按" />
+        <path src="res\drawable-xhdpi\app_detail_highlight.png" description="详情图标 二态" />
+        <path src="res\drawable-xhdpi\app_detail_normal.png" description="详情图标" />
+    </resource>
+    <resource description="force_stop_disable" x="252" y="1142" width="80" height="90" uuid="4cb8c1bf-708e-409e-98c7-62acaf7c8115">
+        <path src="res\drawable-hdpi\force_stop_disable.png" description="停止按钮 不可按" />
+        <path src="res\drawable-hdpi\force_stop_highlight.png" description="停止按钮 二态" />
+        <path src="res\drawable-hdpi\force_stop_normal.png" description="停止按钮" />
+        <path src="res\drawable-xhdpi\force_stop_disable.png" description="停止按钮 不可按" />
+        <path src="res\drawable-xhdpi\force_stop_highlight.png" description="停止按钮 二态" />
+        <path src="res\drawable-xhdpi\force_stop_normal.png" description="停止按钮" />
+    </resource>
+</screenshot>

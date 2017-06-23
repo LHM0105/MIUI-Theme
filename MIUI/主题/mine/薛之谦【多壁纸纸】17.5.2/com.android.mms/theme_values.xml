@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="text_color_message_out_highlight_pressed">#ff003399</color>
+<color name="text_color_message_out">#ff333333</color>
+<color name="text_color_message_out_highlight">#ff0066cc</color>
+</MIUI_Theme_Values>

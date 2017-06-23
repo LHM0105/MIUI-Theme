@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="常用设置" version="2.9.16" annotation="" tag="">
+    <resource description="airplane_mode.png" x="42" y="161" width="66" height="66" uuid="5c8064d7-70c8-47b6-87cd-fe0c9726e53f">
+        <path src="res\drawable-hdpi\airplane_mode.png" description="" />
+        <path src="res\drawable-xhdpi\airplane_mode.png" description="" />
+    </resource>
+    <resource description="ic_settings_wireless.png" x="42" y="258" width="66" height="66" uuid="32a39630-77da-4df7-922b-318e1a30a516">
+        <path src="res\drawable-hdpi\ic_settings_wireless.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_wireless.png" description="" />
+    </resource>
+    <resource description="ic_settings_bluetooth2.png" x="42" y="363" width="66" height="66" uuid="7dbf2f90-0aca-484b-ac24-b5998c95a638">
+        <path src="res\drawable-hdpi\ic_settings_bluetooth2.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_bluetooth2.png" description="" />
+    </resource>
+    <resource description="ic_settings_display.png" x="42" y="455" width="66" height="66" uuid="abbfc0e1-026f-4871-9d5f-3b90648c82ef">
+        <path src="res\drawable-hdpi\ic_settings_display.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_display.png" description="" />
+    </resource>
+    <resource description="wallpaper_settings.png" x="42" y="552" width="66" height="66" uuid="afc128d6-6be1-4258-9312-20f80f3406ee">
+        <path src="res\drawable-hdpi\wallpaper_settings.png" description="" />
+        <path src="res\drawable-xhdpi\wallpaper_settings.png" description="" />
+    </resource>
+    <resource description="launcher_settings.png" x="42" y="652" width="66" height="66" uuid="4fe71840-0766-4989-b0ff-eb52f88361a4">
+        <path src="res\drawable-hdpi\launcher_settings.png" description="" />
+        <path src="res\drawable-xhdpi\launcher_settings.png" description="" />
+    </resource>
+    <resource description="ringer_volume_settings.png" x="42" y="753" width="66" height="66" uuid="617b1454-ad7a-4cba-b5e7-8bebcd062b6a">
+        <path src="res\drawable-hdpi\ringer_volume_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ringer_volume_settings.png" description="" />
+    </resource>
+    <resource description="ringtone_settings.png" x="42" y="849" width="66" height="66" uuid="1c7a1d00-3e84-4533-9247-ca4ea7af1c9b">
+        <path src="res\drawable-hdpi\ringtone_settings.png" description="" />
+        <path src="res\drawable-xhdpi\ringtone_settings.png" description="" />
+    </resource>
+    <resource description="ic_settings_about.png" x="42" y="946" width="66" height="66" uuid="e3339db0-451e-4318-a8d1-758853850562">
+        <path src="res\drawable-hdpi\ic_settings_about.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_about.png" description="" />
+    </resource>
+</screenshot>

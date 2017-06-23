@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="取消&amp;确定按钮" version="2.9.16" annotation="全局的取消&amp;确定按钮" tag="">
+    <resource description="custom_action_button_n.9.png" x="0" y="50" width="720" height="100" uuid="02e4381d-3d1d-42b5-8c7f-661539896d57">
+        <path src="res\drawable-hdpi\custom_action_bar_bg.9.png" description="" />
+    </resource>
+    <resource description="ic_menu_done.png" x="480" y="78" width="35" height="35" uuid="dd0e4992-0bd5-47cc-a5ad-61c95c1d9848">
+        <path src="res\drawable-xhdpi\ic_menu_done.png" description="" />
+    </resource>
+    <resource description="ic_menu_cancel.png" x="120" y="79" width="35" height="35" uuid="dabbefe4-2bb6-47dd-bc82-a6fa720619b0">
+        <path src="res\drawable-xhdpi\ic_menu_cancel.png" description="" />
+    </resource>
+    <resource description="custom_action_button_n.9" x="372" y="60" width="336" height="78" uuid="cb2dea53-8bee-49ad-a2a9-b5a49a644b7b">
+        <path src="res\drawable-hdpi\custom_action_button_n.9.png" description="" />
+        <path src="res\drawable-hdpi\custom_action_button_p.9.png" description="" />
+    </resource>
+    <resource description="custom_action_button_n.9" x="12" y="60" width="336" height="78" uuid="11a11b59-32c1-4123-945d-370cf0555a87">
+        <path src="res\drawable-hdpi\custom_action_button_n.9.png" description="" />
+        <path src="res\drawable-hdpi\custom_action_button_p.9.png" description="" />
+    </resource>
+</screenshot>

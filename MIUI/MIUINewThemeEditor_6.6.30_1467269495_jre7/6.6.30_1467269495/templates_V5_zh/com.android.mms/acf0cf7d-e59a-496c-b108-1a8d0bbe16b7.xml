@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 短信群发" version="3.3.1" annotation="" tag="短信会话界面">
+    <resource description="title_bar_tall_bg.9" x="8" y="52" width="700" height="140" uuid="2f1e9f32-7a74-41b8-8e39-2efd3ce917e1">
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="联系人气泡页面" />
+        <path src="res\drawable-xxhdpi\title_bar_tall_bg.9.png" description="联系人气泡页面" />
+    </resource>
+    <resource description="multi_recipients_title_info_bg.9" x="8" y="200" width="698" height="150" uuid="3639c039-e469-4be0-bd1f-f034809c11a2" />
+    <resource description="mi_message_bubble_out_gp_bg_n.9" x="432" y="356" width="264" height="166" uuid="cc07183e-2977-45b2-ac84-7e19e9b41cd6">
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_gp_bg_n.9.png" description="群发短信常态" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_bg_n.9.png" description="群发短信常态" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_gp_bg_p.9.png" description="群发发送失败" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_gp_bg_p.9.png" description="群发发送失败" />
+    </resource>
+    <resource description="message_bubble_out_gp_bg_n.9" x="509" y="582" width="189" height="197" uuid="d2a3a121-c90d-436d-a225-a0e0a83089d1">
+        <path src="res\drawable-xhdpi\message_bubble_out_alert_gp_bg_n.9.png" description="群发短信失败" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_alert_gp_bg_n.9.png" description="群发短信失败" />
+        <path src="res\drawable-xhdpi\message_bubble_out_gp_bg_n.9.png" description="群发短信" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_bg_n.9.png" description="群发短信" />
+        <path src="res\drawable-xhdpi\message_bubble_out_gp_bg_p.9.png" description="群发短信 二态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_gp_bg_p.9.png" description="群发短信 二态" />
+    </resource>
+    <resource description="show_contact_info_checked" x="648" y="98" width="50" height="50" uuid="9bda60a5-85a8-4077-94a7-68ffdd40cc5f">
+        <path src="res\drawable-xhdpi\show_contact_info_checked.png" description="收起图标" />
+        <path src="res\drawable-xxhdpi\show_contact_info_checked.png" description="收起图标" />
+        <path src="res\drawable-xhdpi\show_contact_info_unchecked.png" description="展开图标" />
+        <path src="res\drawable-xxhdpi\show_contact_info_unchecked.png" description="展开图标" />
+    </resource>
+    <resource description="timed_message_indicator_d.9" x="402" y="788" width="100" height="116" uuid="5eb11c16-7491-4b63-87d8-40d0d5dd082d">
+        <path src="res\drawable-xhdpi\timed_message_indicator_group_d.9.png" description="群定时发短信不可按" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_d.9.png" description="群定时发短信不可按" />
+        <path src="res\drawable-xhdpi\timed_message_indicator_group_n.9.png" description="群定时发短信" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_n.9.png" description="群定时发短信" />
+        <path src="res\drawable-xhdpi\timed_message_indicator_group_p.9.png" description="群定时发短信按下" />
+        <path src="res\drawable-xxhdpi\timed_message_indicator_group_p.9.png" description="群定时发短信按下" />
+    </resource>
+    <resource description="text_cursor_blue" x="95" y="1189" width="19" height="61" uuid="9371c9ee-d91c-415e-98d5-bf0aa459dcc6">
+        <path src="res\drawable-xhdpi\text_cursor_blue.png" description="网络短信，光标" />
+        <path src="res\drawable-xxhdpi\text_cursor_blue.png" description="网络短信，光标" />
+    </resource>
+    <resource description="compose_mi_msg_editor_bg.9" x="84" y="1178" width="550" height="82" uuid="da0f183a-8bc5-4fd9-9680-0effb9f364af">
+        <path src="res\drawable-xhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xxhdpi\compose_mi_msg_editor_bg.9.png" description="网络短信" />
+        <path src="res\drawable-xhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+        <path src="res\drawable-xxhdpi\compose_msg_editor_bg.9.png" description="普通短信" />
+    </resource>
+    <resource description="group_item_bg.9" x="537" y="620" width="134" height="35" uuid="46702ed9-91b9-4225-ab97-d2427442a3fb">
+        <path src="res\drawable-xhdpi\group_item_bg.9.png" description="群发状态背景" />
+        <path src="res\drawable-xxhdpi\group_item_bg.9.png" description="群发状态背景" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1162" width="712" height="110" uuid="14150102-1057-4d77-a65a-f5616bd74496">
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+    </resource>
+    <resource description="group_send_progress_middle" x="429" y="592" width="72" height="74" uuid="c6776868-d5f7-40b2-a7ab-061224e89f6f">
+        <path src="res\drawable-xhdpi\group_send_progress_back.png" description="进度圈 背景" />
+        <path src="res\drawable-xxhdpi\group_send_progress_back.png" description="进度圈 背景" />
+        <path src="res\drawable-xhdpi\group_send_progress_middle.png" description="进度圈" />
+        <path src="res\drawable-xxhdpi\group_send_progress_middle.png" description="进度圈" />
+    </resource>
+    <resource description="message_list_bottom_foreground" x="0" y="1005" width="716" height="148" uuid="8cfa945e-e99a-4ce4-8929-729dd047e555">
+        <path src="res\drawable-hdpi\message_list_bottom_foreground.png" description="输入框上方遮罩图" />
+        <path src="res\drawable-xhdpi\message_list_bottom_foreground.png" description="输入框上方遮罩图" />
+    </resource>
+</screenshot>

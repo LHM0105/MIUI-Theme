@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 Group message" version="3.3.1" annotation="" tag="Group conversation">
+    <resource description="title_bar_tall_bg.9" x="8" y="52" width="700" height="140" uuid="2f1e9f32-7a74-41b8-8e39-2efd3ce917e1">
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="联系人气泡页面" />
+    </resource>
+    <resource description="show_contact_info_checked" x="648" y="98" width="50" height="50" uuid="9bda60a5-85a8-4077-94a7-68ffdd40cc5f">
+        <path src="res\drawable-xhdpi\show_contact_info_checked.png" description="收起图标" />
+        <path src="res\drawable-xhdpi\show_contact_info_unchecked.png" description="展开图标" />
+    </resource>
+</screenshot>

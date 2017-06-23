@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Category view" version="2.9.16" annotation="此处480需要单做category_button_bg.png和&lt;br\&gt;&#xA;category_button_bg_selected.png" tag="1.0 Categories">
+    <resource description="category_bar_mask.9.png" x="22" y="1064" width="674" height="58" uuid="d75b65a0-4b57-44db-8705-28c73ba3dac2">
+        <path src="res\drawable-xhdpi\category_bar_empty.9.png" description="存储情况背景" />
+        <path src="res\drawable-xxhdpi\category_bar_empty.9.png" description="存储情况背景" />
+        <path src="res\drawable-xhdpi\category_bar_mask.9.png" description="存储情况上面遮罩层" />
+        <path src="res\drawable-xxhdpi\category_bar_mask.9.png" description="存储情况上面遮罩层" />
+    </resource>
+    <resource description="category_bar_zip.png" x="36" y="1070" width="510" height="44" uuid="10b7bcc3-b513-42b4-83c9-41e72a3a63ca">
+        <path src="res\drawable-hdpi\category_bar_apk.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_document.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_music.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_other.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_picture.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_theme.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_video.png" description="存储情况进度条" />
+        <path src="res\drawable-hdpi\category_bar_zip.png" description="存储情况进度条" />
+    </resource>
+    <resource description="sd_card_icon" x="34" y="1022" width="38" height="38" uuid="9bbb8996-7cc3-4042-9f8e-aeff20c0feb2">
+        <path src="res\drawable-xhdpi\sd_card_icon.png" description="sd卡图标" />
+        <path src="res\drawable-xxhdpi\sd_card_icon.png" description="sd卡图标" />
+    </resource>
+    <resource description="sd_card_available_icon" x="344" y="1022" width="36" height="42" uuid="b37e9671-603c-4d40-aa91-6f520bfecbe0">
+        <path src="res\drawable-xhdpi\sd_card_available_icon.png" description="可用内存" />
+        <path src="res\drawable-xxhdpi\sd_card_available_icon.png" description="可用内存" />
+    </resource>
+    <resource description="category_icon_apk_n" x="102" y="760" width="90" height="86" uuid="1aed6026-6cab-4b12-bd1d-3a694d62fd3a">
+        <path src="res\drawable-xhdpi\category_icon_apk_n.png" description="安装包图标" />
+        <path src="res\drawable-xxhdpi\category_icon_apk_n.png" description="安装包图标" />
+        <path src="res\drawable-xhdpi\category_icon_apk_p.png" description="安装包图标" />
+        <path src="res\drawable-xxhdpi\category_icon_apk_p.png" description="安装包图标" />
+    </resource>
+    <resource description="category_icon_bluetooth_n" x="100" y="488" width="88" height="86" uuid="c7a4bb9b-bda1-4bde-9a90-a4bebbc33406">
+        <path src="res\drawable-xhdpi\category_icon_bluetooth_n.png" description="蓝牙图标" />
+        <path src="res\drawable-xxhdpi\category_icon_bluetooth_n.png" description="蓝牙图标" />
+        <path src="res\drawable-xhdpi\category_icon_bluetooth_p.png" description="蓝牙图标" />
+        <path src="res\drawable-xxhdpi\category_icon_bluetooth_p.png" description="蓝牙图标" />
+    </resource>
+    <resource description="category_icon_document_n" x="318" y="492" width="90" height="84" uuid="3e66610e-aca3-408e-9971-a83e5d7f0a3e">
+        <path src="res\drawable-xhdpi\category_icon_document_n.png" description="文档图标" />
+        <path src="res\drawable-xxhdpi\category_icon_document_n.png" description="文档图标" />
+        <path src="res\drawable-xhdpi\category_icon_document_p.png" description="文档图标" />
+        <path src="res\drawable-xxhdpi\category_icon_document_p.png" description="文档图标" />
+    </resource>
+    <resource description="category_icon_favorite_n" x="320" y="762" width="88" height="84" uuid="ff09b397-1e1d-4d7d-9884-c5fef60373f0">
+        <path src="res\drawable-xhdpi\category_icon_favorite_n.png" description="收藏图标" />
+        <path src="res\drawable-xxhdpi\category_icon_favorite_n.png" description="收藏图标" />
+        <path src="res\drawable-xhdpi\category_icon_favorite_p.png" description="收藏图标" />
+        <path src="res\drawable-xxhdpi\category_icon_favorite_p.png" description="收藏图标" />
+    </resource>
+    <resource description="category_icon_log_n" x="542" y="770" width="82" height="82" uuid="0084e44d-bd38-43e4-8f2b-4f8cecba2e82">
+        <path src="res\drawable-xhdpi\category_icon_log_n.png" description="日志图标" />
+        <path src="res\drawable-xxhdpi\category_icon_log_n.png" description="日志图标" />
+        <path src="res\drawable-xhdpi\category_icon_log_p.png" description="日志图标" />
+        <path src="res\drawable-xxhdpi\category_icon_log_p.png" description="日志图标" />
+    </resource>
+    <resource description="category_icon_music_n" x="100" y="208" width="82" height="94" uuid="34e31002-3dea-42af-81eb-8465a3954b91">
+        <path src="res\drawable-xhdpi\category_icon_music_n.png" description="音乐图标" />
+        <path src="res\drawable-xxhdpi\category_icon_music_n.png" description="音乐图标" />
+        <path src="res\drawable-xhdpi\category_icon_music_p.png" description="音乐图标" />
+        <path src="res\drawable-xxhdpi\category_icon_music_p.png" description="音乐图标" />
+    </resource>
+    <resource description="category_icon_zip_n" x="534" y="492" width="90" height="86" uuid="1acc3a81-4eec-416b-a382-da516fb95954">
+        <path src="res\drawable-xhdpi\category_icon_zip_n.png" description="压缩包图标" />
+        <path src="res\drawable-xxhdpi\category_icon_zip_n.png" description="压缩包图标" />
+        <path src="res\drawable-xhdpi\category_icon_zip_p.png" description="压缩包图标" />
+        <path src="res\drawable-xxhdpi\category_icon_zip_p.png" description="压缩包图标" />
+    </resource>
+    <resource description="category_icon_picture_n" x="542" y="220" width="74" height="86" uuid="1039cff0-fc38-4532-8c19-a585f95d52aa">
+        <path src="res\drawable-xhdpi\category_icon_picture_n.png" description="图片图标" />
+        <path src="res\drawable-xxhdpi\category_icon_picture_n.png" description="图片图标" />
+        <path src="res\drawable-xhdpi\category_icon_picture_p.png" description="图片图标" />
+        <path src="res\drawable-xxhdpi\category_icon_picture_p.png" description="图片图标" />
+    </resource>
+    <resource description="category_icon_video_n" x="318" y="210" width="88" height="92" uuid="c81bf857-1075-4b3e-a3f8-aa518ef5c827">
+        <path src="res\drawable-xhdpi\category_icon_video_n.png" description="视频图标" />
+        <path src="res\drawable-xxhdpi\category_icon_video_n.png" description="视频图标" />
+        <path src="res\drawable-xhdpi\category_icon_video_p.png" description="视频图标" />
+        <path src="res\drawable-xxhdpi\category_icon_video_p.png" description="视频图标" />
+    </resource>
+    <resource description="category_panel_shadow.9" x="18" y="164" width="678" height="830" uuid="53437a0c-80dc-44cd-8272-579d0ac1a931">
+        <path src="res\drawable-xhdpi\category_panel_shadow.9.png" description="分类圆角遮罩" />
+        <path src="res\drawable-xxhdpi\category_panel_shadow.9.png" description="分类圆角遮罩" />
+    </resource>
+    <resource description="category_button_bg" x="252" y="180" width="216" height="252" uuid="e7a7c25c-3c36-48f8-a301-3372101eaa9d">
+        <path src="res\drawable-hdpi\category_button_bg.png" description="分类二态背景 " />
+        <path src="res\drawable-hdpi\category_button_bg_selected.png" description="分类背景 二态" />
+        <path src="res\drawable-land-hdpi\category_button_bg_selected.9.png" description="分类背景 二态" />
+        <path src="res\drawable-xhdpi\category_button_bg_selected.9.png" description="分类背景 二态" />
+        <path src="res\drawable-xxhdpi\category_button_bg_selected.9.png" description="分类背景 二态" />
+        <path src="res\drawable-xhdpi\category_button_bg.9.png" description="分类二态背景 " />
+        <path src="res\drawable-xxhdpi\category_button_bg.9.png" description="分类二态背景 " />
+    </resource>
+    <resource description="legend_apk" x="22" y="1134" width="678" height="108" uuid="be3b51ff-b7fe-42b2-8787-838d1eb0f713">
+        <path src="res\drawable-xhdpi\legend_apk.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_apk.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_bluetooth.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_bluetooth.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_document.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_document.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_log.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_log.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_music.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_music.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_other.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_other.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_picture.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_picture.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_video.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_video.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xhdpi\legend_zip.png" description="进度条指示文件类型" />
+        <path src="res\drawable-xxhdpi\legend_zip.png" description="进度条指示文件类型" />
+    </resource>
+</screenshot>

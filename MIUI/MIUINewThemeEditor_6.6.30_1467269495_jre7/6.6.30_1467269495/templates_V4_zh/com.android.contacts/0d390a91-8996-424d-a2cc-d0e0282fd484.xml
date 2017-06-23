@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 新建/编辑联系人" version="2.9.16" annotation="" tag="全部联系人">
+    <resource description="ic_menu_expander_minimized_holo_light_p.png" x="609" y="361" width="88" height="88" uuid="eb2dd737-a132-401a-90d2-c487668d7dcb">
+        <path src="res\drawable-xhdpi\ic_menu_expander_maximized_holo_light_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_maximized_holo_light_p.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_minimized_holo_light_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_expander_minimized_holo_light_p.png" description="" />
+    </resource>
+    <resource description="ic_menu_remove_field_holo_light_p.png" x="609" y="624" width="88" height="88" uuid="f5b7d7b4-dee8-4e73-80e8-34dc155aedb8">
+        <path src="res\drawable-xhdpi\ic_menu_remove_field_holo_light_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_remove_field_holo_light_p.png" description="删除按钮 按下" />
+    </resource>
+    <resource description="xiaomi_account_icon.png" x="29" y="168" width="75" height="75" uuid="b6f663ae-8bcc-4896-9841-76c05088b50d">
+        <path src="res\drawable-xhdpi\xiaomi_account_icon.png" description="" />
+    </resource>
+    <resource description="spinner_bg_p.9.png" x="29" y="619" width="197" height="100" uuid="ef63f086-708f-4ba6-af86-f5dd0f748067">
+        <path src="res\drawable-xhdpi\spinner_bg_n.9.png" description="选择内容" />
+        <path src="res\drawable-xhdpi\spinner_bg_p.9.png" description="" />
+    </resource>
+    <resource description="btn_add_more_p.9.png" x="24" y="1036" width="680" height="130" uuid="6b92021a-ec03-400d-b6b6-f4c04066e7cf">
+        <path src="res\drawable-xhdpi\btn_add_more_n.9.png" description="添加更多项按钮" />
+        <path src="res\drawable-xhdpi\btn_add_more_p.9.png" description="" />
+    </resource>
+    <resource description="add_more.png" x="234" y="1068" width="62" height="62" uuid="71140f73-d54a-45a0-8375-d3f3ffa94ab2">
+        <path src="res\drawable-xhdpi\add_more.png" description="添加图标" />
+    </resource>
+</screenshot>

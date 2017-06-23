@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.3 附件菜单3" version="2.9.20" annotation="" tag="添加短信附件">
+    <resource description="ic_attach_slide_show_n.png" x="71" y="806" width="89" height="89" uuid="6e00edca-1291-4fb4-ae6f-ef2668528cdf">
+        <path src="res\drawable-hdpi\ic_attach_slide_show_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_slide_show_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_slide_show_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_slide_show_n.png" description="" />
+    </resource>
+    <resource description="ic_attach_subject_n.png" x="310" y="809" width="89" height="81" uuid="44801d2a-3769-497a-a4cc-04503de71e3c">
+        <path src="res\drawable-hdpi\ic_attach_subject.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_subject_d.png" description="" />
+        <path src="res\drawable-hdpi\ic_attach_subject_n.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_subject.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_subject_d.png" description="" />
+        <path src="res\drawable-xhdpi\ic_attach_subject_n.png" description="" />
+    </resource>
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="644" width="720" height="118" uuid="320f7291-9057-4e80-8bfa-a5b40ce9083f">
+        <path src="res\drawable-hdpi\message_edit_bottom_panel.9.png" description="" />
+        <path src="res\drawable-xhdpi\message_edit_bottom_panel.9.png" description="" />
+    </resource>
+    <resource description="compose_text_editor_bg_n.9.png" x="106" y="660" width="502" height="82" uuid="f46bfe40-8105-4849-b29b-754cf1936d22">
+        <path src="res\drawable-hdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-hdpi\compose_text_editor_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_green_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\compose_text_editor_bg_n.9.png" description="" />
+    </resource>
+    <resource description="insert_attachment_button_n.png" x="12" y="658" width="86" height="86" uuid="c3454172-1359-4289-afb9-700222c68ffb">
+        <path src="res\drawable-hdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-hdpi\insert_attachment_button_p.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_n.png" description="" />
+        <path src="res\drawable-xhdpi\insert_attachment_button_p.png" description="" />
+    </resource>
+    <resource description="send_btn_p.png" x="616" y="658" width="86" height="86" uuid="f6b1cd94-3cfb-4c95-a0cc-44b7c5435e05">
+        <path src="res\drawable-hdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\send_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_disable.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\send_btn_p.png" description="" />
+    </resource>
+    <resource description="call_btn_p.png" x="601" y="96" width="84" height="84" uuid="a4f80096-e55e-4e34-a81f-0ed2ba9ec81d">
+        <path src="res\drawable-hdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\call_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="" />
+    </resource>
+    <resource description="title_bar_tall_bg.9" x="0" y="50" width="720" height="174" uuid="d73d17dc-eda3-45f2-9dd9-395cfe04ea2f">
+        <path src="res\drawable-hdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+        <path src="res\drawable-xhdpi\title_bar_tall_bg.9.png" description="标题栏背景" />
+    </resource>
+</screenshot>

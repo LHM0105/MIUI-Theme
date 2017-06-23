@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="6.3 wifi" version="3.4.11" annotation="" tag="设置小图标">
+    <resource description="ic_wifi_signal_4" x="516" y="510" width="79" height="72" uuid="2477cd56-7321-4ce7-9e34-840b1336c50c">
+        <path src="res\drawable-hdpi\ic_wifi_signal_1.png" description="wifi 信号1" />
+        <path src="res\drawable-xhdpi\ic_wifi_signal_1.png" description="wifi 信号1" />
+        <path src="res\drawable-hdpi\ic_wifi_signal_2.png" description="wifi 信号2" />
+        <path src="res\drawable-xhdpi\ic_wifi_signal_2.png" description="wifi 信号2" />
+        <path src="res\drawable-hdpi\ic_wifi_signal_3.png" description="wifi 信号3" />
+        <path src="res\drawable-xhdpi\ic_wifi_signal_3.png" description="wifi 信号3" />
+        <path src="res\drawable-hdpi\ic_wifi_signal_4.png" description="wifi 信号4" />
+        <path src="res\drawable-xhdpi\ic_wifi_signal_4.png" description="wifi 信号4" />
+    </resource>
+    <resource description="ic_wifi_lock_signal_4" x="514" y="626" width="82" height="66" uuid="6c4543a3-e966-442d-8ca2-f14fa0379087">
+        <path src="res\drawable-hdpi\ic_wifi_lock_signal_1.png" description="加密wifi 信号1" />
+        <path src="res\drawable-xhdpi\ic_wifi_lock_signal_1.png" description="加密wifi 信号1" />
+        <path src="res\drawable-hdpi\ic_wifi_lock_signal_2.png" description="加密wifi 信号2" />
+        <path src="res\drawable-xhdpi\ic_wifi_lock_signal_2.png" description="加密wifi 信号2" />
+        <path src="res\drawable-hdpi\ic_wifi_lock_signal_3.png" description="加密wifi 信号3" />
+        <path src="res\drawable-xhdpi\ic_wifi_lock_signal_3.png" description="加密wifi 信号3" />
+        <path src="res\drawable-hdpi\ic_wifi_lock_signal_4.png" description="加密wifi 信号4" />
+        <path src="res\drawable-xhdpi\ic_wifi_lock_signal_4.png" description="加密wifi 信号4" />
+    </resource>
+</screenshot>

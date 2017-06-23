@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="备份背景" version="3.2.27" annotation="" tag="">
+    <resource description="unbackuped_bg.9" x="0" y="52" width="722" height="820" uuid="c2264795-aff9-44fc-bd81-778f5da0c847">
+        <path src="res\drawable-xhdpi\unbackuped_bg.9.png" description="无备份时 备份背景" />
+    </resource>
+</screenshot>

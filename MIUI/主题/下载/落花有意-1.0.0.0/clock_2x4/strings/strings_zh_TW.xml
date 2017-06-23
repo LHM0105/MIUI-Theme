@@ -1,0 +1,31 @@
+	<strings>
+	<string name="no_artist" value="音樂" />
+	<string name="no_title" value="打開音樂播放器" />
+	<string name="date_format" value="MM月dd日  EEEE" />
+	<string name="wd00" value="晴" />
+	<string name="wd01" value="多雲" />
+	<string name="wd02" value="陰" />
+	<string name="wd03" value="霧" />
+	<string name="wd04" value="特大暴雨" />
+	<string name="wd05" value="大暴雨" />
+	<string name="wd06" value="暴雨" />
+	<string name="wd07" value="雷陣雨" />
+	<string name="wd08" value="陣雨" />
+	<string name="wd09" value="大雨" />
+	<string name="wd10" value="中雨" />
+	<string name="wd11" value="小雨" />
+	<string name="wd12" value="雨夾雪" />
+	<string name="wd13" value="暴雪" />
+	<string name="wd14" value="陣雪" />
+	<string name="wd15" value="大雪" />
+	<string name="wd16" value="中雪" />
+	<string name="wd17" value="小雪" />
+	<string name="wd18" value="強沙塵暴" />
+	<string name="wd19" value="沙塵暴" />
+	<string name="wd20" value="沙塵" />
+	<string name="wd21" value="揚沙" />
+	<string name="wd22" value="冰雹" />
+	<string name="wd23" value="浮塵" />
+	<string name="wd24" value="霾" />
+	<string name="language" value="zh_CN" />
+</strings>

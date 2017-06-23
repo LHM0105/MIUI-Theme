@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<string name="alarm_count_summary">，响铃%d次后自动停止</string>
+<string name="alarm_duration_summary">间隔%d分钟响铃</string>
+<string name="full_wday_month_day_no_year">日E</string>
+<string name="alarm_count_never_summary">，不自动停止</string>
+<string name="set_alarm">设置闹钟</string>
+<string name="default_label">闹钟</string>
+<string name="alarm_repeat">重复</string>
+<string name="alarm_vibrate">振动</string>
+<string name="minute">分钟</string>
+<string name="minutes">分钟</string>
+<string name="every_day">每天</string>
+<string name="never">只响一次</string>
+<string name="days">天</string>
+<string name="hour">小时</string>
+<string name="hours">小时</string>
+<string name="elapsed_time_format">+%s</string>
+<string name="app_label">时钟</string>
+<string name="menu_item_sort_by_name">按名称排序</string>
+<string name="menu_item_sort_by_gmt_offset">按时间排序</string>
+<string name="alarm_screen">百变闹钟铃声</string>
+<string name="alarm_duration_title">响铃时间设置</string>
+<string name="alarm_count">响铃多次后自动停止</string>
+<string name="alarm_duration">响铃和间隔时间（分钟）</string>
+<string name="alarm_in_silent_mode_title">静音下响铃</string>
+<string name="oneshot_alarm">响铃后删除此闹钟</string>
+<string name="delete_alarm_confirm">要删除选中的闹钟吗？</string>
+<string name="label">备注</string>
+<string name="menu_desk_clock">座钟</string>
+<string name="delete_alarm">删除闹钟</string>
+<string name="alarm_list_title">闹钟</string>
+<string name="add_alarm">添加闹钟</string>
+<string name="turn_off_a_repeat_alarm">关闭重复闹钟</string>
+<string name="birthday_alarm">生日闹钟</string>
+<string name="birthday_alarm_summary">生日当天的闹钟铃声替换为生日歌</string>
+<string name="shutdown_alarm_disable_summary">关机后闹钟不会响</string>
+<string name="shutdown_alarm_enable_summary">关机后闹钟会响</string>
+<string name="legal_off_day">法定节假日</string>
+<string name="legal_workday_message">（智能跳过节假日）</string>
+<string name="default_alarm_alert">设置默认铃声</string>
+<string name="legal_off_day_message">（智能跳过工作日）</string>
+<string name="alarm_alert">普通铃声</string>
+<string name="default_alarm_title">默认铃声</string>
+<string name="skip_alarm_once_hint">仅在%s关闭一次</string>
+<string name="skip_alarm_date_format">%1$s（%2$s）</string>
+<string name="turn_off_this_repeat_alarm">关闭这个重复闹钟</string>
+<string name="today">今天</string>
+<string name="tomorrow">明天</string>
+<string name="workday_alarm_clock">上班起床</string>
+<string name="system_time_setting">时间设置</string>
+<string name="lap_num">计次</string>
+<string name="hour_unit">+</string>
+<string name="timer_start_alarm">计时器时间到</string>
+<string name="timer_item_duration_display">%1$d分%2$d秒</string>
+<string name="timer_item_picker_second">秒</string>
+<string name="timer_item_picker_minute">分</string>
+<string name="timer_item_picker_hour">时</string>
+<string name="shutdown_alarm_title">关机闹钟</string>
+<string name="timer_item_label_hint">请输入备注</string>
+<string name="timer_new_item">自定义</string>
+<string name="legal_workday_invalidate">数据过期（目前响铃为周一至周五）</string>
+<string name="legal_workday_invalidate_message">（数据过期，联网后点击更新）</string>
+<string name="alarm_label_hint">输入闹钟备注</string>
+<string name="legal_workday">法定工作日</string>
+<string name="confirm_abort">舍弃更改</string>
+<string name="remind_ringtone">提醒铃声</string>
+<string name="timer_clock_alert_text">请设置计时器</string>
+<string name="dialog_confirm_abort">要舍弃对该闹钟的更改吗？</string>
+<string name="keep_screen_on">屏幕常亮</string>
+<string name="force_touch_add_alarm">添加闹钟</string>
+<string name="control_set_alarm">设置闹钟</string>
+<string name="control_set_alarm_with_existing">设置的闹钟时间：%s</string>
+<string name="loading_ringtone">正在载入铃声...</string>
+<string name="snooze_confirm_cancel">取消闹钟</string>
+<string name="timer_alarm_cancel_pad">ringing</string>
+<string name="stat_repeat_self_define">自定义</string>
+<string name="slider_text">滑动关闭闹钟</string>
+<string name="stat_repeat_weekdays">周一至周五</string>
+<string name="stat_repeat_weekends">周末</string>
+<string name="stat_repeat_legal_workday">法定工作日</string>
+<string name="stat_repeat_legal_off_day">法定节假日</string>
+<string name="stat_repeat_none">一次性</string>
+<string name="stat_repeat_everyday">每天</string>
+<string name="menu_item_dock_settings">底座设置</string>
+<string name="alarm_klaxon_service_desc">在“时钟”内设置的闹钟铃声播放服务。</string>
+<string name="start">开始</string>
+<string name="timer_notify_text">暂停或关闭计时器。</string>
+<string name="timer_alarm_alert_pad">%s</string>
+<string name="snooze_duration_title">稍后再响间隔</string>
+<string name="alarm_settings">闹钟设置</string>
+<string name="auto_silence_title">响铃时间</string>
+<string name="common_settings">通用设置</string>
+<string name="auto_silence_never">永不停止</string>
+<string name="vibrate_pref_summary">响铃时振动</string>
+<string name="done">完成</string>
+<string name="edit_systemtime">系统时间设置</string>
+<string name="revert">还原</string>
+<string name="delete">删除</string>
+<string name="label_pref_summary">闹钟备注</string>
+<string name="delete_selected_timer_item">确定删除所选的计时任务？</string>
+<string name="force_touch_enter_stopwatch">进入秒表</string>
+<string name="force_touch_enter_timer">进入计时器</string>
+<string name="worldclock_title">时钟</string>
+<string name="stopwatch_title">秒表</string>
+<string name="timer_title">计时</string>
+<string name="menu_add_worldclock">添加时钟</string>
+<string name="menu_edit_timer_item">编辑计时任务</string>
+<string name="delete_timer_item_title">删除计时任务</string>
+<string name="settings">设置</string>
+<string name="day_concat"></string>
+<string name="analog_gadget">模拟时钟</string>
+<string name="cancel">取消</string>
+<string name="start_up">启动</string>
+<string name="vibrate_when_ringing">振动提醒</string>
+<string name="alarm_ascending_mode_title">铃声渐响</string>
+<string name="alert">铃声</string>
+<string name="alarm_disabled">未开启</string>
+<string name="timezone_exist_error_message">添加时区失败，该时区已存在，请重新选择。</string>
+<string name="delete_timezone_title">删除时区</string>
+<string name="timer_alert_alert_silenced">分钟。</string>
+<string name="alarm_alert_snooze_set">分钟后再响</string>
+<string name="time">时间</string>
+<string name="close_alarm">关闭闹钟</string>
+<string name="alarm_alert_alert_silenced">分钟。</string>
+<string name="alarm_ascending_mode_summary">铃声渐响至已设置的闹钟音量</string>
+<string name="day">天</string>
+<string name="alarm_notify_text">暂停或关闭闹钟。</string>
+<string name="lap">计次</string>
+<string name="silent_alarm_summary">静音</string>
+<string name="timer_continue">继续</string>
+<string name="alarm_volume_summary">闹钟与计时器都使用闹钟音量</string>
+<string name="pause">暂停</string>
+<string name="alarm_volume_title">闹钟音量</string>
+<string name="reset">重置</string>
+<string name="battery_charging_level">%d%%</string>
+<string name="stopwatch_lap_empty_text">无计次</string>
+<string name="volume_button_setting_summary">设置闹钟响铃时音量、电源等按键的作用</string>
+<string name="timer_got_it">知道了</string>
+<string name="volume_button_setting_title">按键设置</string>
+<string name="worldclock_empty_text">无世界时钟</string>
+<string name="alarm_notify_snooze_label">%s闹铃再响</string>
+<string name="alarmclock_empty_text">无闹钟</string>
+<color name="alert_screen_background_mask">#66000000</color>
+<color name="list_empty_row_divider_color">#2c000000</color>
+<color name="init_background_color">#ffffffff</color>
+<color name="button_disable_color">#ffc9c9c9</color>
+<color name="tab_view_text_color_normal">#66ffffff</color>
+<color name="button_pressed_color">#99ffffff</color>
+<color name="tab_view_text_color_selected">#ffffffff</color>
+<color name="clock_hand_hour">#80000000</color>
+<color name="time_text_color">#e6ffffff</color>
+<color name="timer_bg">#ff728d98</color>
+<color name="timer_alert_bg_orange">#ffe16f13</color>
+<color name="timer_alert_bg_red">#ffc24000</color>
+<color name="dial_segments_color">#ffffffff</color>
+<color name="alarmclock_bg">#ff008171</color>
+<color name="slider_btn_slide_off_default">#ffededed</color>
+<color name="worldclock_bg">#ff237ead</color>
+<color name="stopwatch_bg">#ff369445</color>
+<color name="slider_btn_slide_on_dark_default">#ffffffff</color>
+<color name="slider_btn_slide_off_stroke_default">#ffbebebe</color>
+<color name="slider_btn_slide_off_dark_default">#00000000</color>
+<color name="number_color_yellow">#fff05000</color>
+<color name="empty_text_color">#ffcccccc</color>
+<color name="timer_hour_unit">#ff989898</color>
+<color name="screen_saver_dim_color">#ff001634</color>
+<color name="screen_saver_color">#ff006688</color>
+<color name="ampm_text_color">#99ffffff</color>
+<color name="clock_item_secondary_text_color">#ff5f5f5f</color>
+<color name="clock_item_primary_text_color">#ff5f5f5f</color>
+<color name="clock_small_number_color">#ccffffff</color>
+<color name="clock_item_thirdary_text_color">#8c000000</color>
+<color name="tertiary_text_color_light">#66000000</color>
+<color name="clock_large_number_color">#ffffffff</color>
+<color name="primary_text_color_light">#ff000000</color>
+<color name="secondary_text_color_light">#80000000</color>
+<color name="number_color_dark_normal">#ff545455</color>
+<color name="number_color_dark_second_normal">#ff9c9d9e</color>
+<bool name="birthday_alarm">true</bool>
+<bool name="miui_font_scale_switch">true</bool>
+<bool name="config_requiresScreenSaver">true</bool>
+<bool name="config_hardwareAccelerated">true</bool>
+<dimen name="item_long_divider_paddingLeft">12.000000dp</dimen>
+<dimen name="indicator_padding_left">3.000000dp</dimen>
+<dimen name="item_long_divider_paddingRight">9.000000dp</dimen>
+<dimen name="timezone_item_inner_divider_padding">9.000000dp</dimen>
+<dimen name="indicator_padding_right">20.000000dp</dimen>
+<dimen name="lap_num_paddingleft">5.000000dp</dimen>
+<dimen name="smart_cover_text_size">12.000000sp</dimen>
+<dimen name="clock_hand_min_paddingTop">7.500000dp</dimen>
+<dimen name="tabbar_item_margin_left">10.000000dp</dimen>
+<dimen name="stopwatch_lap_item_padding_horizontal">16.000000dp</dimen>
+<dimen name="smart_cover_gemini_layout_padding">21.000000dp</dimen>
+<dimen name="smart_cover_gemini_btn_margin">7.000000dp</dimen>
+<dimen name="alarm_clock_thirdary_size">8.000000dp</dimen>
+<dimen name="alarm_clock_secondary_size">10.000000sp</dimen>
+<dimen name="deskclock_actionbar_size">25.000000dp</dimen>
+<dimen name="ampm_text_size">20.000000dp</dimen>
+<dimen name="date_text_size">15.000000sp</dimen>
+<dimen name="tab_text_size">14.000000sp</dimen>
+<dimen name="time_text_size">92.000000dp</dimen>
+<dimen name="time_margin_top">16.000000dp</dimen>
+<dimen name="time_margin_bottom">14.000000dp</dimen>
+<dimen name="time_margin_right">48.000000dp</dimen>
+<dimen name="next_alarm_text_size">15.000000sp</dimen>
+<dimen name="ampm_margin_top">8.000000dp</dimen>
+<dimen name="timer_foot_padding_bottom">8.000000dp</dimen>
+<dimen name="timer_image_right_margin">10.000000dp</dimen>
+<dimen name="watchdial_centerx">160.000000dp</dimen>
+<dimen name="watchdial_centery">164.669983dp</dimen>
+<dimen name="watchdial_radius">103.329987dp</dimen>
+<dimen name="timercirque_radiusouter">103.000000dp</dimen>
+<dimen name="timercirque_startx">56.000000dp</dimen>
+<dimen name="timercirque_width">9.329987dp</dimen>
+<dimen name="tailcirque_startx">50.669983dp</dimen>
+<dimen name="timercirque_starty">58.000000dp</dimen>
+<dimen name="next_alarm_margin_top">16777212.000000dp</dimen>
+<dimen name="font_margin_adjust">4.000000dp</dimen>
+<dimen name="timer_button_text_margin_left">15.000000dp</dimen>
+<dimen name="alarm_label_padding">8.000000dp</dimen>
+<dimen name="label_min_height">48.000000dp</dimen>
+<dimen name="interval_seekbar_margin_bottom">15.000000dp</dimen>
+<dimen name="add_button_text_padding">10.000000dp</dimen>
+<dimen name="seekbar_text_bottomMargin">5.000000dp</dimen>
+<dimen name="seekbar_topMargin">10.000000dp</dimen>
+<dimen name="seekbar_padding">18.000000dp</dimen>
+<dimen name="slipblock_radius">29.329987dp</dimen>
+<dimen name="stopwatch_second_clock_stroke_width">1.000000dp</dimen>
+<dimen name="clock_round_stroke_width">0.500000dp</dimen>
+<dimen name="timer_background_round_size">250.666992dp</dimen>
+<dimen name="default_clock_round_small_size">179.329987dp</dimen>
+<dimen name="timer_ringtone_button_margin_top">5.000000dp</dimen>
+<dimen name="clock_item_height">59.000000dp</dimen>
+<dimen name="timer_foot_margin_bottom">12.000000dp</dimen>
+<dimen name="clock_area_height">403.664062dp</dimen>
+<dimen name="radius">108.669983dp</dimen>
+<dimen name="slipcirque_radiusinner">33.329987dp</dimen>
+<dimen name="center_x">108.669983dp</dimen>
+<dimen name="center_y">108.669983dp</dimen>
+<dimen name="tailcirque_starty">53.329987dp</dimen>
+<dimen name="time_display_padding_right">7.000000dp</dimen>
+<dimen name="alarm_time_layout_padding_left">14.000000dp</dimen>
+<dimen name="indicator_padding_horizontal">14.000000dp</dimen>
+<dimen name="weather_temp_icon_cluster_margin_bottom">16777210.000000dp</dimen>
+<dimen name="am_pm_padding_left">4.000000dp</dimen>
+<dimen name="weather_temperature_margin_right">8.000000dp</dimen>
+<dimen name="weather_icon_margin_right">8.000000dp</dimen>
+<dimen name="ic_dialog_time_padding_right">10.000000dp</dimen>
+<dimen name="ic_dialog_time_padding_top">6.000000dp</dimen>
+<dimen name="desk_clock_battery_drawable_padding">6.000000dp</dimen>
+<dimen name="header_label_margin_left">20.000000dp</dimen>
+<dimen name="slipcirque_radiusouter">166.669983dp</dimen>
+<dimen name="alarm_in_furture_padding_left">2.000000dp</dimen>
+<dimen name="context_menu_header_layout_padding_top">6.000000dp</dimen>
+<dimen name="context_menu_header_layout_padding_bottom">9.000000dp</dimen>
+<dimen name="context_menu_header_layout_padding_horizontal">10.000000dp</dimen>
+<dimen name="am_pm_padding_right">7.000000dp</dimen>
+<dimen name="days_of_week_padding_left">2.000000dp</dimen>
+<dimen name="desk_clock_padding_top">25.000000dp</dimen>
+<dimen name="next_alarm_drawable_padding">4.000000dp</dimen>
+<dimen name="stop_watch_list_margin_bottom">12.000000dp</dimen>
+<dimen name="stop_watch_list_padding_bottom">8.000000dp</dimen>
+<dimen name="btn_layout_padding_bottom">10.000000dp</dimen>
+<dimen name="btn_layout_padding_top">22.000000dp</dimen>
+<dimen name="alarm_list_left_column_width">68.000000dp</dimen>
+<dimen name="timezone_dropdown_anchor_margin_horizontal">20.000000dp</dimen>
+<dimen name="alert_screen_textsize">14.000000sp</dimen>
+<dimen name="time_zone_display_padding_right">7.000000dp</dimen>
+<dimen name="timezone_item_layout_padding_horizontal">14.000000dp</dimen>
+<dimen name="alarm_time_layout_padding_right">0.000000dp</dimen>
+<dimen name="stopwatch_dial_padding_top">15.669983dp</dimen>
+<dimen name="alarm_clock_primary_size">19.000000sp</dimen>
+<dimen name="ampm_text_paddingLeft">4.000000dp</dimen>
+<dimen name="tab_min_height">45.000000dp</dimen>
+<dimen name="hours_padding_top">10.000000dp</dimen>
+<dimen name="tabbar_item_margin_right">10.000000dp</dimen>
+<dimen name="stopwatch_second_clock_paddingtop">26.000000dp</dimen>
+<dimen name="worldclock_padding_top">27.000000dp</dimen>
+<dimen name="set_alarm_list_margin_horizontal">16.000000dp</dimen>
+<dimen name="stopwatch_lap_item_padding_left">28.000000dp</dimen>
+<dimen name="desk_clock_battery_margin_left">4.000000dp</dimen>
+<dimen name="elapsed_time_padding_top">108.000000dp</dimen>
+<dimen name="clock_hand_hour_width">1.000000dp</dimen>
+<dimen name="clock_hand_hour_paddingBom">17.000000dp</dimen>
+<dimen name="stopwatch_lap_item_padding_right">20.000000dp</dimen>
+<dimen name="clock_hand_hour_paddingTop">9.500000dp</dimen>
+<dimen name="elapsed_time_padding_right">10.000000dp</dimen>
+<dimen name="button_pad_pading">150.000000dp</dimen>
+<dimen name="smallbutton_pad_pading">100.000000dp</dimen>
+<dimen name="alarm_list_left_column_height">68.000000dp</dimen>
+<dimen name="number_clock_width">300.000000dp</dimen>
+<dimen name="stopwatch_number_margintop">0.000000dp</dimen>
+<dimen name="list_empty_row_divider_padding">26.669983dp</dimen>
+<dimen name="app_widget_provider_min_width">110.000000dp</dimen>
+<dimen name="alarm_duration_text_margin_bottom">5.000000dp</dimen>
+<dimen name="editor_title_height">50.000000dp</dimen>
+<dimen name="app_widget_provider_min_height">110.000000dp</dimen>
+<dimen name="alarm_item_height">87.000000dp</dimen>
+<dimen name="alarm_item_inner_divider_padding">5.000000dp</dimen>
+<dimen name="alarm_item_gap_height_bottom">2.000000dp</dimen>
+<dimen name="alarm_item_gap_height">3.000000dp</dimen>
+<dimen name="clock_hand_hour_height">34.000000dp</dimen>
+<dimen name="stopwatch_point_margintop">27.669983dp</dimen>
+<dimen name="stopwatch_clock_pading">0.000000dp</dimen>
+<dimen name="stopwatch_secondclock">40.669983dp</dimen>
+<dimen name="world_clock_padingTop">0.000000dp</dimen>
+<dimen name="main_clock_paddingTop">0.000000dp</dimen>
+<dimen name="alarm_duration_text_margin_top">15.000000dp</dimen>
+<dimen name="alert_screen_textsize_gemini">12.000000sp</dimen>
+<dimen name="tutorial_text_size">19.000000dp</dimen>
+<dimen name="alarm_item_time_zone_text_size">24.000000px</dimen>
+<dimen name="alarm_item_time_zone_drawable_padding">7.000000dp</dimen>
+<dimen name="empty_view_text_padding_top">108.000000dp</dimen>
+<dimen name="empty_view_text_drawable_padding">24.000000dp</dimen>
+<dimen name="timer_button_drawable_padding">10.000000dp</dimen>
+<dimen name="bottom_bar_height">60.000000dp</dimen>
+<dimen name="number_view_text_size">15.000000dp</dimen>
+<dimen name="timer_clock_padding_top">12.669983dp</dimen>
+<dimen name="clock_number_small">11.000000sp</dimen>
+<dimen name="clock_number_large">38.000000dp</dimen>
+<dimen name="default_clock_padding_top">27.669983dp</dimen>
+<dimen name="elapsed_time_margin_top">5.000000dp</dimen>
+<dimen name="item_inner_divider_padding">8.000000dp</dimen>
+<dimen name="default_clock_shadow_padding_top">6.000000dp</dimen>
+<dimen name="timer_minute_clock_margin_top">30.000000dp</dimen>
+<dimen name="am_pm_label_padding_left">4.000000dp</dimen>
+<dimen name="timer_second_clock_margin_top">183.000000dp</dimen>
+<dimen name="motion_container_margin_top">370.000000dp</dimen>
+<dimen name="timer_minute_clock_padding_top">8.000000dp</dimen>
+<dimen name="timer_second_clock_padding_left">196.000000dp</dimen>
+<dimen name="timer_button_padding_left">19.000000dp</dimen>
+<dimen name="timer_button_padding_right">19.000000dp</dimen>
+<dimen name="timer_minute_clock_padding_left">40.000000dp</dimen>
+<dimen name="timer_hour_clock_padding_top">212.000000dp</dimen>
+<dimen name="timer_hour_clock_padding_left">62.000000dp</dimen>
+<dimen name="timer_second_clock_padding_top">212.000000dp</dimen>
+<dimen name="timer_timeshow_paddingLeft">175.000000dp</dimen>
+<dimen name="timer_timeshow_paddingtop">21.000000dp</dimen>
+<dimen name="timer_hour_text_paddingtop">84.000000dp</dimen>
+<dimen name="timer_hour_unit_paddingleft">3.000000dp</dimen>
+<dimen name="timer_lap_num_paddingleft">3.000000dp</dimen>
+<dimen name="timer_clock_paddingTop">46.000000dp</dimen>
+<dimen name="motion_translation_alpha">108.000000dp</dimen>
+<dimen name="motion_translation_alpha_max">216.000000dp</dimen>
+<dimen name="motion_translation_min_y">98.000000dp</dimen>
+<dimen name="motion_translation_max_y">338.000000dp</dimen>
+<dimen name="timezone_item_timedisplay_paddingright">4.000000dp</dimen>
+<dimen name="clock_text_alarm">25.000000dp</dimen>
+<dimen name="analog_clock_default_city_paddingtop">0.000000dp</dimen>
+<dimen name="empty_text_paddingtop">50.000000dp</dimen>
+<dimen name="bottom_place_holder_height">70.000000dp</dimen>
+<dimen name="number_clock_default_city_paddingtop">5.000000dp</dimen>
+<dimen name="clock_text_timezone">23.000000dp</dimen>
+<dimen name="clock_text_stopwatch_normal">23.000000dp</dimen>
+<dimen name="clock_text_stopwatch_large">36.000000dp</dimen>
+<dimen name="clock_text_timer">105.000000dp</dimen>
+<dimen name="clock_text_stopwatch_small">13.000000dp</dimen>
+<dimen name="clock_text_timer_with_hour">80.000000dp</dimen>
+<dimen name="clock_text_org">34.000000dp</dimen>
+<dimen name="v5_translate_slop">60.000000dp</dimen>
+<dimen name="v5_min_anchor_velocity">150.000000dp</dimen>
+<dimen name="v5_floating_view_over_distance">68.000000dp</dimen>
+<dimen name="v5_floating_view_top_hidden_size">15.000000dp</dimen>
+<dimen name="set_alarm_hint_margin_bottom">20.000000dp</dimen>
+<dimen name="edit_timer_dialog_layout_padding">24.000000dp</dimen>
+<dimen name="edit_timer_dialog_label_margin">12.000000dp</dimen>
+<dimen name="alert_screen_clock_text_size">70.000000dp</dimen>
+<dimen name="alert_screen_clock_text_size_gemini_cover">50.000000dp</dimen>
+<dimen name="alert_screen_clock_marginTop_smart_cover_gemini">10.000000dp</dimen>
+<dimen name="alert_screen_clock_marginTop">80.000000dp</dimen>
+<dimen name="alert_screen_clock_am_pm_text_size_gemini_cover">12.000000dp</dimen>
+<dimen name="alert_screen_clock_am_pm_text_size">14.000000dp</dimen>
+<dimen name="alert_screen_snooze_bg_margin">15.000000dp</dimen>
+<dimen name="alert_screen_clock_am_pm_marginTop">8.000000dp</dimen>
+<dimen name="timer_alert_label_textsize">14.000000sp</dimen>
+<dimen name="timer_alert_duration_textsize">11.000000sp</dimen>
+<dimen name="timer_alert_dismiss_btn_margin">31.000000dp</dimen>
+<dimen name="timer_alert_duration_margin">5.000000dp</dimen>
+<dimen name="timer_alert_duration_textsize_gemini_cover">40.000000dp</dimen>
+<dimen name="timer_alert_dismiss_textsize">12.000000sp</dimen>
+<dimen name="segments_dial_length_stopwatch">15.329987dp</dimen>
+<dimen name="alarm_clock_dial_size">244.666992dp</dimen>
+<dimen name="segments_dial_length">14.000000dp</dimen>
+<dimen name="segments_dial_width">1.329987dp</dimen>
+<dimen name="timer_dial_drawable_padding">35.000000dp</dimen>
+<dimen name="world_clock_dial_drawable_padding">13.666992dp</dimen>
+<dimen name="stopwatch_dial_size">268.000000dp</dimen>
+<dimen name="stopwatch_dial_drawable_padding">14.666992dp</dimen>
+<dimen name="timer_dial_size">280.664062dp</dimen>
+<dimen name="world_clock_dial_size">244.666992dp</dimen>
+<integer name="v5_max_visible_tab_count">#00000004</integer>
+<integer name="v5_max_anchor_duration">#0000012c</integer>
+<integer name="max_priority">#000003e7</integer>
+<integer name="clock_swipe_animation_duration">#00000258</integer>
+<integer name="label_max_length">#00000064</integer>
+<string-array name="timezone_alphabet_table">
+<item>A</item>
+<item>B</item>
+<item>C</item>
+<item>D</item>
+<item>E</item>
+<item>F</item>
+<item>G</item>
+<item>H</item>
+<item>I</item>
+<item>J</item>
+<item>K</item>
+<item>L</item>
+<item>M</item>
+<item>N</item>
+<item>O</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>S</item>
+<item>T</item>
+<item>U</item>
+<item>V</item>
+<item>W</item>
+<item>X</item>
+<item>Y</item>
+<item>Z</item>
+</string-array>
+<string-array name="alarm_repeat_type">
+<item>只响一次</item>
+<item>每天</item>
+<item>法定工作日</item>
+<item>法定节假日</item>
+<item>周一至周五</item>
+<item>自定义</item>
+</string-array>
+<string-array name="alarm_count_entries">
+<item>1次</item>
+<item>2次</item>
+<item>3次</item>
+<item>4次</item>
+<item>5次</item>
+<item>不停止</item>
+</string-array>
+<string-array name="alarm_set">
+<item>分钟后提醒。</item>
+<item>%1$s后提醒。</item>
+<item>%2$s后提醒。</item>
+<item>%2$s后提醒。</item>
+<item>%3$s后提醒。</item>
+<item>%3$s后提醒。</item>
+<item>%3$s后提醒。</item>
+<item>%3$s后提醒。</item>
+</string-array>
+<string-array name="alarm_repeat_type_no_workdays">
+<item>只响一次</item>
+<item>每天</item>
+<item>周一至周五</item>
+<item>自定义</item>
+</string-array>
+<string-array name="volume_button_setting_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="volume_button_setting_entries">
+<item>无</item>
+<item>稍后再响</item>
+<item>关闭</item>
+</string-array>
+<string-array name="auto_silence_entries">
+<item>永不停止</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+</string-array>
+<string-array name="alarm_duration_values">
+<item>1</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+</string-array>
+<string-array name="days">
+<item>昨天</item>
+<item>今天</item>
+<item>明天</item>
+</string-array>
+<string-array name="cities_names_miui">
+<item>阿比让</item>
+<item>阿克拉</item>
+<item>亚的斯亚贝巴</item>
+<item>阿尔及尔</item>
+<item>布兰太尔</item>
+<item>布拉柴维尔</item>
+<item>开罗</item>
+<item>卡萨布兰卡</item>
+<item>科纳克里</item>
+<item>达喀尔</item>
+<item>达累斯萨拉姆</item>
+<item>吉布提</item>
+<item>弗里敦</item>
+<item>哈博罗内</item>
+<item>哈拉雷</item>
+<item>约翰内斯堡</item>
+<item>坎帕拉</item>
+<item>哈土穆</item>
+<item>基加利</item>
+<item>金沙萨</item>
+<item>拉各斯</item>
+<item>马塞卢</item>
+<item>摩加迪沙</item>
+<item>奈洛比</item>
+<item>圣多美</item>
+<item>廷巴克图</item>
+<item>的黎波里</item>
+<item>突尼斯</item>
+<item>安克雷奇</item>
+<item>门多萨</item>
+<item>阿鲁巴</item>
+<item>亚松森</item>
+<item>巴巴多斯</item>
+<item>伯利兹</item>
+<item>波哥大</item>
+<item>布宜诺斯艾利斯</item>
+<item>坎昆</item>
+<item>加拉加斯</item>
+<item>开曼群岛</item>
+<item>芝加哥</item>
+<item>哥斯达黎加</item>
+<item>库拉索</item>
+<item>道森克里克</item>
+<item>丹佛</item>
+<item>底特律</item>
+<item>多米尼加</item>
+<item>埃德蒙顿</item>
+<item>萨尔瓦多</item>
+<item>福塔雷萨</item>
+<item>大特克斯岛</item>
+<item>格林纳达</item>
+<item>危地马拉</item>
+<item>圭亚那</item>
+<item>哈利法克斯</item>
+<item>哈瓦那</item>
+<item>印第安纳波利斯</item>
+<item>诺克斯</item>
+<item>马伦戈</item>
+<item>彼得斯堡</item>
+<item>特尔城</item>
+<item>韦韦</item>
+<item>温森斯</item>
+<item>威纳马克</item>
+<item>金斯敦</item>
+<item>拉巴斯</item>
+<item>利马</item>
+<item>洛杉矶</item>
+<item>路易斯维尔</item>
+<item>马那瓜</item>
+<item>马提尼克</item>
+<item>梅特拉卡特拉</item>
+<item>墨西哥城</item>
+<item>蒙特雷</item>
+<item>蒙得维的亚</item>
+<item>蒙特利尔</item>
+<item>拿骚</item>
+<item>纽约</item>
+<item>比尤拉</item>
+<item>森特</item>
+<item>新塞勒姆</item>
+<item>巴拿马</item>
+<item>菲尼克斯</item>
+<item>西班牙港</item>
+<item>太子港</item>
+<item>波多黎各</item>
+<item>圣多明戈</item>
+<item>圣保罗</item>
+<item>圣约翰</item>
+<item>圣基茨</item>
+<item>圣卢西亚</item>
+<item>圣托马斯</item>
+<item>蒂华纳</item>
+<item>多伦多</item>
+<item>温哥华</item>
+<item>温尼伯</item>
+<item>南极</item>
+<item>朗伊尔城</item>
+<item>阿拉木图</item>
+<item>安曼</item>
+<item>阿纳德尔</item>
+<item>阿克套</item>
+<item>巴格达</item>
+<item>巴林</item>
+<item>巴库</item>
+<item>曼谷</item>
+<item>贝鲁特</item>
+<item>加尔各答</item>
+<item>大马士革</item>
+<item>达卡</item>
+<item>迪拜</item>
+<item>加沙</item>
+<item>希伯伦</item>
+<item>胡志明市</item>
+<item>香港</item>
+<item>雅加达</item>
+<item>耶路撒冷</item>
+<item>喀布尔</item>
+<item>卡拉奇</item>
+<item>加德满都</item>
+<item>吉隆坡</item>
+<item>科威特</item>
+<item>澳门</item>
+<item>马尼拉</item>
+<item>马斯喀特</item>
+<item>金边</item>
+<item>平壤</item>
+<item>卡塔尔</item>
+<item>仰光</item>
+<item>利雅得</item>
+<item>西贡</item>
+<item>首尔</item>
+<item>上海</item>
+<item>新加坡</item>
+<item>台北</item>
+<item>德黑兰</item>
+<item>特拉维夫</item>
+<item>东京</item>
+<item>乌兰巴托</item>
+<item>百慕大</item>
+<item>加那利群岛</item>
+<item>佛得角</item>
+<item>雷克雅末克</item>
+<item>史丹利</item>
+<item>阿德莱德</item>
+<item>布里斯班</item>
+<item>堪培拉</item>
+<item>达尔文</item>
+<item>墨尔本</item>
+<item>新南威尔士</item>
+<item>珀斯</item>
+<item>昆士兰</item>
+<item>悉尼</item>
+<item>维多利亚</item>
+<item>纽芬兰</item>
+<item>萨斯喀彻温</item>
+<item>复活节岛</item>
+<item>阿姆斯特丹</item>
+<item>安道尔</item>
+<item>雅典</item>
+<item>贝尔法斯特</item>
+<item>贝尔格莱德</item>
+<item>柏林</item>
+<item>布拉迪斯拉发</item>
+<item>布鲁塞尔</item>
+<item>布加勒斯特</item>
+<item>布达佩斯</item>
+<item>基希讷乌</item>
+<item>哥本哈根</item>
+<item>都柏林</item>
+<item>直布罗陀</item>
+<item>赫尔辛基</item>
+<item>马恩岛</item>
+<item>伊斯坦布尔</item>
+<item>里斯本</item>
+<item>伦敦</item>
+<item>卢森堡</item>
+<item>马德里</item>
+<item>马耳他</item>
+<item>明斯克</item>
+<item>摩纳哥</item>
+<item>莫斯科</item>
+<item>奥斯陆</item>
+<item>巴黎</item>
+<item>布拉格</item>
+<item>里加</item>
+<item>罗马</item>
+<item>圣马力诺</item>
+<item>萨拉热窝</item>
+<item>辛菲罗波尔</item>
+<item>斯科普里</item>
+<item>索非亚</item>
+<item>斯德哥尔摩</item>
+<item>塔林</item>
+<item>梵蒂冈</item>
+<item>维也纳</item>
+<item>维尔纽斯</item>
+<item>华沙</item>
+<item>萨格勒布</item>
+<item>苏黎世</item>
+<item>安塔那利佛</item>
+<item>马尔代夫</item>
+<item>毛里求斯</item>
+<item>奥克兰</item>
+<item>斐济</item>
+<item>关岛</item>
+<item>檀香山</item>
+<item>圣诞岛</item>
+<item>努美阿</item>
+<item>萨摩亚</item>
+<item>塔希提岛</item>
+<item>安提瓜</item>
+<item>奥斯汀</item>
+<item>波士顿</item>
+<item>卡尔加里</item>
+<item>哥伦布</item>
+<item>达拉斯</item>
+<item>诺克斯维尔</item>
+<item>孟菲斯</item>
+<item>迈阿密</item>
+<item>明尼阿波里斯</item>
+<item>渥太华</item>
+<item>费城</item>
+<item>波特兰</item>
+<item>圣迭戈</item>
+<item>旧金山</item>
+<item>盐湖城</item>
+<item>圣何塞</item>
+<item>圣萨尔瓦多</item>
+<item>西雅图</item>
+<item>圣路易斯</item>
+<item>华盛顿</item>
+<item>休斯敦</item>
+<item>圣安东尼奥</item>
+<item>杰克逊维尔</item>
+<item>巴尔的摩</item>
+<item>纳什维尔</item>
+<item>密尔沃基</item>
+<item>俄克拉何马城</item>
+<item>拉斯维加斯</item>
+<item>阿尔伯克基</item>
+<item>图森</item>
+<item>萨克拉门托</item>
+<item>亚特兰大</item>
+<item>克利夫兰</item>
+<item>新奥尔良</item>
+<item>坦帕</item>
+<item>匹兹堡</item>
+<item>辛辛那提</item>
+<item>山景城</item>
+<item>里诺</item>
+<item>黑岩城</item>
+<item>多哈</item>
+<item>北京</item>
+<item>孟买</item>
+<item>德里</item>
+<item>大坂</item>
+<item>拉合尔</item>
+<item>萨纳</item>
+<item>巴塞罗纳</item>
+<item>慕尼黑</item>
+<item>米兰</item>
+<item>法兰克福</item>
+<item>河内</item>
+<item>安卡拉</item>
+<item>班加罗尔</item>
+<item>巴西利亚</item>
+<item>开普敦</item>
+<item>伊斯兰堡</item>
+<item>里约热内卢</item>
+<item>安阿伯</item>
+<item>博尔德</item>
+<item>剑桥</item>
+<item>柯克兰</item>
+<item>麦迪逊</item>
+<item>广州</item>
+<item>海得拉巴</item>
+<item>雷斯顿</item>
+<item>贝洛奥里藏特</item>
+<item>圣地亚哥</item>
+<item>蒙罗维亚</item>
+<item>科伦坡</item>
+<item>奇瓦瓦</item>
+<item>古尔冈</item>
+<item>曼彻斯特</item>
+<item>基辅</item>
+<item>圣彼得堡</item>
+<item>克拉科夫</item>
+<item>弗罗茨瓦夫</item>
+<item>汉堡</item>
+<item>奥卢</item>
+<item>海法</item>
+<item>圣胡安</item>
+<item>特古西加尔巴</item>
+<item>帕拉马里博</item>
+<item>基多</item>
+</string-array>
+<string-array name="cities_tz_miui">
+<item>Africa/Abidjan</item>
+<item>Africa/Accra</item>
+<item>Africa/Addis_Ababa</item>
+<item>Africa/Algiers</item>
+<item>Africa/Blantyre</item>
+<item>Africa/Brazzaville</item>
+<item>Africa/Cairo</item>
+<item>Africa/Casablanca</item>
+<item>Africa/Conakry</item>
+<item>Africa/Dakar</item>
+<item>Africa/Dar_es_Salaam</item>
+<item>Africa/Djibouti</item>
+<item>Africa/Freetown</item>
+<item>Africa/Gaborone</item>
+<item>Africa/Harare</item>
+<item>Africa/Johannesburg</item>
+<item>Africa/Kampala</item>
+<item>Africa/Khartoum</item>
+<item>Africa/Kigali</item>
+<item>Africa/Kinshasa</item>
+<item>Africa/Lagos</item>
+<item>Africa/Maseru</item>
+<item>Africa/Mogadishu</item>
+<item>Africa/Nairobi</item>
+<item>Africa/Sao_Tome</item>
+<item>Africa/Timbuktu</item>
+<item>Africa/Tripoli</item>
+<item>Africa/Tunis</item>
+<item>America/Anchorage</item>
+<item>America/Argentina/Mendoza</item>
+<item>America/Aruba</item>
+<item>America/Asuncion</item>
+<item>America/Barbados</item>
+<item>America/Belize</item>
+<item>America/Bogota</item>
+<item>America/Buenos_Aires</item>
+<item>America/Cancun</item>
+<item>America/Caracas</item>
+<item>America/Cayman</item>
+<item>America/Chicago</item>
+<item>America/Costa_Rica</item>
+<item>America/Curacao</item>
+<item>America/Dawson_Creek</item>
+<item>America/Denver</item>
+<item>America/Detroit</item>
+<item>America/Dominica</item>
+<item>America/Edmonton</item>
+<item>America/El_Salvador</item>
+<item>America/Fortaleza</item>
+<item>America/Grand_Turk</item>
+<item>America/Grenada</item>
+<item>America/Guatemala</item>
+<item>America/Guyana</item>
+<item>America/Halifax</item>
+<item>America/Havana</item>
+<item>America/Indiana/Indianapolis</item>
+<item>America/Indiana/Knox</item>
+<item>America/Indiana/Marengo</item>
+<item>America/Indiana/Petersburg</item>
+<item>America/Indiana/Tell_City</item>
+<item>America/Indiana/Vevay</item>
+<item>America/Indiana/Vincennes</item>
+<item>America/Indiana/Winamac</item>
+<item>America/Jamaica</item>
+<item>America/La_Paz</item>
+<item>America/Lima</item>
+<item>America/Los_Angeles</item>
+<item>America/Louisville</item>
+<item>America/Managua</item>
+<item>America/Martinique</item>
+<item>America/Metlakatla</item>
+<item>America/Mexico_City</item>
+<item>America/Monterrey</item>
+<item>America/Montevideo</item>
+<item>America/Montreal</item>
+<item>America/Nassau</item>
+<item>America/New_York</item>
+<item>America/North_Dakota/Beulah</item>
+<item>America/North_Dakota/Center</item>
+<item>America/North_Dakota/New_Salem</item>
+<item>America/Panama</item>
+<item>America/Phoenix</item>
+<item>America/Port_of_Spain</item>
+<item>America/Port-au-Prince</item>
+<item>America/Puerto_Rico</item>
+<item>America/Santo_Domingo</item>
+<item>America/Sao_Paulo</item>
+<item>America/St_Johns</item>
+<item>America/St_Kitts</item>
+<item>America/St_Lucia</item>
+<item>America/St_Thomas</item>
+<item>America/Tijuana</item>
+<item>America/Toronto</item>
+<item>America/Vancouver</item>
+<item>America/Winnipeg</item>
+<item>Antarctica/South_Pole</item>
+<item>Arctic/Longyearbyen</item>
+<item>Asia/Almaty</item>
+<item>Asia/Amman</item>
+<item>Asia/Anadyr</item>
+<item>Asia/Aqtau</item>
+<item>Asia/Baghdad</item>
+<item>Asia/Bahrain</item>
+<item>Asia/Baku</item>
+<item>Asia/Bangkok</item>
+<item>Asia/Beirut</item>
+<item>Asia/Calcutta</item>
+<item>Asia/Damascus</item>
+<item>Asia/Dhaka</item>
+<item>Asia/Dubai</item>
+<item>Asia/Gaza</item>
+<item>Asia/Hebron</item>
+<item>Asia/Ho_Chi_Minh</item>
+<item>Asia/Hong_Kong</item>
+<item>Asia/Jakarta</item>
+<item>Asia/Jerusalem</item>
+<item>Asia/Kabul</item>
+<item>Asia/Karachi</item>
+<item>Asia/Kathmandu</item>
+<item>Asia/Kuala_Lumpur</item>
+<item>Asia/Kuwait</item>
+<item>Asia/Macau</item>
+<item>Asia/Manila</item>
+<item>Asia/Muscat</item>
+<item>Asia/Phnom_Penh</item>
+<item>Asia/Pyongyang</item>
+<item>Asia/Qatar</item>
+<item>Asia/Rangoon</item>
+<item>Asia/Riyadh</item>
+<item>Asia/Saigon</item>
+<item>Asia/Seoul</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Singapore</item>
+<item>Asia/Taipei</item>
+<item>Asia/Tehran</item>
+<item>Asia/Tel_Aviv</item>
+<item>Asia/Tokyo</item>
+<item>Asia/Ulaanbaatar</item>
+<item>Atlantic/Bermuda</item>
+<item>Atlantic/Canary</item>
+<item>Atlantic/Cape_Verde</item>
+<item>Atlantic/Reykjavik</item>
+<item>Atlantic/Stanley</item>
+<item>Australia/Adelaide</item>
+<item>Australia/Brisbane</item>
+<item>Australia/Canberra</item>
+<item>Australia/Darwin</item>
+<item>Australia/Melbourne</item>
+<item>Australia/NSW</item>
+<item>Australia/Perth</item>
+<item>Australia/Queensland</item>
+<item>Australia/Sydney</item>
+<item>Australia/Victoria</item>
+<item>Canada/Newfoundland</item>
+<item>Canada/Saskatchewan</item>
+<item>Chile/EasterIsland</item>
+<item>Europe/Amsterdam</item>
+<item>Europe/Andorra</item>
+<item>Europe/Athens</item>
+<item>Europe/Belfast</item>
+<item>Europe/Belgrade</item>
+<item>Europe/Berlin</item>
+<item>Europe/Bratislava</item>
+<item>Europe/Brussels</item>
+<item>Europe/Bucharest</item>
+<item>Europe/Budapest</item>
+<item>Europe/Chisinau</item>
+<item>Europe/Copenhagen</item>
+<item>Europe/Dublin</item>
+<item>Europe/Gibraltar</item>
+<item>Europe/Helsinki</item>
+<item>Europe/Isle_of_Man</item>
+<item>Europe/Istanbul</item>
+<item>Europe/Lisbon</item>
+<item>Europe/London</item>
+<item>Europe/Luxembourg</item>
+<item>Europe/Madrid</item>
+<item>Europe/Malta</item>
+<item>Europe/Minsk</item>
+<item>Europe/Monaco</item>
+<item>Europe/Moscow</item>
+<item>Europe/Oslo</item>
+<item>Europe/Paris</item>
+<item>Europe/Prague</item>
+<item>Europe/Riga</item>
+<item>Europe/Rome</item>
+<item>Europe/San_Marino</item>
+<item>Europe/Sarajevo</item>
+<item>Europe/Simferopol</item>
+<item>Europe/Skopje</item>
+<item>Europe/Sofia</item>
+<item>Europe/Stockholm</item>
+<item>Europe/Tallinn</item>
+<item>Europe/Vatican</item>
+<item>Europe/Vienna</item>
+<item>Europe/Vilnius</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Zagreb</item>
+<item>Europe/Zurich</item>
+<item>Indian/Antananarivo</item>
+<item>Indian/Maldives</item>
+<item>Indian/Mauritius</item>
+<item>Pacific/Auckland</item>
+<item>Pacific/Fiji</item>
+<item>Pacific/Guam</item>
+<item>Pacific/Honolulu</item>
+<item>Pacific/Kiritimati</item>
+<item>Pacific/Noumea</item>
+<item>Pacific/Samoa</item>
+<item>Pacific/Tahiti</item>
+<item>America/Antigua</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Denver</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Denver</item>
+<item>America/Los_Angeles</item>
+<item>America/Guatemala</item>
+<item>America/Los_Angeles</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/Los_Angeles</item>
+<item>America/Denver</item>
+<item>MST</item>
+<item>America/Los_Angeles</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>Asia/Riyadh</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Kolkata</item>
+<item>Asia/Kolkata</item>
+<item>Asia/Tokyo</item>
+<item>Asia/Karachi</item>
+<item>Asia/Riyadh</item>
+<item>Europe/Madrid</item>
+<item>Europe/Berlin</item>
+<item>Europe/Rome</item>
+<item>Europe/Berlin</item>
+<item>Asia/Bangkok</item>
+<item>Europe/Istanbul</item>
+<item>Asia/Kolkata</item>
+<item>America/Sao_Paulo</item>
+<item>Africa/Johannesburg</item>
+<item>Asia/Karachi</item>
+<item>America/Sao_Paulo</item>
+<item>America/Detroit</item>
+<item>America/Denver</item>
+<item>America/New_York</item>
+<item>America/Los_Angeles</item>
+<item>America/Chicago</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Kolkata</item>
+<item>America/New_York</item>
+<item>America/Sao_Paulo</item>
+<item>America/Santiago</item>
+<item>Africa/Monrovia</item>
+<item>Asia/Colombo</item>
+<item>America/Chihuahua</item>
+<item>Asia/Kolkata</item>
+<item>Europe/London</item>
+<item>Europe/Bucharest</item>
+<item>Europe/Moscow</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Berlin</item>
+<item>Europe/Bucharest</item>
+<item>Asia/Jerusalem</item>
+<item>Rico</item>
+<item>America/Tegucigalpa</item>
+<item>America/Paramaribo</item>
+<item>America/Panama</item>
+</string-array>
+<string-array name="cities_id_miui">
+<item>C1</item>
+<item>C2</item>
+<item>C3</item>
+<item>C4</item>
+<item>C5</item>
+<item>C6</item>
+<item>C7</item>
+<item>C8</item>
+<item>C9</item>
+<item>C10</item>
+<item>C11</item>
+<item>C12</item>
+<item>C13</item>
+<item>C14</item>
+<item>C15</item>
+<item>C16</item>
+<item>C17</item>
+<item>C18</item>
+<item>C19</item>
+<item>C20</item>
+<item>C21</item>
+<item>C22</item>
+<item>C23</item>
+<item>C24</item>
+<item>C25</item>
+<item>C26</item>
+<item>C27</item>
+<item>C28</item>
+<item>C29</item>
+<item>C30</item>
+<item>C31</item>
+<item>C32</item>
+<item>C33</item>
+<item>C34</item>
+<item>C35</item>
+<item>C36</item>
+<item>C37</item>
+<item>C38</item>
+<item>C39</item>
+<item>C40</item>
+<item>C41</item>
+<item>C42</item>
+<item>C43</item>
+<item>C44</item>
+<item>C45</item>
+<item>C46</item>
+<item>C47</item>
+<item>C48</item>
+<item>C49</item>
+<item>C50</item>
+<item>C51</item>
+<item>C52</item>
+<item>C53</item>
+<item>C54</item>
+<item>C55</item>
+<item>C56</item>
+<item>C57</item>
+<item>C58</item>
+<item>C59</item>
+<item>C60</item>
+<item>C61</item>
+<item>C62</item>
+<item>C63</item>
+<item>C64</item>
+<item>C65</item>
+<item>C66</item>
+<item>C67</item>
+<item>C68</item>
+<item>C69</item>
+<item>C70</item>
+<item>C72</item>
+<item>C73</item>
+<item>C74</item>
+<item>C75</item>
+<item>C76</item>
+<item>C77</item>
+<item>C78</item>
+<item>C79</item>
+<item>C80</item>
+<item>C81</item>
+<item>C82</item>
+<item>C83</item>
+<item>C84</item>
+<item>C85</item>
+<item>C86</item>
+<item>C87</item>
+<item>C88</item>
+<item>C89</item>
+<item>C90</item>
+<item>C91</item>
+<item>C92</item>
+<item>C93</item>
+<item>C94</item>
+<item>C95</item>
+<item>C96</item>
+<item>C97</item>
+<item>C98</item>
+<item>C99</item>
+<item>C100</item>
+<item>C101</item>
+<item>C102</item>
+<item>C103</item>
+<item>C104</item>
+<item>C105</item>
+<item>C106</item>
+<item>C107</item>
+<item>C108</item>
+<item>C109</item>
+<item>C110</item>
+<item>C111</item>
+<item>C112</item>
+<item>C113</item>
+<item>C114</item>
+<item>C115</item>
+<item>C116</item>
+<item>C118</item>
+<item>C119</item>
+<item>C120</item>
+<item>C121</item>
+<item>C122</item>
+<item>C123</item>
+<item>C124</item>
+<item>C125</item>
+<item>C126</item>
+<item>C127</item>
+<item>C128</item>
+<item>C129</item>
+<item>C130</item>
+<item>C131</item>
+<item>C132</item>
+<item>C133</item>
+<item>C134</item>
+<item>C135</item>
+<item>C136</item>
+<item>C137</item>
+<item>C138</item>
+<item>C139</item>
+<item>C140</item>
+<item>C141</item>
+<item>C142</item>
+<item>C143</item>
+<item>C144</item>
+<item>C145</item>
+<item>C146</item>
+<item>C147</item>
+<item>C148</item>
+<item>C149</item>
+<item>C150</item>
+<item>C151</item>
+<item>C152</item>
+<item>C153</item>
+<item>C154</item>
+<item>C155</item>
+<item>C156</item>
+<item>C157</item>
+<item>C158</item>
+<item>C159</item>
+<item>C160</item>
+<item>C161</item>
+<item>C162</item>
+<item>C163</item>
+<item>C164</item>
+<item>C165</item>
+<item>C166</item>
+<item>C167</item>
+<item>C168</item>
+<item>C169</item>
+<item>C170</item>
+<item>C171</item>
+<item>C172</item>
+<item>C173</item>
+<item>C174</item>
+<item>C175</item>
+<item>C176</item>
+<item>C177</item>
+<item>C178</item>
+<item>C180</item>
+<item>C181</item>
+<item>C182</item>
+<item>C183</item>
+<item>C184</item>
+<item>C185</item>
+<item>C186</item>
+<item>C187</item>
+<item>C188</item>
+<item>C189</item>
+<item>C190</item>
+<item>C191</item>
+<item>C192</item>
+<item>C193</item>
+<item>C194</item>
+<item>C195</item>
+<item>C196</item>
+<item>C197</item>
+<item>C198</item>
+<item>C199</item>
+<item>C200</item>
+<item>C201</item>
+<item>C202</item>
+<item>C203</item>
+<item>C204</item>
+<item>C205</item>
+<item>C206</item>
+<item>C207</item>
+<item>C208</item>
+<item>C209</item>
+<item>C210</item>
+<item>C211</item>
+<item>C212</item>
+<item>C213</item>
+<item>C214</item>
+<item>C215</item>
+<item>C216</item>
+<item>C217</item>
+<item>C218</item>
+<item>C219</item>
+<item>C220</item>
+<item>C221</item>
+<item>C222</item>
+<item>C223</item>
+<item>C224</item>
+<item>C225</item>
+<item>C226</item>
+<item>C227</item>
+<item>C228</item>
+<item>C229</item>
+<item>C230</item>
+<item>C231</item>
+<item>C232</item>
+<item>C233</item>
+<item>C234</item>
+<item>C235</item>
+<item>C236</item>
+<item>C237</item>
+<item>C238</item>
+<item>C239</item>
+<item>C240</item>
+<item>C241</item>
+<item>C242</item>
+<item>C243</item>
+<item>C244</item>
+<item>C245</item>
+<item>C246</item>
+<item>C247</item>
+<item>C248</item>
+<item>C249</item>
+<item>C250</item>
+<item>C251</item>
+<item>C252</item>
+<item>C253</item>
+<item>C254</item>
+<item>C255</item>
+<item>C256</item>
+<item>C257</item>
+<item>C258</item>
+<item>C259</item>
+<item>C260</item>
+<item>C261</item>
+<item>C262</item>
+<item>C263</item>
+<item>C264</item>
+<item>C265</item>
+<item>C266</item>
+<item>C267</item>
+<item>C268</item>
+<item>C269</item>
+<item>C270</item>
+<item>C271</item>
+<item>C272</item>
+<item>C273</item>
+<item>C274</item>
+<item>C275</item>
+<item>C276</item>
+<item>C277</item>
+<item>C278</item>
+<item>C279</item>
+<item>C280</item>
+<item>C281</item>
+<item>C282</item>
+<item>C283</item>
+<item>C284</item>
+<item>C285</item>
+<item>C287</item>
+<item>C288</item>
+<item>C289</item>
+<item>C290</item>
+<item>C291</item>
+<item>C292</item>
+<item>C293</item>
+<item>C294</item>
+<item>C295</item>
+<item>C296</item>
+<item>C297</item>
+<item>C298</item>
+<item>C299</item>
+</string-array>
+<string-array name="snooze_duration_entries">
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+<item>分钟</item>
+</string-array>
+<string-array name="auto_silence_values">
+<item>-1</item>
+<item>1</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+</string-array>
+<string-array name="snooze_duration_values">
+<item>1</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+</string-array>
+<string-array name="stat_volume_button_behaviors">
+<item>无</item>
+<item>稍后再响</item>
+<item>关闭</item>
+</string-array>
+<string-array name="alarm_in_furture">
+<item>不到1分钟响铃</item>
+<item>%1$s后响铃</item>
+<item>%2$s后响铃</item>
+<item>%1$s%2$s后响铃</item>
+<item>%3$s后响铃</item>
+<item>%1$s%3$s后响铃</item>
+<item>%2$s%3$s后响铃</item>
+<item>%1$s%2$s%3$s后响铃</item>
+</string-array>
+</MIUI_Theme_Values>

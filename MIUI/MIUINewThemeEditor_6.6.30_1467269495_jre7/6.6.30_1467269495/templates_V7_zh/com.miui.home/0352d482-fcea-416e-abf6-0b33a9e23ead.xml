@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 编辑模式" version="4.8.26" annotation="" tag="桌面">
+    <resource description="更换壁纸" x="424" y="1578" width="230" height="230" uuid="088ecb2a-60ae-44da-8455-bc967c03cf49">
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg.png" description="编辑项遮罩_仅用于壁纸" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="编辑项背景" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_mask.png" description="编辑项蒙版_仅用于壁纸" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg_dark.png" description="编辑项遮罩_仅用于壁纸" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="编辑项背景_浅色壁纸" />
+    </resource>
+    <resource description="时钟插件" x="652" y="1574" width="230" height="230" uuid="c3e805e1-198b-439d-9b84-9424298b2803">
+        <path src="res\drawable-xxhdpi\gadget_clock_24_icon.png" description="2x4时钟缩略图" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="编辑项背景" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="编辑项背景_浅色壁纸" />
+        <path src="res\drawable-xxhdpi\gadget_clock_22_icon.png" description="2x2时钟缩略图" />
+        <path src="res\drawable-xxhdpi\gadget_clock_12_icon.png" description="2x1时钟缩略图" />
+    </resource>
+    <resource description="屏幕切换效果" x="190" y="1576" width="230" height="230" uuid="2233c055-fcd6-4acc-a078-314f802821f0">
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg.png" description="编辑项背景" />
+        <path src="res\drawable-xxhdpi\thumbnail_item_bg_dark.png" description="编辑项背景_浅色壁纸" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic.png" description="经典" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic_no_over_shoot.png" description="经典无弹回" />
+        <path src="res\drawable-xxhdpi\transition_effect_cube.png" description="方块" />
+        <path src="res\drawable-xxhdpi\transition_effect_fade_out.png" description="淡出" />
+        <path src="res\drawable-xxhdpi\transition_effect_fall_down.png" description=" 转盘" />
+        <path src="res\drawable-xxhdpi\transition_effect_left_page.png" description="翻页" />
+        <path src="res\drawable-xxhdpi\transition_effect_rotate.png" description="旋转" />
+        <path src="res\drawable-xxhdpi\transition_effect_stack.png" description="层叠" />
+    </resource>
+    <resource description="编辑页面" x="444" y="774" width="194" height="194" uuid="0d6b6d83-f4eb-4f2c-99d1-a13be02e98af">
+        <path src="res\drawable-xxhdpi\editing_new_screen_btn_n.png" description="新增页面" />
+        <path src="res\drawable-xxhdpi\editing_new_screen_btn_p.png" description="新增页面二态" />
+        <path src="res\drawable-xxhdpi\editing_delete_screen_n.png" description="删除页面" />
+        <path src="res\drawable-xxhdpi\editing_delete_screen_p.png" description="删除页面二态" />
+    </resource>
+    <resource description="editing_mode_slidebar_fg.9" x="0" y="1904" width="636" height="16" uuid="250caf83-04ff-469c-aa1b-13cb3a17b22f">
+        <path src="res\drawable-xxhdpi\editing_mode_slidebar_fg.9.png" description="编辑模式导航条" />
+    </resource>
+</screenshot>

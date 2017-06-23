@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 群组列表" version="2.9.16" annotation="" tag="群组">
+    <resource description="ic_menu_add_group.png" x="609" y="1186" width="96" height="85" uuid="6f71edfe-0668-4766-8341-f9cd8450b19c">
+        <path src="res\drawable-xhdpi\ic_menu_add_group.png" description="添加群组" />
+    </resource>
+    <resource description="group_photos_container_bg" x="24" y="676" width="94" height="88" uuid="fda458be-0323-4c6d-8e96-c4c576fd4fcc">
+        <path src="res\drawable-xhdpi\group_photos_container_bg.png" description="" />
+    </resource>
+    <resource description="location_group" x="22" y="364" width="92" height="92" uuid="f4fd57a2-fb3c-4181-b9cb-83efe6d3b683">
+        <path src="res\drawable-hdpi\company_group.png" description="" />
+        <path src="res\drawable-hdpi\frequency_group.png" description="" />
+        <path src="res\drawable-hdpi\location_group.png" description="" />
+    </resource>
+    <resource description="company_group" x="22" y="238" width="92" height="92" uuid="13383b8c-0892-454e-8885-1910b53a1e0c">
+        <path src="res\drawable-hdpi\company_group.png" description="" />
+    </resource>
+    <resource description="frequency_group" x="24" y="492" width="92" height="92" uuid="9fa56e05-6ef1-4d6a-ba78-a704712e84a3">
+        <path src="res\drawable-hdpi\frequency_group.png" description="" />
+    </resource>
+</screenshot>

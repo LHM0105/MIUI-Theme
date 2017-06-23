@@ -1,0 +1,205 @@
+[DEBUG 2017-06-03 01:16:41.878] [AWT-EventQueue-0] com.miui.theme.tool.gui.main.ThemeManager.openTheme(Unknown Source) [E:\常用文件\MIUI\主题\mine\薛之谦动物世界 opening...]
+[DEBUG 2017-06-03 01:16:49.222] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:49.361] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:49.721] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-06-03 01:16:49.799] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:49.846] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:50.205] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-06-03 01:16:50.265] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:50.327] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[DEBUG 2017-06-03 01:16:50.858] [AWT-EventQueue-0] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [更新程序安装失败]
+[DEBUG 2017-06-03 01:20:13.346] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:187 total:187      description.xml]
+[DEBUG 2017-06-03 01:20:13.596] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496143777034~ empty]
+[DEBUG 2017-06-03 01:20:14.018] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:672 total:859      lockscreen]
+[DEBUG 2017-06-03 01:20:20.361] [Thread-27] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6343 total:7202      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:20:21.106] [Thread-27] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:20:32.072] [Thread-33] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:122 total:122      description.xml]
+[DEBUG 2017-06-03 01:20:32.942] [Thread-27] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:20:33.049] [Thread-27] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:20:33.965] [Thread-27] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:20:39.296] [Thread-33] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:7224 total:7346      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:20:39.932] [Thread-33] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-06-03 01:20:41.831] [Thread-33] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:487)
+	at com.android.ddmlib.AdbHelper.write(AdbHelper.java:815)
+	at com.android.ddmlib.SyncService.doPushFile(SyncService.java:697)
+	at com.android.ddmlib.SyncService.pushFile(SyncService.java:407)
+	at com.android.ddmlib.Device.pushFile(Device.java:814)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-06-03 01:20:41.831] [Thread-33] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:20:42.269] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:21:42.480] [Thread-43] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:94 total:94      description.xml]
+[DEBUG 2017-06-03 01:21:48.886] [Thread-43] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6406 total:6500      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[ERROR 2017-06-03 01:21:49.267] [Thread-43] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+com.android.ddmlib.AdbCommandRejectedException: closed
+	at com.android.ddmlib.AdbHelper.root(AdbHelper.java:931)
+	at com.android.ddmlib.Device.root(Device.java:1220)
+	at com.miui.theme.tool.os.Adb.getDevice(Unknown Source)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-06-03 01:21:49.267] [Thread-43] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:21:49.727] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:22:04.110] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:270 total:270      description.xml]
+[DEBUG 2017-06-03 01:22:11.075] [Thread-47] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6965 total:7235      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:22:11.596] [Thread-47] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:22:24.441] [Thread-47] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:22:24.546] [Thread-47] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:22:25.468] [Thread-47] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:22:47.074] [Thread-57] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:94 total:94      description.xml]
+[DEBUG 2017-06-03 01:22:53.654] [Thread-57] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6580 total:6674      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[ERROR 2017-06-03 01:22:54.023] [Thread-57] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+com.android.ddmlib.AdbCommandRejectedException: closed
+	at com.android.ddmlib.AdbHelper.root(AdbHelper.java:931)
+	at com.android.ddmlib.Device.root(Device.java:1220)
+	at com.miui.theme.tool.os.Adb.getDevice(Unknown Source)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-06-03 01:22:54.023] [Thread-57] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:22:54.445] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:24:13.041] [Thread-61] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:24:13.197] [Thread-61] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496424229531~1496423922000]
+[DEBUG 2017-06-03 01:24:13.588] [Thread-61] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:547 total:625      lockscreen]
+[DEBUG 2017-06-03 01:24:19.917] [Thread-61] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6329 total:6954      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:24:20.292] [Thread-61] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[ERROR 2017-06-03 01:24:20.355] [Thread-61] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:24:20.823] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:24:51.170] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:93 total:93      description.xml]
+[DEBUG 2017-06-03 01:24:57.400] [Thread-67] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6230 total:6323      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:24:57.925] [Thread-67] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[ERROR 2017-06-03 01:25:05.036] [Thread-67] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:487)
+	at com.android.ddmlib.AdbHelper.write(AdbHelper.java:815)
+	at com.android.ddmlib.SyncService.doPushFile(SyncService.java:697)
+	at com.android.ddmlib.SyncService.pushFile(SyncService.java:407)
+	at com.android.ddmlib.Device.pushFile(Device.java:814)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-06-03 01:25:05.036] [Thread-67] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:25:05.442] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:25:20.084] [Thread-73] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:69 total:69      description.xml]
+[DEBUG 2017-06-03 01:25:26.331] [Thread-73] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6247 total:6316      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:25:26.611] [Thread-73] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [No devices found!]
+[ERROR 2017-06-03 01:25:26.658] [Thread-73] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:25:27.103] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:25:34.925] [Thread-79] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:25:41.389] [Thread-79] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6464 total:6542      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:25:41.851] [Thread-79] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:25:47.501] [Thread-85] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:114 total:114      description.xml]
+[DEBUG 2017-06-03 01:25:49.185] [Thread-79] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:25:49.289] [Thread-79] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:25:50.218] [Thread-79] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:25:55.922] [Thread-85] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:8421 total:8535      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:25:56.442] [Thread-85] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:26:13.007] [Thread-85] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:26:13.113] [Thread-85] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:26:13.935] [Thread-85] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:26:15.935] [Thread-99] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:26:22.825] [Thread-99] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6890 total:6968      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:26:23.365] [Thread-99] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:26:35.747] [Thread-99] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:26:35.833] [Thread-99] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:26:36.517] [Thread-99] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:28:08.340] [Thread-109] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:28:14.556] [Thread-109] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6216 total:6294      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:28:14.999] [Thread-109] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:28:25.445] [Thread-109] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:28:25.543] [Thread-109] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:28:26.440] [Thread-109] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:28:29.248] [Thread-119] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:28:35.606] [Thread-119] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6358 total:6436      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:28:36.032] [Thread-119] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:28:48.723] [Thread-119] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:28:48.842] [Thread-119] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:28:50.136] [Thread-119] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:28:52.183] [Thread-129] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:108 total:108      description.xml]
+[DEBUG 2017-06-03 01:28:52.315] [Thread-129] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1496424527581~1496143776000]
+[DEBUG 2017-06-03 01:28:52.591] [Thread-129] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:408 total:516      lockscreen]
+[DEBUG 2017-06-03 01:28:58.491] [Thread-129] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5900 total:6416      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:28:58.938] [Thread-129] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:29:09.536] [Thread-129] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:29:09.637] [Thread-129] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:29:10.179] [Thread-137] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:74 total:74      description.xml]
+[DEBUG 2017-06-03 01:29:10.326] [Thread-129] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:29:16.592] [Thread-137] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:6413 total:6487      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:29:17.059] [Thread-137] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:29:28.027] [Thread-137] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:29:28.109] [Thread-137] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:29:28.844] [Thread-137] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:29:53.082] [Thread-149] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:78 total:78      description.xml]
+[DEBUG 2017-06-03 01:29:53.223] [Thread-149] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496424588410~1496424228000]
+[DEBUG 2017-06-03 01:29:53.520] [Thread-149] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:438 total:516      lockscreen]
+[DEBUG 2017-06-03 01:29:59.447] [Thread-149] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5927 total:6443      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:29:59.898] [Thread-149] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:30:10.741] [Thread-149] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:30:10.871] [Thread-149] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:30:11.734] [Thread-149] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:31:39.186] [Thread-159] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:62 total:62      description.xml]
+[DEBUG 2017-06-03 01:31:39.327] [Thread-159] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [bg1.jpg 1494656293521~1496424526000]
+[DEBUG 2017-06-03 01:31:39.624] [Thread-159] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:438 total:500      lockscreen]
+[DEBUG 2017-06-03 01:31:45.530] [Thread-159] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5906 total:6406      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:31:45.974] [Thread-159] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:31:56.428] [Thread-159] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:31:56.528] [Thread-159] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:31:57.258] [Thread-159] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:36:05.747] [Thread-169] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:63 total:63      description.xml]
+[DEBUG 2017-06-03 01:36:10.328] [Thread-169] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4581 total:4644      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[ERROR 2017-06-03 01:36:16.088] [Thread-169] com.miui.theme.tool.os.Adb.push(Unknown Source) [push fail, {}]
+com.android.ddmlib.TimeoutException
+	at com.android.ddmlib.AdbHelper.read(AdbHelper.java:767)
+	at com.android.ddmlib.AdbHelper.read(AdbHelper.java:736)
+	at com.android.ddmlib.AdbHelper.readAdbResponse(AdbHelper.java:222)
+	at com.android.ddmlib.AdbHelper.executeRemoteCommand(AdbHelper.java:456)
+	at com.android.ddmlib.AdbHelper.executeRemoteCommand(AdbHelper.java:382)
+	at com.android.ddmlib.Device.executeShellCommand(Device.java:613)
+	at com.android.ddmlib.Device.isRoot(Device.java:1231)
+	at com.miui.theme.tool.os.Adb.getDevice(Unknown Source)
+	at com.miui.theme.tool.os.Adb.push(Unknown Source)
+	at com.miui.theme.tool.os.CmdUtils.adb_push_MIUIThemeToolGenerated(Unknown Source)
+	at com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source)
+[ERROR 2017-06-03 01:36:16.090] [Thread-169] com.miui.theme.tool.gui.main.ThemeManager$2.run(Unknown Source) [adb push fail]
+[DEBUG 2017-06-03 01:36:16.420] [AWT-EventQueue-0] com.miui.theme.tool.util.ShortcutManager.addShortcutListener(Unknown Source) [The shourt cut is already used.]
+[DEBUG 2017-06-03 01:36:32.002] [Thread-173] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:67 total:67      description.xml]
+[DEBUG 2017-06-03 01:36:37.208] [Thread-173] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:5206 total:5273      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:36:37.577] [Thread-173] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:36:45.673] [Thread-173] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:36:45.761] [Thread-173] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:36:46.606] [Thread-173] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:37:04.812] [Thread-183] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:63 total:63      description.xml]
+[DEBUG 2017-06-03 01:37:09.422] [Thread-183] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4610 total:4673      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:37:09.838] [Thread-183] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:37:17.309] [Thread-183] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:37:17.377] [Thread-183] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:37:18.130] [Thread-183] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:38:23.833] [Thread-193] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:68 total:68      description.xml]
+[DEBUG 2017-06-03 01:38:23.948] [Thread-193] com.miui.theme.tool.compressor.MtzCompressor.checkFileByMapRecursive(Unknown Source) [manifest.xml 1496425101422~1496424588000]
+[DEBUG 2017-06-03 01:38:24.180] [Thread-193] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:347 total:415      lockscreen]
+[DEBUG 2017-06-03 01:38:28.744] [Thread-193] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4564 total:4979      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:38:29.139] [Thread-193] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:38:36.777] [Thread-193] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:38:36.871] [Thread-193] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:38:37.376] [Thread-201] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:74 total:74      description.xml]
+[DEBUG 2017-06-03 01:38:37.871] [Thread-193] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:38:41.895] [Thread-201] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4519 total:4593      E:\常用文件\MIUI\MIUINewThemeEditor_6.6.30_1467269495_jre7\6.6.30_1467269495\tmp\themes\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:38:42.237] [Thread-201] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:38:50.061] [Thread-201] com.miui.theme.tool.os.Adb.shell(Unknown Source) [am start -n com.android.thememanager/com.android.thememanager.ApplyThemeForScreenshot -e "theme_file_path" "/sdcard/MIUI/theme/MIUIThemeToolGenerated.mtz"  -e "api_called_from" "ThemeEditor_6.6.30_1467269495"]
+[DEBUG 2017-06-03 01:38:50.147] [Thread-201] com.miui.theme.tool.util.GUIUtil.toast(Unknown Source) [root失败]
+[DEBUG 2017-06-03 01:38:50.839] [Thread-201] com.miui.theme.tool.os.Adb.shell(Unknown Source) [[Starting: Intent { cmp=com.android.thememanager/.ApplyThemeForScreenshot (has extras) }, ]]
+[DEBUG 2017-06-03 01:40:51.877] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:57 total:57      description.xml]
+[DEBUG 2017-06-03 01:40:56.431] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4554 total:4611      E:\常用文件\MIUI\主题\mine\薛之谦动物世界.mtz]
+[DEBUG 2017-06-03 01:41:27.184] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateCache(Unknown Source) [spend:56 total:56      description.xml]
+[DEBUG 2017-06-03 01:41:31.836] [AWT-EventQueue-0] com.miui.theme.tool.compressor.MtzCompressor.generateMtz(Unknown Source) [spend:4652 total:4708      E:\常用文件\MIUI\主题\mine\薛之谦动物世界.mtz]

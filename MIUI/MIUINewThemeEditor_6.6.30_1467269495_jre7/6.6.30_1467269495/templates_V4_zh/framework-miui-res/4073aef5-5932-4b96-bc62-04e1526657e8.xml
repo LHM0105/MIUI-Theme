@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="短信收藏部件" version="2.9.29" annotation="收藏短信内容展开/收回按钮" tag="">
+    <resource description="expander_close_holo_light.9" x="26" y="262" width="42" height="36" uuid="33e9514b-0c20-4a5e-b9d4-aa7b8abe1fcb">
+        <path src="res\drawable-xhdpi\expander_close_holo_light.9.png" description="" />
+    </resource>
+    <resource description="expander_open_holo_light.9" x="24" y="172" width="42" height="36" uuid="6d4bc9e7-f907-4750-8e71-61d3e00d4f68">
+        <path src="res\drawable-xhdpi\expander_open_holo_light.9.png" description="" />
+    </resource>
+</screenshot>

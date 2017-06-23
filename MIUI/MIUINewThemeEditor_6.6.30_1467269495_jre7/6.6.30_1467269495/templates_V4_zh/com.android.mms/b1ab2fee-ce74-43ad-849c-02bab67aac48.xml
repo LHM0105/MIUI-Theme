@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 短信列表" version="2.9.20" annotation="" tag="短信列表">
+    <resource description="sms_unread_count_bg.9.png" x="348" y="175" width="41" height="42" uuid="a4a32a1e-7f44-48a5-b59a-24cc2b6eac23">
+        <path src="res\drawable-hdpi\sms_unread_count_bg.9.png" description="未读短信数量" />
+        <path src="res\drawable-xhdpi\sms_unread_count_bg.9.png" description="未读短信数量" />
+    </resource>
+    <resource description="ic_menu_msg_compose_holo_dark.png" x="273" y="1194" width="72" height="72" uuid="a6b48d0d-0802-4022-8ca1-062d43fcedaf">
+        <path src="res\drawable-hdpi\ic_menu_msg_compose_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_msg_compose_holo_dark.png" description="" />
+    </resource>
+    <resource description="conversation_error_indicator" x="317" y="574" width="30" height="30" uuid="9b243229-e2a9-4fd4-9d43-f76114fb7a3a">
+        <path src="res\drawable-hdpi\conversation_error_indicator.png" description="" />
+        <path src="res\drawable-xhdpi\conversation_error_indicator.png" description="" />
+    </resource>
+    <resource description="conversation_attachment_indicator" x="276" y="416" width="30" height="30" uuid="798658cc-de9a-48cb-b8be-d70e31b60cd4">
+        <path src="res\drawable-hdpi\conversation_attachment_indicator.png" description="附件" />
+        <path src="res\drawable-xhdpi\conversation_attachment_indicator.png" description="附件" />
+    </resource>
+    <resource description="conversation_draft_indicator" x="280" y="574" width="30" height="30" uuid="4a2a3d57-ed0e-47ad-8d75-bc32ae228f5e">
+        <path src="res\drawable-hdpi\conversation_draft_indicator.png" description="编辑" />
+        <path src="res\drawable-xhdpi\conversation_draft_indicator.png" description="编辑" />
+    </resource>
+    <resource description="conversation_timed_indicator" x="317" y="415" width="30" height="30" uuid="d847d721-31d0-4235-8815-864bf0ee5ef0">
+        <path src="res\drawable-hdpi\conversation_timed_indicator.png" description="定时发送" />
+        <path src="res\drawable-xhdpi\conversation_timed_indicator.png" description="定时发送" />
+    </resource>
+    <resource description="conversation_list_bg.9" x="0" y="48" width="720" height="1134" uuid="38d9b8d3-37b7-4f79-9e89-c92dce810c40">
+        <path src="res\drawable-hdpi\conversation_list_bg.9.png" description="此背景为短信列表与新建短信会话界面背景，默认为透明，根据需求更改。" />
+        <path src="res\drawable-xhdpi\conversation_list_bg.9.png" description="此背景为短信列表与新建短信会话界面背景，默认为透明，根据需求更改。" />
+    </resource>
+    <resource description="ic_contact_photo_bg" x="22" y="332" width="110" height="116" uuid="a80ea157-cfd6-4a67-b6f5-a97b164f5179">
+        <path src="res\drawable-hdpi\ic_contact_photo_bg.png" description="头像背景" />
+        <path src="res\drawable-hdpi\ic_contact_photo_fg.png" description="头像顶部图层" />
+        <path src="res\drawable-hdpi\ic_contact_photo_mask.png" description="遮罩层，控制头像显示" />
+    </resource>
+</screenshot>

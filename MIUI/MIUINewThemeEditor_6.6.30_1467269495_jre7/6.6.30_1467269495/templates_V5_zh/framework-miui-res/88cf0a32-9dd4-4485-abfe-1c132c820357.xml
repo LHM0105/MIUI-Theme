@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="设置按钮" version="4.2.17" annotation="" tag="按钮、输入框">
+    <resource description="v5_spinner_bg_normal_light.9" x="14" y="372" width="692" height="108" uuid="985bb9ce-adb6-4d8e-9d3c-65f37f4e72db">
+        <path src="res\drawable-hdpi\v5_spinner_bg_normal_light.9.png" description="下拉按钮 常态" />
+        <path src="res\drawable-xhdpi\v5_spinner_bg_normal_light.9.png" description="下拉按钮 常态" />
+        <path src="res\drawable-xxhdpi\v5_spinner_bg_normal_light.9.png" description="下拉按钮 常态" />
+        <path src="res\drawable-hdpi\v5_spinner_bg_pressed_light.9.png" description="下拉按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_spinner_bg_pressed_light.9.png" description="下拉按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_spinner_bg_pressed_light.9.png" description="下拉按钮 二态" />
+    </resource>
+</screenshot>

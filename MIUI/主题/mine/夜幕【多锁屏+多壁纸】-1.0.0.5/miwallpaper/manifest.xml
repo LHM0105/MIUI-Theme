@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<MiWallpaper version="1" frameRate="30" screenWidth="720">
+	<!-- <Image x="-#wallpaper_offset_x*720" y="0" src="bg.jpg"/> -->
+
+    <Var name="sw" expression="#screen_width" const="true" />
+	<Var name="h" expression="#screen_height" const="true" />
+	<Var name="scsy" expression="ifelse(isnull(#scsy),0,#scsy)" type="number" const="true" />
+	<Var name="bg" expression="ifelse(isnull(#bg),0,#bg)" type="number" const="true" />
+	
+	<Button x="0" y="350" w="#sw" h="310" >
+		<Triggers>
+			<Trigger action="double">
+				<VariableCommand name="bg" expression="ifelse(ge(#bg,5),0,#bg+1)" persist="true"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+
+	<Group x="-#wallpaper_offset_x*720" y="0" name="bz" >
+		<Image src="bg0.jpg"  y="0"  visibility="eq(#bg,0)"/>
+		<Image src="bg1.jpg"  y="0"  visibility="eq(#bg,1)"/>
+		<Image src="bg2.jpg"  y="0"  visibility="eq(#bg,2)"/>
+		<Image src="bg3.jpg"  y="0"  visibility="eq(#bg,3)"/>
+		<Image src="bg4.jpg"  y="0"  visibility="eq(#bg,4)"/>
+		<Image src="bg5.jpg"  y="0"  visibility="eq(#bg,5)"/>
+		
+		
+    </Group>
+	
+	<Image  x="119" y="397" src="ts2.png" visibility="eq(#scsy,0)"/>
+	<Button name="kg_c" x="400" y="440" w="300" h="200" visibility="ne(#scsy,2)">
+		<Triggers>
+		  <Trigger action="down" >
+			<VariableCommand name="scsy" expression="1" persist="true" condition="eq(#scsy,0)" delay="100"/>
+		  </Trigger>
+		</Triggers>
+	  </Button>
+	
+</MiWallpaper>

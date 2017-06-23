@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 全部设置" version="2.9.21" annotation="" tag="全部设置">
+    <resource description="ic_menu_add.png" x="42" y="250" width="66" height="66" uuid="7aa049dd-1d1c-4e7a-93a9-51145f9f5dd3">
+        <path src="res\drawable-hdpi\ic_menu_add.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_add.png" description="" />
+    </resource>
+    <resource description="ic_settings_battery.png" x="42" y="412" width="66" height="66" uuid="2d54271a-b1b8-43ea-a0f1-942bd313b82d">
+        <path src="res\drawable-hdpi\ic_settings_battery.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_battery.png" description="" />
+    </resource>
+    <resource description="ic_settings_storage.png" x="42" y="514" width="66" height="66" uuid="2690ed98-36f2-4ccd-8661-f6619147fc38">
+        <path src="res\drawable-hdpi\ic_settings_storage.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_storage.png" description="" />
+    </resource>
+    <resource description="ic_settings_key.png" x="42" y="610" width="66" height="66" uuid="3101e070-b25a-4e27-809e-e307d4f2d79e">
+        <path src="res\drawable-hdpi\ic_settings_key.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_key.png" description="" />
+    </resource>
+    <resource description="led_settings.png" x="42" y="712" width="66" height="66" uuid="e080417d-d59d-46c6-8992-03d522a19eec">
+        <path src="res\drawable-hdpi\led_settings.png" description="" />
+        <path src="res\drawable-xhdpi\led_settings.png" description="" />
+    </resource>
+    <resource description="ic_settings_date_time.png" x="42" y="874" width="66" height="66" uuid="f0b76e65-c571-4800-891b-f24a984b84a3">
+        <path src="res\drawable-hdpi\ic_settings_date_time.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_date_time.png" description="" />
+    </resource>
+    <resource description="ic_settings_language.png" x="42" y="975" width="66" height="66" uuid="d2abd7b2-245f-4090-b152-334fe68eeb69">
+        <path src="res\drawable-hdpi\ic_settings_language.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_language.png" description="" />
+    </resource>
+    <resource description="ic_tab_unselected_running.png" x="42" y="1066" width="66" height="66" uuid="804c567b-ec8b-49d7-a67b-ca7f4122ca26">
+        <path src="res\drawable-hdpi\ic_tab_selected_running.png" description="" />
+        <path src="res\drawable-hdpi\ic_tab_unselected_running.png" description="" />
+        <path src="res\drawable-xhdpi\ic_tab_selected_running.png" description="" />
+        <path src="res\drawable-xhdpi\ic_tab_unselected_running.png" description="" />
+    </resource>
+    <resource description="ic_settings_backup.png" x="42" y="1165" width="66" height="66" uuid="de7fa003-5595-4d1f-ab6d-a88f10ae6cb9">
+        <path src="res\drawable-hdpi\ic_settings_backup.png" description="" />
+        <path src="res\drawable-xhdpi\ic_settings_backup.png" description="" />
+    </resource>
+</screenshot>

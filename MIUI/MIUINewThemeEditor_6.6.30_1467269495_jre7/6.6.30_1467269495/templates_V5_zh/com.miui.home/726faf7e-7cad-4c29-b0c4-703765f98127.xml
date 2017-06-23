@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 文件夹" version="2.9.16" annotation="" tag="文件夹">
+    <resource description="folder_background.9.png" x="8" y="76" width="704" height="1114" uuid="09bf23b8-4b30-49ac-83b5-71013e2b77bc">
+        <path src="res\drawable-hdpi\folder_background.9.png" description="文件夹背景" />
+    </resource>
+    <resource description="folder_scrollbar_v.9" x="648" y="216" width="32" height="852" uuid="3abd10d1-3469-4a46-9a43-63d980cd8403">
+        <path src="res\drawable-hdpi\folder_scrollbar_v.9.png" description="文件夹滚动条" />
+        <path src="res\drawable-xhdpi\folder_scrollbar_v.9.png" description="文件夹滚动条" />
+    </resource>
+</screenshot>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 OTG" version="3.2.27" annotation="" tag="2.0 SD card">
+    <resource description="volume_switch_normal" x="7" y="148" width="75" height="71" uuid="b2bc5f0c-acca-430c-916c-db5c5206ef0f">
+        <path src="res\drawable-xhdpi\volume_switch_normal.png" description="存储设备弹窗显示按钮" />
+        <path src="res\drawable-xxhdpi\volume_switch_normal.png" description="存储设备弹窗显示按钮" />
+        <path src="res\drawable-xhdpi\volume_switch_pressed.png" description="存储设备弹窗显示按钮 二态" />
+        <path src="res\drawable-xxhdpi\volume_switch_pressed.png" description="存储设备弹窗显示按钮 二态" />
+    </resource>
+    <resource description="dropdown_normal.9" x="4" y="235" width="702" height="113" uuid="46ce7d5e-b176-4fdc-9464-95bfd107da69">
+        <path src="res\drawable-xhdpi\dropdown_normal.9.png" description="存储设备列表" />
+        <path src="res\drawable-xxhdpi\dropdown_normal.9.png" description="存储设备列表" />
+        <path src="res\drawable-xhdpi\dropdown_panel_bg.9.png" description="存储设备弹窗背景" />
+        <path src="res\drawable-xxhdpi\dropdown_panel_bg.9.png" description="存储设备弹窗背景" />
+        <path src="res\drawable-xhdpi\dropdown_pressed.9.png" description="存储设备列表 二态" />
+        <path src="res\drawable-xxhdpi\dropdown_pressed.9.png" description="存储设备列表 二态" />
+    </resource>
+    <resource description="storage_usb_n" x="20" y="390" width="49" height="50" uuid="23418b74-77db-407c-abcf-548498ea465a">
+        <path src="res\drawable-xhdpi\storage_sd_card_n.png" description="sd卡常态图标" />
+        <path src="res\drawable-xxhdpi\storage_sd_card_n.png" description="sd卡常态图标" />
+        <path src="res\drawable-xhdpi\storage_sd_card_p.png" description="sd卡二态图标" />
+        <path src="res\drawable-xxhdpi\storage_sd_card_p.png" description="sd卡二态图标" />
+        <path src="res\drawable-xhdpi\storage_usb_n.png" description="USB存储器图标常态" />
+        <path src="res\drawable-xxhdpi\storage_usb_n.png" description="USB存储器图标常态" />
+        <path src="res\drawable-xhdpi\storage_usb_p.png" description="USB存储器图标二态" />
+        <path src="res\drawable-xxhdpi\storage_usb_p.png" description="USB存储器图标二态" />
+    </resource>
+    <resource description="storage_internal_n" x="21" y="267" width="46" height="48" uuid="d561dfba-29f1-46e4-a1a7-e249c28d1ef3">
+        <path src="res\drawable-xhdpi\storage_internal_n.png" description="内存设备图标" />
+        <path src="res\drawable-xxhdpi\storage_internal_n.png" description="内存设备图标" />
+        <path src="res\drawable-xhdpi\storage_internal_p.png" description="" />
+        <path src="res\drawable-xxhdpi\storage_internal_p.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.5 下载最新完整包" version="3.5.8" annotation="" tag="">
+    <resource description="bottom_bar_placeholder.9" x="0" y="1120" width="720" height="160" uuid="f1fab2d0-43f5-4e4f-a3d6-eb061a0c2cec">
+        <path src="res\drawable-hdpi\bottom_bar_placeholder.9.png" description="按钮背景占位图" />
+        <path src="res\drawable-xhdpi\bottom_bar_placeholder.9.png" description="按钮背景占位图" />
+    </resource>
+</screenshot>

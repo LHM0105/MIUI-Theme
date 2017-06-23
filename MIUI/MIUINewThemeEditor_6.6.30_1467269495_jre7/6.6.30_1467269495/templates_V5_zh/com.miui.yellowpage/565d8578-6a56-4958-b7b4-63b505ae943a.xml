@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="快递查询" version="3.11.26" annotation="" tag="">
+    <resource description="history_button_n" x="632" y="56" width="80" height="74" uuid="31285e30-167e-479f-9901-8520f57332ad">
+        <path src="res\drawable-xhdpi\history_button_n.png" description="历史查询 常态" />
+        <path src="res\drawable-xhdpi\history_button_p.png" description="历史查询 二态" />
+    </resource>
+</screenshot>

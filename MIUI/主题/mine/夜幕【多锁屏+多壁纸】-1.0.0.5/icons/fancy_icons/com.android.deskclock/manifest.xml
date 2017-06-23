@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Icon version="1" frameRate="1" width="192" height="192" screenWidth="1080" extraResourcesScreenWidth="720" useVariableUpdater="DateTime">
+	<Image x="96" y="96" w="192" h="192" align="center" alignV="center" src="clock.png" />
+	<Image name="c1" x="96" y="96" align="center" alignV="center" pivotX="#c1.bmp_width/2" pivotY="#c1.bmp_height/2" src="hour.png" alpha="150" angle="#hour12*30+#minute/2" />
+	<Image name="c2" x="96" y="96" align="center" alignV="center" pivotX="#c2.bmp_width/2" pivotY="#c2.bmp_height/2" src="minute.png" alpha="180" angle="#minute*6+#second/10" />
+	<Image name="c3" x="96" y="96" align="center" alignV="center" pivotX="#c3.bmp_width/2" pivotY="#c3.bmp_height/2" src="second.png" alpha="255" angle="#second*6" />
+</Icon>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="通知栏图标背景" version="1.0" annotation="小图标背景" tag="">
+    <resource description="notify_panel_notification_icon_bg_tile.9.png" x="20" y="280" width="66" height="66" uuid="215654f3-4dd0-4a4e-9c93-c16720f392ad">
+        <path src="res\drawable-hdpi\notify_panel_notification_icon_bg_tile.9.png" description="" />
+        <path src="res\drawable-xhdpi\notify_panel_notification_icon_bg_tile.9.png" description="" />
+    </resource>
+</screenshot>

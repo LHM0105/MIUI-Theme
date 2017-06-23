@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 流量使用" version="3.2.27" annotation="" tag="流量使用">
+    <resource description="plate_bg" x="12" y="258" width="690" height="616" uuid="21d05df3-86d8-4130-9242-21764d3c6562">
+        <path src="res\drawable-hdpi\plate_bg.png" description="中间圆圈背景" />
+        <path src="res\drawable-xhdpi\plate_bg.png" description="中间圆圈背景" />
+    </resource>
+    <resource description="plate_bg_bottom" x="12" y="884" width="688" height="130" uuid="8a168f0d-b122-496f-9133-857abb00707e">
+        <path src="res\drawable-hdpi\plate_bg_bottom.png" description="下背景" />
+        <path src="res\drawable-xhdpi\plate_bg_bottom.png" description="下背景" />
+    </resource>
+    <resource description="plate_bg_top" x="10" y="152" width="698" height="88" uuid="5d591582-66d6-4071-89b5-f2bf40a193d0">
+        <path src="res\drawable-hdpi\plate_bg_top.png" description="顶部背景" />
+        <path src="res\drawable-xhdpi\plate_bg_top.png" description="顶部背景" />
+    </resource>
+    <resource description="plate_pointer" x="164" y="351" width="154" height="148" uuid="aa669d3e-d45f-4e2d-9c41-d8ff215b38b7">
+        <path src="res\drawable-hdpi\plate_pointer.png" description="指示指针" />
+        <path src="res\drawable-xhdpi\plate_pointer.png" description="指示指针" />
+    </resource>
+    <resource description="plate_used_bg" x="64" y="270" width="578" height="564" uuid="3edce133-9748-4e01-9327-edb6f66a4cdd">
+        <path src="res\drawable-hdpi\plate_used_bg.png" description="已使用流量颜色" />
+        <path src="res\drawable-xhdpi\plate_used_bg.png" description="已使用流量颜色" />
+    </resource>
+    <resource description="plate_point" x="140" y="341" width="440" height="433" uuid="8cd3648f-6693-4600-af98-22a3c7d0176e">
+        <path src="res\drawable-hdpi\plate_point.png" description="已使用流量指示" />
+        <path src="res\drawable-hdpi\plate_point_shadow.png" description="顶部高光颜色" />
+        <path src="res\drawable-xhdpi\plate_point.png" description="底部已使用流量指示" />
+        <path src="res\drawable-xhdpi\plate_point_shadow.png" description="顶部高光颜色" />
+        <path src="res\drawable-xhdpi\plate_inner.png" description="中间层背景" />
+    </resource>
+    <resource description="traffic_drag_text.9" x="75" y="276" width="201" height="46" uuid="31a97bee-46eb-48cc-9266-9616a0033f28">
+        <path src="res\drawable-hdpi\traffic_drag_text.9.png" description="警戒值背景" />
+    </resource>
+    <resource description="traffic_drag_arrow" x="161" y="325" width="26" height="12" uuid="7a8328a4-8a53-4074-8de6-2185df8f101a">
+        <path src="res\drawable-hdpi\traffic_drag_arrow.png" description="指示图片" />
+    </resource>
+</screenshot>

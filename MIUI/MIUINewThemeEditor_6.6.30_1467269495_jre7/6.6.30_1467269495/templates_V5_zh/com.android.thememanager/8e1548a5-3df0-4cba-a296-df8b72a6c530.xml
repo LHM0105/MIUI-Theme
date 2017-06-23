@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 本地主题" version="3.1.11" annotation="" tag="旧 主题">
+    <resource description="action_bar_logo" x="16" y="58" width="78" height="64" uuid="72d75d91-6425-4e02-9ce2-c17f9f28d7fa">
+        <path src="res\drawable-hdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xhdpi\action_bar_logo.png" description="主题图标" />
+        <path src="res\drawable-xxhdpi\action_bar_logo.png" description="主题图标" />
+    </resource>
+    <resource description="theme_oper_info_bar_bg_n.9" x="0" y="228" width="718" height="102" uuid="a08bbee6-f52e-4171-bfff-316cafeae0ee">
+        <path src="res\drawable-hdpi\theme_oper_info_bar_bg_n.9.png" description="转化主题背景" />
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg_n.9.png" description="转化主题背景" />
+        <path src="res\drawable-xxhdpi\theme_oper_info_bar_bg_n.9.png" description="转化主题背景" />
+        <path src="res\drawable-hdpi\theme_oper_info_bar_bg_p.9.png" description="转化主题背景 二态" />
+        <path src="res\drawable-xhdpi\theme_oper_info_bar_bg_p.9.png" description="转化主题背景 二态" />
+        <path src="res\drawable-xxhdpi\theme_oper_info_bar_bg_p.9.png" description="转化主题背景 二态" />
+    </resource>
+    <resource description="ic_batch_import_info" x="26" y="252" width="50" height="54" uuid="26016759-6393-4c29-8ca7-0cd426c25e67">
+        <path src="res\drawable-hdpi\ic_batch_import_info.png" description="转化图标" />
+        <path src="res\drawable-xhdpi\ic_batch_import_info.png" description="转化图标" />
+        <path src="res\drawable-xxhdpi\ic_batch_import_info.png" description="转化图标" />
+    </resource>
+    <resource description="batch_import_arrow" x="644" y="245" width="60" height="67" uuid="182d8515-7dfd-4c21-8ab0-5bc7dea5fa24">
+        <path src="res\drawable-hdpi\batch_import_arrow.png" description="进入图标" />
+        <path src="res\drawable-xhdpi\batch_import_arrow.png" description="进入图标" />
+        <path src="res\drawable-xxhdpi\batch_import_arrow.png" description="进入图标" />
+    </resource>
+    <resource description="flag_using" x="646" y="620" width="52" height="54" uuid="7629cfff-06ad-4a7b-b95f-3105cea96052">
+        <path src="res\drawable-hdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-xhdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-xxhdpi\flag_downloaded.png" description="下载中 图标" />
+        <path src="res\drawable-hdpi\flag_using.png" description="当前主题" />
+        <path src="res\drawable-xhdpi\flag_using.png" description="当前主题" />
+        <path src="res\drawable-xxhdpi\flag_using.png" description="当前主题" />
+    </resource>
+    <resource description="flag_update" x="160" y="730" width="74" height="78" uuid="86e671b4-61c1-44cc-a1b8-217e76412c97">
+        <path src="res\drawable-hdpi\flag_update.png" description="主题更新提示" />
+        <path src="res\drawable-xhdpi\flag_update.png" description="主题更新提示" />
+        <path src="res\drawable-xxhdpi\flag_update.png" description="主题更新提示" />
+    </resource>
+    <resource description="new_update" x="147" y="157" width="53" height="49" uuid="0bca7d78-b471-4021-a5fe-0368099a98b5">
+        <path src="res\drawable-hdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+        <path src="res\drawable-xhdpi\tab_title_icon_bg.9.png" description="提示数字背景" />
+    </resource>
+</screenshot>

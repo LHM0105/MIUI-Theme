@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Stopwatch 1" version="3.4.12" annotation="" tag="">
+    <resource description="duration_middle_dot" x="238" y="428" width="244" height="68" uuid="2e8cfca8-9543-433e-92d7-b1ba72956b29" />
+    <resource description="duration_normal_dot" x="242" y="898" width="182" height="48" uuid="5f9c6a79-3566-4628-bb37-969fa77b2a38" />
+    <resource description="duration_small_dot" x="534" y="902" width="139" height="40" uuid="abd57d70-be70-43a2-8429-7fad35dcd130" />
+    <resource description="stopwatch_bg" x="0" y="138" width="720" height="716" uuid="1a1d9eff-226a-4020-930d-c3d6fb26d6ff">
+        <path src="res\drawable-hdpi\stopwatch_bg.png" description="秒表分页背景" />
+        <path src="res\drawable-xhdpi\stopwatch_bg.png" description="秒表分页背景" />
+    </resource>
+    <resource description="list_bg.9" x="0" y="865" width="720" height="257" uuid="f7364382-8924-4979-a2df-47c31b165046">
+        <path src="res\drawable-hdpi\list_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\list_bg.9.png" description="列表背景" />
+    </resource>
+    <resource description="lap_bg.9" x="518" y="1022" width="178" height="76" uuid="54f29c8c-15d9-4363-819b-907140fc10a6">
+        <path src="res\drawable-hdpi\lap_bg.9.png" description="圈" />
+        <path src="res\drawable-xhdpi\lap_bg.9.png" description="圈" />
+    </resource>
+    <resource description="second_progress_hand" x="438" y="650" width="140" height="140" uuid="41b4b559-c0c6-427f-a4c7-3f1be799e029">
+        <path src="res\drawable-hdpi\second_dial.png" description="秒盘" />
+        <path src="res\drawable-xhdpi\second_dial.png" description="秒盘" />
+        <path src="res\drawable-hdpi\second_progress.png" description="秒盘进度" />
+        <path src="res\drawable-xhdpi\second_progress.png" description="秒盘进度" />
+        <path src="res\drawable-hdpi\second_progress_hand.png" description="秒盘指针" />
+        <path src="res\drawable-xhdpi\second_progress_hand.png" description="秒盘指针" />
+    </resource>
+    <resource description="hour_progress_hand" x="142" y="648" width="140" height="140" uuid="0d542ffd-ead3-4eb0-a110-efa69a4a0d7e">
+        <path src="res\drawable-hdpi\hour_dial.png" description="小时表盘" />
+        <path src="res\drawable-xhdpi\hour_dial.png" description="小时表盘" />
+        <path src="res\drawable-hdpi\hour_progress.png" description="小时表盘进度" />
+        <path src="res\drawable-xhdpi\hour_progress.png" description="小时表盘进度" />
+        <path src="res\drawable-hdpi\hour_progress_hand.png" description="小时表盘指针" />
+        <path src="res\drawable-xhdpi\hour_progress_hand.png" description="小时表盘指针" />
+    </resource>
+    <resource description="min_progress_hand" x="38" y="168" width="652" height="660" uuid="321924ee-cade-4660-bed3-03796cf37f30">
+        <path src="res\drawable-hdpi\min_dial.png" description="分盘" />
+        <path src="res\drawable-xhdpi\min_dial.png" description="分盘" />
+        <path src="res\drawable-hdpi\min_progress.png" description="分盘 进度" />
+        <path src="res\drawable-xhdpi\min_progress.png" description="分盘 进度" />
+        <path src="res\drawable-hdpi\min_progress_hand.png" description="分盘 指针" />
+        <path src="res\drawable-xhdpi\min_progress_hand.png" description="分盘 指针" />
+        <path src="res\drawable-xhdpi\stopwatch_bg_shadow.png" description="秒表表盘阴影" />
+    </resource>
+    <resource description="bottom_button_bar_bg" x="12" y="1134" width="694" height="132" uuid="ed800c77-b434-4fc9-bdd7-c0ba23e194b2">
+        <path src="res\drawable-hdpi\bottom_button_bar_bg.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\bottom_button_bar_bg.png" description="按钮背景" />
+    </resource>
+</screenshot>

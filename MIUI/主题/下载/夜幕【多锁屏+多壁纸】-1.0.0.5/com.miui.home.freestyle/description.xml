@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<scene width="1080" name="zuikugfdsfdsgfsdghdfsadui">
+<screen type="background" width="1080" home="0" />
+<screen type="drift" width="3240" home="1">
+<sprite left="67" top="272" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="" function="mtz_gadget:tools\time" />
+<sprite left="1150" top="272" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/1.png" function="app:com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity" />
+<sprite left="1150" top="590" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/call1.png" function="app:com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity" />
+<sprite left="67" top="1412" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/call.png" function="app:com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" />
+<sprite left="386" top="1412" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/lianxiren.png" function="app:com.android.contacts/.activities.PeopleActivity" />
+<sprite left="705" top="1412" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/mms.png" function="app:com.android.mms/.ui.MmsTabActivity" />
+<sprite left="420" top="795" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/pic.png" function="app:com.miui.gallery/com.miui.gallery.app.Gallery" />
+<sprite left="1800" top="272" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/2 - 副本.png" function="drawer:" />
+<sprite left="1474" top="272" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/2.png" function="app:com.android.browser/.BrowserActivity" />
+<sprite left="1150" top="1197" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/app.png" function="app:com.xiaomi.shop/com.xiaomi.shop2.activity.MainTabActivity" />
+<sprite left="1800" top="890" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/set.png" function="app:com.android.settings/.MiuiSettings" />
+<sprite left="1150" top="890" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/came.png" function="app:com.android.camera/com.android.camera.Camera" />
+<sprite left="67" top="1105" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/qq.png" function="app:com.tencent.mobileqq/.activity.SplashActivity" />
+<sprite left="67" top="795" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/weixin.png" function="app:com.tencent.mm/com.tencent.mm.ui.LauncherUI" />
+<sprite left="1500" top="590" _name="mic" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="skins/tv.png" function="app:com.miui.video/.HomeActivity" />
+<sprite left="0" top="0" _name="" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="" function="" />
+<sprite left="2160" top="0" _name="音乐" rotation="0.0" scale_x="0.0" scale_y="0.0" width="0" height="0" appearance="" function="mtz_gadget:tools\music" />
+</screen>
+<screen type="foreground" width="1080" home="0" />
+<screen type="dock" width="1080" home="0" />
+</scene>

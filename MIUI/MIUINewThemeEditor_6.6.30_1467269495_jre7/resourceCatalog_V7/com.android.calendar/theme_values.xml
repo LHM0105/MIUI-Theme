@@ -1,0 +1,1208 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="repeat_radio_button_text_checked">#fff05000</color>
+<color name="widget_day_bg_n">#ffffffff</color>
+<color name="widget_title_date">#ffffffff</color>
+<color name="widget_day_of_month">#ffffffff</color>
+<color name="widget_day_bg_h">#fff0f0f0</color>
+<color name="widget_day_bg_p">#ffdfdfdf</color>
+<color name="widget_day_header_stroke">#ffbcbcbc</color>
+<color name="widget_day_header_text">#ffa9a9a9</color>
+<color name="widget_day_secondary_text">#ff8d8d8d</color>
+<color name="widget_day_primary_text">#cc000000</color>
+<color name="event_info_title_text_color">#ff313131</color>
+<color name="repeat_table_item_bg_selected">#ffff6d33</color>
+<color name="event_info_sub_text_color">#ff313131</color>
+<color name="event_info_sub_title_color">#ff636363</color>
+<color name="repeat_table_item_stroke_normal">#ffdbdbdb</color>
+<color name="repeat_custom_line_divider">#ccc3c3c3</color>
+<color name="repeat_table_item_stroke_selected">#ffe25822</color>
+<color name="repeat_table_item_stroke_press">#ffcdcdcd</color>
+<color name="repeat_table_item_bg_press">#ffebebeb</color>
+<color name="repeat_table_item_bg_normal">#fff4f4f4</color>
+<color name="widget_list_bg_color">#ffffffff</color>
+<color name="widget_list_divider">#ffe5e5e5</color>
+<color name="widget_header_bg_color">#fff7f7f7</color>
+<color name="repeat_radio_button_text_normal">#cc000000</color>
+<color name="repeat_radio_button_text_press">#ffef5416</color>
+<color name="repeat_table_item_invalid">#ffeeeeee</color>
+<color name="repeat_table_item_text_normal">#ff7a7a7a</color>
+<color name="repeat_table_item_text_press">#ff7a7a7a</color>
+<color name="repeat_table_item_text_selected">#ffffffff</color>
+<color name="widget_day_header_solid">#ffebebeb</color>
+<color name="miui_calendar_past_bg_color">#fff3f3f3</color>
+<color name="miui_chip_fill_color">#66000000</color>
+<color name="miui_title_secondary_text_color">#ccffffff</color>
+<color name="miui_text_color_inverse">#80ffffff</color>
+<color name="miui_text_color_dark">#80000000</color>
+<color name="miui_agenda_header_footer_background_color_inverse">#66000000</color>
+<color name="miui_text_color_red">#ffce2a17</color>
+<color name="miui_agenda_item_day_background_color">#0d000000</color>
+<color name="miui_agenda_item_day_background_color_expired">#26000000</color>
+<color name="miui_separator_color">#32000000</color>
+<color name="miui_agenda_item_text_background_color">#0c000000</color>
+<color name="calendar_date_banner_text_color">#ff666666</color>
+<color name="calendar_date_banner_background"></color>
+<color name="miui_day_label_lunar_text_color">#99000000</color>
+<color name="miui_day_label_day_text_color"></color>
+<color name="miui_day_label_lunar_text_color_red"></color>
+<color name="miui_day_label_week_text_color">#4c000000</color>
+<color name="miui_day_label_day_text_color_red"></color>
+<color name="miui_day_label_week_text_color_red"></color>
+<color name="calendar_date_range_color">#80000000</color>
+<color name="pressed">#330066ff</color>
+<color name="selection"></color>
+<color name="today_highlight_color">#00af3f31</color>
+<color name="background_color">#fffafafa</color>
+<color name="event_background">#ffc3d9ff</color>
+<color name="panel_text_foreground">#ffffffff</color>
+<color name="calendar_event_text_color">#ffffffff</color>
+<color name="calendar_owner_text_color">#ff777777</color>
+<color name="month_event_other_color">#ff666666</color>
+<color name="month_event_extra_color">#ff666666</color>
+<color name="month_event_color"></color>
+<color name="calendar_hour_label">#99000000</color>
+<color name="calendar_future_bg_color">#ffffffff</color>
+<color name="week_sunday">#ffacacac</color>
+<color name="week_saturday">#ffacacac</color>
+<color name="calendar_hour_background">#13000000</color>
+<color name="calendar_ampm_label">#4c000000</color>
+<color name="calendar_grid_line_inner_vertical_color">#ffe0e0e0</color>
+<color name="calendar_grid_line_highlight_color">#ff707070</color>
+<color name="calendar_grid_area_selected"></color>
+<color name="calendar_grid_line_inner_horizontal_color">#ffdedede</color>
+<color name="month_rest_day_background_color">#19a9ce79</color>
+<color name="month_work_day_background_color">#19ff7800</color>
+<color name="mini_month_bg_color">#ffffffff</color>
+<color name="mini_month_today_outline_color">#ff000000</color>
+<color name="event_info_label_color">#ff999999</color>
+<color name="event_info_body_color">#ff666666</color>
+<color name="text_shadow_color">#4d000000</color>
+<color name="event_info_label_background_color">#ffdddddd</color>
+<color name="appwidget_item_allday_color">#ffffffff</color>
+<color name="appwidget_item_standard_color">#ff333333</color>
+<color name="appwidget_when">#ffffffff</color>
+<color name="appwidget_title">#ffffffff</color>
+<color name="month_lunar_selected">#80ffffff</color>
+<color name="month_event_selected">#80ffffff</color>
+<color name="calendar_dominant_color">#ff31a9a5</color>
+<color name="month_num_today">#ff2ca9a5</color>
+<color name="month_week_bg">#fff7f7f7</color>
+<color name="month_week_divider">#ff808080</color>
+<color name="month_num_selected">#ffffffff</color>
+<color name="alert_event_title">#ffffffff</color>
+<color name="alert_event_other">#ff999999</color>
+<color name="agenda_item_where_declined_text_color">#66666666</color>
+<color name="agenda_item_where_text_color">#ff666666</color>
+<color name="agenda_day_item_text_color">#ff666666</color>
+<color name="event_info_description_color">#ff666666</color>
+<color name="event_info_organizer_color">#ff666666</color>
+<color name="event_info_headline_link_color">#ffffffff</color>
+<color name="event_info_headline_transparent_color">#b3ffffff</color>
+<color name="event_info_headline_color">#ffbe1c1c</color>
+<color name="appwidget_month">#ffeeeeee</color>
+<color name="appwidget_item_declined_color">#66333333</color>
+<color name="appwidget_date">#ffeeeeee</color>
+<color name="appwidget_week"></color>
+<color name="alert_past_event">#8f999999</color>
+<color name="appwidget_row_in_progress">#6633b5e5</color>
+<color name="agenda_list_separator_color"></color>
+<color name="calendar_view_switch_menu_text_color">#ff666666</color>
+<color name="calendar_view_switch_menu_text_color_light">#ff888888</color>
+<color name="month_bgcolor">#ffe5e5e5</color>
+<color name="month_today_bgcolor">#1a000000</color>
+<color name="agenda_item_standard_color">#ff333333</color>
+<color name="agenda_item_declined_color">#66333333</color>
+<color name="agenda_past_days_bar_background_color">#ffdddddd</color>
+<color name="agenda_day_bar_background_color">#ffffffff</color>
+<color name="agenda_general_background_color">#ffeeeeee</color>
+<color name="agenda_past_present_separator_color">#ff333333</color>
+<color name="agenda_selected_background_color"></color>
+<color name="agenda_selected_text_color">#ffffffff</color>
+<color name="new_event_hint_text_color">#ffffffff</color>
+<color name="day_event_clicked_background_color">#8033b5e5</color>
+<color name="day_past_background_color">#ffdddddd</color>
+<color name="month_dna_conflict_time_color">#ff333333</color>
+<color name="event_center">#ff6bd697</color>
+<color name="edit_event_separator">#ffdddddd</color>
+<color name="calendar_visible">#ff000000</color>
+<color name="month_num_focused">#a6000000</color>
+<color name="month_grid_lines">#ffcccccc</color>
+<color name="month_sunday">#ffd31414</color>
+<color name="month_saturday">#80333333</color>
+<color name="month_event_extra_other_color">#4c999999</color>
+<color name="month_selected_week_bgcolor">#ffdddddd</color>
+<color name="month_other_bgcolor">#ffeeeeee</color>
+<color name="month_other_month_day_number">#ff939497</color>
+<color name="calendar_secondary_hidden">#ff808080</color>
+<color name="agenda_item_not_selected">#00000000</color>
+<color name="calendar_hidden">#ff808080</color>
+<color name="calendar_secondary_visible">#ff323232</color>
+<color name="month_mini_day_number">#ff000000</color>
+<color name="month_week_num_color">#ff999999</color>
+<color name="month_lunar_color">#4d000000</color>
+<color name="month_day_number_selected">#ffffffff</color>
+<color name="month_day_names_color">#ff999999</color>
+<color name="topic_list_item_divider_color">#28000000</color>
+<color name="event_info_title_color"></color>
+<color name="today_event_summary_text_color">#8c000000</color>
+<color name="detail_header_title_color">#cc000000</color>
+<color name="detail_header_text_color">#8c000000</color>
+<color name="bottom_bar_text_color">#ff5d5d5d</color>
+<color name="today_event_secondary_text_color">#ff8d8d8d</color>
+<color name="action_bar_title_year_color">#ffffffff</color>
+<color name="widget_month_header_bg_color_dark">#66000000</color>
+<color name="action_bar_title_month_color">#ffffffff</color>
+<color name="widget_day_header_text_dark">#ffffffff</color>
+<color name="widget_month_header_bg_color_light"></color>
+<color name="widget_day_header_text_light"></color>
+<color name="widget_line_divider_light"></color>
+<color name="widget_line_divider_dark">#ffffffff</color>
+<color name="month_rest_day_text_color"></color>
+<color name="month_work_day_text_color">#ffeb6821</color>
+<color name="event_list_bg">#ffffffff</color>
+<color name="event_list_divider">#ffe2e2e2</color>
+<color name="event_title_color">#ff555555</color>
+<color name="event_time_color">#ff868686</color>
+<color name="action_bar_title_week_color">#ffffffff</color>
+<color name="view_button_color_n">#ffffffff</color>
+<color name="action_bar_background_color">#fff7f7f7</color>
+<color name="online_topic_button_positive">#ff4b8d0e</color>
+<color name="view_button_color_p">#ffffffff</color>
+<color name="today_event_section_text_color">#ffb8b8b8</color>
+<color name="online_topic_button_negative">#ffec2700</color>
+<color name="today_event_primary_text_color_disabled">#44000000</color>
+<color name="today_event_primary_text_color">#cc000000</color>
+<color name="month_unfocus_work_day_text_color">#80eb6821</color>
+<color name="month_num_unfocused">#3b000000</color>
+<color name="month_unfocus_rest_day_text_color">#802ca9a5</color>
+<color name="appwidget_where">#ffffffff</color>
+<color name="week_workday">#ffacacac</color>
+<color name="week_header_bg">#fff4f4f4</color>
+<color name="appwidget_no_events">#ffffffff</color>
+<color name="edit_event_fragment_bg">#ffffffff</color>
+<color name="day_view_bg_color">#fffcfcfc</color>
+<color name="huangli_bad_color">#ffb12a2a</color>
+<color name="huangli_good_color">#ff669f15</color>
+<color name="huangli_summary_color"></color>
+<color name="event_list_item_selected_bg">#26000000</color>
+<color name="widget_month_day_lunar_black">#ffffffff</color>
+<color name="widget_month_day_number_black">#ffffffff</color>
+<color name="appwidget_today_bg"></color>
+<color name="huangli_good_bad_color"></color>
+<bool name="enable_almanac">true</bool>
+<bool name="enable_lunar_date">true</bool>
+<bool name="enable_holiday">true</bool>
+<bool name="enable_online_calendar">true</bool>
+<bool name="enable_work_free_day">true</bool>
+<bool name="tablet_config">false</bool>
+<bool name="multiple_pane_config">false</bool>
+<bool name="agenda_show_event_info_full_screen">true</bool>
+<bool name="show_event_info_full_screen">true</bool>
+<bool name="show_details_in_month">false</bool>
+<bool name="show_event_details_with_agenda">false</bool>
+<bool name="show_calendar_controls">false</bool>
+<bool name="show_agenda_with_month">false</bool>
+<dimen name="match_score_margin_lr">15.000000dp</dimen>
+<dimen name="banner_pager_indicator_radius">5.000000dp</dimen>
+<dimen name="match_badge_image_height">25.000000dp</dimen>
+<dimen name="match_badge_image_width">32.000000dp</dimen>
+<dimen name="match_badge_margin_right">15.000000dp</dimen>
+<dimen name="match_badge_margin_left">10.000000dp</dimen>
+<dimen name="repeat_month_table_item_width">44.000000dp</dimen>
+<dimen name="repeat_year_table_item_width">78.000000dp</dimen>
+<dimen name="repeat_table_item_height">47.000000dp</dimen>
+<dimen name="repeat_week_table_item_width">78.000000dp</dimen>
+<dimen name="repeat_table_label_margin_top">12.000000dp</dimen>
+<dimen name="repeat_week_label_margin_top">15.000000dp</dimen>
+<dimen name="repeat_prompt_margin_top">5.000000dp</dimen>
+<dimen name="repeat_choose_label_margin_top">10.000000dp</dimen>
+<dimen name="repeat_number_picker_margin_top">20.000000dp</dimen>
+<dimen name="repeat_page_margin_h">23.000000dp</dimen>
+<dimen name="movable_over_scroll_range">60.000000dp</dimen>
+<dimen name="movable_page_padding_bottom">13.000000dp</dimen>
+<dimen name="movable_header_padding_bottom">25.000000dp</dimen>
+<dimen name="movable_header_padding_top">25.000000dp</dimen>
+<dimen name="movable_progress_margin_top">150.000000dp</dimen>
+<dimen name="movable_header_text_padding_top">15.000000dp</dimen>
+<dimen name="banner_pager_indicator_padding">5.000000dp</dimen>
+<dimen name="cell_min_height">14.000000dp</dimen>
+<dimen name="agenda_search_view_height">41.000000dp</dimen>
+<dimen name="event_info_title_text_size">13.000000sp</dimen>
+<dimen name="event_info_sub_title_size">12.000000sp</dimen>
+<dimen name="event_info_label_padding_left_small">8.000000dp</dimen>
+<dimen name="event_info_title_margin_top">28.000000dp</dimen>
+<dimen name="event_info_time_margin_top">16.000000dp</dimen>
+<dimen name="event_info_item_height"></dimen>
+<dimen name="event_info_title_size">20.000000sp</dimen>
+<dimen name="widget_list_header_height">19.000000dp</dimen>
+<dimen name="widget_agenda_header_height">41.000000dp</dimen>
+<dimen name="widget_agenda_page_padding">10.000000dp</dimen>
+<dimen name="widget_list_item_height3">63.000000dp</dimen>
+<dimen name="widget_list_item_height2">51.000000dp</dimen>
+<dimen name="widget_list_bg_corner">8.000000dp</dimen>
+<dimen name="day_view_event_text_size">13.000000sp</dimen>
+<dimen name="ampm_text_size">8.000000sp</dimen>
+<dimen name="day_view_event_location_text_size">11.000000sp</dimen>
+<dimen name="day_header_bottom_margin">10.000000dp</dimen>
+<dimen name="date_header_text_size">12.000000sp</dimen>
+<dimen name="hours_text_size">14.000000sp</dimen>
+<dimen name="allday_text_size">12.000000sp</dimen>
+<dimen name="day_label_text_size">10.000000sp</dimen>
+<dimen name="all_day_bottom_margin">8.000000dp</dimen>
+<dimen name="one_day_header_height">0.000000dp</dimen>
+<dimen name="hours_left_margin">20.000000dp</dimen>
+<dimen name="min_hours_width">43.000000dp</dimen>
+<dimen name="event_min_height">24.000000dp</dimen>
+<dimen name="event_text_horizontal_margin2">1.000000dp</dimen>
+<dimen name="event_text_horizontal_margin">7.000000dp</dimen>
+<dimen name="event_text_vertical_margin">3.000000dp</dimen>
+<dimen name="event_info_label_padding_top_small">11.000000dp</dimen>
+<dimen name="event_info_label_padding_left_large">22.000000dp</dimen>
+<dimen name="event_info_label_padding_top_large">23.000000dp</dimen>
+<dimen name="event_info_label_padding_top_medium">17.000000dp</dimen>
+<dimen name="repeat_radio_height">50.000000dp</dimen>
+<dimen name="repeat_label_height">33.000000dp</dimen>
+<dimen name="edit_event_view_padding_left">80.000000dp</dimen>
+<dimen name="edit_event_view_width">800.000000dp</dimen>
+<dimen name="action_bar_date_text_size">22.000000sp</dimen>
+<dimen name="new_event_hint_text_size">11.000000sp</dimen>
+<dimen name="widget_day_num_size">36.000000sp</dimen>
+<dimen name="widget_all_day_padding_h">2.000000dp</dimen>
+<dimen name="widget_day_num_top_padding">16777212.000000dp</dimen>
+<dimen name="widget_all_day_padding_v">1.000000dp</dimen>
+<dimen name="day_header_lunar_offset">15.000000dp</dimen>
+<dimen name="widget_day_of_month_text">30.000000dp</dimen>
+<dimen name="day_header_date_offset">22.000000dp</dimen>
+<dimen name="widget_date_text">10.000000dp</dimen>
+<dimen name="hours_right_margin">4.000000dp</dimen>
+<dimen name="widget_date_margin_left">5.000000dp</dimen>
+<dimen name="day_header_height">62.000000dp</dimen>
+<dimen name="widget_all_day_text">10.000000dp</dimen>
+<dimen name="widget_day_primary_text">13.000000dp</dimen>
+<dimen name="widget_day_secondary_text">10.000000dp</dimen>
+<dimen name="widget_day_header_text">9.000000dp</dimen>
+<dimen name="widget_all_day_rect_width">360.000000dp</dimen>
+<dimen name="day_off_indication_text_size">11.000000sp</dimen>
+<dimen name="edit_event_view_padding_right">80.000000dp</dimen>
+<dimen name="edit_reminder_min_size">36.000000dp</dimen>
+<dimen name="event_info_text_size">14.000000dp</dimen>
+<dimen name="event_info_desc_margin_left">0.000000dp</dimen>
+<dimen name="event_info_desc_margin_right">0.000000dp</dimen>
+<dimen name="event_info_padding">0.000000dp</dimen>
+<dimen name="today_detail_secondary_text_size">12.000000sp</dimen>
+<dimen name="today_detail_primary_text_size">13.000000sp</dimen>
+<dimen name="today_detail_subtitle_text_size">11.000000sp</dimen>
+<dimen name="today_detail_title_text_size">20.000000sp</dimen>
+<dimen name="today_header_view_height"></dimen>
+<dimen name="online_topic_button_width">50.000000dp</dimen>
+<dimen name="calendar_controls_width">280.000000dp</dimen>
+<dimen name="online_reminder_header_margin_bottom">10.000000dp</dimen>
+<dimen name="online_reminder_header_margin_top">20.000000dp</dimen>
+<dimen name="max_portrait_calendar_controls_width">350.000000dp</dimen>
+<dimen name="min_portrait_calendar_controls_width">300.000000dp</dimen>
+<dimen name="agenda_item_left_margin">13.000000dp</dimen>
+<dimen name="calendar_controls_height">300.000000dp</dimen>
+<dimen name="today_icon_text_size">14.000000sp</dimen>
+<dimen name="agenda_item_right_margin">13.000000dp</dimen>
+<dimen name="miui_title_action_button_margin_horizontal">3.000000dp</dimen>
+<dimen name="miui_day_label_lunar_text_size">8.000000dp</dimen>
+<dimen name="event_content_margin">12.000000dp</dimen>
+<dimen name="repeat_icon_margin_left">5.000000dp</dimen>
+<dimen name="day_off_indication_text_offset">2.500000sp</dimen>
+<dimen name="calendar_color_width">12.000000dp</dimen>
+<dimen name="list_preferred_item_height_large">80.000000dp</dimen>
+<dimen name="edit_event_title_button_margin">7.000000dp</dimen>
+<dimen name="event_info_dialog_height">470.000000dp</dimen>
+<dimen name="event_info_dialog_width">550.000000dp</dimen>
+<dimen name="line_height_triple"></dimen>
+<dimen name="line_height_double"></dimen>
+<dimen name="line_height_single"></dimen>
+<dimen name="week_view_event_text_size">12.000000sp</dimen>
+<dimen name="week_header_paddingRight">5.000000dp</dimen>
+<dimen name="week_header_paddingLeft">5.000000dp</dimen>
+<dimen name="week_header_height">24.329987dp</dimen>
+<dimen name="action_title_paddingBottom">3.000000dp</dimen>
+<dimen name="today_event_row_paddingTB">5.000000dp</dimen>
+<dimen name="today_event_image_size">44.500000dp</dimen>
+<dimen name="week_header_paddingLeft2">24.000000dp</dimen>
+<dimen name="today_event_row_paddingRight">5.000000dp</dimen>
+<dimen name="today_event_row_local_image_padding">0.000000dp</dimen>
+<dimen name="today_event_row_padding_top">27.000000dp</dimen>
+<dimen name="today_event_row_padding_bottom">8.000000dp</dimen>
+<dimen name="event_between_day">1.829987dp</dimen>
+<dimen name="action_bar_movable_height">360.000000dp</dimen>
+<dimen name="week_header_paddingRight2">24.000000dp</dimen>
+<dimen name="week_header_line_padding_left">22.000000dp</dimen>
+<dimen name="week_header_line_padding_right"></dimen>
+<dimen name="min_hours_width2"></dimen>
+<dimen name="v5_floating_view_over_distance">68.000000dp</dimen>
+<dimen name="lunar_between_day">3.669983dp</dimen>
+<dimen name="v5_min_anchor_velocity">150.000000dp</dimen>
+<dimen name="v5_translate_slop">60.000000dp</dimen>
+<dimen name="month_pager_height">302.000000dp</dimen>
+<dimen name="movable_height">300.000000dp</dimen>
+<dimen name="month_week_height">48.329987dp</dimen>
+<dimen name="match_score_bar_margin_top">10.000000dp</dimen>
+<dimen name="match_status_margin_top">10.000000dp</dimen>
+<dimen name="match_item_height">77.000000dp</dimen>
+<dimen name="v5_floating_view_top_hidden_size">15.000000dp</dimen>
+<dimen name="event_list_padding_lr">22.000000dp</dimen>
+<dimen name="month_list_bottom_padding">20.000000dp</dimen>
+<dimen name="event_list_init_height">165.000000dp</dimen>
+<dimen name="movable_list_padding">20.000000dp</dimen>
+<dimen name="month_today_circle_radius">18.669983dp</dimen>
+<dimen name="movable_scroll_range">120.000000dp</dimen>
+<dimen name="month_event_circle_radius">2.000000dp</dimen>
+<dimen name="month_bottom_bar_height">65.000000dp</dimen>
+<dimen name="text_size_month_number">19.329987dp</dimen>
+<dimen name="event_title_size">14.000000sp</dimen>
+<dimen name="event_summary_size">11.000000sp</dimen>
+<dimen name="today_detail_summary_text_size">12.000000sp</dimen>
+<dimen name="today_event_row_height"></dimen>
+<dimen name="huangli_good_bad_type_size">10.000000sp</dimen>
+<dimen name="huangli_good_bad_text_size">11.000000sp</dimen>
+<dimen name="event_color_size">7.500000dp</dimen>
+<dimen name="event_summary_margin_top">1.000000dp</dimen>
+<dimen name="page_margin_large">30.000000dp</dimen>
+<dimen name="topic_recommend_top_image_height">150.000000dp</dimen>
+<dimen name="page_margin_medium">20.000000dp</dimen>
+<dimen name="today_event_summay_padding_tb">10.000000dp</dimen>
+<dimen name="page_margin_small">15.000000dp</dimen>
+<dimen name="topic_recommend_bottom_button_padding">13.500000dp</dimen>
+<dimen name="huangli_good_bad_margin">4.000000dp</dimen>
+<dimen name="topic_recommend_bottom_height">80.000000dp</dimen>
+<dimen name="action_bar_title_margin_top">14.000000dp</dimen>
+<dimen name="action_bar_home_margin_top">8.000000dp</dimen>
+<dimen name="action_bar_progress_margin_right">12.000000dp</dimen>
+<dimen name="action_bar_progress_margin_top">18.000000dp</dimen>
+<dimen name="circle_bitmap_size_large">15.000000dp</dimen>
+<dimen name="calendars_dropdown_item_margin_right">20.000000dp</dimen>
+<dimen name="calendars_dropdown_item_margin_left">10.000000dp</dimen>
+<dimen name="view_event_item_padding_right">20.000000dp</dimen>
+<dimen name="new_event_edit_padding_top">10.000000dp</dimen>
+<dimen name="today_event_secondray_margin_top">3.000000dp</dimen>
+<dimen name="new_event_edit_height">90.000000dp</dimen>
+<dimen name="detail_summary_text_size">15.000000sp</dimen>
+<dimen name="detail_header_title_size">16.000000sp</dimen>
+<dimen name="detail_header_text_size">15.000000sp</dimen>
+<dimen name="compound_drawable_padding">9.000000dp</dimen>
+<dimen name="detail_header_padding_vertical">12.000000dp</dimen>
+<dimen name="event_detail_action_margin_top">20.000000dp</dimen>
+<dimen name="topic_title_margin_left">13.000000dp</dimen>
+<dimen name="topic_icon_height">58.000000dp</dimen>
+<dimen name="banner_icon_height">91.500000dp</dimen>
+<dimen name="banner_icon_width">148.000000dp</dimen>
+<dimen name="topic_hot_height">14.000000dp</dimen>
+<dimen name="banner_padding">8.000000dp</dimen>
+<dimen name="topic_hot_margin_left">5.000000dp</dimen>
+<dimen name="topic_hot_padding_h">3.000000dp</dimen>
+<dimen name="line_spacing_extra">4.000000dp</dimen>
+<dimen name="topic_hot_radius">2.000000dp</dimen>
+<dimen name="topic_hot_text_size">9.000000sp</dimen>
+<dimen name="topic_detail_summary_text_size">15.000000sp</dimen>
+<dimen name="topic_detail_bottom_bar_height">74.000000dp</dimen>
+<dimen name="topic_detail_bottom_padding">10.000000dp</dimen>
+<dimen name="online_event_icon_size">18.000000dp</dimen>
+<dimen name="event_detail_image_height">150.000000dp</dimen>
+<dimen name="event_detail_page_padding">10.000000dp</dimen>
+<dimen name="chip_height">32.000000dp</dimen>
+<dimen name="chip_text_size">14.000000sp</dimen>
+<dimen name="widget_all_day_height">23.000000dp</dimen>
+<dimen name="chip_padding">8.000000dp</dimen>
+<dimen name="action_bar_title_number_size">30.000000dp</dimen>
+<dimen name="action_bar_button_size">10.000000dp</dimen>
+<dimen name="action_bar_title_year_size">10.000000dp</dimen>
+<dimen name="action_bar_title_week_size">10.000000dp</dimen>
+<dimen name="action_bar_title_month_size">27.000000dp</dimen>
+<dimen name="action_bar_title_day_margin_bottom">16777213.000000dp</dimen>
+<dimen name="action_bar_title_month_margin_left">13.000000dp</dimen>
+<dimen name="action_bar_title_month_margin_right">7.000000dp</dimen>
+<dimen name="action_bar_title_today_margin_right">16777210.000000dp</dimen>
+<dimen name="view_button_width">43.000000dp</dimen>
+<dimen name="view_button_margin_bottom">12.000000dp</dimen>
+<dimen name="action_bar_title_week_margin_left">5.000000dp</dimen>
+<dimen name="action_bar_widget_title_month_margin_bottom">4.000000dp</dimen>
+<dimen name="topic_icon_width">88.000000dp</dimen>
+<dimen name="view_button_margin_right">14.000000dp</dimen>
+<dimen name="agenda_item_day_padding_left">5.000000dp</dimen>
+<dimen name="widget_header_height">54.000000dp</dimen>
+<dimen name="widget_padding">2.000000dp</dimen>
+<dimen name="widget_month_view_event">160.000000dp</dimen>
+<dimen name="widget_week_header_height">30.000000dp</dimen>
+<dimen name="widget_month_view_event_header_height">20.000000dp</dimen>
+<dimen name="widget_month_view_event_empty">110.000000dp</dimen>
+<dimen name="widget_action_bar_month_view_text_size">27.000000dp</dimen>
+<dimen name="widget_month_view_day_text_size">17.000000dp</dimen>
+<dimen name="widget_month_day_header_marginTop">6.000000dp</dimen>
+<dimen name="widget_month_info_width">315.000000dp</dimen>
+<dimen name="widget_month_view_event_height">30.000000dp</dimen>
+<dimen name="widget_event_image_margin">10.000000dp</dimen>
+<dimen name="widget_month_info_height">250.000000dp</dimen>
+<dimen name="action_bar_marginTop">15.000000dp</dimen>
+<dimen name="action_bar_height">50.000000dp</dimen>
+<dimen name="action_bar_padding_left">24.000000dp</dimen>
+<dimen name="date_picker_month_width_wide">80.000000dp</dimen>
+<dimen name="circle_bitmap_size_small">7.500000dp</dimen>
+<dimen name="circle_bitmap_size_medium">10.000000dp</dimen>
+<dimen name="date_picker_day_width_narrow">60.000000dp</dimen>
+<dimen name="date_picker_day_width_wide">80.000000dp</dimen>
+<dimen name="date_picker_month_width_narrow">60.000000dp</dimen>
+<dimen name="widget_month_week_width">50.000000dp</dimen>
+<dimen name="widget_month_week_height4">57.500000dp</dimen>
+<dimen name="date_picker_year_width_narrow">80.000000dp</dimen>
+<dimen name="widget_day_header_height">40.000000dp</dimen>
+<dimen name="date_picker_year_width_wide">95.000000dp</dimen>
+<dimen name="widget_page_margin_lr">15.000000dp</dimen>
+<dimen name="widget_month_content_height">230.000000dp</dimen>
+<dimen name="widget_month_week_today_bg_size">39.000000dp</dimen>
+<dimen name="widget_month_week_height5">46.000000dp</dimen>
+<dimen name="widget_month_week_height6">38.329987dp</dimen>
+<integer name="event_info_desc_line_num">#00000008</integer>
+<integer name="noresponse_attendee_photo_alpha_level">#00000040</integer>
+<integer name="chips_max_lines">#ffffffff</integer>
+<integer name="default_attendee_photo_alpha_level">#000000ff</integer>
+<integer name="month_day_number_margin">#00000008</integer>
+<integer name="text_size_month_number">#00000018</integer>
+<integer name="fragment_delay_time">#00000096</integer>
+<integer name="text_size_event_title">#0000000e</integer>
+<integer name="v5_max_visible_tab_count">#00000004</integer>
+<integer name="text_size_month_lunar">#00000008</integer>
+<integer name="edit_event_right_button_weight">#00000009</integer>
+<integer name="edit_event_left_button_weight">#0000000d</integer>
+<integer name="days_off_text_indication_bold">#00000000</integer>
+<integer name="v5_max_anchor_duration">#0000012c</integer>
+<integer name="default_num_weeks">#00000006</integer>
+<integer name="calendar_controls_animation_time">#00000190</integer>
+<integer name="color_chip_height">#00000018</integer>
+<integer name="color_chip_all_day_height">#00000030</integer>
+<integer name="work_end_minutes">#000004b0</integer>
+<integer name="work_start_minutes">#00000168</integer>
+<string name="account_and_calendar">帐户和日历</string>
+<string name="account_and_calendar_to_display">帐户和要显示的日历</string>
+<string name="default_reminder_mode">默认提醒方式</string>
+<string name="time_zone">时区</string>
+<string name="event_all_day_label">全天</string>
+<string name="today_no_events">今天无日程安排</string>
+<string name="event_account">日历帐户</string>
+<string name="event_show_more">更多选项</string>
+<string name="action_text_new_event">新建</string>
+<string name="week_view_today_toast">您已在本周视图</string>
+<string name="button_online">订</string>
+<string name="topic_list_header_label">订阅列表</string>
+<string name="topic_event_list_header_label">近期活动</string>
+<string name="user_notice_online_title">声明与条款</string>
+<string name="setting_wifi_mode">仅WLAN下同步大图</string>
+<string name="user_notice_online_agreement">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+<string name="action_text_online">订阅</string>
+<string name="data_notice_continue_confirm">继续使用</string>
+<string name="not_exist_topic_list">无法获取订阅日历列表</string>
+<string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
+<string name="data_notice_change_settings">更改设置</string>
+<string name="online_reminder_minutes_text">提醒时间</string>
+<string name="online_reminder_change_text">修改提醒</string>
+<string name="online_reminder_header_text">提醒</string>
+<string name="online_reminder_slider_text">启用提醒</string>
+<string name="user_notice_online_ok">同意并继续</string>
+<string name="adding_calendar">订阅中</string>
+<string name="delete_calendar">退订</string>
+<string name="add_topic_unsuccess">订阅\ %s\ 失败</string>
+<string name="add_topic_success">订阅\ %s\ 成功</string>
+<string name="delete_topic_dialog_title">确认要退订\ %s\ 吗？</string>
+<string name="deleting_calendar">退订中</string>
+<string name="enter_calendar">进入日历</string>
+<string name="subscribe_all">全部订阅</string>
+<string name="sync_notice_title">提示</string>
+<string name="sync_notice_message">您尚未开启小米日历同步功能，是否开启？</string>
+<string name="repeat_custom_string_prefix">自定义</string>
+<string name="repeat_custom_string_suffix">（%1$s）</string>
+<string name="app_label">日历</string>
+<string name="repeat_month_day_splitter"></string>
+<string name="repeat_custom_prompt_sentence">事件将会%1$s重复提醒</string>
+<string name="repeat_custom_prompt">每%1$s的%2$s</string>
+<string name="when_label">时间</string>
+<string name="repeat_custom_prompt_splitter">、</string>
+<string name="timezone_label">时区</string>
+<string name="what_label">内容</string>
+<string name="where_label">地点</string>
+<string name="today_at_time_fmt">%s</string>
+<string name="event_info_end">结束</string>
+<string name="tomorrow">明天</string>
+<string name="today">今天</string>
+<string name="attendees_label">邀请对象</string>
+<string name="event_info_repeat">重复</string>
+<string name="event_info_when">时间</string>
+<string name="event_info_descrip">说明</string>
+<string name="can_not_create_long_event">活动内容超过最大长度</string>
+<string name="event_info_where">地点</string>
+<string name="tomorrow_at_time_fmt">%s</string>
+<string name="repeat_end_times_unit">次</string>
+<string name="repeat_end_label">结束重复</string>
+<string name="repeat_label_choose_month">选择月份</string>
+<string name="event_hide_more">收起更多选项</string>
+<string name="repeat_label_choose_week">选择星期</string>
+<string name="repeat_label_choose_day">选择日期</string>
+<string name="repeat_label_choose_time">选择提醒时间</string>
+<string name="repeat_label_week">星期</string>
+<string name="repeat_label_day">日期</string>
+<string name="month_medium_april">4</string>
+<string name="month_medium_february">2</string>
+<string name="month_medium_march">3</string>
+<string name="widget_no_events">接下来没有日程安排</string>
+<string name="month_medium_january">1</string>
+<string name="widget_select_style">样式选择</string>
+<string name="widget_events">接下来的活动</string>
+<string name="huangli_label">中国黄历</string>
+<string name="event_action_edit">编辑</string>
+<string name="holiday_label">中国节日</string>
+<string name="lunar_date">农历</string>
+<string name="setting_online_calendar">订阅日历</string>
+<string name="day_view">天</string>
+<string name="event_action_delete">删除</string>
+<string name="week_view">周</string>
+<string name="month_view">月</string>
+<string name="sync_notice_ok">开启同步</string>
+<string name="event_view">查看活动</string>
+<string name="sync_notice_ok_toast_message">成功开启日历云同步</string>
+<string name="event_create">新建活动</string>
+<string name="sync_notice_cancel_toast_message">本地日历将不作同步</string>
+<string name="event_edit">编辑活动</string>
+<string name="goto_today">今天</string>
+<string name="event_delete">删除活动</string>
+<string name="setting_chinese_almanac">显示黄历</string>
+<string name="action_text_today">今日</string>
+<string name="menu_select_visible_calendars">要显示的日历</string>
+<string name="button_month">月</string>
+<string name="menu_preferences">设置</string>
+<string name="button_week">周</string>
+<string name="button_day">日</string>
+<string name="view_all_matches">查看所有赛程</string>
+<string name="text_year">年</string>
+<string name="done">上一步</string>
+<string name="more_string">+%1$s</string>
+<string name="repeats_label">重复</string>
+<string name="setting_chinese_holiday">显示节日</string>
+<string name="date_time_fmt">%s，%s</string>
+<string name="copy_number">复制电话号码</string>
+<string name="calendar_refresh">刷新</string>
+<string name="copy_email">复制电子邮件地址</string>
+<string name="no_title_label">（无标题）</string>
+<string name="hint_description">说明</string>
+<string name="hint_where">地点</string>
+<string name="hint_what">活动提醒内容</string>
+<string name="select_synced_calendars_button">要同步的日历</string>
+<string name="birthday_event_title"></string>
+<string name="select_synced_calendars_title">要同步的日历</string>
+<string name="birthday_notification_type_term_lunar">农历</string>
+<string name="accounts">帐户和同步</string>
+<string name="birthday_notification_age_term">%1$s%2$s</string>
+<string name="acct_not_synced">此帐户未同步，因此您的日历可能不是最新的。</string>
+<string name="birthday_notification_text_three_days_later">还有3天是TA的%1$s%2$s%3$s（%4$s）</string>
+<string name="rest_day_indication">休</string>
+<string name="work_day_indication">班</string>
+<string name="preferences_category_account_title">帐户</string>
+<string name="accessibility_reminder_showmeas">将我的状态显示为：</string>
+<string name="preferences_category_general_title">常规</string>
+<string name="accessibility_reminder_type">提醒类型</string>
+<string name="acessibility_cal_notification">日历通知</string>
+<string name="accessibility_reminder_privacy">隐私设置</string>
+<string name="agenda_view">日程</string>
+<string name="day_view_new_event_hint">新建活动</string>
+<string name="show_day_view">显示日期</string>
+<string name="acessibility_snooze_notification">暂停通知</string>
+<string name="birthday_event_description_detail_smart">今年%1$s月小，本月生日提前一天!</string>
+<string name="select_visible_calendars_title">要显示的日历</string>
+<string name="jump_date">跳转</string>
+<string name="synced">已同步</string>
+<string name="hide_controls">隐藏控件</string>
+<string name="show_controls">显示控件</string>
+<string name="miui_chinese_week_range_double">日</string>
+<string name="miui_menu_create_event">新建</string>
+<string name="search">搜索</string>
+<string name="jump_date_full">跳转到指定日期</string>
+<string name="miui_chinese_week_range_single">日</string>
+<string name="local_calendar_display_name">本地日历</string>
+<string name="cta_notice_ok">同意并继续</string>
+<string name="cta_notify_settings">访问联系人时进行提示</string>
+<string name="saving_event">活动已保存。</string>
+<string name="hint_attendees">邀请对象</string>
+<string name="creating_event">活动已创建。</string>
+<string name="description_label">说明</string>
+<string name="edit_event_show_all">显示全部选择</string>
+<string name="edit_event_confirm_message">放弃编辑此活动吗？</string>
+<string name="privacy_label">活动性质</string>
+<string name="presence_label">我的状态</string>
+<string name="can_not_modify_event">无法编辑此活动</string>
+<string name="edit_event_from_label">开始时间</string>
+<string name="edit_event_reminder_off_toast">默认提醒方式已设置为不提醒</string>
+<string name="edit_event_to_label">结束时间</string>
+<string name="can_not_modify_repeating_acrossing_days_event">无法长按编辑跨天重复活动</string>
+<string name="edit_event_calendar_label">日历</string>
+<string name="can_not_modify_allday_event">无法长按编辑全天活动</string>
+<string name="edit_event_all_day_label">全天事件</string>
+<string name="repeat_week_info">%1$s%2$s</string>
+<string name="repeat_interval_frequency">%2$s</string>
+<string name="repeat_custom_prompt_daily">每%1$s</string>
+<string name="not_synced">未同步</string>
+<string name="saving_event_with_guest">即将发送更新。</string>
+<string name="from_google_group_calendar">来自谷歌日历</string>
+<string name="alert_title">日历通知</string>
+<string name="repeat_activity_label">重复</string>
+<string name="event_info_title">活动详情</string>
+<string name="repeat_custom_activity_label">自定义重复</string>
+<string name="event_info_title_invite">会议邀请</string>
+<string name="repeat_label_frequency">频率</string>
+<string name="repeat_label_interval">每</string>
+<string name="repeat_interval_dialog_title">每%1$s</string>
+<string name="empty_event">无法创建空白活动。</string>
+<string name="repeat_interval_frequency_single">%1$s</string>
+<string name="creating_event_with_guest">即将发送邀请。</string>
+<string name="birthday_event_description">今天是%1$s的%2$s%3$s%4$s！%5$s</string>
+<string name="birthday_event_description_detail_leap">今年闰%1$s月，有两个%1$s月。礼多人不怪，今天也可以送上生日祝福！</string>
+<string name="reminders_label">添加提醒</string>
+<string name="no_syncable_calendars">无日历</string>
+<string name="email_picker_label">发送邮件时使用</string>
+<string name="email_guests_label">向邀请对象发送电子邮件</string>
+<string name="response_no">不参加</string>
+<string name="response_maybe">待定</string>
+<string name="quick_response_settings_title">修改快速回复</string>
+<string name="quick_response_settings_summary">修改向参加者发邮件时所用的默认回复</string>
+<string name="wuxing">五行</string>
+<string name="quick_response_settings">快速回复</string>
+<string name="email_subject_prefix"></string>
+<string name="no_network">:)</string>
+<string name="no_local_calendar">:)</string>
+<string name="event_full_date_format">yyyy年MM月dd日</string>
+<string name="movable_list_header_label">简介</string>
+<string name="event_date_format">MM月dd日</string>
+<string name="refresh">刷新</string>
+<string name="alarm_label">不再提醒</string>
+<string name="calendar_server_error">服务器错误</string>
+<string name="response_yes">参加</string>
+<string name="pref_error_no_ringtone_select">未选中任何铃声</string>
+<string name="delete_topic_success">退订\ %s\ 成功</string>
+<string name="pref_title_alarm_remind">闹钟提醒</string>
+<string name="label_recent_events">近期事件</string>
+<string name="pref_title_alert_remind">弹窗提醒</string>
+<string name="calendar_network_error">网络错误</string>
+<string name="pref_title_no_remind">不提醒</string>
+<string name="create_an_account_desc">安全地备份您的活动</string>
+<string name="pref_title_notification_remind">通知栏提醒</string>
+<string name="add_account">添加帐户</string>
+<string name="month_medium_november">11</string>
+<string name="month_medium_december">12</string>
+<string name="no_calendars_found">您必须向设备中至少添加一个日历帐户并显示一个日历，然后才能添加活动。您可以触摸“添加帐户”以添加帐户（如果您​​刚刚添加过帐户，请等待该帐户完成同步，然后重试）。您也可以触摸“取消”，并确保至少显示了一个日历。</string>
+<string name="view_event_response_label">是否参加</string>
+<string name="tab_category">分类</string>
+<string name="add_calendar">订阅</string>
+<string name="view_event_calendar_label">日历：</string>
+<string name="exist_calendar">已订阅</string>
+<string name="view_event_organizer_label">组织者：</string>
+<string name="event_lunar_month">月</string>
+<string name="huangli_good_type">宜</string>
+<string name="quick_response_settings_edit_title">快速回复</string>
+<string name="huangli_bad_type">忌</string>
+<string name="chongsha">冲煞</string>
+<string name="chinese_leap">闰</string>
+<string name="cta_notice_title">提示</string>
+<string name="show_older_events">点击查看%1$s之前的活动</string>
+<string name="loading">正在载入...</string>
+<string name="cta_notice_checkbox">不再提示</string>
+<string name="search_title">搜索我的日历</string>
+<string name="cta_notice_message">为了设置联系人生日提醒，日历在使用中需要读取通讯录。您是否同意？</string>
+<string name="show_newer_events">点击查看%1$s之后的活动</string>
+<string name="edit_label">编辑</string>
+<string name="edit_event_label">详细信息</string>
+<string name="save_label">完成</string>
+<string name="delete_label">删除</string>
+<string name="tab_online">推荐</string>
+<string name="birthday_notification_title_three_days_later">%1$s的%2$s快到了</string>
+<string name="tab_local">我的</string>
+<string name="online_calendar_activity_label">订阅日历</string>
+<string name="zhushen">诸神</string>
+<string name="anniversary_metric">周年</string>
+<string name="pengzu">彭祖</string>
+<string name="birthday_metric">岁</string>
+<string name="taishen">胎神</string>
+<string name="birthday_notification_text_today">为%1$s的%2$s%3$s%4$s送上祝福吧！</string>
+<string name="agenda_tomorrow">明天，%1$s</string>
+<string name="xingxiu">星宿</string>
+<string name="birthday_notification_title_today">%1$s的%2$s%3$s</string>
+<string name="agenda_yesterday">昨天，%1$s</string>
+<string name="xiaomi_calendar_display_name">小米日历</string>
+<string name="quick_response_dialog_title">选择快速回复</string>
+<string name="local_owner_account_name">本地帐户</string>
+<string name="quick_response_email_failed">找不到电子邮件应用</string>
+<string name="birthday_term">生日</string>
+<string name="quick_response_custom_msg">自己写邮件...</string>
+<string name="anniversary_term">周年纪念日</string>
+<string name="event_info_organizer">组织者：</string>
+<string name="event_info_reminders_label">提醒</string>
+<string name="do_not_check">-&gt;</string>
+<string name="agenda_today">今天，%1$s</string>
+<string name="google_email_domain">googlemail.com</string>
+<string name="template_announce_item_index">个。</string>
+<string name="birthday_calendar_display_name">生日提醒</string>
+<string name="acessibility_selected_marker_description">所选活动</string>
+<string name="discard_label">取消</string>
+<string name="daily">每天</string>
+<string name="dismiss_all_label">全部关闭</string>
+<string name="snooze_all_label">全部延迟</string>
+<string name="does_not_repeat">一次性活动</string>
+<string name="snooze_label">暂停提醒</string>
+<string name="every_weekday">每个工作日（周一至周五）</string>
+<string name="weekly">每周（每周的%s）</string>
+<string name="monthly_on_day_count">每月（每月的%1$s%2$s）</string>
+<string name="custom">自定义（无法在手机上自定义）</string>
+<string name="modify_event">仅更改此活动</string>
+<string name="modify_all">更改所有重复的活动</string>
+<string name="monthly">每月</string>
+<string name="yearly_plain">每年</string>
+<string name="monthly_on_day">日）</string>
+<string name="yearly">每年（%s）</string>
+<string name="new_event_dialog_label">新建活动</string>
+<string name="modify_all_following">更改此活动和所有将来的活动</string>
+<string name="change_response_title">更改答复</string>
+<string name="delete_recurring_event_title">要删除%s吗？</string>
+<string name="delete_this_event_title">要删除此活动吗？</string>
+<string name="new_event_dialog_option">新建活动</string>
+<string name="preferences_title">设置</string>
+<string name="preferences_general_title">日历视图设置</string>
+<string name="menu_general_preferences">常规设置</string>
+<string name="menu_about_preferences">关于日历</string>
+<string name="preferences_week_start_day_default">-1</string>
+<string name="preferences_clear_search_history_title">清除搜索记录</string>
+<string name="preferences_week_start_day_title">一周开始日</string>
+<string name="preferences_week_start_day_dialog">一周开始日</string>
+<string name="preferences_reminder_title">提醒设置</string>
+<string name="preferences_hide_declined_title">隐藏已拒绝的活动</string>
+<string name="preferences_clear_search_history_summary">删除您已执行的所有搜索</string>
+<string name="preferences_alerts_title">通知</string>
+<string name="search_history_cleared">搜索记录已清除。</string>
+<string name="preferences_alerts_ringtone_title">选择铃声</string>
+<string name="preferences_alerts_vibrateWhen_title">振动</string>
+<string name="preferences_alerts_popup_title">弹出式通知</string>
+<string name="preferences_default_reminder_title">默认提醒时间</string>
+<string name="preferences_default_reminder_dialog">默认提醒时间</string>
+<string name="preferences_default_reminder_default">10</string>
+<string name="preferences_use_home_tz_title">使用家所在时区</string>
+<string name="preferences_use_home_tz_descrip">旅行时按家所在时区显示日历和活动时间</string>
+<string name="preferences_home_tz_title">家所在时区</string>
+<string name="preferences_home_tz_default">America/Los_Angeles</string>
+<string name="preferences_show_week_num_title">显示周数</string>
+<string name="preferences_about_title">关于</string>
+<string name="preferences_build_version">版本号</string>
+<string name="prefDialogTitle_vibrateWhen">振动</string>
+<string name="prefDefault_alerts_vibrate_false">never</string>
+<string name="prefDefault_alerts_vibrate_true">always</string>
+<string name="prefDefault_alerts_vibrateWhen">never</string>
+<string name="gadget_no_events">最近没有任何日历活动</string>
+<string name="gadget_title">日历</string>
+<string name="tardis">TARDIS</string>
+<string name="copy_db">发送数据库</string>
+<string name="accessibility_pick_start_date">开始日期</string>
+<string name="accessibility_pick_start_time">开始时间</string>
+<string name="directory_searching_fmt">%s…</string>
+<string name="accessibility_remove_attendee">删除参加者</string>
+<string name="accessibility_pick_time_zone">时区</string>
+<string name="accessibility_add_reminder">添加提醒</string>
+<string name="accessibility_pick_end_date">结束日期</string>
+<string name="accessibility_pick_end_time">结束时间</string>
+<string name="accessibility_reminder_time">提醒时间</string>
+<string name="accessibility_add_attendee">添加参加者</string>
+<string name="accessibility_sync_cal">同步日历</string>
+<string name="accessibility_all_day">全天活动</string>
+<string name="accessibility_repeats">重复</string>
+<string name="accessibility_remove_reminder">删除提醒</string>
+<string name="month_medium_may">5</string>
+<string name="month_medium_june">6</string>
+<string name="month_medium_july">7</string>
+<string name="month_medium_august">8</string>
+<string name="month_medium_september">9</string>
+<string name="month_medium_october">10</string>
+<string-array name="repeat_choose_end">
+<item>永不</item>
+<item>时间</item>
+<item>次数</item>
+</string-array>
+<string-array name="visibility">
+<item>默认</item>
+<item>私人</item>
+<item>公开</item>
+</string-array>
+<string-array name="preferences_default_reminder_values">
+<item>-1</item>
+<item>0</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>30</item>
+<item>60</item>
+<item>1440</item>
+<item>2880</item>
+<item>10080</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>不提醒</item>
+<item>活动开始前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>小时前</item>
+<item>天前</item>
+<item>天前</item>
+<item>周前</item>
+</string-array>
+<string-array name="prefEntries_alerts_vibrateWhen">
+<item>始终</item>
+<item>仅在静音时</item>
+<item>永不</item>
+</string-array>
+<string-array name="repeat_choose_weekday">
+<item>周一</item>
+<item>周二</item>
+<item>周三</item>
+<item>周四</item>
+<item>周五</item>
+<item>周六</item>
+<item>周日</item>
+</string-array>
+<string-array name="timezone_values">
+<item>Pacific/Majuro</item>
+<item>Pacific/Midway</item>
+<item>Pacific/Honolulu</item>
+<item>America/Anchorage</item>
+<item>America/Los_Angeles</item>
+<item>America/Tijuana</item>
+<item>America/Phoenix</item>
+<item>America/Chihuahua</item>
+<item>America/Denver</item>
+<item>America/Costa_Rica</item>
+<item>America/Chicago</item>
+<item>America/Mexico_City</item>
+<item>America/Regina</item>
+<item>America/Bogota</item>
+<item>America/New_York</item>
+<item>America/Caracas</item>
+<item>America/Barbados</item>
+<item>America/Halifax</item>
+<item>America/Manaus</item>
+<item>America/Santiago</item>
+<item>America/St_Johns</item>
+<item>America/Sao_Paulo</item>
+<item>America/Argentina/Buenos_Aires</item>
+<item>America/Godthab</item>
+<item>America/Montevideo</item>
+<item>Atlantic/South_Georgia</item>
+<item>Atlantic/Azores</item>
+<item>Atlantic/Cape_Verde</item>
+<item>Africa/Casablanca</item>
+<item>Europe/London</item>
+<item>Europe/Amsterdam</item>
+<item>Europe/Belgrade</item>
+<item>Europe/Brussels</item>
+<item>Europe/Sarajevo</item>
+<item>Africa/Windhoek</item>
+<item>Africa/Brazzaville</item>
+<item>Asia/Amman</item>
+<item>Europe/Athens</item>
+<item>Asia/Beirut</item>
+<item>Africa/Cairo</item>
+<item>Europe/Helsinki</item>
+<item>Asia/Jerusalem</item>
+<item>Europe/Minsk</item>
+<item>Africa/Harare</item>
+<item>Asia/Baghdad</item>
+<item>Europe/Moscow</item>
+<item>Asia/Kuwait</item>
+<item>Africa/Nairobi</item>
+<item>Asia/Tehran</item>
+<item>Asia/Baku</item>
+<item>Asia/Tbilisi</item>
+<item>Asia/Yerevan</item>
+<item>Asia/Dubai</item>
+<item>Asia/Kabul</item>
+<item>Asia/Karachi</item>
+<item>Asia/Oral</item>
+<item>Asia/Yekaterinburg</item>
+<item>Asia/Calcutta</item>
+<item>Asia/Colombo</item>
+<item>Asia/Katmandu</item>
+<item>Asia/Almaty</item>
+<item>Asia/Rangoon</item>
+<item>Asia/Krasnoyarsk</item>
+<item>Asia/Bangkok</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Hong_Kong</item>
+<item>Asia/Irkutsk</item>
+<item>Asia/Kuala_Lumpur</item>
+<item>Australia/Perth</item>
+<item>Asia/Taipei</item>
+<item>Asia/Seoul</item>
+<item>Asia/Tokyo</item>
+<item>Asia/Yakutsk</item>
+<item>Australia/Adelaide</item>
+<item>Australia/Darwin</item>
+<item>Australia/Brisbane</item>
+<item>Australia/Hobart</item>
+<item>Australia/Sydney</item>
+<item>Asia/Vladivostok</item>
+<item>Pacific/Guam</item>
+<item>Asia/Magadan</item>
+<item>Pacific/Auckland</item>
+<item>Pacific/Fiji</item>
+<item>Pacific/Tongatapu</item>
+</string-array>
+<string-array name="reminder_methods_labels">
+<item>通知</item>
+<item>电子邮件</item>
+<item>短信</item>
+<item>闹钟</item>
+</string-array>
+<string-array name="repeat_choose_month">
+<item>1月</item>
+<item>2月</item>
+<item>3月</item>
+<item>4月</item>
+<item>5月</item>
+<item>6月</item>
+<item>7月</item>
+<item>8月</item>
+<item>9月</item>
+<item>10月</item>
+<item>11月</item>
+<item>12月</item>
+</string-array>
+<string-array name="widget_style_list">
+<item>黑色透明</item>
+<item>纯白背景</item>
+</string-array>
+<string-array name="repeat_choose_week_right">
+<item>周一至周五</item>
+<item>周末</item>
+<item>整周</item>
+</string-array>
+<string-array name="online_reminder_minutes_labels">
+<item>活动开始前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>小时前</item>
+<item>天前</item>
+<item>天前</item>
+<item>周前</item>
+</string-array>
+<string-array name="prefValues_alerts_vibrateWhen">
+<item>always</item>
+<item>silent</item>
+<item>never</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>此活动和将来的活动</item>
+<item>所有活动</item>
+</string-array>
+<string-array name="repeat_frequency_spinner">
+<item>天</item>
+<item>周</item>
+<item>月</item>
+<item>年</item>
+</string-array>
+<string-array name="response_labels1">
+<item>无响应</item>
+<item>是</item>
+<item>可能</item>
+<item>否</item>
+</string-array>
+<string-array name="timezone_labels">
+<item>马绍尔群岛</item>
+<item>中途岛</item>
+<item>夏威夷</item>
+<item>阿拉斯加州</item>
+<item>太平洋时间</item>
+<item>蒂华纳</item>
+<item>亚利桑那州</item>
+<item>奇瓦瓦州</item>
+<item>山区时间</item>
+<item>中美洲</item>
+<item>中部标准时间</item>
+<item>墨西哥城</item>
+<item>萨斯喀彻温省</item>
+<item>波哥大</item>
+<item>东部时间</item>
+<item>委内瑞拉</item>
+<item>大西洋时间（巴巴多斯）</item>
+<item>大西洋时间（加拿大）</item>
+<item>马瑙斯</item>
+<item>圣地亚哥</item>
+<item>纽芬兰</item>
+<item>巴西利亚</item>
+<item>布宜诺斯艾利斯</item>
+<item>格陵兰</item>
+<item>蒙得维的亚</item>
+<item>中大西洋</item>
+<item>亚述尔群岛</item>
+<item>佛得角群岛</item>
+<item>卡萨布兰卡</item>
+<item>伦敦，都柏林</item>
+<item>阿姆斯特丹，柏林</item>
+<item>贝尔格莱德</item>
+<item>布鲁塞尔</item>
+<item>萨拉热窝</item>
+<item>温得和克</item>
+<item>西非时间</item>
+<item>安曼，约旦</item>
+<item>雅典，伊斯坦布尔</item>
+<item>贝鲁特，黎巴嫩</item>
+<item>开罗</item>
+<item>赫尔辛基</item>
+<item>耶路撒冷</item>
+<item>明斯克</item>
+<item>哈拉雷</item>
+<item>巴格达</item>
+<item>莫斯科</item>
+<item>科威特</item>
+<item>内罗毕</item>
+<item>德黑兰</item>
+<item>巴库</item>
+<item>第比利斯</item>
+<item>埃里温</item>
+<item>迪拜</item>
+<item>喀布尔</item>
+<item>伊斯兰堡，卡拉奇</item>
+<item>乌拉尔斯克</item>
+<item>叶卡捷琳堡</item>
+<item>加尔各答</item>
+<item>斯里兰卡</item>
+<item>加德满都</item>
+<item>阿斯塔纳</item>
+<item>仰光</item>
+<item>克拉斯诺亚尔斯克</item>
+<item>曼谷</item>
+<item>北京</item>
+<item>香港</item>
+<item>伊尔库茨克</item>
+<item>吉隆坡</item>
+<item>珀斯</item>
+<item>台北</item>
+<item>首尔</item>
+<item>东京，大阪府</item>
+<item>雅库茨克</item>
+<item>阿德莱德</item>
+<item>达尔文</item>
+<item>布里斯班</item>
+<item>霍巴特</item>
+<item>悉尼，堪培拉</item>
+<item>海参崴</item>
+<item>关岛</item>
+<item>马加丹</item>
+<item>奥克兰</item>
+<item>斐济</item>
+<item>汤加</item>
+</string-array>
+<string-array name="online_reminder_minutes_labels_allday">
+<item>当天9点</item>
+<item>提前1天9点</item>
+<item>提前2天9点</item>
+<item>提前3天9点</item>
+<item>提前1周9点</item>
+</string-array>
+<string-array name="repeat_choose_week_left">
+<item>第一个</item>
+<item>第二个</item>
+<item>第三个</item>
+<item>第四个</item>
+<item>最后一个</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>第一个</item>
+<item>第二个</item>
+<item>第三个</item>
+<item>第四个</item>
+<item>最后一个</item>
+</string-array>
+<string-array name="availability">
+<item>忙碌</item>
+<item>有空</item>
+<item>暂定</item>
+</string-array>
+<string-array name="quick_response_defaults">
+<item>我会迟到几分钟。</item>
+<item>分钟就可以到了。</item>
+<item>先开始，不用等我。</item>
+<item>抱歉，我赶不上了，我们另约时间吧。</item>
+</string-array>
+<string-array name="repeat_choose_day">
+<item>1日</item>
+<item>2日</item>
+<item>3日</item>
+<item>4日</item>
+<item>5日</item>
+<item>6日</item>
+<item>7日</item>
+<item>8日</item>
+<item>9日</item>
+<item>10日</item>
+<item>11日</item>
+<item>12日</item>
+<item>13日</item>
+<item>14日</item>
+<item>15日</item>
+<item>16日</item>
+<item>17日</item>
+<item>18日</item>
+<item>19日</item>
+<item>20日</item>
+<item>21日</item>
+<item>22日</item>
+<item>23日</item>
+<item>24日</item>
+<item>25日</item>
+<item>26日</item>
+<item>27日</item>
+<item>28日</item>
+<item>29日</item>
+<item>30日</item>
+<item>31日</item>
+</string-array>
+<string-array name="buttons_list">
+<item>每日</item>
+<item>星期</item>
+<item>月份</item>
+<item>日程</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>仅限此活动</item>
+<item>所有重复的活动</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>仅限此活动</item>
+<item>此活动和将来的活动</item>
+<item>所有活动</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>语言区域的默认设置</item>
+<item>星期六</item>
+<item>星期日</item>
+<item>星期一</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>不提醒</item>
+<item>活动开始前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>分钟前</item>
+<item>小时前</item>
+<item>天前</item>
+<item>天前</item>
+<item>周前</item>
+</string-array>
+<string-array name="preferences_week_start_day_values">
+<item>-1</item>
+<item>7</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+</MIUI_Theme_Values>

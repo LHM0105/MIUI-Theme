@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 New message" version="2.12.27" annotation="" tag="Messaging">
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1086" width="1080" height="156" uuid="68e18645-3e62-4fed-bb51-97dd3a553ec2">
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="Lower panel background" />
+    </resource>
+    <resource description="send_btn_p.png" x="948" y="1106" width="114" height="118" uuid="fb705f2a-56d3-45b5-836d-dad76f52fcb2">
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="Send SMS button: disabled" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="Send SMS button: normal" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="Send SMS button: pressed" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_n.png" description="Send Mi Message button: normal" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_p.png" description="Send Mi Message button: pressed" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="4" y="198" width="354" height="118" uuid="6491d447-16fa-46db-beda-8990512d0eb8">
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_n.9.png" description="Quick response button: normal" />
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_p.9.png" description="Quick response button: pressed" />
+    </resource>
+    <resource description="insert_attachment_button_n" x="16" y="1102" width="112" height="118" uuid="313fa089-3795-4160-916b-27c25eba982b">
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="Attachment button: selected" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="Attachment button: normal" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="Attachment button: pressed" />
+    </resource>
+    <resource description="recipient_view_bg_normal.9" x="318" y="86" width="216" height="80" uuid="9be9fd57-c458-43c8-92ee-82365fc7f792">
+        <path src="res\drawable-xxhdpi\recipient_view_bg_normal.9.png" description="Recipient button: normal" />
+        <path src="res\drawable-xxhdpi\recipient_view_bg_pressed.9.png" description="Recipient button: pressed" />
+    </resource>
+    <resource description="mi_recipient_view_bg_normal.9" x="116" y="84" width="196" height="80" uuid="c5b44bfe-8d05-4e1a-925c-13d7d47b8ba9">
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_normal.9.png" description="Mi Message recipient button: normal" />
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_pressed.9.png" description="Mi Message recipient button: pressed" />
+    </resource>
+    <resource description="recent_contact_divider.9" x="708" y="202" width="22" height="242" uuid="7828349c-9184-4d79-a8d8-abd6fe5ab376">
+        <path src="res\drawable-xxhdpi\recent_contact_divider.9.png" description="Dividing line for recent contacts in the upper panel" />
+    </resource>
+    <resource description="title_bar_bg_one_row.9" x="0" y="50" width="1080" height="148" uuid="b7d0e519-2311-476a-add8-a303536f7eae">
+        <path src="res\drawable-xxhdpi\title_bar_bg_row.9.png" description="Edit quick message title background" />
+    </resource>
+    <resource description="add_recipients_normal" x="936" y="58" width="142" height="130" uuid="c5ecf4f8-9f13-434b-89a4-ca4198a14236">
+        <path src="res\drawable-xxhdpi\add_recipients_normal.png" description="Add recipients button: normal" />
+        <path src="res\drawable-xxhdpi\add_recipients_pressed.png" description="Add recipients button: pressed" />
+    </resource>
+    <resource description="recent_contact_grid_bg.9" x="0" y="193" width="1080" height="248" uuid="679e22ce-cab4-4393-a601-d74a6cd04b91">
+        <path src="res\drawable-xxhdpi\recent_contact_grid_bg.9.png" description="Quick reply contact background" />
+    </resource>
+    <resource description="attachment_screen_bg.9" x="0" y="1238" width="1078" height="682" uuid="c8eca794-4a64-4b4b-b0f4-f89a008a45b8">
+        <path src="res\drawable-xxhdpi\attachment_screen_bg.9.png" description="Attachment background" />
+    </resource>
+    <resource description="compose_mi_msg_editor_bg.9" x="134" y="1106" width="802" height="112" uuid="d5139071-3bf6-4a9e-9c8a-5513a8d0f869">
+        <path src="res\drawable-xxhdpi\compose_mi_msg_editor_bg.9.png" description="Mi Message" />
+        <path src="res\drawable-xxhdpi\compose_msg_editor_bg.9.png" description="SMS message" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="118" y="1608" width="120" height="120" uuid="bd7efc1e-ad8b-442d-a000-3a62ed6e823b">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="120" y="1306" width="120" height="120" uuid="b1c6ffa3-2e30-4f2f-8d37-cd3ece5a5ac7">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="478" y="1305" width="120" height="120" uuid="7faca1f0-36cb-4af0-975f-acec2c4906a6">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="835" y="1306" width="120" height="120" uuid="50f17d70-9ae9-49ee-87b0-c437cc13830e">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="835" y="1608" width="120" height="120" uuid="727c04d6-02ee-415e-89aa-ec3c2f55e3e9">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="478" y="1608" width="120" height="120" uuid="32e4ee21-fca6-4787-b3b3-60650d124bd6">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="Edit quick responses button" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="Add emoji button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="Add emoji button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="Add emoji button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="Add contacts button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="Add contacts button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="Add contacts button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="Add nickname button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="Add nickname button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="Add nickname button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="Add image button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="Add image button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="Add image button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="Add photo button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="Add photo button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="Add photo button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="Add greeting text: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="Add greeting text: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="Add greeting text: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="Add favorites button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="Add favorites button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="Add favorites button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="Add timed message button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="Add timed message button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="Add timed message button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="Add theme button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="Add theme button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="Add theme button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="Add sound button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="Add sound button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="Add sound button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="Add video button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="Add video button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="Add video button: pressed" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="Add slideshow button: disabled" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="Add slideshow button: normal" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="Add slideshow button: pressed" />
+    </resource>
+    <resource description="text_cursor_blue" x="150" y="1138" width="22" height="60" uuid="5304f6bf-914a-465e-8c74-6ec3abcd2f7f">
+        <path src="res\drawable-xxhdpi\text_cursor_blue.png" description="Mi Message text cursor" />
+    </resource>
+</screenshot>

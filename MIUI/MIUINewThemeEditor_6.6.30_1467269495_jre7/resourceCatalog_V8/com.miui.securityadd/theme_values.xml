@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="dialog_message_color">#72000000</color>
+<color name="mr_activity_background">#ff2e2e3b</color>
+<color name="mr_share_wait_cover_background">#99000000</color>
+<dimen name="month_report_share_cover_trans_height">16.699982dp</dimen>
+<string name="pc_activity_title">小米省电锦囊</string>
+<string name="miuishare_title_share">分享给好友</string>
+<string name="miuishare_wechat_timeline_title">微信朋友圈</string>
+<string name="miuishare_weibo_title">微博</string>
+<string name="network_not_available">网络不可用，请检查联网后再试</string>
+<string name="cancel_button">取消</string>
+<string name="privacy_declare_dialog_title">提示</string>
+<string name="privacy_prompt_traffic_purchase_message">将联网并加密上传手机号码及运营商信息至小米公司服务器，用于获取套餐列表及购买流量。</string>
+<string name="miuishare_title_more">更多</string>
+<string name="month_report_follow_service_title">关注安全中心服务号</string>
+<string name="month_report_follow_service_summary">是否关注“安全中心服务号”？关注后，可第一时间获取安全相关资讯。</string>
+<string name="month_report_follow_service_negative">取消</string>
+<string name="month_report_follow_service_positive">确定</string>
+<string name="empty"></string>
+<string name="app_not_installed_toast">您的手机上未安装应用程序</string>
+<string name="month_report_warning_dialog_title">开启安全中心月报</string>
+<string name="month_report_warning_dialog_positive">立即开启</string>
+<string name="month_report_warning_dialog_description">您已关闭安全月报功能，无法查看安全月报，是否打开安全中心月报开关？</string>
+<string name="month_report_share_img_fail">分享截图失败</string>
+<string name="month_report_share_loading">加载中</string>
+<string name="month_report_history_activity_label">安全月报历史</string>
+<string name="month_report_result_share">分享</string>
+<string name="month_report_network_dialog_positive">确定</string>
+<string name="month_report_network_dialog_title">开启安全中心联网开关</string>
+<string name="month_report_network_dialog_description">您已关闭安全中心联网开关，无法查看安全月报，是否打开安全中心联网开关？</string>
+<string name="no_network_btn">重试</string>
+<string name="month_report_disconnect_tip">网络不可用\n请联网后重试</string>
+<string name="month_report_activity_label">安全月报</string>
+<string name="usage_sorted_loading_text">拼命加载中...</string>
+<string name="main_toolbar_purchase">流量购买</string>
+<string name="month_report_click_reconnect_network">重试</string>
+<string name="ok_button">确定</string>
+<string name="app_name">安全中心服务组件</string>
+<string name="pm_lable_name">ROOT权限说明</string>
+<string name="title_share_link">分享链接</string>
+<string name="open_browser">在浏览器中打开</string>
+<string name="share">分享</string>
+</MIUI_Theme_Values>

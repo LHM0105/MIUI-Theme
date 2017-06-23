@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gadget width="940" height="488" screenWidth="1080">
+
+	
+	<Button w="906" h="432">
+		<Triggers>
+			<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherCycle"/>
+				<IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+	
+	<!-- 天气 -->
+	<VariableBinders>
+		<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,temperature,temperature_range,description,weather_type" countName="hasweather">
+			<Variable name="weather_id" type="int" column="weather_type"/>
+			<Variable name="weather_location" type="string" column="city_name"/>
+			<Variable name="weather_temperature" type="string" column="temperature"/>
+			<Variable name="weather_temperature_range" type="string" column="temperature_range"/>
+			<Variable name="weather_description" type="string" column="description"/>
+		</ContentProviderBinder>
+		<!-- 空气质量指数 -->
+		<ContentProviderBinder name="weather_aqi" dependency="weather" uriFormat="content://weatherinfo/aqi/%s" uriParas="@city_id" columns="aqi,pm25,pm10,so2,no2,pub_time,src,spot" countName="hasweatherinfo">
+			<Variable name="aqi" type="int" column="aqi"/>
+			<Variable name="pm25" type="int" column="pm25"/>
+			<Variable name="pm10" type="int" column="pm10"/>
+			<Variable name="so2" type="int" column="so2"/>
+			<Variable name="no2" type="int" column="no2"/>
+		</ContentProviderBinder>
+	</VariableBinders>
+	<Var name="air_quality" expression="ifelse(ge(#aqi,0)*lt(#aqi,50),'优',ge(#aqi,50)*lt(#aqi,100),'良',ge(#aqi,100)*lt(#aqi,150),'轻度污染',ge(#aqi,150)*lt(#aqi,200),'中度污染',ge(#aqi,200)*lt(#aqi,300),'重度污染',ge(#aqi,300)*le(#aqi,500),'严重污染','地球要毁灭了')" type="string"/>
+
+	
+	
+	
+	<!-- 背景 -->
+	<Group visibility="#hasweather">
+		<Image    src="weather_0.png"  visibility="eq(#weather_id,1)+eq(#weather_id,2)" />
+		
+			
+		<Image    src="weather_fog.png"  visibility="eq(#weather_id,3)" />
+		
+		<Image    src="weather_haze.png"  visibility="eq(#weather_id,18)+eq(#weather_id,19)+eq(#weather_id,20)+eq(#weather_id,21)+eq(#weather_id,23)+eq(#weather_id,24)" />
+		
+		<Image    src="weather_rain.png"  visibility="eq(#weather_id,4)+eq(#weather_id,5)+eq(#weather_id,6)+eq(#weather_id,7)+eq(#weather_id,8)+eq(#weather_id,9)+eq(#weather_id,10)+eq(#weather_id,11)+eq(#weather_id,12)" />
+		
+		
+		<Image    src="weather_snow.png"  visibility="eq(#weather_id,13)+eq(#weather_id,14)+eq(#weather_id,15)+eq(#weather_id,16)+eq(#weather_id,17)" />
+		
+		<Image    src="weather_sun.png"  visibility="eq(#weather_id,0)*ge(#hour24,6)*le(#hour24,17)" />
+		
+		
+		<Image    src="weather_sun_night.png"  visibility="eq(#weather_id,0)*not(ge(#hour24,6)*le(#hour24,17))" />
+		
+		
+		
+		 <!-- 小图标 -->
+		<Image x="748"  y="216" align="center" alignV="center"  src="night.png"  visibility="eq(#weather_id,0)*not(ge(#hour24,6)*le(#hour24,17))" />
+		
+		<Image x="748"  y="216" align="center" alignV="center"  src="sun.png"  visibility="eq(#weather_id,0)*ge(#hour24,6)*le(#hour24,17)" />
+		
+		
+		<Image x="748"  y="216" align="center" alignV="center"  src="snow.png"  visibility="eq(#weather_id,13)+eq(#weather_id,14)+eq(#weather_id,15)+eq(#weather_id,16)+eq(#weather_id,17)" />
+		
+		
+		
+		<Image x="748"  y="216" align="center" alignV="center"  src="rain.png"  visibility="eq(#weather_id,4)+eq(#weather_id,5)+eq(#weather_id,6)+eq(#weather_id,7)+eq(#weather_id,8)+eq(#weather_id,9)+eq(#weather_id,10)+eq(#weather_id,11)+eq(#weather_id,12)" />
+		
+		
+		<Image x="748"  y="216" align="center" alignV="center"  src="fog.png"   visibility="eq(#weather_id,3)"/>
+
+		<Image x="748"  y="216" align="center" alignV="center"  src="haze.png"  visibility="eq(#weather_id,18)+eq(#weather_id,19)+eq(#weather_id,20)+eq(#weather_id,21)+eq(#weather_id,23)+eq(#weather_id,24)"/>
+		
+		
+		<Image x="748"  y="216" align="center" alignV="center"  src="cloud.png"   visibility="eq(#weather_id,1)+eq(#weather_id,2)" />
+
+	
+	</Group>
+	
+	
+		<Group  visibility="not(#hasweather)">
+				<Image  align="center" alignV="center"  src="weather_0.png"   />
+				
+				
+				
+				
+				
+				
+		
+	</Group>
+	
+	
+	
+	
+	<Time x="50" y="75" space="20" src="time.png"/>
+
+	
+	<DateTime x="50" y="275"   color="#ffffff" size="35" format="M月d日  E  NNNN"/>
+	<Text x="50" y="332"   color="#ffffff" size="35" textExp="@weather_description+'  '+@weather_temperature"/>
+	
+	
+
+
+
+
+
+
+</Gadget>

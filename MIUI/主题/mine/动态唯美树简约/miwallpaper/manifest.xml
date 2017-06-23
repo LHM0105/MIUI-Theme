@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--原创代码，抄袭必究-->
+<MiWallpaper version="1" frameRate="30" screenWidth="1080">
+	<VariableBinders>
+		 <SensorBinder type="gravity" rate="500">
+			<Variable name="bgx" index="0"/>
+			<Variable name="bgy" index="1"/>
+		</SensorBinder>
+    </VariableBinders>
+ 
+ 	<Group>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg.jpg" />
+		
+	</Group>
+<!--动画-->
+<Image x="0" y="0" pivotX="50" pivotY="50" src="1.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="800" time="5000" />
+		<Item x="1000" y="1500" time="12000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="12000"/> 
+	</RotationAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="100" time="5000"/>
+		<Item value="0" time="12000"/>
+	</AlphaAnimation>
+</Image>
+
+<Image x="50" y="0" pivotX="50" pivotY="50" src="2.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="650" time="5000" />
+		<Item x="800" y="1200" time="10000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="10000"/> 
+	</RotationAnimation>
+	
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="10000"/>
+	</AlphaAnimation>
+</Image>
+
+<Image x="100" y="-50" pivotX="50" pivotY="50" src="3.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="400" y="300" time="3000" />
+		<Item x="600" y="900" time="10000"/>
+ 		<Item x="800" y="1600" time="15000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="15000"/> 
+	</RotationAnimation>
+	
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="15000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="-100" y="-50" pivotX="50" pivotY="50" src="4.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="700" time="4000" />
+		<Item x="600" y="1200" time="8000"/>
+ 		<Item x="900" y="1500" time="13000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="13000"/> 
+	</RotationAnimation>
+	
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="15000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="70" y="0" pivotX="50" pivotY="50" src="5.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="600" y="1200" time="8000"/>
+ 		<Item x="900" y="1500" time="11000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="11000"/> 
+	</RotationAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="11000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="0" y="120" pivotX="50" pivotY="50" src="6.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="500" y="1200" time="8000"/>
+ 		<Item x="650" y="1500" time="14000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="14000"/> 
+	</RotationAnimation>
+	
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="10" time="14000"/>
+	</AlphaAnimation>
+</Image>
+<Image x="0" y="40" pivotX="50" pivotY="50" src="1.png">
+	<!--位移-->
+	<PositionAnimation>
+		<Item x="350" y="850" time="4000" />
+		<Item x="600" y="1200" time="9000"/>
+ 		<Item x="1000" y="1800" time="16000"/>
+	</PositionAnimation>
+	<!--平面旋转-->
+	<RotationAnimation>
+		<Item value="0" time="0" />
+		<Item value="360" time="16000"/> 
+	</RotationAnimation>
+	<!--非等比缩放-->
+	<SizeAnimation>
+		<Item w="100" h="100" time="0"/>
+		<Item w="100" h="90" time="5000"/>
+		<Item w="80" h="110" time="16000"/>
+	</SizeAnimation>
+	
+	<!--透明度-->
+	<AlphaAnimation> 
+		<Item value="255" time="0"/>
+		<Item value="0" time="16000"/>
+	</AlphaAnimation>
+</Image>
+</MiWallpaper>
+ 

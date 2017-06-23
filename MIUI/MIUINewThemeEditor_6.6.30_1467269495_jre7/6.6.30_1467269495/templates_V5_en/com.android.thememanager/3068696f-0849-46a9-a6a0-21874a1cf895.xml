@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.8 Batch update" version="3.5.9" annotation="" tag="Old Themes">
+    <resource description="theme_oper_info_bar_bg_n.9" x="0" y="228" width="718" height="102" uuid="24467300-1f87-4aaa-8fa2-cdd5b14473a0" />
+    <resource description="batch_update_btn_p.9" x="514" y="244" width="184" height="74" uuid="d978b51d-43a4-4248-b920-d8ef920569cf">
+        <path src="res\drawable-hdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-xxhdpi\batch_update_btn_n.9.png" description="" />
+        <path src="res\drawable-hdpi\batch_update_btn_p.9.png" description="" />
+        <path src="res\drawable-xhdpi\batch_update_btn_p.9.png" description="" />
+        <path src="res\drawable-xxhdpi\batch_update_btn_p.9.png" description="" />
+    </resource>
+    <resource description="ic_batch_update_info" x="20" y="248" width="56" height="58" uuid="7b768274-d76c-47db-9d7c-bee018319778">
+        <path src="res\drawable-hdpi\ic_batch_update_info.png" description="" />
+        <path src="res\drawable-xhdpi\ic_batch_update_info.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_batch_update_info.png" description="" />
+    </resource>
+</screenshot>

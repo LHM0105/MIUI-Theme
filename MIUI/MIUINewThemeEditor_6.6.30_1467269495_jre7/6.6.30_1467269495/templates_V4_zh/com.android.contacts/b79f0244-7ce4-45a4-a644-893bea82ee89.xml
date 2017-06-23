@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 拨号键盘收起" version="2.9.16" annotation="" tag="拨号">
+    <resource description="dialer_bottom.png" x="334" y="1155" width="85" height="90" uuid="0080d5fa-b27f-4e09-bf5c-b75209f556ef">
+        <path src="res\drawable-xhdpi\dialer_bottom.png" description="" />
+    </resource>
+    <resource description="dialer_btn_open_dialer_pressed.9.png" x="200" y="1138" width="462" height="130" uuid="e8b4f645-f9db-4097-9166-3f1ccd9a5985">
+        <path src="res\drawable-xhdpi\dialer_btn_open_dialer_normal.9.png" description="拨号键盘按钮" />
+        <path src="res\drawable-xhdpi\dialer_btn_open_dialer_pressed.9.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_incoming_call.png" x="166" y="978" width="24" height="26" uuid="43f00283-4a49-486e-8b21-7fd113e40b3c">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_incoming_call.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_incoming_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_incoming_call.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_incoming_forwarding_call.png" x="166" y="487" width="24" height="26" uuid="de395168-45c2-4f67-9915-02859446d439">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_incoming_forwarding_call.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_incoming_forwarding_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_incoming_forwarding_call.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_missed_call.png" x="166" y="651" width="24" height="26" uuid="f47f97ca-5110-42e1-8192-138c40c94584">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_missed_call.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_missed_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_missed_call.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_missed_forwarding_call.png" x="166" y="815" width="24" height="26" uuid="fa820dc7-7a9e-4e39-bdb3-b46a26a0fd94">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_missed_forwarding_call.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_missed_forwarding_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_missed_forwarding_call.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_newcontact.png" x="166" y="159" width="24" height="26" uuid="d81bbbeb-b433-419b-b148-11671fd6e67f">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_newcontact.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_newcontact.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_newcontact.png" description="" />
+    </resource>
+    <resource description="dialer_ic_call_log_header_outgoing_call.png" x="166" y="323" width="24" height="26" uuid="dbe15fd6-7488-4c43-8231-6d95bb9317b3">
+        <path src="res\drawable-hugeui-xhdpi\dialer_ic_call_log_header_outgoing_call.png" description="" />
+        <path src="res\drawable-largeui-xhdpi\dialer_ic_call_log_header_outgoing_call.png" description="" />
+        <path src="res\drawable-xhdpi\dialer_ic_call_log_header_outgoing_call.png" description="" />
+    </resource>
+</screenshot>

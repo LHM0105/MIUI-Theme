@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 会话批处理" version="2.9.20" annotation="" tag="短信会话界面">
+    <resource description="mi_message_bubble_out_bg_p.9.png" x="196" y="242" width="438" height="152" uuid="e4ff0b06-d3b2-438d-b293-bafbd59635ae">
+        <path src="res\drawable-hdpi\message_bubble_out_alert_bg_n.9.png" description="普通短信发送失败" />
+        <path src="res\drawable-hdpi\message_bubble_out_alert_gp_bg_n.9.png" description="群发失败" />
+        <path src="res\drawable-hdpi\message_bubble_out_bg_n.9.png" description="普通短信送达气泡" />
+        <path src="res\drawable-hdpi\message_bubble_out_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-hdpi\message_bubble_out_gp_bg_n.9.png" description="普通短信群发送达" />
+        <path src="res\drawable-hdpi\message_bubble_out_gp_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-hdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信送达" />
+        <path src="res\drawable-hdpi\mi_message_bubble_out_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-hdpi\mi_message_bubble_out_gp_bg_n.9.png" description="网络短信群发" />
+        <path src="res\drawable-hdpi\mi_message_bubble_out_gp_bg_p.9.png" description="网络短信群发 按下" />
+        <path src="res\drawable-xhdpi\message_bubble_out_alert_bg_n.9.png" description="普通短信发送失败" />
+        <path src="res\drawable-xhdpi\message_bubble_out_alert_gp_bg_n.9.png" description="群发失败" />
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_n.9.png" description="普通短信送达气泡" />
+        <path src="res\drawable-xhdpi\message_bubble_out_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xhdpi\message_bubble_out_gp_bg_n.9.png" description="普通短信群发送达" />
+        <path src="res\drawable-xhdpi\message_bubble_out_gp_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信送达" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_gp_bg_n.9.png" description="网络短信群发" />
+        <path src="res\drawable-xhdpi\mi_message_bubble_out_gp_bg_p.9.png" description="网络短信群发 按下" />
+    </resource>
+    <resource description="message_bubble_in_bg_p.9.png" x="24" y="616" width="590" height="320" uuid="390335a9-e79e-4d5e-adb7-ec5204ac409c">
+        <path src="res\drawable-hdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-hdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_n.9.png" description="短信接收" />
+        <path src="res\drawable-xhdpi\message_bubble_in_bg_p.9.png" description="按下状态" />
+    </resource>
+    <resource description="ic_menu_forward_holo_dark.png" x="20" y="1193" width="72" height="72" uuid="f85f1171-7f68-45e3-a94c-1a32531b74af">
+        <path src="res\drawable-hdpi\ic_menu_forward_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_forward_holo_dark.png" description="" />
+    </resource>
+    <resource description="ic_menu_lock_holo_dark.png" x="170" y="1194" width="72" height="72" uuid="09a8635f-a23c-41fd-860a-eacc22988c67">
+        <path src="res\drawable-hdpi\ic_menu_lock_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_lock_holo_dark.png" description="" />
+    </resource>
+    <resource description="ic_menu_copy_holo_dark.png" x="324" y="1194" width="72" height="72" uuid="55bbee73-4718-40d9-93e0-8883b7ba6c3a">
+        <path src="res\drawable-hdpi\ic_menu_copy_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_copy_holo_dark.png" description="" />
+    </resource>
+    <resource description="ic_menu_trash_holo_dark.png" x="477" y="1199" width="68" height="68" uuid="67144049-ea45-4f46-8289-ea20281806a8" />
+    <resource description="ic_menu_info_holo_dark.png" x="622" y="1194" width="72" height="72" uuid="47eef2f2-a86e-44c7-8cfc-7803a6f7b941">
+        <path src="res\drawable-hdpi\ic_menu_info_holo_dark.png" description="" />
+        <path src="res\drawable-xhdpi\ic_menu_info_holo_dark.png" description="" />
+    </resource>
+    <resource description="favourite_bubble_out" x="551" y="846" width="60" height="90" uuid="4551762e-2a82-4750-a989-2d2542539088">
+        <path src="res\drawable-hdpi\favourite_bubble_in.png" description="短信收藏" />
+        <path src="res\drawable-xhdpi\favourite_bubble_in.png" description="短信收藏" />
+    </resource>
+    <resource description="favourite_bubble_in" x="214" y="508" width="60" height="80" uuid="5f131d2b-204a-49f5-bc55-f727c286f49e">
+        <path src="res\drawable-hdpi\favourite_bubble_out.png" description="短信收藏" />
+        <path src="res\drawable-xhdpi\favourite_bubble_out.png" description="短信收藏" />
+    </resource>
+</screenshot>

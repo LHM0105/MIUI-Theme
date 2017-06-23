@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="waveform_unselected">#ff80c9d3</color>
+<color name="list_item_second_color">#ff8d8d8d</color>
+<color name="waveform_selected">#ffd1ebef</color>
+<color name="grid_line">#ff74c4ce</color>
+<color name="system_default_bg_color">#fff5f5f5</color>
+<color name="list_divider_color">#ffd9d9d9</color>
+<color name="sound_recorder_bg_color">#ff189dae</color>
+<color name="markpoint_timepoint_textcolor">#ff606060</color>
+<color name="markpoint_index_textcolor">#ff5e5e5e</color>
+<color name="waveform_unselected_bkgnd_overlay">#ff189dae</color>
+<color name="selection_border">#ffffffff</color>
+<color name="playback_indicator">#ffffff66</color>
+<color name="timecode">#66ffffff</color>
+<color name="timecode_shadow">#aa000000</color>
+<color name="wave_color1">#ff3dad6f</color>
+<color name="wave_color2">#ff1179ad</color>
+<color name="wave_color3">#ff3b7cff</color>
+<color name="btn_bg_color">#ff3ebacb</color>
+<color name="preview_highlight_title">#ff0091dc</color>
+<dimen name="btn_drawable_padding">6.000000dp</dimen>
+<dimen name="record_list_item_footer_margin">70.000000dp</dimen>
+<dimen name="record_list_item_footer_margin_top">54.669983dp</dimen>
+<dimen name="soundrecorder_movable_layout_scroll_range">400.000000dp</dimen>
+<dimen name="soundrecorder_header_divider_height">38.000000dp</dimen>
+<dimen name="record_list_item_margin">20.000000dp</dimen>
+<dimen name="play_back_btn_holder_bg_size">56.669983dp</dimen>
+<dimen name="soundrecorder_header_height">550.000000dp</dimen>
+<dimen name="listview_header_top_padding">45.000000dp</dimen>
+<dimen name="record_file_name_text_size">15.000000sp</dimen>
+<dimen name="ctrl_margin">55.000000dp</dimen>
+<dimen name="mark_point_list_item_height">56.699982dp</dimen>
+<string name="rename_no_more_tip">不再提示</string>
+<string name="record_list_call">通话录音列表</string>
+<string name="error_app_internal">另一个程序可能正在使用录音功能，请检查后再试</string>
+<string name="error_sdcard_access">无法访问SD卡</string>
+<string name="status_bar_recording_pause"></string>
+<string name="error_app_internal_title">录音机错误</string>
+<string name="status_bar_back">点击返回录音</string>
+<string name="recording">Recording</string>
+<string name="status_bar_recording">正在录音...</string>
+<string name="dialog_content_storage_full">由于存储空间不足，录音被迫停止，通过文件管理器可以清理不必要的文件，希望现在打开吗？</string>
+<string name="timer_format">%02d:%02d</string>
+<string name="dialog_title_storage_full">存储空间不足，是否现在清理？</string>
+<string name="recording_stopped">录音结束</string>
+<string name="record_name_hour">点</string>
+<string name="record_name_minute">分</string>
+<string name="error_file_access">文件已不存在或者文件已损坏</string>
+<string name="low_battery_error">手机电量已不足5%，为了保证录音不丢失，录音已停止并保存。意外关机有可能导致录音丢失，建议在电量充足时再进行录音。</string>
+<string name="notification_stopped">录音已终止</string>
+<string name="preference_silent_mode">录音时来电静音</string>
+<string name="notification_warning">存储空间不足(小于%d分钟)</string>
+<string name="record_list">录音列表</string>
+<string name="preference_scenes">场景设置</string>
+<string name="record_list_fm">收音机录音列表</string>
+<string name="preference_record_scenes_dialog_title">选择录音场景</string>
+<string name="delete_dialog_message">确定要删除这段录音吗？</string>
+<string name="preference_tip_rename">录音结束后提示重命名</string>
+<string name="notification_recording">正在录音...</string>
+<string name="preference_led_indicator_prompt">锁屏时是否闪烁呼吸灯和显示红色状态栏</string>
+<string name="notification_recording_ticker">手机已静音，调节音量可恢复。正在录音...</string>
+<string name="sound_recorder_settings">设置</string>
+<string name="notification_playback">正在回放录音...</string>
+<string name="preference_led_indicator">录音锁屏提示</string>
+<string name="app_name">录音机</string>
+<string name="search_quliaty_title">录音音质;LuYinYinZhi</string>
+<string name="cloud_record">云录音(%d)</string>
+<string name="fm_record">收音机录音(%d)</string>
+<string name="record_list_cloud_fm">云收音机录音列表</string>
+<string name="record_list_cloud">云录音列表</string>
+<string name="call_record">通话录音(%d)</string>
+<string name="record_list_cloud_call">云通话录音列表</string>
+<string name="no_file">没有录音</string>
+<string name="alert_message_delete_record_title">删除录音</string>
+<string name="details">详情</string>
+<string name="search_silent_mode">录音时来电静音;LuYinShiLaiDianJingYin</string>
+<string name="deleting_message">正在删除...</string>
+<string name="search_enable_earpiece_title">听筒模式;TingTongMoShi</string>
+<string name="rename_dialog_title">为该录音重新命名</string>
+<string name="search_led_indicator_prompt">锁屏时是否闪烁呼吸灯和显示红色状态栏;SuoPingShiShiFouShanShuoHuXiDengHeXianShiHongSeZhuangTaiLan</string>
+<string name="rename_duplicate">录音文件名重复，请重新输入：</string>
+<string name="search_scenes">场景设置;ChangJingSheZhi</string>
+<string name="alert_message_delete_record">确认要删除所选的录音吗?</string>
+<string name="search_led_indicator">录音锁屏提示;LuYinSuoPingTiShi</string>
+<string name="share">分享</string>
+<string name="search_tip_rename">录音结束后是否提示重命名;LuYinJieShuHouShiFouTiShiChongMingMing</string>
+<string name="rename">重命名</string>
+<string name="path_soundrecorder_setting">系统应用/录音机</string>
+<string name="delete">删除</string>
+<string name="search_app">录音机;LuYinJi</string>
+<string name="record_downloading_notification">文件正在下载</string>
+<string name="start">开始</string>
+<string name="retry">重试</string>
+<string name="wifi_recommended_title">流量提醒</string>
+<string name="record_downloading_notification_complete">录音下载完成</string>
+<string name="record_downloading_notification_count">%d个录音文件正在下载</string>
+<string name="wifi_recommended_body">可能导致过量使用移动数据连接流量，这可能导致移动运营商向您收费，具体取决于您的流量套餐情况。\n\n点击“%s”可以先加入下载任务，下次连接到WLAN网络时再开始下载此内容。</string>
+<string name="notification_title_all_paused">所有下载已暂停</string>
+<string name="notification_message_all_paused">下载文件过大，需要开启WLAN下载</string>
+<string name="button_queue_for_wifi">排队</string>
+<string name="button_start_now">立即开始</string>
+<string name="data_connection_body">温馨提示：\n当前处于运营商网络，下载内容将产生流量费用。</string>
+<string name="data_connection_button_text">知道了</string>
+<string name="xiaomi_account_type">com.xiaomi</string>
+<string name="data_connection_title">提示</string>
+<string name="error_sdcard_unmounted">SD卡被移除，请插入SD卡</string>
+<string name="preference_enable_earpiece_summary">开启后将使用听筒播放录音</string>
+<string name="preference_enable_earpiece_title">听筒模式</string>
+<string name="error_filename_illegal_char">含有不合法字符</string>
+<string name="error_filename_too_long">文件名太长</string>
+<string name="duration_format_minute">%s分</string>
+<string name="duration_format_hour">%s小时</string>
+<string name="duration_format_second">%s秒</string>
+<string name="toast_max_record_time">%1$s应用最大支持约%2$s的录音附件</string>
+<string name="message_file_size_error">录音已经达到%s应用所支持的最大录音长度</string>
+<string name="pause">暂停</string>
+<string name="back">返回</string>
+<string name="toast_uninstall_fileexplorer">未安装文件管理器</string>
+<string name="record_download">下载录音</string>
+<string name="record_download_msg">录音文件需要下载才能播放，确定要下载吗？</string>
+<string name="record_download_msg_reload">录音文件已不存在，需要重新下载。</string>
+<string name="record_download_complete">已下载</string>
+<string name="speech_recognition_running_tip">识别中</string>
+<string name="export_to_note">文本导出便签</string>
+<string name="mark_point_list_title">标记列表</string>
+<string name="text_finish">选择</string>
+<string name="new_record_name">新录音</string>
+<string name="text_btn_wave">显示声波</string>
+<string name="record_list_category_title_format">yyyy年MM月</string>
+<string name="timer_format_three_sections">%02d:%02d:%02d</string>
+<string name="share_dialog_title">分享方式</string>
+<string name="recording_quality_low">低品音质</string>
+<string name="recording_quality_standard">标准音质</string>
+<string name="recording_quality_high">高品音质</string>
+<string name="playback_share_records">分享此录音</string>
+<string name="playback_delete_records">删除此录音</string>
+<string name="invalid_argument">非法参数</string>
+<string name="speech_recognition_complete">识别完成</string>
+<string name="cloud_record_open">开启云录音</string>
+<string name="cloud_status_full_dialog_title">云空间已满</string>
+<string name="record_back_pressed_hint">再按一次停止录音</string>
+<string name="record_mark_point">%s个标记</string>
+<string name="record_quliaty_preference_title">录音音质</string>
+<string name="cloud_record_tip">开启小米云服务\n录音数据永不丢失</string>
+<string name="text_btn_list">录音记录</string>
+<string name="text_btn_mark">标记</string>
+<string name="text_btn_recognize">转文字</string>
+<string name="text_btn_complete">完成</string>
+<string name="text_btn_recording">录音</string>
+<string name="cloud_status_full_dialog_ok">升级会员</string>
+<string name="text_btn_play">播放</string>
+<string name="text_btn_pause">暂停</string>
+<string name="cloud_status_full_dialog_cancel">暂不升级</string>
+<string name="cloud_status_full_dialog_msg">您的云空间已满，无法继续备份录音。推荐升级云服务会员，获取更大储存空间及其他特权。</string>
+<string name="recognition_error_stopped">识别停止</string>
+<string name="recognition_error_cancel">取消识别</string>
+<string name="recognition_error_format">输入音频格式不支持</string>
+<string name="recognition_error_internal">内部异常</string>
+<string name="recognition_error_engine">引擎异常</string>
+<string name="recognition_error_engine_singleton">后台已经在识别</string>
+<string name="menu_view_record_list">查看录音列表</string>
+<string name="default_record_name">未命名录音</string>
+<string name="recognition_error_download_msg">该功能需要先下载离线识别引擎</string>
+<string name="recognition_error_download_title">引擎不可用</string>
+<string name="recognition_error_download_cancel">以后再说</string>
+<string name="recognition_error_download_ok">立即下载</string>
+<string name="recognition_error_downloading">识别引擎正在下载</string>
+<string name="recognition_error_download_fail">识别引擎下载失败,请检查网络设置,并确保在WIFI环境下</string>
+<string name="runtime_permission_ungranted">应用缺少必要权限，无法正常使用</string>
+<string name="recognition_status_downloading">下载中</string>
+<bool name="stereo_supported">true</bool>
+<integer name="default_out_bit_rate">#00000080</integer>
+<string-array name="record_type_entries">
+<item>MP3</item>
+<item>AMR</item>
+</string-array>
+<string-array name="record_scenes_entries">
+<item>录音乐</item>
+<item>录人声</item>
+</string-array>
+<string-array name="record_type_values">
+<item>audio/mpeg</item>
+<item>audio/amr</item>
+</string-array>
+<string-array name="record_quality_summaries">
+<item>90M/小时</item>
+<item>45M/小时</item>
+<item>32M/小时</item>
+</string-array>
+<string-array name="record_scenes_values">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="record_quality_entries">
+<item>高</item>
+<item>标准</item>
+<item>低</item>
+</string-array>
+<string-array name="record_quality_values">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="interview_record_scenes_entries">
+<item>录音乐</item>
+<item>录人声</item>
+<item>采访模式</item>
+</string-array>
+</MIUI_Theme_Values>

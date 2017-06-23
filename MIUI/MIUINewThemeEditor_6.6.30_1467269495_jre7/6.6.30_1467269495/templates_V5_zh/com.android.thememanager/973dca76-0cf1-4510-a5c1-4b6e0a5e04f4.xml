@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 个性化锁屏" version="3.2.27" annotation="" tag="旧 混搭">
+    <resource description="ic_menu_lockscreen_config_n" x="318" y="1142" width="80" height="90" uuid="c027629b-6ab2-4b90-aba7-f105f9c6e2ac">
+        <path src="res\drawable-hdpi\ic_menu_lockscreen_config_d.png" description="设置按钮 不可按" />
+        <path src="res\drawable-xhdpi\ic_menu_lockscreen_config_d.png" description="设置按钮 不可按" />
+        <path src="res\drawable-xxhdpi\ic_menu_lockscreen_config_d.png" description="设置按钮 不可按" />
+        <path src="res\drawable-hdpi\ic_menu_lockscreen_config_n.png" description="设置按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_lockscreen_config_n.png" description="设置按钮" />
+        <path src="res\drawable-xxhdpi\ic_menu_lockscreen_config_n.png" description="设置按钮" />
+        <path src="res\drawable-hdpi\ic_menu_lockscreen_config_p.png" description="设置按钮 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_lockscreen_config_p.png" description="设置按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_lockscreen_config_p.png" description="设置按钮 二态" />
+    </resource>
+</screenshot>

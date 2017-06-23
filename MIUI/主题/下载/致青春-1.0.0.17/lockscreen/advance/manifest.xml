@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lockscreen frameRate="30" screenWidth="1080" displayDesktop="true">
+	<ExternalCommands>
+		<Trigger action="resume">
+		
+			<!-- efficient_v为O显示 -->
+			<VariableCommand name="efficient_nv" expression="#conf_efficient_off"/>
+	
+					
+			<VariableCommand name="system_wp_show_mazz_v" expression="#conf_system_wp_mazz_show_on"/>
+			
+			<VariableCommand name="system_wp_v" expression="#conf_system_wp_on"/>
+		
+		
+ 		
+			<IntentCommand action="wallpaper_mazz_control_stop" broadcast="true" condition="#conf_efficient_off" />
+			<IntentCommand action="wallpaper_mazz_control_play" broadcast="true" condition="not(#conf_efficient_off)" />
+			
+
+
+			<!-- 防止解锁到一半的动画没回来 -->			 
+			<AnimationCommand target="cache0" command="play" condition="not(#pause_back_flag)"/>
+			
+
+		</Trigger>
+		<Trigger action="pause">
+			
+		</Trigger>
+	</ExternalCommands>	
+
+	<VariableBinders>
+		<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,description,temperature,weather_type" countName="hasweather" denpendency="selected_city">
+			<Variable name="weather_city" type="string" column="city_name" />
+			<Variable name="weather_description" type="string" column="description" />
+			<Variable name="weather_temperature" type="int" column="temperature" />
+			<Variable name="weather_id" type="int" column="weather_type" />
+		</ContentProviderBinder>
+ 
+
+	</VariableBinders>	
+	
+	
+	<Var name="cache0">
+		<VariableAnimation initPause="true" loop="false">
+			<AniFrame value="0" time="0" />
+			<AniFrame value="1" time="100" />
+			<Triggers>
+				<Trigger action="end" condition="#cache0==1">
+					<VariableCommand name="bug_init_handle_trigger" expression="#bug_init_handle_trigger+1"/>
+
+					<Command target="lock_anim.animation" value="play(0,300)" /> 
+					<!-- 初始化某些参数 -->
+					<VariableCommand name="init_anim_trigger" expression="#init_anim_trigger+1"/>	
+					
+					
+					<!-- 第二次不用动画 -->
+					<VariableCommand name="pause_back_flag" expression="1"/>
+
+				</Trigger>
+			</Triggers>
+		</VariableAnimation>
+	</Var>
+ 
+
+	<!-- 简化的变量 -->
+	<Group name="Simplified_variable">
+		<Var name="sw" expression="#screen_width"/>
+		<Var name="sh" expression="#screen_height"/>
+	</Group>
+
+
+	<!-- 常用的trigger -->
+	<Group name="tc">
+		<Triggers>
+			<!-- 自定义设置 -->
+			<Trigger action="custom_setting">
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.thememanager" class="com.android.thememanager.view.MamlConfigSettings">
+					<Extra name="maml_code" type="string" expression="'lockstyle'" />
+				</IntentCommand>
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.thememanager" class="miui.maml.MamlConfigSettings">
+					<Extra name="maml_code" type="string" expression="'lockstyle'" />
+				</IntentCommand>
+				<Intent action="android.intent.action.MAIN" package="com.android.thememanager" class="com.android.thememanager.view.LockscreenConfigSettings" />
+				<MethodCommand target="tc"  params="'unlock'"  method="performAction" paramTypes="String" />			
+			</Trigger>
+
+			<!-- 家庭只能设备 -->
+			<Trigger action="smart_home">	
+				<IntentCommand  action="android.intent.action.MAIN" package="com.xiaomi.smarthome" class="com.xiaomi.smarthome.miio.activity.ClientAllLockedActivity" />					
+			</Trigger>
+
+			<!-- 相机 -->
+			<Trigger action="camera">	
+				<IntentCommand package="com.android.camera" class="com.android.camera.Camera" />
+				<MethodCommand target="tc"  params="'unlock'"  method="performAction" paramTypes="String" />			
+			</Trigger>
+
+
+			<!-- 解锁退出 有需要要更改退出的动画什么的-->
+			<Trigger action="unlock">
+				<VariableCommand name="pause_back_flag" expression="0"/>
+				<Command target="lock_anim.animation" value="play(300,0)" />
+				<ExternCommand command="unlock" delay="300" />					
+			</Trigger>
+
+		</Triggers>
+
+	</Group>
+
+ 
+
+	<Var name="move_x" expression="#touch_x-#touch_begin_x"/>
+	<Var name="move_y" expression="#touch_y-#touch_begin_y"/>
+
+
+	<Var name="bounce">
+		<VariableAnimation loop="false" initPause="true"> 
+			<AniFrame value="0" time="0" easeType="QuadEaseOut"/>
+			<AniFrame value="1" time="150" easeType="BounceEaseOut"/>
+			<AniFrame value="0" time="550"/>
+		</VariableAnimation> 
+	</Var>
+
+	<Var name="drag_x_anim">
+		<VariableAnimation loop="false" initPause="true">
+			<AniFrame value="#drag_x_start" time="0" />
+			<AniFrame value="#drag_x_end" time="300"/>
+		</VariableAnimation>
+
+	</Var>
+
+	<Var name="drag_y_anim">
+		<VariableAnimation loop="false" initPause="true">
+			<AniFrame value="#drag_y_start" time="0" />
+			<AniFrame value="#drag_y_end" time="400"/>
+		</VariableAnimation>
+	</Var>
+	<Var name="lock_anim" >
+		<VariableAnimation loop="false" initPause="true">
+			<AniFrame value="0" time="0"  easeType="QuadEaseOut"/>
+			<AniFrame value="1" time="300"/>
+		</VariableAnimation>
+
+	</Var>
+	
+	<Var name="show_music_anim">
+		<VariableAnimation loop="false" initPause="true">
+			<AniFrame value="0" time="0"  easeType="QuadEaseOut"/>
+			<AniFrame value="1" time="300"/>
+		</VariableAnimation>
+	</Var>
+
+	<!-- 页面 -->
+	<Var name="page" expression="#main_page" const="true"/>
+	<Var name="main_page" expression="0"/>
+	<Var name="music_page" expression="1"/>
+
+	
+	<Var name="show_music_handle" expression="#show_music" threshold="1">
+		<Trigger>
+			<Command target="show_music_anim.animation" value="play(0,300)" condition="#show_music"/>
+			<Command target="show_music_anim.animation" value="play(300,0)" condition="not(#show_music)"/>
+ 
+ 		</Trigger>
+	</Var>
+	
+	
+	<Group name="main" visibility="eq(#page,#main_page)">
+
+
+		<!-- 壁纸 -->
+		<Group   >
+			<Image x="0" y="0" src="bg.jpg" visibility="not(#system_wp_v)"/>
+			<Wallpaper visibility="#system_wp_v"/>
+
+			
+		<!-- 蒲公英	-->
+		<Group name="bug_g" visibility="ifelse(#system_wp_v,#system_wp_show_mazz_v,1)">
+			<Var name="bug_s" type="number[]" size="30" const="true" />
+			<Var name="bug_a" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_x" type="number[]" size="30" const="true" />
+			<Var name="bug_y" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_angle" type="number[]" size="30" const="true" />
+			<!-- 目标xy -->
+			<Var name="bug_tx" type="number[]" size="30" const="true" />
+			<Var name="bug_ty" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_n" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_init_handle" expression="#bug_init_handle_trigger" threshold="1">
+				<Trigger>
+					<LoopCommand count="30" indexName="init_i">
+						<VariableCommand name="num" expression="rand()" />
+						<VariableCommand name="bug_s" type="number[]" index="#init_i" expression="(int(#num*300)+50)/100" />
+						<VariableCommand name="bug_a" type="number[]" index="#init_i" expression="int(#num*255)+120" />
+						<VariableCommand name="bug_x" type="number[]" index="#init_i" expression="int(rand()*#sw)" />
+						<VariableCommand name="bug_y" type="number[]" index="#init_i" expression="int(rand()*#sh)" />
+ 					
+						<VariableCommand name="bug_tx" type="number[]" index="#init_i" expression="int(rand()*(#sw*3)+#sw)"/>
+						<VariableCommand name="bug_ty" type="number[]" index="#init_i" expression="-1000"/>
+							
+						<VariableCommand name="bug_angle" type="number[]" index="#init_i" expression="rand()*20" /> 
+						
+						<VariableCommand name="bug_n" type="number[]" index="#init_i" expression="0" />
+					</LoopCommand>
+						<VariableCommand name="foo_cnt" expression="0"/>
+				</Trigger>
+			</Var>
+			
+			
+			<Array name="ssssss" count="30" indexName="bug_i"   >
+				<Image src="mazz.png" x="#bug_x[#bug_i]" y="#bug_y[#bug_i]" scale="#bug_s[#bug_i]" rotation="#bug_angle[#bug_i]" centerX="44" centerY="44" alpha="#bug_a[#bug_i]" align="center" alignV="center" />
+			</Array>
+			
+			<!-- 计算位置 -->
+			<Var name="foo_get_pos_timer" expression="int(#time/30)*not(#efficient_nv)" threshold="1">
+				<Trigger>
+					<VariableCommand name="foo_cnt" expression="#foo_cnt+1"/>
+					<LoopCommand count="30" indexName="pos_i">
+ 
+						<MultiCommand condition="gt(#bug_x[#pos_i],#sw+100)+lt(#bug_y[#pos_i],-100)">
+							<VariableCommand name="bug_x" type="number[]" index="#pos_i" expression="int(rand()*(-300)-60)" />
+							<VariableCommand name="bug_y" type="number[]" index="#pos_i" expression="int(rand()*#sh+500)" />
+							
+							<VariableCommand name="bug_tx" type="number[]" index="#pos_i" expression="int(rand()*(3*#sw)+#sw)"/>
+							<VariableCommand name="bug_ty" type="number[]" index="#pos_i" expression="-1000"/>
+						
+							<VariableCommand name="bug_n" type="number[]" index="#pos_i" expression="1" />
+						</MultiCommand>
+ 
+						<VariableCommand name="bug_x" type="number[]" index="#pos_i" expression="#bug_x[#pos_i]+(#bug_tx[#pos_i]-#bug_x[#pos_i])/(950-#bug_s[#pos_i]*64)" />
+						<VariableCommand name="bug_y" type="number[]" index="#pos_i" expression="#bug_y[#pos_i]+(#bug_ty[#pos_i]-#bug_y[#pos_i])/(950-#bug_s[#pos_i]*64)" />
+						
+ 
+ 
+					</LoopCommand>
+				</Trigger>
+			</Var>
+	 
+		</Group>
+
+
+			<!-- 文字 -->
+			<Group alpha="255-120+120*#lock_anim" y="-50">
+				<Image x="#sw/2" y="444-150+150*#lock_anim" align="center" src="young_txt_1.png"/>
+				<Image x="720+100-100*#lock_anim" y="695"  src="young_txt_2.png"/>
+				<Image x="348-100+100*#lock_anim" y="840" align="right" src="young_txt_3.png"/>	
+
+
+				<!-- 天气强行加入 -->
+				<Var name="weather_icon" alpha="180" expression="'weather/weather_'+#weather_id+ifelse(eq(#weather_id,0)+eq(#weather_id,1)+eq(#weather_id,2),'_'+not(ge(#hour24,6)*le(#hour24,17)),'')+'.png'" type="string" />
+				<Image x="#sw/2" y="1155-150+150*#lock_anim" align="center" alignV="center" srcExp="@weather_icon"/>
+				<Text x="#sw/2" y="1155+100-150+150*#lock_anim" align="center" alignV="center" color="#ffffff" size="40" format="%s℃  %s" paras="#weather_temperature,@weather_description" />
+
+			</Group>
+
+
+
+		</Group>
+
+
+		<Group name="time_calendar"   y="#sh-180+180-180*#lock_anim-460*#show_music_anim" alpha="255-120+120*#lock_anim">
+			<Rectangle  w="#sw" h="180+460" fillColor="#32000000"/>
+			<!-- 头像 -->
+			<Group name="img_head_g" x="170" y="40" >
+				<Image align="center" alignV="center" src="img_head_bg.png"/>
+				<Image align="center" alignV="center" w="248" h="248" src="img_head_default.png" antiAlias="true"  >
+					<Mask align="center" alignV="center" src="img_head_mask.png"/>
+				</Image>
+				 
+				<Image align="center" alignV="center" w="248" h="248" src="@img1" srcType="Uri" antiAlias="true" visibility="not(isnull(@img1))">
+					<Mask align="center" alignV="center" src="img_head_mask.png"/>
+				</Image>
+
+
+				<Button name="change_url_img"  w="230" h="230" align="center" alignV="center" >
+					<Triggers>
+						<Trigger action="down">
+							<VariableCommand name="long_touch_mark" expression="#time"/>
+						</Trigger>
+					
+						<Trigger action="up">
+							<MultiCommand condition="gt(#time-#long_touch_mark,2000)">
+								<VariableCommand name="img1" expression="''" type="string" persist="true"  />
+				
+							</MultiCommand>
+							<MultiCommand condition="le(#time-#long_touch_mark,2000)">
+								<MethodCommand target="tc"  params="'custom_setting'"  method="performAction" paramTypes="String" />
+							</MultiCommand>
+						</Trigger>
+					</Triggers>
+				</Button>
+			</Group>
+
+
+
+			<!-- 时间 -->
+			<Time x="320" y="90" alignV="center" src="n/n.png" />
+
+			<!-- 日历 -->
+			<DateTime x="680" y="90" alignV="bottom" color="#eeffffff" size="36" format="MM月dd日  EEEE"/>
+			<Image x="680" y="90+10" src="young_txt_4.png"/>
+ 
+			<Rectangle x="0" y="180"  w="#sw" h="2" cornerRadius="2,2" fillColor="#80ffffff"  cap="round"/>
+			<!-- 音乐 -->
+			<Group x="#sw/2" >
+				<MusicControl name="music_control"  autoShow="true" enableProgress="true" frameRate="30">
+					<!--背板-->
+			<!-- 		<Image name="music_album_cover_bg"   align="center"   src="music/music_album_cover_bg.png"/> -->
+					<!-- 与头像公用 -->
+					<Image x="170-#sw/2" y="40" name="music_album_cover" align="center" alignV="center" w="248" h="248"  antiAlias="true" alpha="255*#show_music_anim">
+						<Mask x="0" y="0" align="center" alignV="center"   src="img_head_mask.png"/> 
+					</Image> 
+
+
+					<!--歌词-->
+					<Var name="lyric_width" expression="650" const="true" />
+					<Var name="lyric_color" expression="'#ffffffff'" type="string" />
+					<Text   y="255"  align="center" alignV="center" w="#lyric_width" size="45" format="%s" paras="@music_control.title" color="@lyric_color" marqueeSpeed="30" />
+					<Text  y="300" align="center" alignV="center" w="#lyric_width" size="28" format="%s" paras="@music_control.artist" color="@lyric_color" marqueeSpeed="30" />
+
+
+					<!--进度-->
+					<Group name="music_progress_part" y="560">
+						<Var name="progress_w" expression="750"/>
+						<Var name="progress_h" expression="6"/>
+						<Var name="progress_color" expression="'#ffffffff'" type="string"/>
+
+						<Var name="music_progress" expression="ifelse(#music_control.music_state,ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0),#music_progress)" />
+						<Rectangle name="music_progress_bg" alpha="150" cornerRadius="1,2" cap="round"  w="#progress_w" h="#progress_h" align="center" alignV="center" fillColor="@progress_color" />
+						<Rectangle name="music_progress" cornerRadius="1,2" cap="round" x="-#progress_w/2" w="#progress_w*#music_progress" h="#progress_h" alignV="center" fillColor="@progress_color" />
+
+						<DateTime x="-#progress_w/2-20"  alignV="center"   align="right"  color="@lyric_color" size="20" alpha="128" value="#music_control.music_position" format="mm:ss"/>
+						<DateTime x="#progress_w/2+20"  alignV="center"    color="@lyric_color" size="20" alpha="128" value="#music_control.music_duration" format="mm:ss"/>
+
+					</Group>
+
+					<!--按键-->
+					<var name="util_width" expression="700"/>
+					<Var name="music_btn_y" expression="430"/>
+					<Var name="music_btn_w" expression="150"/>
+					<Var name="music_btn_h" expression="150"/>
+					<Button  name="music_prev" x="-#util_width*2/8" y="#music_btn_y" align="center" alignV="center"   w="#music_btn_w" h="#music_btn_h">
+						<Normal>
+							<Image  x="-#util_width*2/8" y="#music_btn_y" align="center" alignV="center" src="music/music_prev.png"/>
+						</Normal>
+						<Pressed>
+							<Image  x="-#util_width*2/8" y="#music_btn_y" align="center"  alignV="center" src="music/music_prev_p.png"/>
+						</Pressed>
+					</Button>
+					<Button  name="music_next" x="#util_width*2/8" y="#music_btn_y" align="center"  alignV="center"  w="#music_btn_w" h="#music_btn_h">
+						<Normal>
+							<Image  x="#util_width*2/8" y="#music_btn_y" align="center"  alignV="center" src="music/music_next.png"/>
+						</Normal>
+						<Pressed>
+							<Image  x="#util_width*2/8" y="#music_btn_y" align="center"  alignV="center" src="music/music_next_p.png"/>
+						</Pressed>
+					</Button>
+					<Button   name="music_play"   y="#music_btn_y" align="center"  alignV="center"  w="#music_btn_w" h="#music_btn_h">
+						<Normal>
+							<Image   y="#music_btn_y" align="center" alignV="center" src="music/music_play.png"/>
+						</Normal>
+						<Pressed>
+							<Image   y="#music_btn_y"  align="center" alignV="center"  src="music/music_play_p.png"/>
+						</Pressed>
+					</Button>
+					<Button   name="music_pause"  y="#music_btn_y" align="center"  alignV="center"  w="#music_btn_w" h="#music_btn_h">
+						<Normal>
+							<Image    y="#music_btn_y" align="center" alignV="center" src="music/music_pause.png"/>
+						</Normal>
+						<Pressed>
+							<Image    y="#music_btn_y" align="center" alignV="center" src="music/music_pause_p.png"/>
+						</Pressed>
+					</Button>
+				</MusicControl>
+			</Group>
+
+
+		</Group>
+
+		<!-- 相机 -->
+		<Group name="camera"  x="#drag_x_left*#move_x">
+			<Image x="#sw+#drag_x_anim" src="camera_bg.jpg"/> 		
+		</Group>
+
+
+
+	</Group>
+
+
+
+	<Group name="btn_g">
+			<Var name="init_anim" expression="#init_anim_trigger" threshold="1">
+			<Trigger>
+				<VariableCommand name="drag_x_start" expression="0"/>
+				<VariableCommand name="drag_x_end" expression="0"/>
+				<Command target="drag_x_anim.animation" value="play"/>
+			</Trigger>
+		</Var>
+
+	
+	
+		<Button name="all_control" x="0" y="0" w="#sw" h="#sh"  >
+			<Triggers>
+				<Trigger action="down">
+
+					<VariableCommand name="touch_mode" expression="1"/>
+
+
+				</Trigger>
+				<Trigger action="up">
+					<VariableCommand name="touch_mode" expression="0"/>
+					<!-- 左拉进入相机 -->
+					<MultiCommand condition="#drag_x_left*gt(abs(#move_x),300)">
+
+						<VariableCommand name="drag_x_start" expression="#move_x"/>
+						<VariableCommand name="drag_x_end" expression="-#sw"/>
+						<Command target="drag_x_anim.animation" value="play"/>
+						<MethodCommand target="tc"  params="'camera'"  method="performAction" paramTypes="String"  delay="300"/>
+					</MultiCommand>
+
+					<!-- 上拉解锁 -->
+					<MultiCommand condition="#drag_y_up*gt((0-#move_y),300)">		
+						<!-- 注意， 这时#move_y为负 -->
+						<VariableCommand name="show_music" expression="0" condition="#show_music"/>
+						<MethodCommand target="tc"  params="'unlock'"  method="performAction" paramTypes="String" />
+
+					</MultiCommand>
+
+
+					<!-- 上啦失败 -->
+					<!-- 					<MultiCommand condition="#drag_y_up*le((0-#move_y),300)">		
+						<Command target="bounce.animation" value="play"/> 
+					</MultiCommand>
+
+					<VariableCommand name="wall2game_renc" expression="0"/>-->
+					
+				 
+					
+
+					<VariableCommand name="init_drag_trigger" expression="#init_drag_trigger+1"/> 
+				</Trigger>
+
+				<Trigger action="double">			
+					<VariableCommand name="show_music" expression="not(#show_music)"/>
+				</Trigger>
+			</Triggers>
+
+		</Button>
+
+
+		<Var name="init_drag" expression="#init_drag_trigger" threshold="1">
+			<Trigger>
+
+				<VariableCommand name="tmp" expression="#tmp+1"/>
+				<VariableCommand name="drag_x" expression="0"/>
+				<VariableCommand name="drag_y" expression="0"/>
+
+				<VariableCommand name="drag_x_left" expression="0"/>
+				<VariableCommand name="drag_x_right" expression="0"/>
+
+				<VariableCommand name="drag_y_up" expression="0"/>
+				<VariableCommand name="drag_y_down" expression="0"/>	
+
+			</Trigger>
+
+		</Var>
+
+		<Var name="dir_j" expression="#touch_mode*gt(abs(#move_x)+abs(#move_y),150)" threshold="1">
+			<Trigger>
+				<MultiCommand condition="!(#drag_x+#drag_y)*#touch_mode">
+					<VariableCommand name="drag_x" expression="gt(abs(#move_x),abs(#move_y))"/>
+					<VariableCommand name="drag_y" expression="!#drag_x"/>
+
+					<VariableCommand name="drag_x_right" expression="gt(#move_x,0)" condition="#drag_x"/>
+					<VariableCommand name="drag_x_left" expression="!#drag_x_right" condition="#drag_x"/>
+
+
+					<VariableCommand name="drag_y_up" expression="gt(0,#move_y)" condition="#drag_y"/>
+					<VariableCommand name="drag_y_down" expression="!#drag_y_up" condition="#drag_y"/>				
+
+				</MultiCommand>
+			</Trigger>
+		</Var>
+
+
+	</Group>
+
+
+ 
+ 
+	<Group visibility="0">
+		<Rectangle x="300" y="0" w="300" h="1000" fillColor="#80000000"/>
+
+		<Var name="debug_color" expression="'#ffff0000'" type="string" />
+		<Text name="debug1" x="300" y="50" textExp="@conf_regeneration" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="100" textExp="'1: bug_x[1] = '+#bug_x[1]" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="150" textExp="'2: conf_regeneration_handle_trigger = '+#conf_regeneration_handle_trigger" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="200" textExp="'3: conf_regeneration = '+#conf_regeneration" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="250" textExp="'4: bug_y[1] = '+#bug_y[1]" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="300" textExp="'5: pop_tx[1] = '+#pop_tx[1]" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="350" textExp="'6: jj = '+#jj" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="750" textExp="'7: girl_x = '+#girl_x" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="800" textExp="'8: girl_lose_handle_trigger = '+#girl_lose_handle_trigger" size="44" color="@debug_color" visibility="1" />
+		<Text name="debug2" x="300" y="1000" textExp="'9: attack_j_trigger = '+#attack_j_trigger" size="44" color="@debug_color" visibility="1" />
+	</Group>
+</Lockscreen>

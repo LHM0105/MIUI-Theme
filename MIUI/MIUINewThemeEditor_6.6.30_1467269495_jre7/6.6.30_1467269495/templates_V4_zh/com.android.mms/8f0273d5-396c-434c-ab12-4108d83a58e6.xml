@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2短信会话背景" version="2.12.27" annotation="此图为有内容短信会话背景" tag="短信会话界面">
+    <resource description="conversation_bg.9" x="0" y="50" width="720" height="1228" uuid="8a58fcfc-23a5-407e-b022-c9a316a0c001">
+        <path src="res\drawable-hdpi\conversation_bg.9.png" description="此图为有内容短信会话背景" />
+        <path src="res\drawable-xhdpi\conversation_bg.9.png" description="此图为有内容短信会话背景" />
+    </resource>
+    <resource description="call_btn_p.png" x="601" y="96" width="84" height="84" uuid="f590f256-a351-408f-a717-6d6a35a0080c">
+        <path src="res\drawable-hdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-hdpi\call_btn_p.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_n.png" description="" />
+        <path src="res\drawable-xhdpi\call_btn_p.png" description="" />
+    </resource>
+</screenshot>

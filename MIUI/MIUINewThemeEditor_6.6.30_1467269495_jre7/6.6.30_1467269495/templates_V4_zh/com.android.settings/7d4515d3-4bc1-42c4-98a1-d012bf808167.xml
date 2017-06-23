@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="关于手机" version="2.9.16" annotation="" tag="全部设置">
+    <resource description="about_device_ab_solid.9.png" x="0" y="46" width="720" height="98" uuid="e850d1a0-5726-4177-9490-7dea9f027acc">
+        <path src="res\drawable-hdpi\about_device_ab_solid.9.png" description="" />
+        <path src="res\drawable-xhdpi\about_device_ab_solid.9.png" description="" />
+    </resource>
+    <resource description="miui_logo.9.png" x="0" y="150" width="720" height="234" uuid="e92b22e7-28d2-4a60-84b9-a52a67ee1dfe">
+        <path src="res\drawable-en-hdpi\miui_logo.9.png" description="" />
+        <path src="res\drawable-en-xhdpi\miui_logo.9.png" description="" />
+        <path src="res\drawable-hdpi\miui_logo.9.png" description="" />
+        <path src="res\drawable-xhdpi\miui_logo.9.png" description="" />
+    </resource>
+    <resource description="about_device_home_up_p.png" x="21" y="76" width="53" height="45" uuid="6cf7954b-b811-4dba-b764-b294cf984e8f">
+        <path src="res\drawable-hdpi\about_device_home_up_n.png" description="" />
+        <path src="res\drawable-hdpi\about_device_home_up_p.png" description="" />
+        <path src="res\drawable-xhdpi\about_device_home_up_n.png" description="" />
+        <path src="res\drawable-xhdpi\about_device_home_up_p.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 桌面插件" version="3.2.27" annotation="" tag="普通模式">
+    <resource description="widget_resize_frame_holo.9" x="114" y="404" width="474" height="310" uuid="021bb80f-5b39-4646-866b-74f8a6dd5bea">
+        <path src="res\drawable-hdpi\widget_resize_frame_holo.9.png" description="线框" />
+        <path src="res\drawable-xhdpi\widget_resize_frame_holo.9.png" description="线框" />
+    </resource>
+    <resource description="widget_resize_handle_bottom" x="342" y="618" width="34" height="52" uuid="5e34848a-2f50-4543-aa5e-166b9fd997da">
+        <path src="res\drawable-hdpi\widget_resize_handle_bottom.png" description="底部按钮" />
+        <path src="res\drawable-xhdpi\widget_resize_handle_bottom.png" description="底部按钮" />
+    </resource>
+    <resource description="widget_resize_handle_left" x="158" y="534" width="52" height="34" uuid="94259c7d-8d58-4021-b8fe-4f984957677a">
+        <path src="res\drawable-hdpi\widget_resize_handle_left.png" description="左侧按钮" />
+        <path src="res\drawable-xhdpi\widget_resize_handle_left.png" description="左侧按钮" />
+    </resource>
+    <resource description="widget_resize_handle_right" x="514" y="532" width="52" height="34" uuid="f7c851eb-b791-4dfd-868f-92e33ac590aa">
+        <path src="res\drawable-hdpi\widget_resize_handle_right.png" description="右侧按钮" />
+        <path src="res\drawable-xhdpi\widget_resize_handle_right.png" description="右侧按钮" />
+    </resource>
+    <resource description="widget_resize_handle_top" x="340" y="428" width="34" height="52" uuid="20916852-a612-417f-94e3-288391055300">
+        <path src="res\drawable-hdpi\widget_resize_handle_top.png" description="顶部按钮" />
+        <path src="res\drawable-xhdpi\widget_resize_handle_top.png" description="顶部按钮" />
+    </resource>
+    <resource description="gadget_clear_button_fore_low_pressed" x="422" y="902" width="45" height="51" uuid="8199c9d9-61c0-4172-b3b9-b84ee9cec203">
+        <path src="res\drawable-hdpi\gadget_clear_button_fore_high_normal.png" description="高内存使用时 按钮常态" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_fore_high_normal.png" description="高内存使用时 按钮常态" />
+        <path src="res\drawable-hdpi\gadget_clear_button_fore_high_pressed.png" description="高内存使用时 按钮二态" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_fore_high_pressed.png" description="高内存使用时 按钮二态" />
+        <path src="res\drawable-hdpi\gadget_clear_button_fore_low_normal.png" description="低内存使用时 按钮常态" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_fore_low_normal.png" description="低内存使用时 按钮常态" />
+        <path src="res\drawable-hdpi\gadget_clear_button_fore_low_pressed.png" description="低内存使用时 按钮二态" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_fore_low_pressed.png" description="低内存使用时 按钮二态" />
+    </resource>
+    <resource description="gadget_clear_button_circle_low" x="398" y="877" width="92" height="97" uuid="3e10bfaa-dc93-433b-a541-7d9d2c1089e4">
+        <path src="res\drawable-hdpi\gadget_clear_button_circle_high.png" description="高内存使用时进度条" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_circle_high.png" description="高内存使用时进度条" />
+        <path src="res\drawable-hdpi\gadget_clear_button_circle_low.png" description="低内存使用时进度条" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_circle_low.png" description="低内存使用时进度条" />
+    </resource>
+    <resource description="gadget_clear_button_bg_top.9" x="373" y="851" width="150" height="134" uuid="54909afe-ecae-44b4-bd74-e2b6f7b1fbad">
+        <path src="res\drawable-hdpi\gadget_clear_button_bg_top.9.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_bg_top.9.png" description="按钮背景" />
+    </resource>
+    <resource description="gadget_clear_button_bg_bottom.9" x="373" y="990" width="148" height="40" uuid="4afdfe36-305b-4717-896d-7112c0a15abf">
+        <path src="res\drawable-hdpi\gadget_clear_button_bg_bottom.9.png" description="底部百分比背景" />
+        <path src="res\drawable-xhdpi\gadget_clear_button_bg_bottom.9.png" description="底部百分比背景" />
+    </resource>
+</screenshot>

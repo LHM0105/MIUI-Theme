@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 红米短信界面" version="HBJ2.2" annotation="" tag="红米">
+    <resource description="message_sim_bg.9" x="448" y="212" width="37" height="45" uuid="464de8ec-1b7e-46cb-88be-b6a195add327">
+        <path src="res\drawable-xhdpi\message_sim_bg.9.png" description="卡标 背景" />
+    </resource>
+    <resource description="message_sim_bg.9" x="447" y="730" width="40" height="44" uuid="85267083-477a-42d3-869a-ef7e9918bc7f">
+        <path src="res\drawable-xhdpi\message_sim_bg.9.png" description="卡标 背景" />
+    </resource>
+    <resource description="send_btn1_bg_n.9" x="75" y="1185" width="315" height="78" uuid="e6097804-24fd-4362-be6e-f854a8623b9f">
+        <path src="res\drawable-xhdpi\send_btn1_bg_n.9.png" description="卡1 发送 常态" />
+        <path src="res\drawable-xhdpi\send_btn1_bg_p.9.png" description="卡1 发送 二态" />
+    </resource>
+    <resource description="send_btn2_bg_n.9" x="393" y="1186" width="316" height="77" uuid="9c57e58c-b386-48be-b67c-0734d18249f2">
+        <path src="res\drawable-xhdpi\send_btn2_bg_n.9.png" description="卡2 发送 常态" />
+        <path src="res\drawable-xhdpi\send_btn2_bg_p.9.png" description="卡2 发送 二态" />
+    </resource>
+</screenshot>

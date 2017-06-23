@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 新建短信" version="2.12.27" annotation="" tag="短信">
+    <resource description="message_edit_bottom_panel.9.png" x="0" y="1086" width="1080" height="170" uuid="68e18645-3e62-4fed-bb51-97dd3a553ec2">
+        <path src="res\drawable-xxhdpi\message_edit_bottom_panel.9.png" description="底部输入框按钮背景" />
+    </resource>
+    <resource description="send_btn_p.png" x="948" y="1106" width="114" height="118" uuid="fb705f2a-56d3-45b5-836d-dad76f52fcb2">
+        <path src="res\drawable-xxhdpi\send_btn_disable.png" description="发送按钮_不可按" />
+        <path src="res\drawable-xxhdpi\send_btn_n.png" description="发送按钮_常态" />
+        <path src="res\drawable-xxhdpi\send_btn_p.png" description="发送按钮_二态" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_n.png" description="网络发送按钮_常态" />
+        <path src="res\drawable-xxhdpi\send_mx_btn_p.png" description="网络发送按钮_二态" />
+        <path src="res\drawable-xxhdpi\chat_icon_voice_n.png" description="语音发送按钮_二态" />
+        <path src="res\drawable-xxhdpi\chat_icon_voice_p.png" description="语音发送按钮_二态" />
+    </resource>
+    <resource description="recent_contact_item_bg_n.9" x="4" y="198" width="354" height="125" uuid="6491d447-16fa-46db-beda-8990512d0eb8">
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_n.9.png" description="快捷回复联系人_常态" />
+        <path src="res\drawable-xxhdpi\recent_contact_item_bg_p.9.png" description="快捷回复联系人_二态" />
+    </resource>
+
+    <resource description="insert_attachment_button_n" x="20" y="1106" width="100" height="118" uuid="313fa089-3795-4160-916b-27c25eba982b">
+        <path src="res\drawable-xxhdpi\insert_attachment_button_checked_n.png" description="附件按钮_选中" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_n.png" description="附件按钮_常态" />
+        <path src="res\drawable-xxhdpi\insert_attachment_button_p.png" description="附件按钮_二态" />
+    </resource>
+
+    <resource description="recipient_view_bg_normal.9" x="345" y="80" width="220" height="86" uuid="9be9fd57-c458-43c8-92ee-82365fc7f792">
+        <path src="res\drawable-xxhdpi\recipient_view_bg_normal.9.png" description="收件人背景_常态" />
+        <path src="res\drawable-xxhdpi\recipient_view_bg_pressed.9.png" description="收件人背景_二态" />
+    </resource>
+    <resource description="mi_recipient_view_bg_normal.9" x="116" y="80" width="220" height="86" uuid="c5b44bfe-8d05-4e1a-925c-13d7d47b8ba9">
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_normal.9.png" description="网络短信收件人_常态" />
+        <path src="res\drawable-xxhdpi\mi_recipient_view_bg_pressed.9.png" description="网络短信收件人_二态" />
+    </resource>
+
+    <resource description="recent_contact_divider.9" x="708" y="202" width="22" height="270" uuid="7828349c-9184-4d79-a8d8-abd6fe5ab376">
+        <path src="res\drawable-xxhdpi\recent_contact_divider.9.png" description="平铺分割线" />
+    </resource>
+
+    <resource description="title_bar_bg_one_row.9" x="0" y="50" width="1080" height="148" uuid="b7d0e519-2311-476a-add8-a303536f7eae">
+        <path src="res\drawable-xxhdpi\title_bar_bg_row.9.png" description="快速编辑短信title背景" />
+    </resource>
+
+    <resource description="add_recipients_normal" x="936" y="58" width="142" height="130" uuid="c5ecf4f8-9f13-434b-89a4-ca4198a14236">
+        <path src="res\drawable-xxhdpi\add_recipients_normal.png" description="添加联系人_常态" />
+        <path src="res\drawable-xxhdpi\add_recipients_pressed.png" description="添加联系人_二态" />
+    </resource>
+
+    <resource description="recent_contact_grid_bg.9" x="0" y="193" width="1080" height="285" uuid="679e22ce-cab4-4393-a601-d74a6cd04b91">
+        <path src="res\drawable-xxhdpi\recent_contact_grid_bg.9.png" description="快捷回复联系人背景" />
+    </resource>
+
+    <resource description="attachment_screen_bg.9" x="0" y="1260" width="1078" height="670" uuid="c8eca794-4a64-4b4b-b0f4-f89a008a45b8">
+        <path src="res\drawable-xxhdpi\attachment_screen_bg.9.png" description="附件背景" />
+    </resource>
+
+    <resource description="compose_mi_msg_editor_bg.9" x="134" y="1106" width="802" height="128" uuid="d5139071-3bf6-4a9e-9c8a-5513a8d0f869">
+        <path src="res\drawable-xxhdpi\compose_message_editor_bg.9.png" description="普通短信" />
+        <path src="res\drawable-xxhdpi\compose_mi_message_editor_bg.9.png" description="网络短信" />
+    </resource>
+
+    <resource description="ic_attach_smiley_n" x="132" y="1608" width="120" height="120" uuid="bd7efc1e-ad8b-442d-a000-3a62ed6e823b">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="132" y="1306" width="120" height="120" uuid="b1c6ffa3-2e30-4f2f-8d37-cd3ece5a5ac7">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="478" y="1305" width="120" height="120" uuid="7faca1f0-36cb-4af0-975f-acec2c4906a6">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="815" y="1306" width="120" height="120" uuid="50f17d70-9ae9-49ee-87b0-c437cc13830e">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="815" y="1608" width="120" height="120" uuid="727c04d6-02ee-415e-89aa-ec3c2f55e3e9">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+    <resource description="ic_attach_smiley_n" x="478" y="1608" width="120" height="120" uuid="32e4ee21-fca6-4787-b3b3-60650d124bd6">
+        <path src="res\drawable-xxhdpi\edit_phrase.png" description="编辑常用语按钮" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_d.png" description="表情_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_n.png" description="表情_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_smiley_p.png" description="表情_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_d.png" description="联系人_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_n.png" description="联系人_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_contact_p.png" description="联系人_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_d.png" description="群发称呼_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_n.png" description="群发称呼_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_nickname_p.png" description="群发称呼_按下" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_d.png" description="图片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_n.png" description="图片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_photo_p.png" description="图片_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_d.png" description="拍照_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_n.png" description="拍照_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_take_photo_p.png" description="拍照_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_d.png" description="推荐_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_n.png" description="推荐_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_festival_sms_p.png" description="推荐_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_d.png" description="收藏_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_n.png" description="收藏_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_phrase_p.png" description="收藏_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_d.png" description="定时_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_n.png" description="定时_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_timing_p.png" description="定时_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_d.png" description="主题_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_n.png" description="主题_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_subject_p.png" description="主题_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_d.png" description="音频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_n.png" description="音频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_sound_p.png" description="音频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_d.png" description="视频_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_n.png" description="视频_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_video_p.png" description="视频_二态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_d.png" description="幻灯片_不可按" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_n.png" description="幻灯片_常态" />
+        <path src="res\drawable-xxhdpi\ic_attach_slide_show_p.png" description="幻灯片_二态" />
+    </resource>
+</screenshot>

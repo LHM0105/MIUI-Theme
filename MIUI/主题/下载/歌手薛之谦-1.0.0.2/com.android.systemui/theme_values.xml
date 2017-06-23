@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="no_notification_tips_text">#ffffffff</color>
+<bool name="config_show_statusbar_search">false</bool>
+<color name="task_manager_text">#ffffffff</color>
+</MIUI_Theme_Values>

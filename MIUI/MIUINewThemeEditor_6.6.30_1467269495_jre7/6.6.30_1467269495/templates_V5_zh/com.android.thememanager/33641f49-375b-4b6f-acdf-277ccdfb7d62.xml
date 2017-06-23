@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.5 撰写评论" version="3.1.11" annotation="" tag="旧 主题">
+    <resource description="resource_comment_star" x="228" y="158" width="270" height="66" uuid="8c194e85-5c67-45fc-9fd6-822fc350bd19">
+        <path src="res\drawable-hdpi\resource_comment_star.png" description="评星" />
+        <path src="res\drawable-xhdpi\resource_comment_star.png" description="评星" />
+        <path src="res\drawable-hdpi\resource_comment_star_off.png" description="评星" />
+        <path src="res\drawable-xhdpi\resource_comment_star_off.png" description="评星" />
+    </resource>
+</screenshot>

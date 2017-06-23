@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="联系人头像按下效果" version="3.3.8" annotation="联系人头像按下效果" tag="">
+    <resource description="quickcontact_badge_overlay_pressed_light.9" x="6" y="142" width="130" height="130" uuid="f89cc832-3cca-47c4-819b-82920287270d">
+        <path src="res\drawable-hdpi\quickcontact_badge_overlay_pressed_light.9.png" description="联系人头像按下" />
+        <path src="res\drawable-xhdpi\quickcontact_badge_overlay_pressed_light.9.png" description="联系人头像按下" />
+    </resource>
+</screenshot>

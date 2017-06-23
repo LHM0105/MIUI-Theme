@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.2 红米短信列表" version="HBJ2.2" annotation="" tag="红米">
+    <resource description="ic_sim1" x="160" y="467" width="30" height="32" uuid="149cf3eb-9cf2-400c-9322-30ea708439a8">
+        <path src="res\drawable-xhdpi\ic_sim1.png" description="卡1 标识" />
+    </resource>
+    <resource description="ic_sim2" x="160" y="324" width="31" height="33" uuid="c597fc3f-e1f2-4fda-b501-54bedbebc714">
+        <path src="res\drawable-xhdpi\ic_sim2.png" description="" />
+    </resource>
+    <resource description="ic_sim_unknown" x="158" y="606" width="36" height="38" uuid="aafe6945-5b9d-4207-8bd3-0c21f05b1d43">
+        <path src="res\drawable-xhdpi\ic_sim_unknown.png" description="未知标识" />
+    </resource>
+</screenshot>

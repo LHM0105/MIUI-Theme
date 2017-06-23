@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 OTG" version="3.2.27" annotation="" tag="2.0 SD卡">
+    <resource description="volume_switch_normal" x="8" y="148" width="76" height="72" uuid="b2bc5f0c-acca-430c-916c-db5c5206ef0f">
+        <path src="res\drawable-xhdpi\volume_switch_normal.png" description="存储设备弹窗显示按钮" />
+        <path src="res\drawable-xhdpi\volume_switch_pressed.png" description="存储设备弹窗显示按钮 二态" />
+    </resource>
+    <resource description="dropdown_normal.9" x="4" y="235" width="702" height="113" uuid="46ce7d5e-b176-4fdc-9464-95bfd107da69">
+        <path src="res\drawable-xhdpi\dropdown_normal.9.png" description="存储设备列表" />
+        <path src="res\drawable-xhdpi\dropdown_panel_bg.9.png" description="存储设备弹窗背景" />
+        <path src="res\drawable-xhdpi\dropdown_pressed.9.png" description="存储设备列表 二态" />
+    </resource>
+    <resource description="storage_usb_n" x="20" y="390" width="49" height="50" uuid="23418b74-77db-407c-abcf-548498ea465a">
+        <path src="res\drawable-xhdpi\storage_sd_card_n.png" description="sd卡常态图标" />
+        <path src="res\drawable-xhdpi\storage_sd_card_p.png" description="sd卡二态图标" />
+        <path src="res\drawable-xhdpi\storage_usb_n.png" description="USB存储器图标常态" />
+        <path src="res\drawable-xhdpi\storage_usb_p.png" description="USB存储器图标二态" />
+    </resource>
+    <resource description="storage_internal_n" x="21" y="267" width="46" height="48" uuid="d561dfba-29f1-46e4-a1a7-e249c28d1ef3">
+        <path src="res\drawable-xhdpi\storage_internal_n.png" description="内存设备图标" />
+        <path src="res\drawable-xhdpi\storage_internal_p.png" description="" />
+    </resource>
+    <resource description="file_icon_folder_fav" x="40" y="744" width="84" height="84" uuid="7f141a18-0187-4349-8f39-f45caa70b15e">
+        <path src="res\drawable-xhdpi\file_icon_folder.png" description="文件夹" />
+        <path src="res\drawable-xhdpi\file_icon_folder_fav.png" description="收藏文件夹" />
+    </resource>
+    <resource description="favorite_tag" x="100" y="984" width="42" height="44" uuid="fff7d543-aa38-4377-8dac-c0fc9102a1d9">
+        <path src="res\drawable-xhdpi\favorite_tag.png" description="收藏标志" />
+    </resource>
+    <resource description="storage_wifi_n" x="19" y="514" width="49" height="50" uuid="11a626af-8765-4881-bc52-fc32b56a19de">
+        <path src="res\drawable-xhdpi\storage_wifi_n.png" description="" />
+        <path src="res\drawable-xhdpi\storage_wifi_p.png" description="" />
+    </resource>
+    <resource description="storage_unmount_n" x="622" y="366" width="84" height="100" uuid="33f6b0b7-2a17-41ec-b989-0cb5df5d7477">
+        <path src="res\drawable-xhdpi\storage_unmount_n.png" description="" />
+        <path src="res\drawable-xhdpi\storage_unmount_p.png" description="" />
+    </resource>
+</screenshot>

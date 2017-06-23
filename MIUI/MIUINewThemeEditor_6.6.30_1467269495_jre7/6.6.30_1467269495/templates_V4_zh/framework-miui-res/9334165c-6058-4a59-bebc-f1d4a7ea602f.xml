@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 通知栏_开关" version="2.9.16" annotation="小图标，off为关 on为开" tag="通知栏开关">
+    <resource description="status_bar_toggle_flight_mode_on.png" x="48" y="178" width="82" height="82" uuid="fe24214d-961f-4698-b3b7-dbfe9a91119f">
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_bluetooth_on.png" x="230" y="177" width="81" height="81" uuid="d6baadd9-154b-45a1-91b0-c8c8912f7841">
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_sync_manual_active_1.png" x="408" y="177" width="81" height="81" uuid="03613ddb-1e8d-486f-aeed-f6a14972991e">
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_0.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_1.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_2.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_3.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_0.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_1.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_2.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_3.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_screenshot.png" x="588" y="177" width="81" height="81" uuid="24491ce0-3685-4119-92ca-e42393ec662a">
+        <path src="res\drawable-xhdpi\status_bar_toggle_screenshot.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_rotate_on.png" x="48" y="429" width="81" height="81" uuid="482cc8f3-5aaa-4aea-8b4e-af4bd315cf1f">
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_off_land.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_vibrate_on.png" x="230" y="429" width="81" height="81" uuid="358af273-9477-4b7a-9586-e85c70d36e6c">
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_mute_off.png" x="408" y="429" width="81" height="81" uuid="dc540067-1ca9-41ff-9133-c42931e63546">
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_gps_on.png" x="588" y="429" width="81" height="81" uuid="24c60328-f04b-4155-a47d-b367b8344a44">
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_wifi_on.png" x="48" y="685" width="81" height="81" uuid="0c6225ed-583b-489f-85a1-3be1d906c18e">
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_on.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_problem.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_data_off.png" x="230" y="685" width="81" height="81" uuid="415af92a-53b3-4ceb-ba0d-1a25663e7722">
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_off.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_brightness_on.png" x="408" y="685" width="81" height="81" uuid="fd7e5304-7925-4eeb-8b9c-37796852d82a">
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_auto.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_manual.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_divider.png" x="588" y="685" width="81" height="81" uuid="c9cb45ad-eac1-4834-8ac9-926e512d96e8">
+        <path src="res\drawable-xhdpi\status_bar_toggle_divider.png" description="" />
+    </resource>
+</screenshot>

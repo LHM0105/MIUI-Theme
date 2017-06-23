@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="软件详情" version="3.4.28" annotation="" tag="">
+    <resource description="bottom_bar_middle_button_pressed.9" x="228" y="1127" width="258" height="153" uuid="00c55bfd-0bf8-4aa3-bb5f-175260f686a3">
+        <path src="res\drawable-xhdpi\bottom_bar_middle_button_disabled.9.png" description="安装按钮 不可按" />
+        <path src="res\drawable-xhdpi\bottom_bar_middle_button_normal.9.png" description="安装按钮" />
+        <path src="res\drawable-xhdpi\bottom_bar_middle_button_pressed.9.png" description="安装按钮 二态" />
+    </resource>
+    <resource description="ic_menu_permission_pressed" x="63" y="1128" width="128" height="152" uuid="93dfed06-60a8-412f-ba16-9671358a783d">
+        <path src="res\drawable-xhdpi\ic_menu_permission_normal.png" description="权限" />
+        <path src="res\drawable-xhdpi\ic_menu_permission_pressed.png" description="权限 二态" />
+    </resource>
+    <resource description="ic_menu_share_pressed" x="535" y="1128" width="128" height="152" uuid="44e7aa98-4c6e-4500-84ce-d54bf944b68e">
+        <path src="res\drawable-xhdpi\ic_menu_share_normal.png" description="分享" />
+        <path src="res\drawable-xhdpi\ic_menu_share_pressed.png" description="分享 二态" />
+    </resource>
+    <resource description="expand_all_bg.9" x="0" y="738" width="718" height="78" uuid="3a72cdfb-0009-47cc-8fbf-da3443b93a78">
+        <path src="res\drawable-xhdpi\expand_all_bg.9.png" description="展开图片" />
+    </resource>
+    <resource description="ic_menu_search" x="617" y="60" width="92" height="70" uuid="84d6265d-c860-45e7-870a-6e11642197ac">
+        <path src="res\drawable-xhdpi\ic_menu_search.png" description="搜索按钮" />
+    </resource>
+    <resource description="screen_view_seekpoint_highlight" x="290" y="140" width="138" height="52" uuid="a2df7457-2031-4de4-b70f-474b6b8463b9">
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_highlight.png" description="分屏指示" />
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_normal.png" description="分屏指示" />
+    </resource>
+    <resource description="tip_icon" x="19" y="221" width="42" height="43" uuid="7214706f-4af6-4015-ade9-4459bc2908f2">
+        <path src="res\drawable-xhdpi\tip_icon.png" description="信息图标" />
+    </resource>
+</screenshot>

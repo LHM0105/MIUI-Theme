@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1时钟" version="3.1.11" annotation="时钟分页" tag="">
+    <resource description="list_item_bg_normal.9" x="4" y="146" width="712" height="198" uuid="84821673-a088-4db7-b14c-cb802b2e06e2">
+        <path src="res\drawable-hdpi\list_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_item_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_bg_normal.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="ab_solid_light_holo.9" x="0" y="50" width="718" height="100" uuid="1bd49a3b-96f0-4f4e-a3ac-8f167dc70501">
+        <path src="res\drawable-hdpi\ab_solid_light_holo.9.png" description="tab背景" />
+        <path src="res\drawable-xhdpi\ab_solid_light_holo.9.png" description="tab背景" />
+    </resource>
+    <resource description="listview_bg.9" x="0" y="150" width="718" height="996" uuid="339b1053-4c87-40a9-8b8e-844827d00ca4">
+        <path src="res\drawable-hdpi\listview_bg.9.png" description="时钟，闹钟分页背景" />
+        <path src="res\drawable-xhdpi\listview_bg.9.png" description="时钟，闹钟分页背景" />
+    </resource>
+    <resource description="bottom_bar_bg_normal.9" x="0" y="1152" width="718" height="128" uuid="87b5f64a-16d9-4415-ba5f-01476fa1942f">
+        <path src="res\drawable-hdpi\bottom_bar_bg_normal.9.png" description="下端标题栏" />
+        <path src="res\drawable-hdpi\bottom_bar_bg_pressed.9.png" description="" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg_normal.9.png" description="下端标题栏" />
+        <path src="res\drawable-xhdpi\bottom_bar_bg_pressed.9.png" description="" />
+    </resource>
+    <resource description="ic_menu_add" x="268" y="1184" width="64" height="60" uuid="2176e6e3-dfde-4991-a9d5-bd14d7d5c48a">
+        <path src="res\drawable-hdpi\ic_menu_add.png" description="添加按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_add.png" description="添加按钮" />
+    </resource>
+</screenshot>

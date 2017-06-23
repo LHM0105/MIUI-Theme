@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 找到风险" version="3.2.27" annotation="" tag="病毒扫描">
+    <resource description="virus_scan_app_stop_virus_bg.9" x="0" y="48" width="722" height="426" uuid="de2e3206-4921-47a6-b3db-e45e24f88023">
+        <path src="res\drawable-hdpi\virus_scan_app_scanning_bg.9.png" description="正在扫描背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_scanning_bg.9.png" description="正在扫描背景" />
+        <path src="res\drawable-xxhdpi\virus_scan_app_scanning_bg.9.png" description="正在扫描背景" />
+        <path src="res\drawable-hdpi\virus_scan_app_ok_bg.9.png" description="扫描完成背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_ok_bg.9.png" description="扫描完成背景" />
+        <path src="res\drawable-xxhdpi\virus_scan_app_ok_bg.9.png" description="扫描完成背景" />
+        <path src="res\drawable-hdpi\virus_scan_app_stop_bg.9.png" description="扫描停止 背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_stop_bg.9.png" description="扫描停止 背景" />
+        <path src="res\drawable-xxhdpi\virus_scan_app_stop_bg.9.png" description="扫描停止 背景" />
+        <path src="res\drawable-hdpi\virus_scan_app_stop_virus_bg.9.png" description="找到风险背景" />
+        <path src="res\drawable-xhdpi\virus_scan_app_stop_virus_bg.9.png" description="找到风险背景" />
+        <path src="res\drawable-xxhdpi\virus_scan_app_stop_virus_bg.9.png" description="找到风险背景" />
+    </resource>
+    <resource description="virus_scan_status_virus" x="636" y="510" width="54" height="54" uuid="21b729f8-d7db-41f4-8892-0757fffe807b">
+        <path src="res\drawable-hdpi\virus_scan_status_virus.png" description="有风险" />
+        <path src="res\drawable-xhdpi\virus_scan_status_virus.png" description="有风险" />
+        <path src="res\drawable-xxhdpi\virus_scan_status_virus.png" description="有风险" />
+    </resource>
+    <resource description="virus_scan_status_ok" x="638" y="770" width="54" height="54" uuid="35257fd8-5d5a-47b7-b1b9-5bd2a5aa0b51">
+        <path src="res\drawable-hdpi\virus_scan_status_ok.png" description="通过扫描" />
+        <path src="res\drawable-xhdpi\virus_scan_status_ok.png" description="通过扫描" />
+        <path src="res\drawable-xxhdpi\virus_scan_status_ok.png" description="通过扫描" />
+    </resource>
+</screenshot>

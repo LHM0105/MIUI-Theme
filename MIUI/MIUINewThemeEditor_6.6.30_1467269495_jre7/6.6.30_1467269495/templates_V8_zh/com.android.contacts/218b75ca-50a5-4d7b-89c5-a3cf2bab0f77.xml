@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 联系人详情" version="4.8.5" annotation="" tag="联系人">
+    <resource description="contact_detail_title_home_icon_p" x="2" y="70" width="120" height="120" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_n.png" description="联系人返回按钮 常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_p.png" description="联系人返回按钮 二态" />
+    </resource>
+    <resource description="contact_detail_title_more_icon_n.9" x="940" y="70" width="120" height="120" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+        <path src="res\drawable-xxhdpi\contact_detail_title_more_icon_n.png" description="联系人设置按钮 常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_more_icon_p.png" description="联系人设置按钮 二态" />
+    </resource>
+
+    <resource description="contact_detail_menu_send_item" x="130" y="1110" width="85" height="85" uuid="3049f598-f84a-4c47-bf80-1243ffc794fd">
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_favorite_item.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_p.png" description=""/>
+    </resource>
+    <resource description="contact_detail_menu_send_item" x="488" y="1110" width="85" height="85" uuid="6e6ebebe-1450-4b1a-acec-eae56c66090b">
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_favorite_item.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_p.png" description=""/>        
+    </resource>
+    <resource description="contact_detail_menu_send_item" x="858" y="1110" width="85" height="85" uuid="fd16791d-b57e-41dc-8f63-babb183c3ad1">
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_send_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_favorite_item.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_p.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_disable.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_n.png" description=""/>
+        <path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_p.png" description=""/>
+    </resource>
+
+    <resource description="list_item_bg_pressed_light.9" x="0" y="1265" width="1080" height="200" uuid="51112146-4082-4bc0-92f0-30c4455936ed">
+        <path src="res\drawable-xxhdpi\list_item_bg_normal_light.9.png" description="详情页面list 常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_pressed_light.9.png" description="详情页面list 二态" />
+    </resource>
+
+    <resource description="ic_send_sms_p" x="915" y="1320" width="100" height="100" uuid="00cdfb7e-05d3-4a8e-b1e4-566d21f06527">
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="短信 常态" />
+        <path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="短信 二态" />
+    </resource>
+
+    <resource description="contact_detail_pager_bg.9" x="0" y="1078" width="1080" height="842" uuid="22abcfe0-a1a0-47c1-8529-6104b6591f4c">
+        <path src="res\drawable-xxhdpi\contact_detail_pager_bg.9.png" description="联系人详情页背景" />
+    </resource>
+
+    <resource description="contact_detail_default_photo.9" x="0" y="0" width="1076" height="1072" uuid="1b163419-7e55-48b8-b3c3-d3e5b51d306a">
+        <path src="res\drawable-xxhdpi\contact_detail_default_photo.9.png" description="默认大头像" />
+    </resource>
+</screenshot>

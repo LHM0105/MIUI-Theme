@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 全局框架" version="4.8.6" annotation="" tag="全局控件">
+    <resource description="action_bar_split_bg_expanded_light.9" x="0" y="1715" width="1080" height="205" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\action_bar_split_bg_expanded_light.9.png" description="底栏背景 更多" />
+        <path src="res\drawable-xxhdpi\action_bar_split_bg_light.9.png" description="底栏背景" />
+        <!-- <path src="res\drawable-xxhdpi\action_mode_split_bg_expanded_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\action_mode_split_bg_light.9.png" description="" /> -->
+    </resource>
+
+    <resource description="list_menu_item_bg_normal_light.9" x="0" y="1420" width="1080" height="170" uuid="5ce29a86-0b91-4022-a575-97b7bfadf9d2">
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_normal_light.9.png" description="弹窗列表 常态" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_pressed_light.9.png" description="弹窗列表 按下态" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_selected_light.9.png" description="弹窗列表 选中态" />
+    </resource>  
+    <resource description="list_menu_bg_light.9" x="0" y="1280" width="1080" height="440" uuid="5ce29a86-0b91-4022-a575-97b7bfadf9d2">
+        <path src="res\drawable-xxhdpi\list_menu_bg_light.9.png" description="弹窗背景" />
+    </resource>     
+</screenshot>

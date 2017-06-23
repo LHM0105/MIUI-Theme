@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--锁屏-->
+<Lockscreen version="1"  screenWidth="1080">
+<!--加图片,越靠前，越在底层,坐标默认为x=0 y=0;w,h默认为原像素-->
+	<!--背景图-->
+	<Image src="bg.jpg" x="0"/>
+	
+	<Group>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg1.jpg" visibility="eq(#cf,0)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg2.jpg" visibility="eq(#cf,1)"/>
+</Group>
+<!--切换壁纸按钮-->
+	<Button x="#screen_width/2" y="#screen_height/2" w="400" h="400" align="center"  alignV="center" >
+		<Triggers>
+			<Trigger action="double">
+				<VariableCommand name="cf" expression="int(#cf+1)%2" persist="true"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+<!--隐藏按钮-->
+	<Button x="#screen_width/2" y="#screen_height/2" w="400" h="400" align="center"  alignV="center"  visibility="not(#xw_ts)">
+		<Triggers>
+			<Trigger action="up">
+				<VariableCommand name="xw_ts" expression="int(#xw_ts+1)%2" persist="true"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+	<Image x="#screen_width/2" y="#screen_height/2" align="center"  alignV="center" src="close.png" visibility="eq(#xw_ts,0)"/>
+	
+<!--解锁到电话-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="0" y="#screen_height-400" w="360" h="400"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="60" y="#screen_height-60" align="center" alignV="center" src="call.png">
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		<!--此处加上Intent,指定解锁到。拨号。。这些值可以在论坛查-->
+			<Intent action="android.intent.action.VIEW" type="vnd.android.cursor.dir/calls" />
+		</EndPoint>
+	</unlocker>	
+	
+	<!--解锁-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="360" y="#screen_height-400" w="360" h="400"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="#screen_width/2" y="#screen_height-60" align="center" alignV="center" src="arrow.png">
+					<PositionAnimation>
+						<Position x="0" y="-40" time="1000"/>
+						<Position x="0" y="20" time="2000"/>
+						<Position x="0" y="0" time="2500"/>
+					</PositionAnimation>
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		</EndPoint>
+	</unlocker>	
+	
+	<!--解锁到相机-->
+	<unlocker name="unlocker">
+	<!--开始点击-->
+		<StartPoint x="880" y="#screen_height-200" w="200" h="200"> 
+		<!--正常情况下-->
+			<NormalState> 
+				<Image x="#screen_width-60" y="#screen_height-60" align="center" alignV="center" src="cam.png">
+				</Image> 
+			</NormalState>
+		<!--点按情况下-->
+			 <PressedState>
+				<Image/>
+			</PressedState>
+		<!--达到触发目标后-->	
+		</StartPoint>
+	<!--结束点击-->	
+		<EndPoint x="0" y="0" w="#screen_width" h="1520">
+		<!--此处加上Intent,指定解锁到。相机。。-->
+			<Intent action="android.media.action.STILL_IMAGE_CAMERA" category="android.intent.category.DEFAULT" />
+		
+		</EndPoint>
+	</unlocker>	
+	
+<!--时间控件-->
+	<Time x="50" y="100" src="time.png" />
+<!--日期-->                                                                    
+	<DateTime x="75" y="275" color="#FFFFFF" size="40" format="yyyy年M月d日" />
+	<DateTime x="75" y="348" color="#FFFFFF" size="40" format="农历N月e E" />
+	
+</Lockscreen>

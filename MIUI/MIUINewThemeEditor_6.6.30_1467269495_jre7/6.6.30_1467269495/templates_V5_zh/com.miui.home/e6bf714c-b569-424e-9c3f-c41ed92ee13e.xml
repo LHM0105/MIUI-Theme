@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.4 开关按钮" version="3.2.27" annotation="" tag="编辑模式">
+    <resource description="free_style_apps_title_bg" x="18" y="152" width="682" height="136" uuid="f691d790-cbb6-40fb-8392-68b0ac120b46">
+        <path src="res\drawable-hdpi\free_style_apps_title_bg.png" description="开关选择，标题" />
+        <path src="res\drawable-xhdpi\free_style_apps_title_bg.png" description="开关选择，标题" />
+    </resource>
+    <resource description="free_style_apps_button_bg.9" x="14" y="1062" width="690" height="42" uuid="722a484d-58a9-4d56-bb7f-b00c06b05a65">
+        <path src="res\drawable-hdpi\free_style_apps_single_select_bottom_bg.9.png" description="开关选择背景" />
+        <path src="res\drawable-xhdpi\free_style_apps_single_select_bottom_bg.9.png" description="开关选择背景" />
+    </resource>
+    <resource description="status_bar_toggle_flight_mode_on" x="68" y="330" width="80" height="80" uuid="34013304-4565-411d-930e-50fd0ee3af32">
+        <path src="res\drawable-hdpi\status_bar_toggle_flight_mode_off.png" description="飞行模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_off.png" description="飞行模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_flight_mode_on.png" description="飞行模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_flight_mode_on.png" description="飞行模式" />
+    </resource>
+    <resource description="status_bar_toggle_bluetooth_on" x="228" y="334" width="80" height="80" uuid="00990258-975a-4419-8579-eadbd81b33ad">
+        <path src="res\drawable-hdpi\status_bar_toggle_bluetooth_off.png" description="蓝牙" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_off.png" description="蓝牙" />
+        <path src="res\drawable-hdpi\status_bar_toggle_bluetooth_on.png" description="蓝牙" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_bluetooth_on.png" description="蓝牙" />
+    </resource>
+    <resource description="status_bar_toggle_sync_on" x="404" y="332" width="80" height="80" uuid="cc1fb5c6-e6e4-46a1-ae84-95b86f9b7b19">
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_0.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_0.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_1.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_1.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_2.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_2.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_auto_active_3.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_auto_active_3.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_0.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_0.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_1.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_1.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_2.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_2.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_manual_active_3.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_manual_active_3.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_off.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_off.png" description="同步" />
+        <path src="res\drawable-hdpi\status_bar_toggle_sync_on.png" description="同步" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_sync_on.png" description="同步" />
+    </resource>
+    <resource description="status_bar_toggle_screenshot" x="568" y="328" width="80" height="80" uuid="3b17aeeb-28c9-4020-8f8a-965d265c9033">
+        <path src="res\drawable-hdpi\status_bar_toggle_screenshot.png" description="截屏" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screenshot.png" description="截屏" />
+    </resource>
+    <resource description="status_bar_toggle_rotate_on" x="64" y="462" width="80" height="80" uuid="084435ec-4066-4322-a89b-71fef9b72962">
+        <path src="res\drawable-hdpi\status_bar_toggle_rotate_off.png" description="锁定竖屏" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_off.png" description="锁定竖屏" />
+        <path src="res\drawable-hdpi\status_bar_toggle_rotate_off_land.png" description="锁定横屏" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_off_land.png" description="锁定横屏" />
+        <path src="res\drawable-hdpi\status_bar_toggle_rotate_on.png" description="旋转屏幕" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_rotate_on.png" description="旋转屏幕" />
+    </resource>
+    <resource description="status_bar_toggle_vibrate_on" x="230" y="454" width="80" height="80" uuid="25ca164c-384b-4d67-8ccd-329bb7a675fc">
+        <path src="res\drawable-hdpi\status_bar_toggle_vibrate_off.png" description="震动" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_off.png" description="震动" />
+        <path src="res\drawable-hdpi\status_bar_toggle_vibrate_on.png" description="震动" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_vibrate_on.png" description="震动" />
+    </resource>
+    <resource description="status_bar_toggle_wifi_problem" x="66" y="570" width="80" height="80" uuid="625ba85c-4e29-418a-a361-6a1adc63ed0c">
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_off.png" description="wifi" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_off.png" description="wifi" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_on.png" description="wifi" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_on.png" description="wifi" />
+        <path src="res\drawable-hdpi\status_bar_toggle_wifi_problem.png" description="附件有可用wifi" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_wifi_problem.png" description="附件有可用wifi" />
+    </resource>
+    <resource description="status_bar_toggle_mute_on" x="398" y="456" width="80" height="80" uuid="9b0aff5c-7880-4c5b-9641-abc1d2af0844">
+        <path src="res\drawable-hdpi\status_bar_toggle_mute_off.png" description="铃声" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_off.png" description="铃声" />
+        <path src="res\drawable-hdpi\status_bar_toggle_mute_on.png" description="静音" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_mute_on.png" description="静音" />
+    </resource>
+    <resource description="status_bar_toggle_gps_on" x="572" y="458" width="80" height="80" uuid="3bb6e768-f469-4baa-a338-ef6bc8d0b3e1">
+        <path src="res\drawable-hdpi\status_bar_toggle_gps_off.png" description="gps" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_off.png" description="gps" />
+        <path src="res\drawable-hdpi\status_bar_toggle_gps_on.png" description="gps" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_gps_on.png" description="gps" />
+    </resource>
+    <resource description="status_bar_toggle_data_on" x="232" y="576" width="80" height="80" uuid="b672ef54-2180-4627-a108-1132cb2c3706">
+        <path src="res\drawable-hdpi\status_bar_toggle_data_off.png" description="数据" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_off.png" description="数据" />
+        <path src="res\drawable-hdpi\status_bar_toggle_data_on.png" description="数据" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_data_on.png" description="数据" />
+    </resource>
+    <resource description="status_bar_toggle_brightness_auto" x="404" y="580" width="80" height="80" uuid="1107a97f-0ec6-4305-b51d-4d3996cbebbf">
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_auto.png" description="自动亮度" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_auto.png" description="自动亮度" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_manual.png" description="自动亮度" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_manual.png" description="自动亮度" />
+    </resource>
+    <resource description="status_bar_toggle_brightness_on" x="566" y="576" width="80" height="80" uuid="ccee5d3e-970b-4b32-9a14-5b9ec9dcb310">
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_half.png" description="半亮度" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_half.png" description="半亮度" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_off.png" description="最低亮度" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_off.png" description="最低亮度" />
+        <path src="res\drawable-hdpi\status_bar_toggle_brightness_on.png" description="最大亮度" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_brightness_on.png" description="最大亮度" />
+    </resource>
+    <resource description="status_bar_toggle_ac" x="60" y="700" width="80" height="80" uuid="d3ee1387-4833-4aa8-b4c8-3bd08143b824">
+        <path src="res\drawable-hdpi\status_bar_toggle_ac.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_ac.png" description="访问限制" />
+    </resource>
+    <resource description="status_bar_toggle_network_3g2g" x="228" y="700" width="80" height="80" uuid="e4de5a92-68fe-40a6-85e0-12a807aca5bc">
+        <path src="res\drawable-hdpi\status_bar_toggle_network_3g2g.png" description="网络切换" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_network_3g2g.png" description="网络切换" />
+    </resource>
+    <resource description="status_bar_toggle_privacy_mode_on" x="404" y="700" width="80" height="80" uuid="6db9803c-c012-43e4-a23e-8dcffcbc1986">
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_off.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_off.png" description="访问限制" />
+        <path src="res\drawable-hdpi\status_bar_toggle_privacy_mode_on.png" description="访问限制" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_privacy_mode_on.png" description="访问限制" />
+    </resource>
+    <resource description="status_bar_toggle_torch_on" x="570" y="702" width="80" height="80" uuid="19be2560-89a3-4fb5-b3db-edc02abb1d03">
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_off.png" description="手电筒" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_off.png" description="手电筒" />
+        <path src="res\drawable-hdpi\status_bar_toggle_torch_on.png" description="手电筒" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_torch_on.png" description="手电筒" />
+    </resource>
+    <resource description="status_bar_toggle_screen_button_disabled" x="64" y="822" width="80" height="80" uuid="409ef2bf-c097-4d9e-ad59-cc227a8c5a40">
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_disabled.png" description="屏幕按键" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_disabled.png" description="屏幕按键" />
+        <path src="res\drawable-hdpi\status_bar_toggle_screen_button_enabled.png" description="屏幕按键" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_screen_button_enabled.png" description="屏幕按键" />
+    </resource>
+    <resource description="status_bar_toggle_lock" x="232" y="820" width="80" height="80" uuid="fcb55399-545d-4baa-ae2b-cdadb419888f">
+        <path src="res\drawable-hdpi\status_bar_toggle_lock.png" description="锁定" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_lock.png" description="锁定" />
+    </resource>
+    <resource description="status_bar_toggle_drive_mode_on" x="402" y="818" width="80" height="80" uuid="8567c7b5-262c-45a2-88e2-581708dbad75">
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_off.png" description="开车模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_off.png" description="开车模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_drive_mode_on.png" description="开车模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drive_mode_on.png" description="开车模式" />
+    </resource>
+    <resource description="status_bar_toggle_reboot" x="570" y="824" width="80" height="80" uuid="02482b23-f32c-495a-b4d2-8b37c3a4a819">
+        <path src="res\drawable-hdpi\status_bar_toggle_reboot.png" description="重启" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_reboot.png" description="重启" />
+    </resource>
+    <resource description="status_bar_toggle_shutdown" x="64" y="946" width="80" height="80" uuid="324a1168-8643-487f-8446-c8561cd044a9">
+        <path src="res\drawable-hdpi\status_bar_toggle_shutdown.png" description="关机" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_shutdown.png" description="关机" />
+    </resource>
+    <resource description="status_bar_toggle_power_high" x="234" y="944" width="80" height="80" uuid="c5c238b2-aa40-43bb-8874-849f3916fa44">
+        <path src="res\drawable-hdpi\status_bar_toggle_power_high.png" description="运行模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_high.png" description="运行模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_power_low.png" description="运行模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_low.png" description="运行模式" />
+        <path src="res\drawable-hdpi\status_bar_toggle_power_middle.png" description="运行模式" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_power_middle.png" description="运行模式" />
+    </resource>
+    <resource description="free_style_apps_content_bg.9" x="14" y="298" width="690" height="756" uuid="8c22d44f-9829-468d-860a-83882f382efb">
+        <path src="res\drawable-hdpi\free_style_apps_content_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\free_style_apps_content_bg.9.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 联系人信息窗" version="2.9.16" annotation="" tag="全部联系人">
+    <resource description="quickcontact_window_bg.9.png" x="22" y="264" width="680" height="790" uuid="b36f9a2e-7813-4d4f-be20-54547dcbb8f5">
+        <path src="res\drawable-w470dp-hdpi\quickcontact_window_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\quickcontact_photo_fg.png" description="窗口背景图" />
+        <path src="res\drawable-xhdpi\quickcontact_window_bg.9.png" description="" />
+    </resource>
+    <resource description="ic_text_holo_light.png" x="564" y="598" width="66" height="57" uuid="47821dd3-9e72-485e-85d8-2668461eddb0">
+        <path src="res\drawable-xhdpi\ic_text_holo_light.png" description="短信" />
+    </resource>
+    <resource description="quickcontact_track_background.9.png" x="42" y="455" width="628" height="117" uuid="5cf23490-0707-4748-86a6-4fe5fcaa0c0d">
+        <path src="res\drawable-xhdpi\quickcontact_track_background.9.png" description="tab栏背景" />
+    </resource>
+    <resource description="quickcontact_tab_indicator.9.png" x="60" y="467" width="144" height="93" uuid="d8a0e698-5fe4-4c26-b727-37be63044487">
+        <path src="res\drawable-xhdpi\quickcontact_tab_indicator.9.png" description="选中" />
+    </resource>
+    <resource description="quickcontact_window_footer" x="24" y="978" width="678" height="66" uuid="27f0ebc6-ea12-4344-ac03-fdd992c98560">
+        <path src="res\drawable-xhdpi\quickcontact_window_footer.png" description="窗口底部的渐变遮罩" />
+    </resource>
+    <resource description="quickcontact_window_title_bg.9" x="32" y="278" width="650" height="178" uuid="ea680d8a-e04d-4eec-b145-2016ab2e77c7">
+        <path src="res\drawable-w470dp-hdpi\quickcontact_window_title_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\quickcontact_window_title_bg.9.png" description="" />
+    </resource>
+    <resource description="tab2_divider" x="351" y="463" width="4" height="104" uuid="164ba5d6-9b01-4c6c-8152-364d6960e061">
+        <path src="res\drawable-xhdpi\tab2_divider.png" description="" />
+    </resource>
+</screenshot>

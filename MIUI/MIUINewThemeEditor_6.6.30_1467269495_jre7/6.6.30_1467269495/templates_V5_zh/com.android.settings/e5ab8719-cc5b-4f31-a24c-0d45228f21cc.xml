@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 自启动管理" version="3.2.27" annotation="" tag="自启动管理">
+    <resource description="background_application_manage_bg.9" x="0" y="48" width="722" height="426" uuid="31abb829-648e-418c-bfc3-778b9c867269">
+        <path src="res\drawable-hdpi\background_application_manage_bg.9.png" description="自启动管理背景" />
+        <path src="res\drawable-xhdpi\background_application_manage_bg.9.png" description="自启动管理背景" />
+        <path src="res\drawable-xxhdpi\background_application_manage_bg.9.png" description="自启动管理背景" />
+    </resource>
+</screenshot>

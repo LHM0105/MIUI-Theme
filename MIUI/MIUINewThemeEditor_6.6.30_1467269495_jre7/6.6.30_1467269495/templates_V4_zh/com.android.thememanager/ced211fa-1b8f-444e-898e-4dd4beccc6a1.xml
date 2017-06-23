@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="模块选择" version="3.1.11" annotation="" tag="">
+    <resource description="component_item_bg_n.9" x="20" y="226" width="220" height="140" uuid="c897f9fe-4bb1-4358-bc26-09794a0f9838">
+        <path src="res\drawable-zh-hdpi\component_item_bg_p.9.png" description="" />
+        <path src="res\drawable-zh-hdpi\component_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="component_item_check" x="192" y="282" width="40" height="20" uuid="cfa0c253-d45e-4ca3-9231-6d0c3ff11cfa">
+        <path src="res\drawable-xhdpi\component_item_check.png" description="" />
+        <path src="res\drawable-zh-hdpi\component_item_check.png" description="" />
+    </resource>
+</screenshot>

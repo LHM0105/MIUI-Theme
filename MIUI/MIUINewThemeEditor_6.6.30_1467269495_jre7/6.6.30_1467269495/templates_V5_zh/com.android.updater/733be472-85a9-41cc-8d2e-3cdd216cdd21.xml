@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 系统更新" version="3.11.9" annotation="按钮背景在 com.android.systemui 模块" tag="">
+    <resource description="action_button_left_n.9" x="418" y="13" width="280" height="108" uuid="c5beb47b-79db-4f4f-b565-c71e49c5c9bc">
+        <path src="res\drawable-hdpi\action_button_left_n.9.png" description="稍后更新 按钮常态" />
+        <path src="res\drawable-xhdpi\action_button_left_n.9.png" description="稍后更新 按钮常态" />
+        <path src="res\drawable-hdpi\action_button_left_p.9.png" description="稍后更新 按钮二态" />
+        <path src="res\drawable-xhdpi\action_button_left_p.9.png" description="稍后更新 按钮二态" />
+        <path src="res\drawable-hdpi\action_button_right_n.9.png" description="立即更新 按钮常态" />
+        <path src="res\drawable-xhdpi\action_button_right_n.9.png" description="立即更新 按钮常态" />
+        <path src="res\drawable-hdpi\action_button_right_p.9.png" description="稍后更新 按钮二态" />
+        <path src="res\drawable-xhdpi\action_button_right_p.9.png" description="稍后更新 按钮二态" />
+    </resource>
+</screenshot>

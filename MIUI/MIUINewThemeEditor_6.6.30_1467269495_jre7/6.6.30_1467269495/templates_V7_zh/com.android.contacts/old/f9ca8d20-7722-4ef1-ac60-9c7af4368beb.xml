@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1联系人" version="4.8.4" annotation="" tag="联系人">
+    <resource description="action_button_open_dialpad_pressed_light" x="490" y="1750" width="96" height="96" uuid="ed357d18-2a38-43d8-ab05-f0ef8f294f97">
+        <path src="res\drawable-xxhdpi\action_button_open_dialpad_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_open_dialpad_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_back_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_back_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_done_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_done_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_mark_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_mark_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_merge_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_merge_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_ringtone_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_ringtone_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_disable_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sim_import_pressed_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sms_normal_light.png" description="" />
+        <path src="res\drawable-xxhdpi\action_button_sms_pressed_light.png" description="" />
+    </resource>
+</screenshot>

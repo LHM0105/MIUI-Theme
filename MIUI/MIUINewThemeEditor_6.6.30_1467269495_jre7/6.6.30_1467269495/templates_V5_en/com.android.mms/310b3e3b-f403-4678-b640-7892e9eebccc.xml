@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 Quick response input" version="3.3.1" annotation="" tag="Other">
+    <resource description="ic_menu_close_clear_cancel_n" x="602" y="942" width="100" height="100" uuid="7c442a1b-fad0-4c36-bef1-dd8b237f7049">
+        <path src="res\drawable-xhdpi\ic_menu_close_clear_cancel_n.png" description="关闭按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_close_clear_cancel_p.png" description="关闭按钮 二态" />
+    </resource>
+    <resource description="ic_menu_delete_n" x="18" y="940" width="100" height="100" uuid="47ffe88b-893b-4814-aed1-25d420e52344">
+        <path src="res\drawable-xhdpi\ic_menu_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\ic_menu_delete_p.png" description="删除按钮 二态" />
+    </resource>
+    <resource description="text_cursor_blue" x="34" y="1197" width="22" height="50" uuid="c32ded68-955b-4951-96d2-d955af153dba">
+        <path src="res\drawable-xhdpi\text_cursor_blue.png" description="网络短信光标" />
+    </resource>
+    <resource description="new_message_popup_item_bg_p.9" x="11" y="1082" width="689" height="67" uuid="42d5481d-a5ad-472f-9156-494e90c3aee7">
+        <path src="res\drawable-xhdpi\new_message_popup_item_bg_n.9.png" description="短信列表背景" />
+        <path src="res\drawable-xhdpi\new_message_popup_item_bg_p.9.png" description="短信列表背景 二态" />
+    </resource>
+    <resource description="conversation_message_divider.9" x="4" y="1159" width="704" height="15" uuid="e00fa22b-9278-4e37-bf33-1ecff3f671e8">
+        <path src="res\drawable-xhdpi\conversation_message_divider.9.png" description="分割线" />
+    </resource>
+    <resource description="conversation_message_divider.9" x="4" y="1055" width="704" height="15" uuid="0caab625-6232-4359-8c86-f9f5edce8e26">
+        <path src="res\drawable-xhdpi\conversation_message_divider.9.png" description="分割线" />
+    </resource>
+</screenshot>

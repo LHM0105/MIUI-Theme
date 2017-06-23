@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="编辑模式2" version="3.3.1" annotation="" tag="弹窗">
+    <resource description="alphabet_indexer_overlay.9" x="248" y="676" width="214" height="214" uuid="243754fc-dec3-412c-8442-7e60b677c9a5">
+        <path src="res\drawable-hdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-largeui-hdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-largeui-xhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-xhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+        <path src="res\drawable-xxhdpi\alphabet_indexer_overlay.9.png" description="当前目录文字背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_no_shadow_bg_light.9" x="0" y="44" width="718" height="94" uuid="18782ddc-7536-4a16-93e8-02b20458e369">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题" />
+    </resource>
+    <resource description="word_photo_bg" x="6" y="724" width="112" height="110" uuid="ddad4869-7fae-463e-842d-2915c84b3080">
+        <path src="res\drawable-hdpi\word_photo_bg.png" description="" />
+        <path src="res\drawable-xxhdpi\word_photo_bg.png" description="" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_default_normal_light.9" x="598" y="58" width="104" height="68" uuid="8c654a04-a32b-4769-b736-99b679f00efe">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="确定按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="确定按钮 二态" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="9" y="60" width="109" height="68" uuid="80bcea7a-275e-4d9b-9384-79fec4c85bc4">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+    </resource>
+    <resource description="v5_list_view_section_item_bg_light.9" x="2" y="540" width="708" height="54" uuid="30247efb-5aee-45ce-bd84-38032d74d4da">
+        <path src="res\drawable-hdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-xhdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-xxhdpi\v5_list_view_section_item_bg_dark.9.png" description="全局列表标题 深色背景" />
+        <path src="res\drawable-hdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+        <path src="res\drawable-xhdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+        <path src="res\drawable-xxhdpi\v5_list_view_section_item_bg_light.9.png" description="全局列表标题" />
+    </resource>
+    <resource description="v5_btn_checkbox_on_normal_light" x="586" y="442" width="80" height="84" uuid="497d6e33-d3c8-4222-b72f-ffa54a754831">
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+    </resource>
+</screenshot>

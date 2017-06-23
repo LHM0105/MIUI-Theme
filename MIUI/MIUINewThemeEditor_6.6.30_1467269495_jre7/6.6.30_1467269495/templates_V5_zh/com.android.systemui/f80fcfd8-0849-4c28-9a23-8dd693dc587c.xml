@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 通知栏_简洁" version="2.9.16" annotation="" tag="简洁模式">
+    <resource description="toggle_bar_bg.9.png" x="12" y="1038" width="690" height="180" uuid="de6966d3-9a6e-4fc8-a0d8-779a9ab69fe5">
+        <path src="res\drawable-hdpi\toggle_bar_bg.9.png" description="简洁模式开关背景" />
+        <path src="res\drawable-xhdpi\toggle_bar_bg.9.png" description="简洁模式开关背景" />
+        <path src="res\drawable-xxhdpi\toggle_bar_bg.9.png" description="简洁模式开关背景" />
+    </resource>
+    <resource description="toggle_bg_p.9" x="20" y="1053" width="137" height="148" uuid="4d260b1c-39a3-4370-ba8b-07367d329760">
+        <path src="res\drawable-hdpi\toggle_bg_n.9.png" description="开关常态背景" />
+        <path src="res\drawable-xhdpi\toggle_bg_n.9.png" description="开关常态背景" />
+        <path src="res\drawable-xxhdpi\toggle_bg_n.9.png" description="开关常态背景" />
+        <path src="res\drawable-hdpi\toggle_bg_p.9.png" description="开关二态背景" />
+        <path src="res\drawable-xhdpi\toggle_bg_p.9.png" description="开关二态背景" />
+        <path src="res\drawable-xxhdpi\toggle_bg_p.9.png" description="开关二态背景" />
+    </resource>
+    <resource description="notification_list_bg.9" x="18" y="122" width="684" height="360" uuid="bba5a1b3-f865-4b3c-9032-acd5055af7f7">
+        <path src="res\drawable-hdpi\notification_list_bg.9.png" description="信息列表背景" />
+        <path src="res\drawable-xhdpi\notification_list_bg.9.png" description="信息列表背景" />
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="信息列表背景" />
+    </resource>
+    <resource description="flow_status_bg.9" x="16" y="942" width="694" height="88" uuid="59f9d70f-3c87-4d7c-99dd-5786f226e54c">
+        <path src="res\drawable-hdpi\flow_status_bg.9.png" description="流量信息" />
+        <path src="res\drawable-xhdpi\flow_status_bg.9.png" description="流量信息" />
+        <path src="res\drawable-xxhdpi\flow_status_bg.9.png" description="流量信息" />
+    </resource>
+    <resource description="status_bar_close_on.9.png" x="8" y="1228" width="700" height="44" uuid="f19e10e3-74a3-46ac-ac47-5e27023ef6c4">
+        <path src="res\drawable-hdpi\status_bar_close_on.9.png" description="下拉框" />
+        <path src="res\drawable-xhdpi\status_bar_close_on.9.png" description="下拉框" />
+        <path src="res\drawable-xxhdpi\status_bar_close_on.9.png" description="下拉框" />
+    </resource>
+    <resource description="clock_0" x="29" y="20" width="148" height="72" uuid="5b0c8da9-ea27-483b-a148-dd83ce35e154">
+        <path src="res\drawable-hdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_0.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_1.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_2.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_3.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_4.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_5.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_6.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_7.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_8.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_9.png" description="通知栏时间" />
+        <path src="res\drawable-hdpi\clock_colon.png" description="通知栏时间" />
+        <path src="res\drawable-xhdpi\clock_colon.png" description="通知栏时间" />
+        <path src="res\drawable-xxhdpi\clock_colon.png" description="通知栏时间" />
+    </resource>
+</screenshot>

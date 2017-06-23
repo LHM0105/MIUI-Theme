@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="图案解锁2" version="3.4.23" annotation="" tag="锁屏密码">
+    <resource description="btn_code_lock_error_holo" x="32" y="506" width="186" height="186" uuid="fa6e5803-e247-42c6-8a97-bfc997a4709a">
+        <path src="res\drawable-hdpi\btn_code_lock_error_holo.png" description="错误 中心点" />
+        <path src="res\drawable-xhdpi\btn_code_lock_error_holo.png" description="错误 中心点" />
+        <path src="res\drawable-xxhdpi\btn_code_lock_error_holo.png" description="错误 中心点" />
+        <path src="res\drawable-hdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_point_area_default_holo.png" description="未选中" />
+        <path src="res\drawable-hdpi\indicator_code_lock_point_area_red_holo.png" description="错误 外圈" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_point_area_red_holo.png" description="错误 外圈" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_point_area_red_holo.png" description="错误 外圈" />
+    </resource>
+    <resource description="indicator_code_lock_drag_direction_red_up" x="102" y="638" width="60" height="44" uuid="2bdcb20b-5d8b-40f2-b377-0b08febf7729">
+        <path src="res\drawable-hdpi\indicator_code_lock_drag_direction_red_up.png" description="错误路径" />
+        <path src="res\drawable-xhdpi\indicator_code_lock_drag_direction_red_up.png" description="错误路径" />
+        <path src="res\drawable-xxhdpi\indicator_code_lock_drag_direction_red_up.png" description="错误路径" />
+    </resource>
+    <resource description="miui_pattern_unlock_screen_bg.9" x="0" y="0" width="714" height="1268" uuid="3b27e030-a797-4b33-88a2-e28dfcd3339f">
+        <path src="res\drawable-hdpi\miui_pattern_unlock_screen_bg.9.png" description="图案解锁 背景" />
+        <path src="res\drawable-xhdpi\miui_pattern_unlock_screen_bg.9.png" description="图案解锁 背景" />
+        <path src="res\drawable-xxhdpi\miui_pattern_unlock_screen_bg.9.png" description="图案解锁 背景" />
+    </resource>
+</screenshot>

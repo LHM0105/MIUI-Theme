@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2.2 Contact details 2" version="3.2.27" annotation="【bool】中的show_default_contact_detail_photo_bg为【true】&lt;br\&gt;&#xA;时才会调用contact_detail_default_photo.png图片&lt;br\&gt;&#xA;联系人详情背景最新为jpg格式,为兼容低版本用户建议将png格式一并加入&lt;br\&gt;" tag="Contacts">
+    <resource description="contact_detail_call_list_item_n.9" x="8" y="642" width="692" height="118" uuid="6f0e8392-44e2-4bf0-b52f-6b1cbec61756">
+        <path src="res\drawable-hdpi\contact_detail_call_list_item_n.9.png" description="通话记录列表 常态" />
+        <path src="res\drawable-xhdpi\contact_detail_call_list_item_n.9.png" description="通话记录列表 常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_call_list_item_n.9.png" description="通话记录列表 常态" />
+        <path src="res\drawable-hdpi\contact_detail_call_list_item_p.9.png" description="通话记录列表 二态" />
+        <path src="res\drawable-xhdpi\contact_detail_call_list_item_p.9.png" description="通话记录列表 二态" />
+        <path src="res\drawable-xxhdpi\contact_detail_call_list_item_p.9.png" description="通话记录列表 二态" />
+    </resource>
+    <resource description="contact_detail_pager_bg.9" x="0" y="636" width="716" height="642" uuid="5c8c53a4-b7db-4d34-883b-c04ae58fefdc">
+        <path src="res\drawable-hdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+        <path src="res\drawable-xhdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+        <path src="res\drawable-xxhdpi\contact_detail_pager_bg.9.png" description="详情页面背景" />
+    </resource>
+    <resource description="contact_detail_default_photo" x="6" y="4" width="706" height="626" uuid="52a11c0a-98b3-4986-b69d-e6d73758e31b">
+        <path src="res\drawable-hdpi\contact_detail_default_photo.jpg" description="联系人详情背景图片   新" />
+        <path src="res\drawable-xhdpi\contact_detail_default_photo.jpg" description="联系人详情背景图片   新" />
+        <path src="res\drawable-xxhdpi\contact_detail_default_photo.jpg" description="联系人详情背景图片   新" />
+    </resource>
+    <resource description="ic_contact_circle_photo_bg" x="557" y="74" width="138" height="158" uuid="df7dff39-164b-49da-abe5-d6ef99d8dd0e">
+        <path src="res\drawable-hdpi\ic_contact_circle_photo_fg.png" description="头像顶部遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_circle_photo_fg.png" description="头像顶部遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_circle_photo_fg.png" description="头像顶部遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_circle_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xhdpi\ic_contact_circle_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-xxhdpi\ic_contact_circle_photo_mask.png" description="头像形状遮罩" />
+        <path src="res\drawable-hdpi\ic_contact_circle_photo_bg.png" description="头像背景" />
+        <path src="res\drawable-xhdpi\ic_contact_circle_photo_bg.png" description="头像背景" />
+        <path src="res\drawable-xxhdpi\ic_contact_circle_photo_bg.png" description="头像背景" />
+        <path src="res\drawable-hdpi\circle_photo_bg.9.png" description="联系人详情头像阴影" />
+        <path src="res\drawable-xhdpi\circle_photo_bg.9.png" description="联系人详情头像阴影" />
+        <path src="res\drawable-xxhdpi\circle_photo_bg.9.png" description="联系人详情头像阴影" />
+    </resource>
+    <resource description="contact_detail_title_home_icon_single_n" x="15" y="73" width="63" height="110" uuid="45bfaa9e-37e8-4991-857c-ad58a472a66e">
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_single_n.png" description="联系人返回按钮" />
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_single_p.png" description="联系人返回按钮二态" />
+    </resource>
+    <resource description="contact_detail_tab_left_n.9" x="15" y="513" width="685" height="117" uuid="66e768c2-a8fe-4967-9ba7-18a682395f88">
+        <path src="res\drawable-hdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_n.9.png" description="联系人详情tab 左边常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_p.9.png" description="联系人详情tab 左边按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_left_s.9.png" description="联系人详情tab 左边选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_n.9.png" description="联系人详情tab 中间常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_p.9.png" description="联系人详情tab 中间按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_middle_s.9.png" description="联系人详情tab 中间选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_n.9.png" description="联系人详情tab 右边常态" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_p.9.png" description="联系人详情tab 右边按下" />
+        <path src="res\drawable-hdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_right_s.9.png" description="联系人详情tab 右边选中" />
+        <path src="res\drawable-hdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-xhdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+        <path src="res\drawable-xxhdpi\contact_detail_tab_container_bg.9.png" description="联系人详情tab背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.0 任务管理器" version="4.10.15" annotation="" tag="任务管理器">
+    <resource description="recent_task_clear_button_normal" x="464" y="1632" width="150" height="150" uuid="eb601b31-ee31-464c-a812-5a0101aaf05e">
+        <path src="res\drawable-xxhdpi\recent_task_clear_button_normal.png" description="任务清除按钮 正常" />
+        <path src="res\drawable-xxhdpi\recent_task_clear_button_pressed.png" description="任务清除按钮 二态" />
+        <path src="res\drawable-xxhdpi\clear_button_bg.png" description="任务清除进度环背景" />
+        <path src="res\drawable-xxhdpi\clear_button_middle.png" description="任务清除进度环" />
+    </resource>
+    <resource description="recent_task_lock_tip" x="105" y="1282" width="58" height="74" uuid="2c336b7b-82b9-4f61-aa71-6bb4c529aca2">
+        <path src="res\drawable-xxhdpi\recent_task_lock_tip.png" description="锁定任务常驻" />
+        <path src="res\drawable-xxhdpi\recent_task_unlock_tip.png" description="解锁任务常驻" />
+    </resource>
+    <resource description="recent_task_lock_flag" x="173" y="1400" width="60" height="60" uuid="6e1fb444-cce2-41b6-94e3-35c874ce5929">
+        <path src="res\drawable-xxhdpi\recent_task_lock_flag.png" description="常驻任务锁定标示" />
+    </resource>
+    <resource description="recent_task_bg.9" x="0" y="0" width="1080" height="1920" uuid="a584d4e8-9301-4cc6-b6c2-efa08fcd2b40">
+        <path src="res\drawable-xxhdpi\recent_task_bg.9.png" description="任务管理器背景" />
+    </resource>
+</screenshot>

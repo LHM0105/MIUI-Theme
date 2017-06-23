@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 主题详情" version="3.2.27" annotation="" tag="旧 主题">
+    <resource description="resource_detail_left_button_n.9" x="186" y="1126" width="164" height="132" uuid="1a9489d7-7923-4aa4-8dc0-42c2b69effb8">
+        <path src="res\drawable-hdpi\resource_detail_left_button_n.9.png" description="更新按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_left_button_n.9.png" description="更新按钮" />
+        <path src="res\drawable-xxhdpi\resource_detail_left_button_n.9.png" description="更新按钮" />
+        <path src="res\drawable-hdpi\resource_detail_left_button_p.9.png" description="更新按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_left_button_p.9.png" description="更新按钮" />
+        <path src="res\drawable-xxhdpi\resource_detail_left_button_p.9.png" description="更新按钮" />
+    </resource>
+    <resource description="resource_detail_right_button_n.9" x="362" y="1126" width="162" height="132" uuid="09f35f2e-a89b-4f20-80ca-cb727f711524">
+        <path src="res\drawable-hdpi\resource_detail_right_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_right_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-xxhdpi\resource_detail_right_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-hdpi\resource_detail_right_button_p.9.png" description="应用按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_right_button_p.9.png" description="应用按钮" />
+        <path src="res\drawable-xxhdpi\resource_detail_right_button_p.9.png" description="应用按钮" />
+    </resource>
+    <resource description="resource_component_n" x="52" y="1124" width="110" height="134" uuid="b5b1ea11-bb25-4d27-844c-e946b094b009">
+        <path src="res\drawable-hdpi\resource_component_n.png" description="选择模块" />
+        <path src="res\drawable-xhdpi\resource_component_n.png" description="选择模块" />
+        <path src="res\drawable-hdpi\resource_component_p.png" description="选择模块 二态" />
+        <path src="res\drawable-xhdpi\resource_component_p.png" description="选择模块 二态" />
+    </resource>
+    <resource description="resource_delete_n" x="558" y="1124" width="110" height="134" uuid="afe5d5f6-2722-43aa-b37a-9df8570b6757">
+        <path src="res\drawable-hdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-hdpi\resource_delete_p.png" description="删除按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_delete_p.png" description="删除按钮 二态" />
+    </resource>
+    <resource description="resource_detail_info_comment_n.9" x="96" y="954" width="526" height="116" uuid="178e1bd2-a655-4c83-8313-a3b9c237e43e">
+        <path src="res\drawable-hdpi\resource_detail_info_comment_n.9.png" description="查看评论" />
+        <path src="res\drawable-xxhdpi\resource_detail_info_comment_n.9.png" description="查看评论" />
+        <path src="res\drawable-hdpi\resource_detail_info_comment_p.9.png" description="查看评论 二态" />
+        <path src="res\drawable-xxhdpi\resource_detail_info_comment_p.9.png" description="查看评论 二态" />
+    </resource>
+    <resource description="resource_info_bg.9" x="68" y="154" width="578" height="940" uuid="b5d33460-399a-42e9-bb78-402a69156731">
+        <path src="res\drawable-hdpi\resource_info_bg.9.png" description="主题详情背景" />
+        <path src="res\drawable-xxhdpi\resource_info_bg.9.png" description="主题详情背景" />
+    </resource>
+    <resource description="resource_comment_star_readonly_selected" x="274" y="514" width="162" height="38" uuid="8b6ef4f4-332d-472e-a457-cafb7e557f3b">
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_normal.png" description="星级高亮" />
+        <path src="res\drawable-xhdpi\resource_comment_star_readonly_normal.png" description="星级高亮" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_off_normal.png" description="星级常态" />
+        <path src="res\drawable-xhdpi\resource_comment_star_readonly_off_normal.png" description="星级常态" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_off_selected.png" description="星级常态 按下" />
+        <path src="res\drawable-xhdpi\resource_comment_star_readonly_off_selected.png" description="星级常态 按下" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_selected.png" description="星级高亮 按下" />
+        <path src="res\drawable-xhdpi\resource_comment_star_readonly_selected.png" description="星级高亮 按下" />
+    </resource>
+</screenshot>

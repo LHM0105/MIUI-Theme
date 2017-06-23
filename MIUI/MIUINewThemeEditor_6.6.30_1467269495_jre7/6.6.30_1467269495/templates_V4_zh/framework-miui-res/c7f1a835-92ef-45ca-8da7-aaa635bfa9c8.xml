@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="主题模块" version="3.1.18" annotation="" tag="主题风格">
+    <resource description="resource_detail_n" x="22" y="1140" width="116" height="96" uuid="fdc081ac-a7ee-43fa-a634-cab2f2b4a055">
+        <path src="res\drawable-xhdpi\resource_detail_n.png" description="" />
+        <path src="res\drawable-xhdpi\resource_detail_p.png" description="" />
+    </resource>
+</screenshot>

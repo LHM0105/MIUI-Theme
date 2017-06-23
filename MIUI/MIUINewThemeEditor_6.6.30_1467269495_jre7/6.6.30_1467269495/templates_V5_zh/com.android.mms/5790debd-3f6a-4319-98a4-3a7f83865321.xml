@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.5 常用语添加" version="3.3.1" annotation="" tag="短信附件">
+    <resource description="phrase_new_btn_n" x="318" y="1142" width="82" height="86" uuid="3106c885-1974-43f9-a7bd-62330202fe28">
+        <path src="res\drawable-xhdpi\phrase_new_btn_n.png" description="添加常用语" />
+        <path src="res\drawable-xxhdpi\phrase_new_btn_n.png" description="添加常用语" />
+        <path src="res\drawable-xhdpi\phrase_new_btn_p.png" description="添加常用语 二态" />
+        <path src="res\drawable-xxhdpi\phrase_new_btn_p.png" description="添加常用语 二态" />
+    </resource>
+</screenshot>

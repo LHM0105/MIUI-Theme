@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="评论" version="3.1.11" annotation="" tag="">
+    <resource description="resource_detail_info_comment_n.9" x="98" y="978" width="522" height="104" uuid="df5c5f55-8eb8-4223-a764-9d9216d586e6">
+        <path src="res\drawable-hdpi\resource_detail_info_comment_n.9.png" description="" />
+        <path src="res\drawable-hdpi\resource_detail_info_comment_p.9.png" description="" />
+    </resource>
+    <resource description="resource_comment_star_readonly_normal" x="291" y="608" width="26" height="27" uuid="a6bc7ad7-3726-42dd-9195-c752e2cd6af5">
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_normal.png" description="" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_off_normal.png" description="" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_off_selected.png" description="" />
+        <path src="res\drawable-hdpi\resource_comment_star_readonly_selected.png" description="" />
+    </resource>
+</screenshot>

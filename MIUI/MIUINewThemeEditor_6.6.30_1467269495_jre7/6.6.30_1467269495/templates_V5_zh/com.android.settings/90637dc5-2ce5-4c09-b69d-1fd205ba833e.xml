@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 授权管理" version="3.2.27" annotation="" tag="权限管理">
+    <resource description="ic_management_n" x="318" y="1136" width="80" height="90" uuid="85aafdc6-d3dd-4e43-870b-683bb74a0421">
+        <path src="res\drawable-hdpi\ic_management_n.png" description="程序管理" />
+        <path src="res\drawable-xhdpi\ic_management_n.png" description="程序管理" />
+        <path src="res\drawable-xxhdpi\ic_management_n.png" description="程序管理" />
+        <path src="res\drawable-hdpi\ic_management_p.png" description="程序管理 二态" />
+        <path src="res\drawable-xhdpi\ic_management_p.png" description="程序管理 二态" />
+        <path src="res\drawable-xxhdpi\ic_management_p.png" description="程序管理 二态" />
+    </resource>
+</screenshot>

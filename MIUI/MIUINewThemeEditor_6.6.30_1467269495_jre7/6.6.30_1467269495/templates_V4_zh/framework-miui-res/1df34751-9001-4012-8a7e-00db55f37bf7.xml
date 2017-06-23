@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="主题详情" version="2.9.16" annotation="" tag="主题风格">
+    <resource description="resource_component_p.png" x="18" y="1144" width="116" height="96" uuid="4161fe27-1bff-498a-afe9-71aea391168f">
+        <path src="res\drawable-xhdpi\resource_component_n.png" description="" />
+        <path src="res\drawable-xhdpi\resource_component_p.png" description="" />
+    </resource>
+    <resource description="resource_delete_p" x="588" y="1140" width="114" height="96" uuid="2b88dcf5-961a-4b1a-9f28-31d6186b4d21">
+        <path src="res\drawable-xhdpi\resource_delete_n.png" description="" />
+        <path src="res\drawable-xhdpi\resource_delete_p.png" description="" />
+    </resource>
+    <resource description="preview_next_p" x="624" y="66" width="80" height="60" uuid="ab35d1e8-c9e1-45b0-9eba-47908933667c">
+        <path src="res\drawable-xhdpi\preview_next_d.png" description="" />
+        <path src="res\drawable-xhdpi\preview_next_n.png" description="" />
+        <path src="res\drawable-xhdpi\preview_next_p.png" description="" />
+    </resource>
+    <resource description="preview_previous_p" x="542" y="66" width="80" height="60" uuid="b4cb325f-3012-4abe-942b-2a5512078bc1">
+        <path src="res\drawable-xhdpi\preview_previous_d.png" description="" />
+        <path src="res\drawable-xhdpi\preview_previous_n.png" description="" />
+        <path src="res\drawable-xhdpi\preview_previous_p.png" description="" />
+    </resource>
+    <resource description="screen_view_seekpoint_highlight" x="342" y="1096" width="18" height="20" uuid="b3d38dc1-5e11-4c07-abe9-fe64bd7a9124">
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_highlight.png" description="" />
+        <path src="res\drawable-xhdpi\screen_view_seekpoint_normal.png" description="" />
+    </resource>
+    <resource description="resource_info_title" x="300" y="190" width="120" height="120" uuid="e5035210-86cc-45cd-866e-fc2e66f94122">
+        <path src="res\drawable-xhdpi\resource_info_title.png" description="" />
+    </resource>
+    <resource description="resource_info_bg.9" x="96" y="150" width="528" height="936" uuid="118663c9-75c6-4b02-92b2-d89bb02a593a">
+        <path src="res\drawable-hdpi\resource_info_bg.9.png" description="" />
+    </resource>
+</screenshot>

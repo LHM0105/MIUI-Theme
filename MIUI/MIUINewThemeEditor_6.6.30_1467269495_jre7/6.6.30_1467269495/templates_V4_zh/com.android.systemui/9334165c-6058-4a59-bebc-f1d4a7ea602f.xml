@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 通知栏_开关" version="2.9.16" annotation="小图标，off为关 on为开 也可放在framework-miui-res目录下面" tag="单页模式">
+    <resource description="tab_notifications_bg_p.9.png" x="0" y="1122" width="360" height="104" uuid="8d264ca6-fe14-4018-a06d-4712fd19c2df">
+        <path src="res\drawable-xhdpi\tab_notifications_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\tab_notifications_bg_p.9.png" description="" />
+    </resource>
+    <resource description="tab_toggles_bg_p.9.png" x="361" y="1126" width="360" height="104" uuid="7da5ef77-34ad-44a3-8c79-2768a22d1a1f">
+        <path src="res\drawable-xhdpi\tab_toggles_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\tab_toggles_bg_p.9.png" description="" />
+    </resource>
+    <resource description="tab_divider.png" x="352" y="1122" width="20" height="106" uuid="df152213-b6b2-4363-89ab-c502c801c3b2">
+        <path src="res\drawable-xhdpi\tab_divider.png" description="“开关”与“通知”之间的分割线" />
+    </resource>
+    <resource description="status_bar_close_on.9.png" x="0" y="1230" width="720" height="46" uuid="f19e10e3-74a3-46ac-ac47-5e27023ef6c4">
+        <path src="res\drawable-xhdpi\status_bar_close_on.9.png" description="" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="622" y="6" width="88" height="82" uuid="89c88b3a-c250-4462-842a-f450d589f4d1">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="" />
+    </resource>
+    <resource description="notification_header_bg.9.png" x="0" y="0" width="720" height="104" uuid="757e5cd3-fcc9-4f63-b933-d05ca7885468">
+        <path src="res\drawable-hdpi\notification_header_bg.9.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_flight_mode_on.png" x="48" y="177" width="81" height="81" uuid="fe24214d-961f-4698-b3b7-dbfe9a91119f" />
+    <resource description="status_bar_toggle_bluetooth_on.png" x="230" y="177" width="81" height="81" uuid="d6baadd9-154b-45a1-91b0-c8c8912f7841" />
+    <resource description="status_bar_toggle_sync_manual_active_1.png" x="408" y="177" width="81" height="81" uuid="03613ddb-1e8d-486f-aeed-f6a14972991e" />
+    <resource description="status_bar_toggle_screenshot.png" x="588" y="177" width="81" height="81" uuid="24491ce0-3685-4119-92ca-e42393ec662a" />
+    <resource description="status_bar_toggle_rotate_on.png" x="48" y="429" width="81" height="81" uuid="482cc8f3-5aaa-4aea-8b4e-af4bd315cf1f" />
+    <resource description="status_bar_toggle_vibrate_on.png" x="230" y="429" width="81" height="81" uuid="358af273-9477-4b7a-9586-e85c70d36e6c" />
+    <resource description="status_bar_toggle_mute_off.png" x="408" y="429" width="81" height="81" uuid="dc540067-1ca9-41ff-9133-c42931e63546" />
+    <resource description="status_bar_toggle_gps_on.png" x="588" y="429" width="81" height="81" uuid="24c60328-f04b-4155-a47d-b367b8344a44" />
+    <resource description="status_bar_toggle_wifi_on.png" x="48" y="685" width="81" height="81" uuid="0c6225ed-583b-489f-85a1-3be1d906c18e" />
+    <resource description="status_bar_toggle_data_off.png" x="230" y="685" width="81" height="81" uuid="415af92a-53b3-4ceb-ba0d-1a25663e7722" />
+    <resource description="status_bar_toggle_brightness_on.png" x="408" y="685" width="81" height="81" uuid="fd7e5304-7925-4eeb-8b9c-37796852d82a" />
+    <resource description="status_bar_toggle_divider.png" x="588" y="685" width="81" height="81" uuid="c9cb45ad-eac1-4834-8ac9-926e512d96e8" />
+    <resource description="brightness_max.png" x="594" y="954" width="80" height="80" uuid="fa6fd357-6cc1-4dc2-93ef-48a39180b0c0">
+        <path src="res\drawable-xhdpi\brightness_max.png" description="" />
+    </resource>
+    <resource description="brightness_min.png" x="38" y="954" width="80" height="80" uuid="b4dcfa64-0cb5-4910-9941-d153d89bfc87">
+        <path src="res\drawable-xhdpi\brightness_min.png" description="" />
+    </resource>
+    <resource description="status_bar_grid_item_p.9" x="18" y="148" width="152" height="152" uuid="652ddafa-bf6a-4419-a183-c1b07c90261b">
+        <path src="res\drawable-hdpi\status_bar_grid_item_p.9.png" description="按下二态" />
+    </resource>
+</screenshot>

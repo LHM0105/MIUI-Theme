@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="分页按钮" version="2.9.16" annotation="" tag="">
+    <resource description="tab_item_bg_s_n.9.png" x="30" y="154" width="328" height="84" uuid="f704ac44-839c-4e96-945c-76de19cb2bdf">
+        <path src="res\drawable-hdpi\tab_item_bg_s_n.9.png" description="" />
+        <path src="res\drawable-hdpi\tab_item_bg_s_p.9.png" description="" />
+    </resource>
+    <resource description="tab_item_bg_p.9.png" x="356" y="156" width="336" height="86" uuid="f3a2d2f4-76ee-400f-aa30-b21331c2b3e6">
+        <path src="res\drawable-hdpi\tab_item_bg_n.9.png" description="" />
+        <path src="res\drawable-hdpi\tab_item_bg_p.9.png" description="" />
+    </resource>
+    <resource description="tab_bar_bg.9" x="2" y="154" width="718" height="90" uuid="050823c3-14b8-4d29-8a21-fce01255bbc9">
+        <path src="res\drawable-hdpi\tab_bar_bg.9.png" description="" />
+        <path src="res\drawable-xhdpi\tab_bar_bg.9.png" description="" />
+    </resource>
+    <resource description="action_btn_n.9" x="631" y="261" width="70" height="64" uuid="19bd138e-01b7-4327-a930-fb1438284be6">
+        <path src="res\drawable-hdpi\action_btn_n.9.png" description="" />
+        <path src="res\drawable-hdpi\action_btn_p.9.png" description="" />
+    </resource>
+    <resource description="ic_download_misc_file_type" x="14" y="252" width="92" height="90" uuid="3ef5810a-948e-475b-8fef-e7a5d0f4f9ff">
+        <path src="res\drawable-hdpi\ic_download_misc_file_type.png" description="" />
+    </resource>
+</screenshot>

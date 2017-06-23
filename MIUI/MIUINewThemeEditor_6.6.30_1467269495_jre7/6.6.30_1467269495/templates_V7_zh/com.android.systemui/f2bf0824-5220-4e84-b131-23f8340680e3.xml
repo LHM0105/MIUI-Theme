@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 通知页" version="4.8.5" annotation="时间view 可进行百变编辑，目录地址\com.android.systemui\res\raw\statusbar_clock.maml" tag="通知栏">
+    <resource description="notification_list_bg.9" x="76" y="330" width="940" height="954" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="通知列表背景" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_list_bg.9.png" description="通知列表背景" />
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="通知列表背景" />
+    </resource>
+    
+    <resource description="notification_item_first_bg_n.9" x="85" y="1087" width="925" height="177" uuid="4e3c2de1-2e8e-4034-96c1-91498a7f0e2d">
+        <path src="res\drawable-land-xxhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_n.9.png" description="通知栏列表第一条 常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 二态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_p.9.png" description="通知栏列表第一条 二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_n.9.png" description="通知栏列表中间部分 常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_p.9.png" description="通知栏列表中间部分 二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 二态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_last_bg_p.9.png" description="通知栏列表最后一条 二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条 常态" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_n.9.png" description="通知栏列表单独一条 常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 二态" />
+        <path src="res\drawable-sw600dp-xhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 二态" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_p.9.png" description="通知栏列表单独一条 二态" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="448" y="1610" width="178" height="178" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-sw600dp-xhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_normal.png" description="清除按钮 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_pressed.png" description="清除按钮 二态" />
+    </resource>
+    <resource description="tab_notifications_bg_p" x="513" y="1810" width="25" height="110" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-sw600dp-xhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+    </resource>
+    <resource description="tab_toggles_bg_n" x="539" y="1810" width="25" height="110" uuid="4a038881-14a8-4d7e-a418-686d0722e40d">
+        <path src="res\drawable-sw600dp-xhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+    </resource>
+    
+    <resource description="tracking_view_page_style_bg.9" x="0" y="0" width="1080" height="1920" uuid="bce4b546-d9aa-4544-b99e-2705c9bb8bd3">
+        <path src="res\drawable-xhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+    </resource>
+	
+    <resource description="流量" x="76" y="330" width="100" height="90" uuid="21294c69-11df-4d80-873d-2c4ab7663c57">
+        <path src="res\drawable-xxhdpi\status_bar_flow_5.png" description="流量剩余5%" />
+        <path src="res\drawable-xxhdpi\status_bar_flow_15.png" description="流量剩余15%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_20.png" description="流量剩余20%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_25.png" description="流量剩余25%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_30.png" description="流量剩余30%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_35.png" description="流量剩余35%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_40.png" description="流量剩余40%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_45.png" description="流量剩余45%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_50.png" description="流量剩余50%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_55.png" description="流量剩余55%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_60.png" description="流量剩余60%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_65.png" description="流量剩余65%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_70.png" description="流量剩余70%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_75.png" description="流量剩余75%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_80.png" description="流量剩余80%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_85.png" description="流量剩余85%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_90.png" description="流量剩余90%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_95.png" description="流量剩余95%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_100.png" description="流量剩余100%" />
+		<path src="res\drawable-xxhdpi\status_bar_flow_null.png" description="流量未知" />
+    </resource>
+    <resource description="hour_9" x="58" y="88" width="86" height="174" uuid="548487cb-4541-47ae-8745-28daeb85dd3f">
+        <path src="res\raw\statusbar_clock.maml.unzip\l_0.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_1.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_2.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_3.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_4.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_5.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_6.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_7.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_8.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\l_9.png" description="" />
+    </resource>
+    <resource description="minute_4" x="289" y="88" width="52" height="82" uuid="ced43773-0f9c-4f1b-a584-ade6c0de7ae8">
+        <path src="res\raw\statusbar_clock.maml.unzip\s_5.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_6.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_7.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_8.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_9.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_0.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_1.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_2.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_3.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_4.png" description="" />
+    </resource>
+    <resource description="minute_9" x="352" y="87" width="51" height="83" uuid="c7b23f42-c781-49a2-847c-8fe05b724843">
+        <path src="res\raw\statusbar_clock.maml.unzip\s_0.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_1.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_2.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_3.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_4.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_5.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_6.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_7.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_8.png" description="" />
+        <path src="res\raw\statusbar_clock.maml.unzip\s_9.png" description="" />
+    </resource>
+    <resource description="minute_dot" x="259" y="96" width="19" height="70" uuid="e36d1229-f860-477f-937e-35f29346c38f">
+        <path src="res\raw\statusbar_clock.maml.unzip\s_dot.png" description="" />
+    </resource>
+</screenshot>

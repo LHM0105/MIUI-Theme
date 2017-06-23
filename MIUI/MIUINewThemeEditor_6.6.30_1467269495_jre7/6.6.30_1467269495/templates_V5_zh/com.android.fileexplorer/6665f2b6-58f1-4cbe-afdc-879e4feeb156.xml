@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.2 文件清理2" version="3.4.17" annotation="【garbage_cleanup_item_color】&lt;br\&gt;&#xA; 垃圾清理背景颜色代码" tag="4.0 文件清理">
+    <resource description="app_garbage_arrow_right" x="12" y="908" width="44" height="52" uuid="eeedc568-2b38-4d96-a976-9759d418add9">
+        <path src="res\drawable-hdpi\app_garbage_arrow_down.png" description="收起" />
+        <path src="res\drawable-xhdpi\app_garbage_arrow_down.png" description="收起" />
+        <path src="res\drawable-hdpi\app_garbage_arrow_right.png" description="展开" />
+        <path src="res\drawable-xhdpi\app_garbage_arrow_right.png" description="展开" />
+    </resource>
+    <resource description="list_bg.9" x="2" y="506" width="712" height="626" uuid="8378c5fd-603f-4bf0-b8dd-c307c5538ce4">
+        <path src="res\drawable-hdpi\list_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\list_bg.9.png" description="列表背景" />
+    </resource>
+    <resource description="list_bg_pressed.9" x="16" y="748" width="684" height="131" uuid="c667bd60-d9e1-4d82-8da1-b757d0f5c9c9">
+        <path src="res\drawable-hdpi\list_bg_pressed.9.png" description="列表二态背景" />
+        <path src="res\drawable-xhdpi\list_bg_pressed.9.png" description="列表二态背景" />
+    </resource>
+    <resource description="app_garbage_item_bg_shadow.9" x="20" y="1002" width="682" height="118" uuid="95f0a72e-9ec2-46a8-92df-a31996fb0dc9">
+        <path src="res\drawable-hdpi\app_garbage_item_bg_shadow.9.png" description="软件残留展开后阴影图片" />
+        <path src="res\drawable-xhdpi\app_garbage_item_bg_shadow.9.png" description="软件残留展开后阴影图片" />
+    </resource>
+</screenshot>

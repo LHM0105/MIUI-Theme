@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="拨号键盘" version="4.7.17" annotation="" tag="拨号">
+    <resource description="顶栏" x="0" y="0" width="1080" height="194" uuid="e440a8d6-4c4b-4d70-b172-3fcfa9835601">
+        <path src="res\drawable-xxhdpi\action_bar_contacts_tab_bg.9.png" description="拨号页面顶栏"/>
+        <path src="res\drawable-xxhdpi\action_bar_dialer_tab_bg.9.png" description="联系人页面顶栏"/>
+        <path src="res\drawable-xxhdpi\action_bar_yellowpage_tab_bg.9.png" description="黄页页面顶栏"/>
+    </resource>
+    <resource description="dialer_btn_close_dialpad_normal" x="832" y="1720" width="132" height="135" uuid="54c61175-a946-4ba5-9732-44e7bdc41110">
+        <path src="res\drawable-xxhdpi\dialer_btn_close_dialpad_normal.9.png" description="收起键盘 常态" />
+        <path src="res\drawable-xxhdpi\dialer_btn_close_dialpad_pressed.9.png" description="收起键盘 二态" />
+    </resource>
+    <resource description="dialer_btn_menu_dialpad_normal" x="112" y="1720" width="125" height="130" uuid="0f9061db-767a-4e79-ab09-91bfe4e93a14">
+        <path src="res\drawable-xxhdpi\dialer_btn_menu_dialpad_normal.9.png" description="拨号菜单 常态" />
+        <path src="res\drawable-xxhdpi\dialer_btn_menu_dialpad_pressed.9.png" description="拨号菜单 二态" />
+    </resource>
+    <resource description="dialer_btn_call_bg" x="432" y="1682" width="218" height="218" uuid="c71fa8e9-140a-429c-94bf-b6b05b682854">
+        <path src="res\drawable-xxhdpi\dialer_btn_call_bg.png" description="拨号按钮背景"/>
+    </resource>    
+    <resource description="dialer_btn_call_pressed" x="488" y="1744" width="100" height="100" uuid="92c72db0-b6ab-4d5b-879a-b19602cd19e1">
+        <path src="res\drawable-xxhdpi\dialer_btn_call_normal.png" description="拨号按钮 常态" />
+        <path src="res\drawable-xxhdpi\dialer_btn_call_pressed.png" description="拨号按钮 二态" />
+    </resource>
+    <resource description="dialer_digits_clear_btn_pressed" x="930" y="730" width="95" height="110" uuid="6a686ac3-c138-4dfd-b517-66b0b052229e">
+        <path src="res\drawable-xxhdpi\dialer_digits_clear_btn_normal.png" description="清空按钮 常态" />
+        <path src="res\drawable-xxhdpi\dialer_digits_clear_btn_pressed.png" description="清空按钮 二态" />
+    </resource>
+    <resource description="dialer_background.9" x="0" y="921" width="1080" height="740" uuid="60b09a72-0d94-4009-8709-2cbd986d432f">·
+        <path src="res\drawable-xxhdpi\dialer_background.9.png" description="拨号盘背景图" />
+    </resource>
+    <resource description="dialer_bottom_bar_bg.9" x="0" y="1661" width="1080" height="258" uuid="2091e79e-394f-470f-a893-5d4b2ef6d0fe">
+        <path src="res\drawable-xxhdpi\dialer_bottom_bar_bg.9.png" description="底部背景" />
+    </resource>
+    <resource description="dialer_button_pressed" x="358" y="1107" width="360" height="184" uuid="d6ccf293-2bd5-4012-8d5c-e6148e1e23bc">
+        <path src="res\drawable-xxhdpi\dialer_button_pressed.9.png" description="拨号按下" />
+    </resource>
+    <resource description="dialer_title_up" x="0" y="60" width="110" height="132" uuid="e440a8d6-4c4b-4d70-b172-3fcfa9835601">
+        <path src="res\drawable-xxhdpi\dialer_title_up_normal.png" description="返回箭头 常态" />
+        <path src="res\drawable-xxhdpi\dialer_title_up_pressed.png" description="返回箭头 按下" />
+    </resource>
+    <resource description="twelve_key_digits_bg.9" x="0" y="670" width="1080" height="240" uuid="4551762e-2a82-4750-a989-2d2542539088">
+        <path src="res\drawable-xxhdpi\twelve_key_digits_bg.9.png" description="电话号码" />
+    </resource>    
+     <resource description="dial_num_0" x="490" y="921" width="100" height="185" uuid="a729c865-cd38-4c6c-a045-9a8d8e50d884">
+        <path src="res\drawable-xxhdpi\dial_num_0.png" description="拨号数字 0" />
+        <path src="res\drawable-xxhdpi\dial_num_1.png" description="拨号数字 1" />
+        <path src="res\drawable-xxhdpi\dial_num_2.png" description="拨号数字 2" />
+        <path src="res\drawable-xxhdpi\dial_num_3.png" description="拨号数字 3" />
+        <path src="res\drawable-xxhdpi\dial_num_4.png" description="拨号数字 4" />
+        <path src="res\drawable-xxhdpi\dial_num_5.png" description="拨号数字 5" />
+        <path src="res\drawable-xxhdpi\dial_num_6.png" description="拨号数字 6" />
+        <path src="res\drawable-xxhdpi\dial_num_7.png" description="拨号数字 7" />
+        <path src="res\drawable-xxhdpi\dial_num_8.png" description="拨号数字 8" />
+        <path src="res\drawable-xxhdpi\dial_num_9.png" description="拨号数字 9" />
+        <path src="res\drawable-xxhdpi\dial_num_star.png" description="拨号数字 star" />
+        <path src="res\drawable-xxhdpi\dial_num_pound.png" description="拨号数字 pound" />
+    </resource>
+</screenshot>

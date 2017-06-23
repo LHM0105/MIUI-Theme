@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 主题首页" version="4.8.29" annotation="" tag="主题风格">
+    <resource description="search_icon_pressed" x="955" y="85" width="120" height="80" uuid="59846527-792a-4801-969a-c1dc35df4f63">
+        <path src="res\drawable-xhdpi\search_icon_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\search_icon_normal.png" description="" />
+        <path src="res\drawable-xhdpi\search_icon_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\search_icon_pressed.png" description="" />
+    </resource>
+    <resource description="personal_icon_pressed" x="0" y="85" width="120" height="80" uuid="f7dc08e1-1682-41b3-bdeb-e9ba1bc3127d">
+        <path src="res\drawable-xhdpi\personal_icon_normal.png" description="" />
+        <path src="res\drawable-xxhdpi\personal_icon_normal.png" description="" />
+        <path src="res\drawable-xhdpi\personal_icon_pressed.png" description="" />
+        <path src="res\drawable-xxhdpi\personal_icon_pressed.png" description="" />
+    </resource>
+    <resource description="resource_thumbnail_bg_round_border.9" x="378" y="1314" width="324" height="516" uuid="ec33154c-8aa3-4f5f-9998-f9349ef3f90e">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg_round_border.9.png" description="缩略图背景，加载中可见" />
+        <path src="res\drawable-xhdpi\resource_thumbnail_bg_round_border.9.png" description="缩略图背景，加载中可见" />
+        <path src="res\drawable-xxhdpi\resource_thumbnail_bg_round_border.9.png" description="缩略图背景，加载中可见" />
+    </resource>
+    <resource description="loading_view_bg.9" x="0" y="1780" width="1080" height="140" uuid="b01e37ff-51c5-458d-bdec-15f1783d1d30">
+        <path src="res\drawable-hdpi\loading_view_bg.9.png" description="列表加载底部遮罩" />
+        <path src="res\drawable-xhdpi\loading_view_bg.9.png" description="列表加载底部遮罩" />
+        <path src="res\drawable-xxhdpi\loading_view_bg.9.png" description="列表加载底部遮罩" />
+    </resource>
+</screenshot>

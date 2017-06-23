@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="进入按钮" version="1.0" annotation="" tag="">
+    <resource description="list_item_detail_arrow_pressed.png" x="610" y="90" width="78" height="82" uuid="a47efaa1-4483-48a4-b9fb-5860ea2a8c79">
+        <path src="res\drawable-xhdpi\list_item_detail_arrow_normal.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_detail_arrow_pressed.png" description="" />
+    </resource>
+    <resource description="word_photo_bg" x="26" y="236" width="120" height="122" uuid="b432760b-b034-43dc-ba28-6a0452046c25">
+        <path src="res\drawable-hdpi\word_photo_bg.png" description="智能联系人头像背景" />
+    </resource>
+    <resource description="ic_contact_unknown_picture" x="26" y="72" width="120" height="120" uuid="96dd8380-dad9-44b1-9a54-da312bb235a1">
+        <path src="res\drawable-xhdpi\ic_contact_unknown_picture.png" description="" />
+    </resource>
+</screenshot>

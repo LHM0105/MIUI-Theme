@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 双页通知部分" version="3.1.11" annotation="" tag="单页模式">
+    <resource description="usb_notification_ptp_n" x="406" y="146" width="142" height="60" uuid="7dc736c1-194d-4fe8-ba49-f51ac4f04666">
+        <path src="res\drawable-xhdpi\usb_notification_ptp_n.png" description="M2独有" />
+        <path src="res\drawable-xhdpi\usb_notification_ptp_p.png" description="M2独有" />
+    </resource>
+    <resource description="usb_notification_mtp_n" x="552" y="144" width="144" height="60" uuid="93035064-b287-423c-8bc4-4a551449e0d6">
+        <path src="res\drawable-xhdpi\usb_notification_mtp_n.png" description="M2独有" />
+        <path src="res\drawable-xhdpi\usb_notification_mtp_p.png" description="M2独有" />
+    </resource>
+    <resource description="tracking_view_page_style_bg.9" x="0" y="0" width="720" height="1044" uuid="8ab7d517-24a2-4a0a-8926-af43b1b624ab">
+        <path src="res\drawable-xhdpi\tracking_view_page_style_bg.9.png" description="" />
+    </resource>
+    <resource description="flow_status_bg.9" x="0" y="1044" width="722" height="84" uuid="0ab20a3e-892c-4a3f-9c92-61d0bc41b249">
+        <path src="res\drawable-hdpi\flow_status_bg.9.png" description="流泪信息背景" />
+    </resource>
+    <resource description="status_bar_flow_bg" x="42" y="1064" width="38" height="38" uuid="85fd9cb4-5fe4-4ca7-a5fa-7b90dc7f332d">
+        <path src="res\drawable-xhdpi\status_bar_flow_bg.png" description="流量背景" />
+        <path src="res\drawable-xhdpi\status_bar_flow_warning.png" description="流量超过" />
+    </resource>
+    <resource description="notification_header_bg.9.png" x="0" y="0" width="720" height="104" uuid="db664550-5111-4e35-8c4b-c417701c39d6">
+        <path src="res\drawable-hdpi\notification_header_bg.9.png" description="" />
+    </resource>
+    <resource description="ic_notify_quicksettings_pressed.png" x="622" y="6" width="88" height="82" uuid="10acba6b-9d4d-45a7-a094-dd74d72e2390">
+        <path src="res\drawable-xhdpi\ic_notify_clear_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_clear_pressed.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="" />
+    </resource>
+    <resource description="notification_item_bg_n.9" x="0" y="340" width="720" height="138" uuid="0d4467c9-9873-4f2d-8869-a17b47347192">
+        <path src="res\drawable-xhdpi\notification_item_bg_n.9.png" description="" />
+        <path src="res\drawable-xhdpi\notification_item_bg_p.9.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="删除按钮" version="3.6.19" annotation="" tag="按钮、输入框">
+    <resource description="v5_btn_inline_delete_pressed_light" x="570" y="670" width="92" height="90" uuid="ddd53a63-4aff-48e7-b6d7-cf3c67c0ad92">
+        <path src="res\drawable-hdpi\v5_btn_inline_delete_normal_light.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\v5_btn_inline_delete_normal_light.png" description="删除按钮" />
+        <path src="res\drawable-xxhdpi\v5_btn_inline_delete_normal_light.png" description="删除按钮" />
+        <path src="res\drawable-hdpi\v5_btn_inline_delete_pressed_light.png" description="删除按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_btn_inline_delete_pressed_light.png" description="删除按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_btn_inline_delete_pressed_light.png" description="删除按钮 二态" />
+    </resource>
+    <resource description="v5_sliding_btn_slider_pressed" x="550" y="254" width="108" height="62" uuid="6a7637c3-3678-44f3-b95b-c1155578faa0">
+        <path src="res\drawable-hdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_frame.png" description="开关顶部遮罩" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_mask.png" description="形状遮罩" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_off.png" description="关闭状态背景" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_off_disable.png" description="关闭状态 不可按" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_on.png" description="开状态 背景" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_on_disable.png" description="开状态，不可按" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_slider.png" description="开关按钮" />
+        <path src="res\drawable-hdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_sliding_btn_slider_pressed.png" description="开关按钮 按下" />
+    </resource>
+    <resource description="v5_title_bar_back_button_pressed_light" x="20" y="66" width="44" height="55" uuid="b73bb296-4d28-438d-8a61-bccdd4b18abd">
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_normal_light.png" description="返回按钮" />
+        <path src="res\drawable-hdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_back_button_pressed_light.png" description="返回按钮" />
+    </resource>
+    <resource description="v5_title_bar_bg_light.9" x="6" y="46" width="706" height="92" uuid="e7eebba3-02dc-4d41-98f1-60335b0c618a">
+        <path src="res\drawable-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-hdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-land-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+        <path src="res\drawable-xxhdpi\v5_title_bar_bg_light.9.png" description="标题背景" />
+    </resource>
+    <resource description="v5_preference_first_item_bg_pressed.9" x="12" y="210" width="692" height="374" uuid="6f421f2e-47e6-40ab-93d9-66c92623a182">
+        <path src="res\drawable-hdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-xxhdpi\v5_preference_first_item_bg_normal.9.png" description="顶部分类" />
+        <path src="res\drawable-hdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_first_item_bg_pressed.9.png" description="顶部分类 二态" />
+        <path src="res\drawable-hdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-xxhdpi\v5_preference_last_item_bg_normal.9.png" description="分类底部" />
+        <path src="res\drawable-hdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_last_item_bg_pressed.9.png" description="分类底部 二态" />
+        <path src="res\drawable-hdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-xxhdpi\v5_preference_middle_item_bg_normal.9.png" description="分类中间" />
+        <path src="res\drawable-hdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+        <path src="res\drawable-xhdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+        <path src="res\drawable-xxhdpi\v5_preference_middle_item_bg_pressed.9.png" description="分类中间 二态" />
+    </resource>
+</screenshot>

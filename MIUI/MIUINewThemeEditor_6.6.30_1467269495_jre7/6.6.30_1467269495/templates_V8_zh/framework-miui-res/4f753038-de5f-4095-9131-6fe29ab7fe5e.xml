@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="通知栏开关" version="4.11.19" annotation="" tag="其他">      
+    <resource description="status_bar_toggle_flight_mode_off" x="125" y="525" width="140" height="140" uuid="44871253-d362-4728-a424-fc824f416dff">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_flight_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_flight_mode_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_wifi_on" x="470" y="525" width="140" height="140" uuid="919268aa-b006-4640-9bbe-aec40d4a49e9">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_ap_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_wifi_ap_off.png" description="" />
+    </resource> 
+    <resource description="status_bar_toggle_bluetooth_off" x="815" y="525" width="140" height="140" uuid="6713e1a9-fe13-47a7-9ba8-5dde365c3b1a">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_bluetooth_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_bluetooth_on.png" description="" />
+    </resource>
+
+    <resource description="status_bar_toggle_data_off" x="125" y="840" width="140" height="140" uuid="8d16028a-5057-4d3d-b970-806ad008dba3">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_data_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_data_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_lock" x="470" y="840" width="140" height="140" uuid="69af05e5-06f6-4cad-93ba-b193f90f5e26">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_lock.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_lock_on.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_brightness" x="815" y="840" width="140" height="140" uuid="1d1677bf-fc74-4518-9b0f-c6a4df445175">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_manual.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_brightness_auto.png" description="" />
+    </resource>
+
+    <resource description="status_bar_toggle_rotate_lock_off" x="125" y="1152" width="140" height="140" uuid="35bc23d4-819c-4c49-889d-1788725a37f5">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_rotate_lock_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_rotate_lock_on.png" description="" />
+    </resource>       
+    <resource description="status_bar_toggle_brightness_off" x="470" y="1152" width="140" height="140" uuid="42b0f596-4c88-4e93-af86-99335a78bdfe">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screenshot.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screenshot_on.png" description="" />
+    </resource>
+    
+    <resource description="status_bar" x="815" y="1152" width="140" height="140" uuid="745ec24e-d560-493d-bab1-b491fe82be37">
+        <path src="res\drawable-xxhdpi\status_bar_toggle_gps_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_gps_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_midrop_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_midrop_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_mute_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_mute_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_paper_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_paper_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_power_high_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_power_high_on.png" description="" />  
+        <path src="res\drawable-xxhdpi\status_bar_toggle_privacy_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_privacy_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_quiet_mode_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_quiet_mode_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screenshot_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_screenshot.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_sync_on.png" description="" /> 
+        <path src="res\drawable-xxhdpi\status_bar_toggle_torch_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_torch_on.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_vibrate_off.png" description="" />
+        <path src="res\drawable-xxhdpi\status_bar_toggle_vibrate_on.png" description="" />
+    </resource>
+</screenshot>

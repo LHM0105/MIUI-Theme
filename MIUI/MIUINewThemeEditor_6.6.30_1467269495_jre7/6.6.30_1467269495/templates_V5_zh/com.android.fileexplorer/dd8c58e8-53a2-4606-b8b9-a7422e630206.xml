@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 网盘" version="2.9.16" annotation="" tag="3.0 网盘">
+    <resource description="icon_logo" x="160" y="292" width="384" height="394" uuid="fcc6969e-a06b-4f19-bfa6-9aa984fe95c9">
+        <path src="res\drawable-hdpi\icon_logo.png" description="金山快盘logo" />
+        <path src="res\drawable-xhdpi\icon_logo.png" description="金山快盘logo" />
+    </resource>
+</screenshot>

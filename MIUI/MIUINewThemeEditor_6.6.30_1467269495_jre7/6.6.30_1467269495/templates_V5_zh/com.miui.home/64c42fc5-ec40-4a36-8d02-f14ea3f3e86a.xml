@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 widget编辑模式" version="2.9.16" annotation="" tag="编辑模式">
+    <resource description="gadget_edit_tag_p.png" x="590" y="100" width="52" height="52" uuid="b841629d-1146-4387-8467-a85db41c2da0">
+        <path src="res\drawable-hdpi\gadget_edit_tag_n.png" description="插件编辑按钮" />
+        <path src="res\drawable-xhdpi\gadget_edit_tag_n.png" description="插件编辑按钮" />
+        <path src="res\drawable-hdpi\gadget_edit_tag_p.png" description="插件编辑按钮 二态" />
+        <path src="res\drawable-xhdpi\gadget_edit_tag_p.png" description="插件编辑按钮 二态" />
+    </resource>
+    <resource description="home_edit_box_area_4_4.png" x="88" y="1234" width="30" height="26" uuid="19ebd8e4-4116-49b1-8b37-c6b74b713126">
+        <path src="res\drawable-hdpi\home_edit_box_area_1_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_1_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_2_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_3_4.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_1.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_2.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_3.png" description="插件所占屏幕空间" />
+        <path src="res\drawable-hdpi\home_edit_box_area_4_4.png" description="插件所占屏幕空间" />
+    </resource>
+    <resource description="editing_bg" x="12" y="0" width="690" height="1268" uuid="4bf2cd43-b78b-4d3d-be17-0a7d25805c81">
+        <path src="res\drawable-hdpi\editing_bg.png" description="编辑模式背景" />
+    </resource>
+    <resource description="editing_screen_bg.9" x="48" y="88" width="618" height="822" uuid="2d1803cb-5e7d-4c9c-b7b3-c475c871d564">
+        <path src="res\drawable-hdpi\editing_screen_bg.9.png" description="编辑模式桌面背景" />
+        <path src="res\drawable-xhdpi\editing_screen_bg.9.png" description="编辑模式桌面背景" />
+    </resource>
+    <resource description="delete_zone_bg.9" x="36" y="6" width="638" height="68" uuid="dd9d5e1f-1687-4433-b587-f6d09f4e8193">
+        <path src="res\drawable-hdpi\prompt_message_bg.9.png" description="删除背景" />
+        <path src="res\drawable-xhdpi\prompt_message_bg.9.png" description="删除背景" />
+    </resource>
+    <resource description="delete_zone_tx" x="336" y="14" width="44" height="43" uuid="f60e1f7f-23a0-4dad-95d4-85e46f290509">
+        <path src="res\drawable-hdpi\delete_zone_tx.png" description="不可卸载软件 图标" />
+        <path src="res\drawable-xhdpi\delete_zone_tx.png" description="不可卸载软件 图标" />
+    </resource>
+</screenshot>

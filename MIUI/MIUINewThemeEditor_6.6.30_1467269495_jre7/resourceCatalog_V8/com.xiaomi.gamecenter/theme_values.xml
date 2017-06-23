@@ -1,0 +1,3534 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="text_color_level">#fff96812</color>
+<color name="secondary_text_color">#ff7f7f7f</color>
+<color name="primary_text_color">#ff3e3e3e</color>
+<color name="vip_home_level_strage">#fff02809</color>
+<color name="vip_home_yellow">#fffd8000</color>
+<color name="pressed_color">#ffffffff</color>
+<color name="transparent">#00000000</color>
+<color name="spinner_head_item">#ff313131</color>
+<color name="text_color_highlight">#ffff7e00</color>
+<color name="text_color_shadow">#80ffffff</color>
+<color name="text_color_link">#ff307ab3</color>
+<color name="empty_buton_text_color">#d0000000</color>
+<color name="color_green">#ff51ad15</color>
+<color name="hot_word_foreground">#4a000000</color>
+<color name="empty_text_color">#80000000</color>
+<color name="text_color_search_default">#ff000000</color>
+<color name="text_color_search_pressed">#ffff6600</color>
+<color name="text_color_black_70">#b3000000</color>
+<color name="text_color_black_60">#99000000</color>
+<color name="text_color_black_80">#cc000000</color>
+<color name="text_color_black_75">#bf000000</color>
+<color name="text_color_black_50">#80000000</color>
+<color name="text_color_black_45">#72000000</color>
+<color name="vip_feedback_voice_des_color">#ff767676</color>
+<color name="vip_level_bg_color">#ffb23901</color>
+<color name="vip_feedback_timestamp_color">#ff909090</color>
+<color name="color_transparent">#00000000</color>
+<color name="game_detail_tab_text_color_nal">#99000000</color>
+<color name="game_detail_tab_text_color_sel">#cc000000</color>
+<color name="text_color_black_5">#0c000000</color>
+<color name="level_bar_bg">#ffb6b6b6</color>
+<color name="divide_line">#33000000</color>
+<color name="feedback_recv_text_color">#b4000000</color>
+<color name="divider">#e7dfdfdf</color>
+<color name="list_secondary_text_color_pressed_light">#7f000000</color>
+<color name="list_secondary_text_color_normal_light">#7f000000</color>
+<color name="list_secondary_text_color_disable_light">#33000000</color>
+<color name="gift_detail_text_color">#b2000000</color>
+<color name="point_btn_false_color">#33000000</color>
+<color name="mibi_item_account_id_text_color">#80000000</color>
+<color name="mibi_item_account_name_text_color">#cc000000</color>
+<color name="list_secondary_text_color_disable_dark">#33ffffff</color>
+<color name="list_secondary_text_color_normal_dark">#73ffffff</color>
+<color name="list_secondary_text_color_pressed_dark">#73ffffff</color>
+<color name="message_view_text">#c0000000</color>
+<color name="text_color_primary">#ff000000</color>
+<color name="text_color_secondary">#66000000</color>
+<color name="text_color_inverse"></color>
+<color name="red_edge_button_disable_color">#ff767676</color>
+<color name="color_replace_line">#ffc6c6c6</color>
+<color name="color_replace_rewards_btntext">#ffbc0007</color>
+<color name="text_color_recommend_list">#fff6f6f6</color>
+<color name="color_replace_info">#ff454954</color>
+<color name="recommend_pull_down_toast_bg_color">#ffd5e9f7</color>
+<color name="recommend_pull_down_gift_name_text_color">#ffff6600</color>
+<color name="recommend_item_gap_background">#ffeaebef</color>
+<color name="recommend_title_righttext">#ff468d0e</color>
+<color name="rank_second_txt_color">#ffff8135</color>
+<color name="rank_first_txt_color">#fffc4708</color>
+<color name="text_color_white_40">#66ffffff</color>
+<color name="text_color_white_30">#4cffffff</color>
+<color name="text_color_white_20">#33ffffff</color>
+<color name="text_color_white_15">#26ffffff</color>
+<color name="text_color_white_10">#19ffffff</color>
+<color name="text_color_white_5">#0cffffff</color>
+<color name="gift_remain_count_color">#ffff6600</color>
+<color name="text_color_orange">#ffff6600</color>
+<color name="bbs_reply_bg_color">#fff0f0f0</color>
+<color name="bbs_post_title_color">#ff5a9cff</color>
+<color name="pic_item_bg">#ff3d3d3d</color>
+<color name="reply_subject_color">#fff2f4f7</color>
+<color name="gift_money_red_text_color">#ffbc0007</color>
+<color name="text_subreply_user">#ff007ef4</color>
+<color name="friend_list_bg">#fff8f8f8</color>
+<color name="text_reply_nums_color">#ffff6600</color>
+<color name="color_replace_rewards_tiptext">#fffee21c</color>
+<color name="dark_theme_background_color">#ffe7eaef</color>
+<color name="edit_text_color_light_disabled">#4c000000</color>
+<color name="button_edge_color">#ff1ba4ec</color>
+<color name="rank_third_txt_color">#ffffba15</color>
+<color name="edit_text_color_light">#cc000000</color>
+<color name="color_title_back">#ffefeff0</color>
+<color name="text_color_black_30">#4c000000</color>
+<color name="text_color_black_40">#66000000</color>
+<color name="shade">#99000000</color>
+<color name="color_float_menu"></color>
+<color name="color_org">#ffff6600</color>
+<color name="color_black_tran_50">#80000000</color>
+<color name="color_black_tran_80">#cc000000</color>
+<color name="color_black_tran_30">#4d000000</color>
+<color name="color_black_tran_40">#66000000</color>
+<color name="common_title_color">#73000000</color>
+<color name="text_color_black_100">#ff000000</color>
+<color name="text_color_black_90">#e6000000</color>
+<color name="text_color_black_85">#da000000</color>
+<color name="text_color_black_20">#33000000</color>
+<color name="text_color_black_15">#24000000</color>
+<color name="text_color_black_12">#21000000</color>
+<color name="text_color_black_10">#19000000</color>
+<color name="user_agreement_hightlight_color">#ff1674e9</color>
+<color name="text_color_white_50">#80ffffff</color>
+<color name="text_color_white_60">#99ffffff</color>
+<color name="text_color_white_70">#b3ffffff</color>
+<color name="text_color_white_80">#ccffffff</color>
+<color name="text_color_white_90">#e6ffffff</color>
+<color name="action_bar_title_color">#fff9f9f9</color>
+<color name="main_tag_selected_color">#ff1ba4ec</color>
+<color name="apk_file_size_bg_color">#ffa2e0a2</color>
+<color name="white">#ffffffff</color>
+<color name="color_black_tran_90">#e5000000</color>
+<color name="bbs_bg_color">#ffeaebee</color>
+<color name="action_button_text_light">#ff4b8d0e</color>
+<color name="primary_text_light">#cc000000</color>
+<color name="feetype_text_color">#ffee5b1a</color>
+<color name="secondary_text_light">#7f000000</color>
+<color name="tertiary_text_light">#7f000000</color>
+<color name="common_btn_press_color">#0d4473b2</color>
+<color name="recommend_red_packet_shadow_color">#bfd73c13</color>
+<color name="recommend_red_packet_act_color">#fffff0c2</color>
+<color name="update_count_bg">#ff1ba4ec</color>
+<color name="recommend_red_packet_outer">#ffff5527</color>
+<color name="recommend_double_middle_color">#ffebeef3</color>
+<color name="discovery_category_rank_1">#fffc4708</color>
+<color name="discovery_category_rank_2">#ffff8135</color>
+<color name="discovery_category_rank_3">#ffffba15</color>
+<color name="text_pressed_color">#ffff6600</color>
+<color name="forum_search_button_pressed_color">#ff1cb833</color>
+<color name="forum_search_clear_color">#ff12c444</color>
+<color name="bbs_listview_item_press_color">#ffff6600</color>
+<color name="bbs_notify_read_tag_color">#ffacacac</color>
+<color name="bbs_listview_mycol_color">#fff76f01</color>
+<color name="bbs_notify_read_color">#fff8f8f8</color>
+<color name="bbs_notify_promotion_tag_color">#ff12c444</color>
+<color name="bbs_notify_reply_color">#ff576b95</color>
+<color name="game_comments_dark_content_color">#99d2d6db</color>
+<color name="game_comments_dark_version_color">#80d2d6db</color>
+<color name="promotion_attend_color">#ffadadad</color>
+<color name="main_text_focused_color">#ff2384d1</color>
+<color name="icon_focused_color">#104473b2</color>
+<color name="list_item_focused_color">#fff5f8fb</color>
+<color name="discard_upgrade_pressed_color">#ff2384d1</color>
+<color name="recommend_banner_red_color">#ffff4981</color>
+<color name="recommend_banner_green_color">#ff13cd66</color>
+<color name="search_hot_word_text_normal_color">#ff646c8c</color>
+<color name="transparent_gift_success"></color>
+<color name="category_bar_text_normal">#fff6f6f6</color>
+<color name="color_replace_rewards_finish_text">#ffee2700</color>
+<color name="color_replace_bonus_tiptext">#fff35d02</color>
+<color name="color_repalce_bonus_btn">#ff11c444</color>
+<color name="color_replace_bonus_btntext">#ff8d8d8d</color>
+<color name="thread_detail_quote_bg">#fff2f4f7</color>
+<color name="thread_list_sign">#ff3bd451</color>
+<color name="forum_search_button_normal_color">#ff3bd451</color>
+<color name="mibi_top_ornament_blue">#ff3498d8</color>
+<color name="mibi_top_ornament_org">#fffd7922</color>
+<color name="digest_divider_line">#ffc9c9c9</color>
+<color name="mibi_top_ornament_gray">#ffd1d1d1</color>
+<color name="gift_success_view_code_bg">#ffefefef</color>
+<color name="mibi_top_ornament_green">#ff2ecc71</color>
+<color name="gift_success_button_green_text">#ff3bd451</color>
+<color name="color_f14940">#fff14940</color>
+<color name="bbs_sociaty_item_reply_text_color">#ff1ba4ec</color>
+<color name="color_ee3b33">#ffee3b33</color>
+<string name="plugin">插件</string>
+<string name="plugin_summary">第三方游戏辅助工具集合</string>
+<string name="all_cat_tag">排行</string>
+<string name="hot_cat_tag">精品</string>
+<string name="new_cat_tag">新品</string>
+<string name="featured_cat_tag">精品</string>
+<string name="get_new_ticket_failed">领取失败</string>
+<string name="ticket_source_text">参加%s获得</string>
+<string name="voucher_total">礼券总额：</string>
+<string name="promotion_detail_action_text_lunch">启动</string>
+<string name="promotion_detail_none">暂无活动</string>
+<string name="promotion_detail_error">获取活动信息失败</string>
+<string name="purchase_mibi">%s米币</string>
+<string name="tab_mytickets">我的代金券</string>
+<string name="tab_history">使用记录</string>
+<string name="gamecenter_update_version_new_feature_list">点击看看有哪些新功能</string>
+<string name="rank_tag">排行</string>
+<string name="management_tag">管理</string>
+<string name="category_tag">类别</string>
+<string name="new_app_tag">新品上线</string>
+<string name="hot_rank_tag">热门排行</string>
+<string name="order_detail_order_name">color=#454545&gt;%s&lt;/font&gt;</string>
+<string name="order_detail_order">消费订单号</string>
+<string name="menu_search">搜索</string>
+<string name="order_detail_order_date">color=#454545&gt;%s&lt;/font&gt;</string>
+<string name="order_detail_order_amount">color=#454545&gt;%s米币&lt;/font&gt;</string>
+<string name="menu_install_all">一键安装</string>
+<string name="ticket_detail_desc_source">来源：</string>
+<string name="menu_preferences">设置</string>
+<string name="ticket_detail_desc_used">已消费：</string>
+<string name="confirm">确定</string>
+<string name="ticket_detail_desc_supply">适用游戏：</string>
+<string name="cancel">取消</string>
+<string name="ticket_detail_desc_date">有效时间：</string>
+<string name="search_games">游戏;游戏中心;YouXi;YouXiZhongXin</string>
+<string name="path_settings">系统应用/游戏</string>
+<string name="setting_value">0</string>
+<string name="miui_recommend_title_game">%1$s</string>
+<string name="gamecenter_update_version_new_feature">已升级到最新版%1$s</string>
+<string name="ticket_detail_title">代金券详情</string>
+<string name="order_detail_title">使用详情</string>
+<string name="search_settings_title">游戏</string>
+<string name="app_name">游戏</string>
+<string name="mibi_tab_online_install_games">已安装的游戏</string>
+<string name="mibi_tab_online_platform_promotion">平台活动</string>
+<string name="mibi_tab_online_customer_service">在线客服</string>
+<string name="mibi_tab_format_xiaomi_account">%s</string>
+<string name="miuishare_wechat_timeline_title">微信朋友圈</string>
+<string name="mibi_tab_online_game_promotion">热门游戏活动</string>
+<string name="button_text_recharge">充值</string>
+<string name="miuishare_share_editor_title">分享</string>
+<string name="miuishare_share_done">分享内容已发送。</string>
+<string name="miuishare_publish">发送</string>
+<string name="miuishare_weibo_title">微博</string>
+<string name="promotion_detail_action_text_install">去安装</string>
+<string name="miuishare_no_network">无网络无法分享</string>
+<string name="mibi_tab_accoun_title">帐户信息</string>
+<string name="account_more_info_grade">等级与经验值</string>
+<string name="account_more_info_integral">积分</string>
+<string name="mibi_tab_item_voucher">代金券</string>
+<string name="tool">工具</string>
+<string name="promotion_detail_action_text_attend">立即参与</string>
+<string name="menu_download_manager">下载队列</string>
+<string name="promotion_title">活动</string>
+<string name="download_manager_tag_with_nonzero_downloads">下载队列(%1$s/%2$s)</string>
+<string name="mibi_tab_activity_more">更多活动</string>
+<string name="download_manager_tag">下载队列</string>
+<string name="my_vip">我的VIP</string>
+<string name="miuishare_account_login_confirmation">登录提醒</string>
+<string name="miuishare_account_activate_confirmation">激活提醒</string>
+<string name="miuishare_account_need_login">微博分享服务需要您的小米帐户中已绑定微博帐户，检测到您尚未登录小米帐户，请先登录小米帐户。</string>
+<string name="miuishare_account_need_activate">微博分享服务需要您的小米帐户中已绑定微博帐户，检测到您的小米帐户未激活，请先激活小米帐户。</string>
+<string name="mibi_tab_item_more">更多帐户信息</string>
+<string name="miuishare_title_share">分享给好友</string>
+<string name="miuishare_account_login_ok">登录</string>
+<string name="miuishare_account_activate_ok">激活</string>
+<string name="miuishare_account_login_cancel">取消</string>
+<string name="mibi_tab_other">其他</string>
+<string name="no_ignore_game">您不会错过任何升级提示</string>
+<string name="checkin_days">0</string>
+<string name="game_not_installed">您还没有安装%1$s</string>
+<string name="gift_pack_load_info_fail">获取礼包信息失败</string>
+<string name="bbs_summary_default">0</string>
+<string name="specific_category">个性分类</string>
+<string name="checkin_continue_days">0</string>
+<string name="game_category">游戏分类</string>
+<string name="stimulated_code_list_empty">没有激活码了</string>
+<string name="gift_pack_list_empty">没有礼包了</string>
+<string name="gift_pack_gift_tips">温馨提示:%1$s</string>
+<string name="gift_pack_list_empty_searchmodel">没有找到这款礼包</string>
+<string name="miuishare_title_more">更多</string>
+<string name="miuishare_app_name">Miui分享</string>
+<string name="unknown_user_name">路人甲</string>
+<string name="vip_level_expried_text">VIP有效期：%s</string>
+<string name="other_post_title">TA的帖子</string>
+<string name="privilege_service_title_introduction">服务介绍</string>
+<string name="user_info_page_birthday">生日</string>
+<string name="remain_text">剩余:</string>
+<string name="user_info_page_nickname">昵称</string>
+<string name="my_gifts">我的礼包</string>
+<string name="user_info_page_sex">性别</string>
+<string name="jifen_text">积分:</string>
+<string name="user_info_page_city">地区</string>
+<string name="remain_text_withnum">剩余:%s个</string>
+<string name="user_info_page_sign">个性签名</string>
+<string name="title_gift">游戏礼包</string>
+<string name="user_info_status">签名：%s</string>
+<string name="login_fail_with_errcode">登录失败:errCode=%d</string>
+<string name="update_nickname_fail">昵称更新失败</string>
+<string name="gift_will_coming">即将开始</string>
+<string name="bbs_nickname_cannot_be_empty">昵称不能为空！</string>
+<string name="gift_time_normal_format">有效日期:%s</string>
+<string name="gift_time_future_day_format">倒计时:%1$d天%2$d小时</string>
+<string name="gift_time_future_hour_format">倒计时:%d小时</string>
+<string name="nickname_limit_hint">请输入昵称</string>
+<string name="bbs_switch_account">切换帐号</string>
+<string name="bss_input_signature_limit">个性签名最多只能输入140个字</string>
+<string name="bss_please_input_signature">请输入签名</string>
+<string name="update_nickname_success">昵称更新成功</string>
+<string name="visiting_appointments">来访预约</string>
+<string name="update_head_fail">头像更新失败</string>
+<string name="vip_club">VIP俱乐部</string>
+<string name="bbs_nickname_limit">不能超过20个字符</string>
+<string name="gift_list_title">礼包内容:</string>
+<string name="bbs_rename">修改名字</string>
+<string name="vip_jifen_text">积分</string>
+<string name="promotion_info_time_start">%3$s分钟</string>
+<string name="discovery_nearby_load_failed">加载失败</string>
+<string name="promotion_info_time_ends">%3$s分钟</string>
+<string name="gift_in_time_over">还剩</string>
+<string name="gift_free">免费领取</string>
+<string name="bbs_detail_pull_release_pre_page">松开加载上一页</string>
+<string name="login_now_text">立即登录</string>
+<string name="bbs_detail_content_error">帖子内容获取失败</string>
+<string name="gift_expired">活动结束</string>
+<string name="wall_refresh_failed">刷新失败，请检查网络或稍后再试</string>
+<string name="gift_free_need">免费</string>
+<string name="bbs_detail_page_number">第%d页</string>
+<string name="gift_need">%d积分</string>
+<string name="bbs_detail_net_error">网络无法连接，请检查网络设置</string>
+<string name="gift_by_jifen">积分换取</string>
+<string name="track_feedback_status">反馈状态跟踪</string>
+<string name="user_info_page_avatar">头像</string>
+<string name="recharge_proxy">代充值</string>
+<string name="bbs_account_info">用户信息</string>
+<string name="feedback_title">在线客服</string>
+<string name="post_confirm_exit">您有尚未发布的内容,确定要退出么</string>
+<string name="special_comm">VIP专属客服</string>
+<string name="credit_center">信贷中心</string>
+<string name="focus">关注</string>
+<string name="publish_new_subject">发布新主题</string>
+<string name="discovery_nearby_load_all">已加载全部</string>
+<string name="post_add_pic">点击添加图片</string>
+<string name="vip_valid_forever">永久有效</string>
+<string name="post_content">内容…</string>
+<string name="gift_in_time_come">还等</string>
+<string name="post_title">标题</string>
+<string name="post">发贴</string>
+<string name="error_sdcard_as_data_storage">登录失败！如果手机有SD卡请先将手机与PC断开，或修改手机与PC之间的USB存储方式，然后再试;如果手机没有SD卡，请先插入SD卡。</string>
+<string name="gift_copy_text">复制到剪贴板</string>
+<string name="gift_getOver_text">礼包领取成功！</string>
+<string name="gift_cdkey_voice">温馨提示:</string>
+<string name="gfit_cdkey">礼包兑换码</string>
+<string name="gift_bag_activity_over">已结束</string>
+<string name="gift_intime_youxiaoqi">有效期至:%s</string>
+<string name="gift_bag_no_bag_left">被抢光了！</string>
+<string name="gift_bag_will_begin">即将开始</string>
+<string name="promotion_info_time_init">初始化中</string>
+<string name="gift_apply_voice_one">1、我们的客服会核实你的信息，并根据您的申请信息发放礼包。如果您的信息不小心填错了，可以联系我们的克服来修改。</string>
+<string name="gift_apply_voice_two">2、礼包会在几天内集中统一发放没，请您耐心等待。当您的礼包发放后，您可以在这里看到您的发放信息。</string>
+<string name="no_email_client">没有找到应用</string>
+<string name="gift_apply_desc">请按照活动说明要求的格式填写，以便顺利参加此类活动。如果信息填写格式不正确或填写内容有误，将失去参与机会。</string>
+<string name="bbs_year_ago">年前</string>
+<string name="gift_apply_title">填写申请信息</string>
+<string name="bbs_detail_pull_pre_page">下拉加载上一页</string>
+<string name="gfit_apply_send">礼包申请已发送!</string>
+<string name="bbs_essence_area">精华区</string>
+<string name="gift_apply_msg">申请信息</string>
+<string name="bbs_hour_ago">小时前</string>
+<string name="bbs_minute_ago">分前</string>
+<string name="bbs_month_ago">月前</string>
+<string name="gift_desc_text">礼包说明:</string>
+<string name="bbs_day_ago">天前</string>
+<string name="gift_reGet_text">领完了，下次再领吧</string>
+<string name="bbs_seconds_ago">秒前</string>
+<string name="bbs_floor_index">%d楼</string>
+<string name="get_new_ticket_succeeded">领取成功</string>
+<string name="ticket_detail_overdue">已过期</string>
+<string name="ticket_detail_get_text">已领取</string>
+<string name="ticket_detail_button_get">领取</string>
+<string name="order_list_empty_text">您还没有使用记录</string>
+<string name="gift_apply_commit_text">提交申请</string>
+<string name="gift_apply_information">请输入申请信息:</string>
+<string name="gift_cdkey_voice_two">2、您的领取记录已经保存在“已领取礼包”中，您下次可以通过“已领取礼包”查看礼包兑换码</string>
+<string name="gift_cdkey_voice_one">1、请您尽快到游戏中兑换，以避免兑换码过期或被他人冒领，造成不必要的损失。</string>
+<string name="VipS_DefaultTitle">礼包</string>
+<string name="VipS_showStr1">VIP特权</string>
+<string name="VipS_Receive">立即领取</string>
+<string name="ticket_detail_desc_text">color=#99000000&gt;代金券可在游戏中抵扣现金&lt;/font&gt;</string>
+<string name="from_gamecenter_download">从小米游戏下载</string>
+<string name="ticket_empty_loading_view_title">什么是代金券?</string>
+<string name="ticket_empty_loading_view_text2">代金券是小米游戏发放给米粉的抵扣券，可用于在小米游戏联运的网游中作为现金抵扣券进行消费</string>
+<string name="ticket_list_empty_text">您还没有代金券</string>
+<string name="update_info_fail">失败</string>
+<string name="feedback_SelectFromPhotos">从相册中选择</string>
+<string name="total_points">积分：%d</string>
+<string name="feedback_Cancel">取消</string>
+<string name="buy_gift_packs">去兑换礼包消费</string>
+<string name="feedback_Return">返回</string>
+<string name="get_points">在游戏中获得积分</string>
+<string name="feedback_SelectFromCamera">拍照</string>
+<string name="locating">正在定位…</string>
+<string name="feedback_Send_IsNotNull">发送内容不能为空！</string>
+<string name="auto_location">自动定位</string>
+<string name="user_info_page_field_mask_city">%s</string>
+<string name="user_info_page_field_mask_noanything">点击编辑个人资料</string>
+<string name="user_info_page_field_mask_qq">%s</string>
+<string name="user_info_page_field_mask_sex">%s</string>
+<string name="vip_home_birthday">%s</string>
+<string name="vip_home_qq">%s</string>
+<string name="vip_home_tel">%s</string>
+<string name="vip_home_grade">VIP%d</string>
+<string name="subject_lists">专题</string>
+<string name="update_new_version_available">(有新版本了)</string>
+<string name="vip_home_status">我的VIP状态</string>
+<string name="vip_home_level">我的等级</string>
+<string name="update_success">您已升级为最新版本</string>
+<string name="update_Discard_Read_Feature">开始使用</string>
+<string name="client_update_now">立即更新</string>
+<string name="client_do_not_update_now">暂不提示</string>
+<string name="feedback_CustomerService_Tel">%s</string>
+<string name="feedback_HomeShow_MessageType_Audio">（声音）</string>
+<string name="service_of_my_customer">我的客服</string>
+<string name="issu_very_manyi">非常满意</string>
+<string name="issu_manyi">满意</string>
+<string name="service_of_exclusive_customer">专属客服</string>
+<string name="issu_no_manyi">不满意</string>
+<string name="service_of_online_customer">在线客服</string>
+<string name="issu_grade_msg">请留下您宝贵的意见</string>
+<string name="service_of_jf_shop">兑换礼包</string>
+<string name="issu_grade_tijiao">提交</string>
+<string name="service_of_customer_info">客服资料</string>
+<string name="issu_progress_info">处理进度</string>
+<string name="service_of_issue_track">问题跟踪</string>
+<string name="female">女</string>
+<string name="feedback_Upload_ImageUploading">上传中…</string>
+<string name="feedback_CallTel">拨打客服电话</string>
+<string name="feedback_SaveTel">保存到通讯录</string>
+<string name="feedback_Save_Pic_Success">图片保存成功</string>
+<string name="feedback_Save_Success">保存成功</string>
+<string name="feedback_Save_To">图片保存到：</string>
+<string name="feedback_Save_Pic_Fail">图片保存失败</string>
+<string name="feedback_VipCS_NameTitle2">VIP专属客服</string>
+<string name="feedback_VipCS_NameTitle">小米游戏</string>
+<string name="share_text">在小米游戏中发现一个有趣的游戏：%1$s，分享一下！下载地址：%2$s，来自小米游戏</string>
+<string name="feedback_HomeShow_MessageType_Image">（图片）</string>
+<string name="install_title">安装游戏</string>
+<string name="update_title">更新游戏</string>
+<string name="install_no_network_description">当前无网络连接，请连接后重试</string>
+<string name="install_on_data_description">您在使用数据网络，下载可能产生流量费用，是否立即安装%1$s等%2$s款游戏？</string>
+<string name="update_on_data_description">您在使用数据网络，下载可能产生流量费用，是否立即更新%1$s等%2$s款游戏？</string>
+<string name="feedback_Send">发送</string>
+<string name="install_all_description">是否立即安装%1$s等%2$s款游戏？</string>
+<string name="pull_to_refresh_release_label">松开后刷新</string>
+<string name="update_only_on_wifi_description">您在下载管理中开启了『仅在WLAN下下载』设置，暂时无法在线更新游戏，请连接WLAN网络后重试</string>
+<string name="pull_to_refresh_pull_label">下拉刷新</string>
+<string name="install_only_on_wifi_description">您在下载管理中开启了『仅在WLAN下下载』设置，暂时无法在线安装游戏，请连接WLAN网络后重试</string>
+<string name="term_of_validity">有效期至:%s</string>
+<string name="no_after_end">%s后结束</string>
+<string name="no_after_start">%s后开始</string>
+<string name="no_yiguoqi">已过期</string>
+<string name="issu_grade">用户评价:</string>
+<string name="more_subjects">查看更多的专题</string>
+<string name="issu_grade_content">评价内容:</string>
+<string name="main_search_hint">输入关键词</string>
+<string name="install_btn_download_manager">下载管理</string>
+<string name="install_btn_ok">知道了</string>
+<string name="install_btn_continue">继续</string>
+<string name="install_btn_cancel">取消</string>
+<string name="service_of_my_page">编辑资料</string>
+<string name="update_all_description">是否立即更新%1$s等%2$s款游戏？</string>
+<string name="display_hide_gift_detail">礼包详情</string>
+<string name="service_of_day_integral">每日积分</string>
+<string name="feedback_PressSendAudio">按住说话</string>
+<string name="male">男</string>
+<string name="feedback_general_OpenVIP_Btn">如何升级VIP</string>
+<string name="service_of_birthday_gift">生日礼包</string>
+<string name="feedback_general_OpenVIP_Des">升级至VIP4，将有专属高级客服为您服务，可以直拨客服手机，立即获得响应</string>
+<string name="service_of_charge_rebate">充值返利</string>
+<string name="feedback_general_CustomerService_Name">官方客服</string>
+<string name="service_of_feedbakc_online">在线客服</string>
+<string name="hot_city">热门城市</string>
+<string name="service_of_quarter_gift">季度礼包</string>
+<string name="issu_goto_feedback">␣␣去反馈问题␣␣</string>
+<string name="service_of_my_vip">我的资料</string>
+<string name="issu_no_content">您还没有反馈过问题</string>
+<string name="service_of_my_level">我的等级</string>
+<string name="issu_grade_no_content">无</string>
+<string name="service_of_my_gifts">我的礼包</string>
+<string name="no_local_apps">没有已安装游戏</string>
+<string name="no_description">无游戏介绍</string>
+<string name="no_data">获取数据失败，请检查网络</string>
+<string name="no_update">没有可升级游戏</string>
+<string name="install_inconsistent_fail">签名不一致，请先卸载后重试</string>
+<string name="install_fail">%1$s安装失败</string>
+<string name="view_more_gift">查看更多</string>
+<string name="gift_time_future">:</string>
+<string name="no_search">没有找到游戏</string>
+<string name="my_service_title">我的服务</string>
+<string name="no_change_log">暂无更新</string>
+<string name="view_all_gift">查看更多</string>
+<string name="gift_time_future_minute_format">倒计时:%d分</string>
+<string name="notif_install_failed_system_space_not_enough">安装失败,系统空间不足</string>
+<string name="notif_install_failed">%1$s安装失败</string>
+<string name="share_subject">分享一个游戏：%1$s</string>
+<string name="notif_install_failed_sdcard_space_not_enough">安装失败,SD卡空间不足</string>
+<string name="issu_number">%d</string>
+<string name="notif_unzipping">解压中“%1$s”…</string>
+<string name="no_gift">木有了</string>
+<string name="notif_installing">正在安装“%1$s”…</string>
+<string name="vip_title_gift">游戏礼包</string>
+<string name="notif_install_successful_apk_reserve_fail">%1$s安装成功(空间不足，安装包未保留)</string>
+<string name="notif_install_successful">%1$s安装成功</string>
+<string name="no_meiyoule">没有了</string>
+<string name="ask_customer">咨询客服</string>
+<string name="issu_no_satisfied">根据您的意见，我们会努力改进</string>
+<string name="apply_check_info_empty">申请信息不能为空</string>
+<string name="issu_satisfied">满意</string>
+<string name="gift_apply_progress">申请进度</string>
+<string name="issu_progress_msg">进度通知</string>
+<string name="gift_received_progress">领取进度</string>
+<string name="issu_comm_evaluated">服务评价</string>
+<string name="install_hash_fail">%1$s安装失败：安装包验证失败，请重新下载</string>
+<string name="pull_to_refresh_refreshing_label">刷新…</string>
+<string name="issu_processing">反馈已受理</string>
+<string name="pull_to_refresh_footer_release_label">松开后加载</string>
+<string name="issu_process_person">%s</string>
+<string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+<string name="issu_evaluated">用户已评价:</string>
+<string name="confirm_apply_gift">您确认要申请%s?</string>
+<string name="issu_processed">反馈已处理</string>
+<string name="publish_info">%1$s月%2$s日发布%3$s版</string>
+<string name="show_all_local_app">查看全部游戏</string>
+<string name="enable_updata_local_app">%d款游戏可以升级</string>
+<string name="privilege_service_title">特权服务</string>
+<string name="megabytes_unit">%1$sMB</string>
+<string name="issu_chuli_wanchen">处理完成</string>
+<string name="rank_app_name">%2$s</string>
+<string name="category_header">全部%1$s</string>
+<string name="ignore_manage">已忽略升级</string>
+<string name="connect_fail">%1$s安装失败：连接错误，请检查网络链接</string>
+<string name="update_all">全部升级</string>
+<string name="update_manage">升级管理</string>
+<string name="download_deleted_fail">%1$s安装失败：任务被删除</string>
+<string name="download_fail">%1$s安装失败：下载错误</string>
+<string name="connect_no_fit_fail">%1$s安装失败：没有适合您手机的安装包</string>
+<string name="download_start_fail">%1$s安装失败：无法建立下载任务</string>
+<string name="pic_upload_error">上传图片错误</string>
+<string name="enable_ignore_local_app">%d款游戏已忽略升级</string>
+<string name="price_free">限免</string>
+<string name="price">￥%1$.2f</string>
+<string name="pending">等待</string>
+<string name="bytes">%1$s/%2$s</string>
+<string name="progress">%1$s%%</string>
+<string name="price_free_bottom_button">限时免费安装</string>
+<string name="kilobytes_unit">%1$sKB</string>
+<string name="bytes_unit">%1$sB</string>
+<string name="paused">暂停中</string>
+<string name="paused_with_reason">color=#f76811&gt;%2$s&lt;/font&gt;</string>
+<string name="install_pause_with_reason">color=#f76811&gt;%1$s&lt;/font&gt;</string>
+<string name="connecting">连接中</string>
+<string name="verifying">验证中</string>
+<string name="installing">安装中</string>
+<string name="unzipping">解压中</string>
+<string name="size">(%1$s)</string>
+<string name="update_date_label">更新日期：%1$s</string>
+<string name="vip_personal_info_edit_tip2">完善个人资料有利于我们为您提供更好的服务</string>
+<string name="vip_personal_info_edit_tip1">温馨提示:</string>
+<string name="pref_list_disable">关闭</string>
+<string name="toast_name_used">用户名重复了</string>
+<string name="pref_summary_data_check_update">点击查看小米游戏是否有新版本</string>
+<string name="user_info_birthday_format">MM月dd日</string>
+<string name="pref_title_data_check_update">检查更新</string>
+<string name="copy">复制</string>
+<string name="permission_button">权限详情(%1$s)</string>
+<string name="confirm_deduct_integral">确认扣除%1d积分吗？</string>
+<string name="pref_new_version_icon">新版本图标</string>
+<string name="selected_not_pic">只支持图片格式的文件</string>
+<string name="installed">已安装</string>
+<string name="restore">恢复</string>
+<string name="start_game">启动</string>
+<string name="game_install">安装:</string>
+<string name="choose_use_app">选择要使用的应用</string>
+<string name="update">更新</string>
+<string name="update_get_points_task">每天完成以下任务可以提升等级哦</string>
+<string name="share_button">分享给好友</string>
+<string name="update_bonus_rule">升级奖励规则</string>
+<string name="install">下载</string>
+<string name="update_get_points_bonus">升级可以获得积分奖励</string>
+<string name="version_label">版本号：</string>
+<string name="vip_description_info">功能介绍</string>
+<string name="game_detail_developer">开发者：</string>
+<string name="vip_info_unknown">未知</string>
+<string name="update_date">%1$s年%2$s月%3$s日</string>
+<string name="vip_home_retain_level">color=#2a2a2a&gt;元&lt;/font&gt;</string>
+<string name="pref_summary_update_notification">我安装的游戏可以升级新版时通知我</string>
+<string name="vip_home_level_distant_suf">color=#fd8000&gt;%d元&lt;/font&gt;</string>
+<string name="pref_summary_auto_update_setting">下载后提醒我</string>
+<string name="vip_home_level_distant_pre">color=\ #2a2a2a\ &gt;距离VIP%d还需&lt;/font&gt;</string>
+<string name="pref_title_clear_search_record">清除搜索记录</string>
+<string name="vip_gift_empty_button_receive">␣␣领取礼包␣␣</string>
+<string name="pref_title_update_onlyby_wifi">仅使用WLAN自动更新</string>
+<string name="feedback_less_than4">官方客服为您服务</string>
+<string name="h5_float_layout_contentdescription_left">left</string>
+<string name="pref_title_auto_update_setting">自动更新设置</string>
+<string name="vip_home_need_exp">color=\ #2a2a2a\ &gt;经验值&lt;/font&gt;</string>
+<string name="pref_title_update_notification">更新通知</string>
+<string name="vip_gift_empty_receive">您还没有领取过礼包哦</string>
+<string name="h5_float_layout_contentdescription_normal">normal</string>
+<string name="h5_float_layout_contentdescription_dim">dim</string>
+<string name="wali_api_url">http://mis.migc.xiaomi.com</string>
+<string name="response_cer">MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG0UrKW1fr6ubJzzlElSo2yZ3utoB734GkipVUguD2NrFSvyGHsUu4hmxio3453FAmeUGzqAJu31tSYL4B5QePpjvEjBfRaMvho/nPhabMAXT6WVUvcM03fy7ThNXd7ByV2jHUJH9Eg2cdgozQPYgNpdiNf93U2J4naZJld80ZsQIDAQAB</string>
+<string name="pref_list_data_network">仅数据网络</string>
+<string name="vip_servicer">客服</string>
+<string name="pref_list_remind_me_after_download">下载后提醒我</string>
+<string name="copy_success">复制成功!</string>
+<string name="pref_list_always_enable">始终启用</string>
+<string name="from_camre">拍照</string>
+<string name="pref_list_auto_update">自动更新</string>
+<string name="from_file">从相册中选择</string>
+<string name="pref_title_no_installed_in_rank">排行榜过滤</string>
+<string name="vip_home_vip_top_level">您的VIP等级已达到最高等级</string>
+<string name="pref_summary_no_installed_in_rank">排行榜不显示已安装应用</string>
+<string name="vip_home_update_level">color=#2a2a2a&gt;元&lt;/font&gt;</string>
+<string name="pref_title_push_activity_notification">活动通知提醒</string>
+<string name="all_games">全部游戏</string>
+<string name="pref_summary_clear_search_record">搜索记录已清空</string>
+<string name="all_gifts">全部礼包</string>
+<string name="noti_title_text_color">color=%1$s&gt;%2$s&lt;/font&gt;</string>
+<string name="numeric_millions">%dM</string>
+<string name="forum_search_item_vertical_char">|</string>
+<string name="pref_title_reserve_apk">保留安装包</string>
+<string name="vip_home_valid_end_pre">color=#2a2a2a&gt;有效期至:&lt;/font&gt;%s</string>
+<string name="bbs_user_title_0">0</string>
+<string name="pref_summary_reserve_apk">安装后，保留游戏安装包</string>
+<string name="access_location_deny">拒绝</string>
+<string name="online_game_new">新服</string>
+<string name="feedback_CustomerService_MiLiao">%s</string>
+<string name="online_game_beta">内测</string>
+<string name="feedback_CustomerService_QQ">%s</string>
+<string name="online_game_gift">礼包</string>
+<string name="user_info_page_field_mask_birthday">%s</string>
+<string name="user_info_page_field_mask_tel">%s</string>
+<string name="bbs_post_new_thread_without_login">您尚未登录，无法发布新贴</string>
+<string name="popular_cat_tag">畅销榜</string>
+<string name="bbs_reply_personal_publish">发表于</string>
+<string name="vip_home_privilege">我的VIP特权</string>
+<string name="online_game_hot">热门</string>
+<string name="vip_home_level_rule">VIP升级规则</string>
+<string name="beta_cat_tag">内测</string>
+<string name="vip_home_all_privilege">查看全部VIP特权</string>
+<string name="duobao_round">期号：%s</string>
+<string name="duobao_empty_loading_text">加载中</string>
+<string name="choose_image_title">图片选择</string>
+<string name="waiting_for_login_customer">正在登陆中，请稍后再试</string>
+<string name="title_message_center">消息中心</string>
+<string name="h5_float_layout_contentdescription_right">right</string>
+<string name="game_type">分类:</string>
+<string name="numeric_normal">%d</string>
+<string name="numeric_kilo">%dK</string>
+<string name="delete">删除</string>
+<string name="last_recommend_gift">今日推荐礼包</string>
+<string name="confirm_feedback">确定</string>
+<string name="my_games">已安装游戏</string>
+<string name="data_package">_数据包</string>
+<string name="title_level">我的等级</string>
+<string name="pause">暂停</string>
+<string name="title_intergral">我的积分</string>
+<string name="notif_install_fail_subscribe">您预约\ %1$s\ 已经上线啦!快来玩～～</string>
+<string name="recommend_red_packet_notification_second_title">[%s]</string>
+<string name="download_manager_download_reason_queued_for_wifi">WLAN下自动开始</string>
+<string name="recommend_red_packet_notification_title">小米福利%s开抢！</string>
+<string name="download_manager_download_reason_paused_unknown">未知原因</string>
+<string name="recommend_red_packet_grab">进行中</string>
+<string name="download_manager_download_reason_wait_to_retry">等待系统重试</string>
+<string name="recommend_red_packet_ready">准备中</string>
+<string name="download_manager_download_reason_wait_for_network">等待网络就绪</string>
+<string name="recommend_red_packet_round_index">第%s轮</string>
+<string name="vip_welcome_complex_info">完善资料</string>
+<string name="recommend_red_packet_thx">Thanks</string>
+<string name="vip_welcome_go_gamecenter">进入小米游戏</string>
+<string name="webkit_errpage_btn_text">刷新</string>
+<string name="gamedetail_guesst_youlike">相关游戏推荐</string>
+<string name="webkit_errpage_tip">出错了，请检查网络</string>
+<string name="messagecenter_message_list_delete_title">删除</string>
+<string name="duobao_check_prize_text">查看奖品</string>
+<string name="crop_user_avatar">裁剪头像</string>
+<string name="game_detail_guess_packagename">【%s】</string>
+<string name="download_recommend_header_text_second">的米粉还下载了</string>
+<string name="download_header_text_first">米粉还下载了</string>
+<string name="install_start_cleanup">开始清理</string>
+<string name="download_recommend_header_text_first">下载</string>
+<string name="connect_no_enough_space_title">存储空间不足</string>
+<string name="connect_no_enough_space_message">您的手机存储空间不足，暂时无法安装应用，请清理系统后再尝试安装。</string>
+<string name="find_high_quality">发现精品</string>
+<string name="single_high_quality">精选</string>
+<string name="download_manager_download_reason_paused_manual">手动暂停</string>
+<string name="search_recommend_title_2">的米粉还喜欢</string>
+<string name="game_detail_fee_type_1">解锁付费</string>
+<string name="search_recommend_title_1">下载了</string>
+<string name="game_detail_fee_type_2">道具付费</string>
+<string name="game_detail_fee_type_3">免费</string>
+<string name="notif_install_successful_subscribe">您预约\ %1$s\ 已经上线啦!快来玩～～</string>
+<string name="subscribe_game_success">预约成功</string>
+<string name="download_manager_install_cancel_manual">已手动暂停安装</string>
+<string name="download_manager_install_cancel_unzipping">解压失败，SD卡空间不足</string>
+<string name="push_subscribe_intro">小米游戏中心</string>
+<string name="messagecenter_delete_empty">请选择要删除的消息</string>
+<string name="subscribe_game_list_title">游戏预约</string>
+<string name="download_manager_list_delete_confirm">条下载吗?</string>
+<string name="download_manager_install_apk_invalid">APK安装包不合法</string>
+<string name="download_manager_install_uninstall_fail">卸载老版本失败</string>
+<string name="download_manager_install_fail_unkown">未知原因</string>
+<string name="download_duobao_award_hint">获得了夺宝代金券</string>
+<string name="goto_use">去使用</string>
+<string name="access_location_hint">是否允许访问位置信息?</string>
+<string name="access_location_allow">允许</string>
+<string name="create_shortcut_yimibiduobao_hint">是否创建快捷方式?</string>
+<string name="shortcut_yimibiduobao">一米币夺宝</string>
+<string name="game_upgrade_success">%s更新完成</string>
+<string name="click_to_start_game">已更新到官方最新版，点击查看详情</string>
+<string name="recommend_red_packet_all_end">本期全部结束</string>
+<string name="clear_record">清空记录</string>
+<string name="participants_ten_thousand_cn_normal">color=#FF6600&gt;%d万&lt;/font&gt;人参加</string>
+<string name="recommend_red_packet_act">&gt;</string>
+<string name="participants_ten_thousand_cn_float">color=#FF6600&gt;%.1f万&lt;/font&gt;人参加</string>
+<string name="baidu_source">游戏来源：百度</string>
+<string name="recommend_pull_down_html_type">页游</string>
+<string name="baidu_update_time">更新于：    %s</string>
+<string name="recommend_pull_down_promotion_type">活动</string>
+<string name="baidu_version">%s版本</string>
+<string name="download_manager_tab_tag">下载管理</string>
+<string name="recommend_pull_down_banner_view">查看</string>
+<string name="uninstall">卸载</string>
+<string name="all_category_name">全部</string>
+<string name="baidu_version_name">版本：        %s</string>
+<string name="recommend_pull_down_subject_type">专题</string>
+<string name="img_loading_havenot_finished">图片还未下载完</string>
+<string name="recommend_pull_down_redpacket_hint">赶快领取红包吧</string>
+<string name="subscribe_status_offline">已下线</string>
+<string name="subscribe_game_fail">预约失败</string>
+<string name="recommend_red_packet_time">%1$02d:%2$02d:%3$02d</string>
+<string name="recommend_red_remind_time_second">%s秒后</string>
+<string name="download_announcement">下载榜</string>
+<string name="recommend_red_remind_time_minute">%s分钟后</string>
+<string name="pay_announcement">畅销榜</string>
+<string name="recommend_red_remind_time_hour">%s小时后</string>
+<string name="noti_icon_description">icon</string>
+<string name="format_subscribe_count">color=#ff6600&gt;%1$d&lt;/font&gt;人已预订</string>
+<string name="noti_gamicon_description">icon</string>
+<string name="subscribe_status_none">预约</string>
+<string name="noti_titleicon_description">icon</string>
+<string name="subscribe_status_done">已预约</string>
+<string name="vertical_line">｜</string>
+<string name="subscribe_status_noline">已上线</string>
+<string name="view_vip_levelup">如何升级VIP</string>
+<string name="view_get_point">如何获得积分</string>
+<string name="view_exchange_code">查看兑换码</string>
+<string name="gift_pack_install_game_info">请先安装%1$s，安装后再来领取礼包</string>
+<string name="game_detail_patcher_size">省流量升级%1$s</string>
+<string name="update_game_updating">游戏已开始升级,不能忽略本次升级</string>
+<string name="update_game_ignore_toast">已忽略,当游戏有新版本时不再提示升级</string>
+<string name="update_game_cancel_ignore_toast">已恢复,当游戏有新版本时会收到升级提示</string>
+<string name="function_setting">设置</string>
+<string name="average_score">综合评星</string>
+<string name="average_score_no_comment">还没有人评星</string>
+<string name="gift_pack_install_game">去安装</string>
+<string name="gift_pack_install_game_title">安装游戏后才能领取礼包</string>
+<string name="stimulated_code">激活码</string>
+<string name="close">关闭</string>
+<string name="gift_pack_my_gift">我的礼包</string>
+<string name="local_games_gift">已安装游戏礼包</string>
+<string name="gift_pack_exchange_confirm">确认要用%1$s积分兑换礼包吗？</string>
+<string name="gift_pack_contents">礼包内容：</string>
+<string name="gift_pack_exchange_success">%1$s到手啦！</string>
+<string name="gift_pack_gift_nobuy_count">%1$s个可领取礼包</string>
+<string name="gift_pack_gift_count">共%1$s个礼包</string>
+<string name="gift_pack_my_gift_login">登录小米账号后\n才可以领取礼包</string>
+<string name="gift_pack_my_gift_empty">您领取的礼包会在这里显示</string>
+<string name="gift_receiving">正在领取…</string>
+<string name="game_tag_promotion">活动</string>
+<string name="gift_pack_hot_gift">热门礼包</string>
+<string name="gift_pack_gift_end">已结束</string>
+<string name="gift_pack_gift_price_free">免费</string>
+<string name="gift_pack_gift_remain">剩余:%1$s个</string>
+<string name="gift_pack_gift_remain_gift_item">剩余:%1$s</string>
+<string name="gift_pack_gift_applied">已领取</string>
+<string name="gift_pack_gift_sell_out">抢光了</string>
+<string name="gift_pack_gift_presell">未开始</string>
+<string name="no_updateable_game">所有游戏都是最新版本了</string>
+<string name="simple_date_format_MMdd">MM月dd日</string>
+<string name="simple_date_format_yyyyM">yyyy年MM月</string>
+<string name="unknown">未知</string>
+<string name="background_install_failed">静默安装失败</string>
+<string name="updating_starts">小米游戏开始升级</string>
+<string name="game_honor_wall">荣誉墙</string>
+<string name="game_editor_choice">编辑推荐</string>
+<string name="download_manager_install_insufficient_storage">系统存储空间不足</string>
+<string name="download_manager_install_inconsistent_certificates">签名不一致</string>
+<string name="download_manager_download_insufficient_storage">存储卡容量不足</string>
+<string name="download_manager_install_no_permission">没有权限</string>
+<string name="download_manager_install_apk_not_exists">APK安装包不存在</string>
+<string name="yestoday">昨天</string>
+<string name="messagecenter_item_ago">%d天前</string>
+<string name="update_game_item_size_increment">color=#69a640&gt;%s&lt;/font&gt;</string>
+<string name="today">今天</string>
+<string name="app_detail_tab_rating">评测</string>
+<string name="new_edition_sync_summary">在WLAN下自动升级到最新版本</string>
+<string name="update_game_update">立即升级</string>
+<string name="cue_title_data_save_mode">已开启省流量模式，不加载图片</string>
+<string name="update_game_ignore">忽略此游戏的升级</string>
+<string name="local_games_empty_txt">您安装的游戏会在这显示</string>
+<string name="giveup_download_dialog_content">确定要放弃该下载吗？</string>
+<string name="giveup_download_dialog_title">放弃下载</string>
+<string name="update_game_item_cur_version">版本:</string>
+<string name="update_game_item_new_version">color=#69a640&gt;%1$s&lt;/font&gt;</string>
+<string name="update_game_item_size_title">大小:</string>
+<string name="update_game_item_size_local">%s</string>
+<string name="about_game_center">关于小米游戏</string>
+<string name="setting_push_notify">通知栏设置</string>
+<string name="update_notify_title">更新通知</string>
+<string name="update_notify_summary">我安装的游戏有更新时通知我</string>
+<string name="new_edition_sync_title">与新版保持同步</string>
+<string name="game_check_purchase__failed">购买失败</string>
+<string name="game_check_purchase__failed_network_error">联网失败，请检查你的网络是否正常</string>
+<string name="game_check_purchase__failed_unknown_error">检查失败，请稍后重试</string>
+<string name="game_exchange_confirm">确认购买“%1$s”？</string>
+<string name="pull_down_refresh">下拉可以刷新…</string>
+<string name="release_to_refresh">松开刷新…</string>
+<string name="customer_service_staff_info">客服资料</string>
+<string name="game_check_purchase__status">正在检查购买状态</string>
+<string name="mibi_tab_bbs">游戏社区</string>
+<string name="sdk_float_setting_tittle">游戏内浮窗始终显示</string>
+<string name="betagame_boutique">计费封测</string>
+<string name="betagame_title">内测专区</string>
+<string name="gift_search_hint">输入礼包名称</string>
+<string name="betagame_fresh">免费封测</string>
+<string name="replace_install_mipkg_text">安装小米定制版</string>
+<string name="replace_downloaded_btn_text">安装完成，立即启动</string>
+<string name="replace_downloading_btn_text">准备中…</string>
+<string name="replace_game_tip_end">收获满满，前去体验吧</string>
+<string name="replace_game_tip_begin">您将获得多项小米版专属福利</string>
+<string name="replace_game_tip_loading">福利正飞奔而来，请不要走开</string>
+<string name="replace_game_name_loading">正在为你准备小米定制版%s</string>
+<string name="replace_game_name_end">安装完成</string>
+<string name="replace_rewards_finish_tiptext">这些都是送给最爱的你：</string>
+<string name="replace_game_name_begin">\</string>
+<string name="game_exchange_status">正在购买</string>
+<string name="replace_install_oldpkg_text">安原有版本</string>
+<string name="charge_game_buy_success_should_open">购买成功，是否启动该游戏</string>
+<string name="charge_game_buy_success_should_download">购买成功，是否下载该游戏</string>
+<string name="charge_game_download_need_login_alert">登录小米账号后，才能下载收费游戏</string>
+<string name="charge_game_lunch_need_login_alert">登录小米账号后，才能启动收费游戏</string>
+<string name="replace_tip_text_garbagecleanup">系统空间不足，请前去清理</string>
+<string name="replace_btn_text_checknet">查看网络</string>
+<string name="replace_btn_text_repeat">重试</string>
+<string name="replace_btn_text_notinstall">放弃定制版</string>
+<string name="install_myriad_time">%d万次</string>
+<string name="initial_activation_notification_title">小米游戏-米币天天送</string>
+<string name="initial_activation_notification_content">若快乐有性价比，我们将是王者</string>
+<string name="h5_float_menu_exit">退出游戏</string>
+<string name="h5_exit">退出当前游戏?</string>
+<string name="h5_float_menu_shortcut">创建桌面图标</string>
+<string name="h5_float_menu_share">分享好友</string>
+<string name="h5_float_menu_hidden">收起菜单</string>
+<string name="h5_float_menu_favorite">收藏</string>
+<string name="h5_float_menu_cancel_favorite">取消收藏</string>
+<string name="gift_pack_my_gift_login_alert">登录小米账号后，才可以领取礼包</string>
+<string name="game_detail_forun">官方论坛</string>
+<string name="gift_pack_exchange_name">%1$s兑换码</string>
+<string name="game_detail_base_information">基本信息</string>
+<string name="gift_copy_exchange_code">复制兑换码</string>
+<string name="insert_image">插入图片</string>
+<string name="gift_copied_exchange_code">复制成功</string>
+<string name="click_average_score">点击星星评分:</string>
+<string name="gift_pack">游戏礼包</string>
+<string name="no_network_connect">没有网络连接\n请检查并刷新</string>
+<string name="gift_pack_list_end">还没有找到想要的礼包？使用右上角的搜索吧</string>
+<string name="message_preview">消息预览</string>
+<string name="gift_pack_vip_level_limit">抱歉，此礼包仅限VIP%1$s及以上用户领取</string>
+<string name="h5_float_menu_favorite_shortcut_failed">T_T</string>
+<string name="first_recommend_dialog_text1">是否全部安装这</string>
+<string name="first_recommend_dialog_text2">款游戏</string>
+<string name="first_recommend_download">一键安装</string>
+<string name="first_recommend_enter">进入小米游戏</string>
+<string name="progress_paused">暂停中</string>
+<string name="progress_installing">安装中</string>
+<string name="not_have_install_games">没有要安装的游戏</string>
+<string name="progress_downloading">下载中</string>
+<string name="progress_pending">等待中</string>
+<string name="h5_float_menu_favorite_cancelled">已取消收藏</string>
+<string name="h5_float_menu_favorite_add_failed">添加收藏失败</string>
+<string name="h5_float_menu_favorite_added">已添加收藏</string>
+<string name="h5_float_menu_favorite_shortcut">游戏图标已添加到桌面</string>
+<string name="h5_float_menu_favorite_shared">分享成功！</string>
+<string name="h5_float_menu_favorite_cancel_failed">取消收藏失败</string>
+<string name="view_cnt">%s人查看</string>
+<string name="game_detail_download_btn">下载</string>
+<string name="mibi_tab_item_honor">荣誉</string>
+<string name="mibi_tab_item_wallet">钱包</string>
+<string name="gift_search_bar_text">搜礼包</string>
+<string name="account_title_text_function">功能</string>
+<string name="update_game_cue_title">恭喜你！已安装的所有游戏都是最新版本了！</string>
+<string name="quick_update">一键更新</string>
+<string name="quick_update_size">一键更新%s</string>
+<string name="update_game_cue_subhead">我们又为你准备了一些好游戏</string>
+<string name="recommend_pull_down_red_packet_hint">恭喜您，获得一个红包</string>
+<string name="recommend_pull_down_red_packet_result_format">恭喜你，获得%1$s</string>
+<string name="recommend_pull_down_html_game_action_text">进入</string>
+<string name="recommend_pull_down_end">暂时没有更多内容了</string>
+<string name="recommend_pull_down_toast_default_hint">下拉有惊喜～</string>
+<string name="recommend_pull_down_game_world_server_tomorrow">明日开服</string>
+<string name="recommend_pull_down_game_world_server_today">今日开服</string>
+<string name="promotion_content_title">活动内容</string>
+<string name="install_games_promotion_title">已安装游戏活动</string>
+<string name="essence_area">%s-精华区</string>
+<string name="pull_to_refresh_end_date">最后更新时间</string>
+<string name="all_pic">全部图片</string>
+<string name="user_welcome_title">您已升级为VIP</string>
+<string name="send_pic">发送</string>
+<string name="send_message">发消息</string>
+<string name="take_photo">拍照</string>
+<string name="ticket_item_mibi">米币</string>
+<string name="quick_update_economize_size">(节省%s)</string>
+<string name="vip_customer_miss_he">何老师</string>
+<string name="search_game_hint">搜索游戏</string>
+<string name="vip_customer_service">小米游戏VIP专属客服</string>
+<string name="account_login_button">登录</string>
+<string name="receive_red_packet">领取</string>
+<string name="open_red_packet_fail_toast">红包领取失败</string>
+<string name="user_welcome_subtitle">多项VIP专属特权已为您开启</string>
+<string name="open_red_packet_unlogin_toast">请先登陆小米账号后，再领取</string>
+<string name="account_unlogin_text">小米账户未登录</string>
+<string name="numeric_ten_thousand_cn_normal">%d万</string>
+<string name="numeric_ten_thousand_cn_float">%.1f万</string>
+<string name="install_new_version_apk_content">新版本小米游戏已下载到本地，安装后可体验最新最酷功能</string>
+<string name="install_new_version_apk_install">立即安装</string>
+<string name="rank_select">筛选</string>
+<string name="install_new_version_apk_title">安装提示</string>
+<string name="gift_money_tip_text">恭喜你获得</string>
+<string name="gift_money_btn_text">我收下了</string>
+<string name="pull_down_to_end">已经到底了</string>
+<string name="replace_tip_text_nor">在等待的时候，你可以参与活动，赢大奖</string>
+<string name="replace_rewards_btn_text">登录</string>
+<string name="replace_tip_text_verify_apk_error">APK验证失败,请尝试安装原有版本</string>
+<string name="replace_btn_text_garbagecleanup">清理内存</string>
+<string name="replace_btn_text_tryagain_later">稍后再试</string>
+<string name="replace_tip_text_unknow_ex">偶也不知道发生什么，一会儿再来试试吧</string>
+<string name="replace_tip_text_finish">\ 已就绪</string>
+<string name="replace_tip_text_time">%s秒后获得下次机会\n更多奖励等着你!!</string>
+<string name="replace_btn_text_getbonus">领取</string>
+<string name="replace_btn_text_notreceive">已领取</string>
+<string name="replace_tip_text_getbonus">请先登录后再领取</string>
+<string name="replace_tip_text_getbonus_error">领取失败，请稍后再试</string>
+<string name="replace_tip_text_finishtext">更多奖励请登录小米游戏</string>
+<string name="replace_tip_text_gamepackage">请在小米游戏礼包中心查看</string>
+<string name="replace_tip_text_mibi">米币将在5个工作日内直接存入小米账户</string>
+<string name="replace_tip_text_northing">换个姿势，再试试......</string>
+<string name="replace_btn_text_neterror">网络错误，请检查</string>
+<string name="replace_tip_text_install">正在安装…</string>
+<string name="replace_tip_text_install_pkg">是否要安装应用程序?</string>
+<string name="replace_tip_text_gamegift">获得一个&lt;br&gt;%s</string>
+<string name="server_box_text_customer">客服</string>
+<string name="server_box_text_payment">充值</string>
+<string name="enter_game">进入游戏</string>
+<string name="title_personal_info">我的</string>
+<string name="server_box_text_message">通知</string>
+<string name="additional_function">辅助功能</string>
+<string name="king_cloud_text_left">本版面由</string>
+<string name="games_update">游戏更新</string>
+<string name="recom_install_games">插件与工具</string>
+<string name="king_cloud_text_middle">金山云</string>
+<string name="king_cloud_text_right">提供支持</string>
+<string name="replace_tip_text_install_mipkg">提示：安装小米定制版领取更多奖励</string>
+<string name="replace_bonus_list_title">来源：%s</string>
+<string name="replace_tip_text_unknow">未知</string>
+<string name="card_recharge_hint2">所选面值必须与充值卡实际面值保持一致，选择错误将导致资金损失。</string>
+<string name="card_recharge_hint31">如果使用的充值卡</string>
+<string name="txt_recharge_now">立即充值</string>
+<string name="alipay_recharge_hint">单笔不超过5000元</string>
+<string name="txt_other_recharge_method">选择其他充值方式</string>
+<string name="txt_alipay_recharge_invalid_number">请先选择金额!</string>
+<string name="login_fail">登录失败</string>
+<string name="logining">正在登录…</string>
+<string name="txt_card_no">卡号:</string>
+<string name="txt_selection">选择</string>
+<string name="txt_card_psw">密码:</string>
+<string name="alipay_recharge_item_name">充值金额(元):</string>
+<string name="locations_tibet">西藏</string>
+<string name="locations_yunnan">云南</string>
+<string name="locations_gansu">甘肃</string>
+<string name="locations_hainan">海南</string>
+<string name="locations_jiangsu">江苏</string>
+<string name="locations_tianjin">天津</string>
+<string name="locations_shanghai">上海</string>
+<string name="locations_liaoning">辽宁</string>
+<string name="locations_chongqin">重庆</string>
+<string name="locations_guangdong">广东</string>
+<string name="locations_neimenggu">内蒙古</string>
+<string name="locations_shandong">山东</string>
+<string name="locations_anhui">安徽</string>
+<string name="locations_shanxi">山西</string>
+<string name="locations_henan">河南</string>
+<string name="locations_jilin">吉林</string>
+<string name="locations_heilongjiang">黑龙江</string>
+<string name="locations_hebei">河北</string>
+<string name="locations_shanxi3">陕西</string>
+<string name="locations_sichuan">四川</string>
+<string name="card_recharge_hint">全部为一次性充值，不支持分次；</string>
+<string name="txt_recharge_number_btn">充值卡面值</string>
+<string name="txt_telcom">电信</string>
+<string name="txt_unicom">联通</string>
+<string name="txt_cmcc">移动</string>
+<string name="txt_card_hint">%d位数字</string>
+<string name="dialog_location_title">我的所在地</string>
+<string name="locations_beijing">北京</string>
+<string name="purchase_record_type_today">今天</string>
+<string name="purchase_record_type_thismonth">本月</string>
+<string name="purchase_record_type_suffix">%s的消费</string>
+<string name="purchase_record_type_all">全部</string>
+<string name="card_recharge_hint32">面值不是%d元</string>
+<string name="card_recharge_hint33">，将导致充值失败，并且卡内余额丢失。</string>
+<string name="menu_start_all">一键启动</string>
+<string name="menu_update_all">一键升级</string>
+<string name="need_update_game">有游戏可升级</string>
+<string name="recharging">处理中,请稍候…</string>
+<string name="save_photo_success">头像上传成功</string>
+<string name="app_detail_install">一键安装</string>
+<string name="select_recharge_value">请先选择充值金额!</string>
+<string name="default_nick_name">小米粉丝</string>
+<string name="no_card_number">卡号为空</string>
+<string name="locations_overseas">国外</string>
+<string name="locations_hubei">湖北</string>
+<string name="failed_to_add_photo">获取图片失败</string>
+<string name="no_purchase_record">没有任何消费记录</string>
+<string name="today_no_purchase_record">今天没有任何消费记录</string>
+<string name="this_month_no_purchase_record">本月没有任何消费记录</string>
+<string name="user_name_or_psw_empty">用户名或密码不能为空</string>
+<string name="psw_invalid">密码无效(密码长度为8~16位字符，由数字和字母组成)</string>
+<string name="no_card_psw">密码为空</string>
+<string name="my_favorites_title">我喜欢的游戏类型</string>
+<string name="recharge_fail">充值失败</string>
+<string name="recharge_success">充值成功</string>
+<string name="card_psw_invaild">卡号/密码不合法</string>
+<string name="locations_guizhou">贵州</string>
+<string name="locations_jiangxi">江西</string>
+<string name="locations_guangxi">广西</string>
+<string name="locations_hunan">湖南</string>
+<string name="locations_zhejiang">浙江</string>
+<string name="locations_fujian">福建</string>
+<string name="locations_xinjiang">新疆</string>
+<string name="locations_hongkong">香港</string>
+<string name="locations_ningxia">宁夏</string>
+<string name="locations_qinghai">青海</string>
+<string name="locations_macao">澳门</string>
+<string name="locations_taiwan">台湾</string>
+<string name="forum_search_history_clear">清空搜索记录</string>
+<string name="forum_search_history_no_data">暂无搜索记录</string>
+<string name="forum_search_history">搜索历史</string>
+<string name="welcome_skip_button">跳过</string>
+<string name="download_count">%1$s</string>
+<string name="integra_text">经验值</string>
+<string name="launch">启动</string>
+<string name="expand_full_text_comment">展开全文▼</string>
+<string name="gift_success_cue_installed">请尽快在游戏中使用，否则会被放到淘号。</string>
+<string name="expand_full_text">展开全文</string>
+<string name="gift_success_cue_uninstalled">礼包领取成功，请尽快下载游戏使用。</string>
+<string name="gamecenter_upgrade_title">小米游戏升级了</string>
+<string name="gift_success_button_download">下载游戏</string>
+<string name="check_sd_card">请检查您的手机是否已经安装SD卡</string>
+<string name="gift_success_cue_steal">淘到号不一定能兑换成功，请尽快下载游戏使用。</string>
+<string name="gift_success_primary">礼包领取成功</string>
+<string name="gift_success_secondary">color=#5aafff&gt;我的礼包&lt;/font&gt;</string>
+<string name="digest_reply">回复</string>
+<string name="launch_failed_text">无法启动%1$s</string>
+<string name="comment_upload_need_login">登录小米帐号即可撰写评论，立即登录？</string>
+<string name="bbs_info_publish">发表</string>
+<string name="comment_upload_login_ok">确定</string>
+<string name="update_gender_success">性别更新成功</string>
+<string name="comment_upload_data_invalid">评论数据错误了</string>
+<string name="update_birthday_success">生日更新成功</string>
+<string name="comment_upload_not_logined">您还没登录呢</string>
+<string name="forum_search_no_result_data">没有搜到东西\n换个关键词看看</string>
+<string name="comment_upload_success">成功提交！稍候审核通过就会展示出来</string>
+<string name="forum_search_post_count">回复</string>
+<string name="comment_upload_hint">您的评论会在通过审核后展示出来</string>
+<string name="forum_search_thread_count">主题</string>
+<string name="comment_upload_failed">评论发送失败了</string>
+<string name="forum_search_attend_count">关注</string>
+<string name="comment_upload_auth_failed">登录信息失效了,请稍后重试</string>
+<string name="obtain_code">淘号</string>
+<string name="obtain_code_count">已淘%s次</string>
+<string name="update_account_success">资料更新成功</string>
+<string name="save_photo_fail">头像上传失败</string>
+<string name="no_sd_card">SD卡不可用</string>
+<string name="update_account_fail">资料更新失败</string>
+<string name="share_weibo_endnote">已附带游戏下载链接</string>
+<string name="txt_xiaomi_id">小米ID:%s</string>
+<string name="share_weibo_fail">分享失败</string>
+<string name="login_with_xiaomi_account">使用已有帐户登录</string>
+<string name="pref_summary_data_save_mode">2G/3G/4G网络下，不加载图片</string>
+<string name="mibi_rmb_relation">1元可充值1米币</string>
+<string name="no_local_game">你还没安装任何游戏</string>
+<string name="save_pic_fail">保存图片失败</string>
+<string name="account_more_info_vip">VIP</string>
+<string name="share_weibo_from">来自@小米游戏 %1$s</string>
+<string name="none">无</string>
+<string name="nick_name">米粉%s</string>
+<string name="discovery_tag">专区</string>
+<string name="already_bottom">已经到底啦</string>
+<string name="ticket_range_text">仅限%s使用</string>
+<string name="description_info">游戏介绍</string>
+<string name="digest_accede">关注</string>
+<string name="update_info">更新日志</string>
+<string name="news_tag">资讯</string>
+<string name="install_all">一键安装</string>
+<string name="obtain_code_fail">淘号失败</string>
+<string name="obtain_code_again">再淘一次</string>
+<string name="loading_app_list">加载中…</string>
+<string name="game_download_paused">已暂停</string>
+<string name="no_fitness">没有找到这款游戏</string>
+<string name="obtain_code_success">%1$s\n淘到号啦！</string>
+<string name="button_refresh">刷新</string>
+<string name="my_subject_title">我的发帖</string>
+<string name="good_comments">好评</string>
+<string name="favorite_done">已收藏</string>
+<string name="reply_subject_format">原帖:%s</string>
+<string name="my_reply_title">我的回帖</string>
+<string name="bbs_favorite">收藏</string>
+<string name="reply_failed">评论发送失败</string>
+<string name="comment_cannot_comment">您必须使用过才能评论.</string>
+<string name="reply_succeed">评论成功</string>
+<string name="comment_invalid">您还没有评分，请触摸星星评分</string>
+<string name="bbs_thread_title">主题贴</string>
+<string name="comment_upload_account_not_activitied">您的帐号未激活，请先激活帐号</string>
+<string name="update_image_fail">上传图片失败</string>
+<string name="edit_comment_title">%1$s</string>
+<string name="app_comments_title">%1$s</string>
+<string name="comment_version_name">(%1$s)</string>
+<string name="search_sociaty">搜索公会</string>
+<string name="account_all_game">全部游戏</string>
+<string name="accede_sociaty">+加入</string>
+<string name="account_local_game_title">我的游戏</string>
+<string name="unlogin_focus_tip">你尚未登录，无法添加关注</string>
+<string name="sociaty_message_format">您有%d条公会新消息</string>
+<string name="downloadmager_downloadother">已完成(%1$d)</string>
+<string name="my_sociaty_checkin">已签到</string>
+<string name="downloadmager_restartdownload">重新下载</string>
+<string name="reply_image_mark">[图片]</string>
+<string name="downloadmager_downloading">下载中(%1$d)</string>
+<string name="reply_post_format">回复:%s</string>
+<string name="downloadmager_downloadqueue">等待任务(%1$d)</string>
+<string name="messagecenter_title">通知</string>
+<string name="click_to_messagecenter">点击进入消息中心</string>
+<string name="downloadmanager_retry">继续</string>
+<string name="exit_sociaty_confirm">确定要取消%s的关注？</string>
+<string name="messagecenter_message_empty">没有新消息</string>
+<string name="comment_upload_account_need_activitied">需要登录后才能发表评论，是否立即登录?</string>
+<string name="comment_upload_login_cancel">取消</string>
+<string name="add_image_limit">最多只能回复3张图片</string>
+<string name="no_more_pic">无法添加更多的图片</string>
+<string name="send_thread_success">发贴成功</string>
+<string name="add_fav_success">关注成功</string>
+<string name="digest_manage">斑竹:</string>
+<string name="digest_subject">主题</string>
+<string name="forum_search_hint">输入关键词</string>
+<string name="string_account_network_error_data_failed">数据加载失败</string>
+<string name="forum_search_no_text_input">请先输入关键词</string>
+<string name="welcome_select_games">请至少选择一款游戏，再点击安装</string>
+<string name="forum_search_button_text">搜专区</string>
+<string name="no_network_no_comment">因网络异常，无法撰写评论</string>
+<string name="string_account_network_error_check">请检查您的手机是否联网</string>
+<string name="comment_sending">正在发送评论…</string>
+<string name="no_comment">无评论信息</string>
+<string name="bbs_detail_share">  回复 %s</string>
+<string name="bbs_info_input_hint">我也说一句</string>
+<string name="app_comments">应用评论</string>
+<string name="bbs_subject">发帖</string>
+<string name="edit_comment">撰写评论</string>
+<string name="add_fav_fail">关注失败</string>
+<string name="edit_text_default">请输入评论信息</string>
+<string name="bbs_essence">精华</string>
+<string name="comment_publish">发布</string>
+<string name="bbs_reply">回帖</string>
+<string name="comment_description">%1$s年%2$s月%3$s日</string>
+<string name="send_fail">发贴失败</string>
+<string name="comment_count">%2$s人评论</string>
+<string name="publish_thread">帖子发布中</string>
+<string name="comment_name_default">用户%1$s</string>
+<string name="no_average_score">评分较少，未产生平均分</string>
+<string name="all_comments">全部评论</string>
+<string name="messagecenter_message_list_delete_confirm">条消息吗?</string>
+<string name="messagecenter_custom_action_bar_btn_select_nonthing">全不选</string>
+<string name="messagecenter_custom_action_bar_btn_cancel">取消</string>
+<string name="bbs_detail_process">努力加载中</string>
+<string name="messagecenter_custom_action_bar_title2">已选择%1$s项</string>
+<string name="my_sociaty_checkin_text">签到</string>
+<string name="messagecenter_custom_action_bar_btn_selectall">全选</string>
+<string name="messagecenter_custom_action_bar_title1">请选择项目</string>
+<string name="gamedetail_screenshot_video">%1$s段视频</string>
+<string name="gamedetail_screenshot_img">%1$s张截图</string>
+<string name="creat_sociaty">新建公会</string>
+<string name="bad_comments">差评</string>
+<string name="manage_sociaty">管理公会</string>
+<string name="welcome_title">!</string>
+<string name="welcome_subtitle">试试这些好口碑游戏,开始你的游戏生涯</string>
+<string name="my_post_title">我的帖子</string>
+<string name="game_comments_tab">评论</string>
+<string name="exit_sociaty_success">取消关注成功</string>
+<string name="exit_sociaty_fail">取消关注失败</string>
+<string name="exit_sociaty_error">取消关注出错:%s</string>
+<string name="sociaty_notification_title">论坛消息</string>
+<string name="update_result_new">您已经在使用最新的版本</string>
+<string name="check_update">正在检查更新…</string>
+<string name="no_subject_info">对不起，没有该主题信息，该主题可能已经不存在了。</string>
+<string name="category_info_invalid">分类信息无效</string>
+<string name="click_again_exit_app">再点一次退出小米游戏</string>
+<string name="request_game_detail_fail">获取游戏详情失败</string>
+<string name="game_detail_title">游戏详情</string>
+<string name="client_download_start">开始下载</string>
+<string name="downloadComplete">下载完成!</string>
+<string name="update_Read_Feature">了解更多</string>
+<string name="connect_network_hint">小米游戏需要网络接入。启用移动网络或WLAN下载数据。</string>
+<string name="connect_network_fail">连接失败</string>
+<string name="install_sign_not_same_title">签名不一致哦亲</string>
+<string name="no_download_task">没有正在下载的任务</string>
+<string name="install_sign_not_same_btn_remove">卸载并升级</string>
+<string name="install_sign_not_same_message">%1$s升级包与本地游戏签名不同，需卸载本地游戏才能继续安装，是否卸载？</string>
+<string name="remove_package_timeout_fail">%1$s安装失败：无法卸载该游戏，请手动卸载游戏</string>
+<string name="system_app_sign_not_match_fail">%1$s安装失败：系统应用签名不同无法升级</string>
+<string name="install_no_permission">下载失败请重新下载</string>
+<string name="status_downloading">下载中：%1$s%%</string>
+<string name="header_processing">正在执行的下载任务</string>
+<string name="header_waiting">等待中的下载任务</string>
+<string name="bbs_threadlist_no_thread">没有内容</string>
+<string name="download_apk_no_sdk_title">无SD卡</string>
+<string name="common_title_more">更多</string>
+<string name="no_url">找不到下载地址</string>
+<string name="subject_excellent">精品专题</string>
+<string name="status_unzipping">解压中</string>
+<string name="sixin_no_content_tips">没有验证信息</string>
+<string name="bbs_publish_no_login">登陆之后才能发表内容</string>
+<string name="title_change">批量更换</string>
+<string name="today_hot">今日热点</string>
+<string name="save_pic_success">保存到本地</string>
+<string name="head_text_login">登录小米帐户</string>
+<string name="button_text_login">登录</string>
+<string name="button_text_register">注册新帐户</string>
+<string name="save_pic">保存</string>
+<string name="clear_search_history_success">所有搜索历史已清除</string>
+<string name="guess_you_like">猜你喜欢</string>
+<string name="pref_clear_search_history_summary">清除你搜过游戏的日志</string>
+<string name="pref_clear_image_cache_toast">缓存内容已清除</string>
+<string name="pref_clear_image_cache_dialog">是否清除缓存内容（图片等）？</string>
+<string name="pref_clear_search_history_title">清除搜索历史</string>
+<string name="pref_clear_image_cache">清除小米游戏缓存</string>
+<string name="home_tag">首页</string>
+<string name="pref_client_update_notify_title">小米游戏更新通知</string>
+<string name="pref_client_update_notify_summary">小米游戏可以升级时通知我</string>
+<string name="connect_network_settings">设置</string>
+<string name="pref_client_version_update_category_title">客户端版本更新</string>
+<string name="me_tag">我</string>
+<string name="password_hint">密码</string>
+<string name="vip_home_birthday_none">未知</string>
+<string name="usr_name_hint">小米帐户/邮箱/手机号</string>
+<string name="loading_default_text">载入中…</string>
+<string name="txt_mibi_balance">米币余额:</string>
+<string name="egret_runtime_game_loading">游戏加载中:%s</string>
+<string name="txt_mibi_center">米币中心</string>
+<string name="has_focus">已关注</string>
+<string name="vip_home_tel_none">未知</string>
+<string name="exit">退出</string>
+<string name="share_weibo_text">发现了一款很赞的游戏“%1$s”，推荐给大家。</string>
+<string name="egret_runtime_engine_loading">加载白鹭游戏引擎:%s</string>
+<string name="integral_add_txt_open_app">积分+%d!</string>
+<string name="negative_sign">-</string>
+<string name="integral_add_txt_update_app">积分+%d!</string>
+<string name="integral_add_txt_down_app">积分+%d!</string>
+<string name="pref_close_push_noftify_title">关闭活动通知提醒</string>
+<string name="pref_close_push_noftify_dialog">关闭活动通知提醒将不能在系统通知栏获知小米游戏的活动提醒消息，确定要关闭？</string>
+<string name="pref_close_push_notify_toast">活动通知已关闭</string>
+<string name="positive_sign">+</string>
+<string name="txt_My_Integral">我的积分</string>
+<string name="txt_manager_game">管理游戏</string>
+<string name="vip_home_qq_none">未知</string>
+<string name="download_apk_no_sdk_content">需要SD卡才能下载游戏，如果已经插了SD卡，请拔掉数据线或者将数据线连接改为仅充电模式</string>
+<string name="loading">加载中…</string>
+<string name="account_tag">米币</string>
+<string name="no_attention_sociaty">还没有关注过任何公会</string>
+<string name="txt_purchase_record">消费记录</string>
+<string name="txt_recharge_mibi">充值米币</string>
+<string name="other_subject_title">TA的发帖</string>
+<string name="my_account_title">我的资料</string>
+<string name="other_reply_title">TA的回帖</string>
+<string name="sociaty_attention">关注的公会</string>
+<string name="dialog_constellation_title">我的星座</string>
+<string name="bbs_notify_replies_title_desc">等回复了你的帖子</string>
+<string name="my_info_subtitle">个人信息</string>
+<string name="bbs_notify_reply_title_desc">回复了你的帖子</string>
+<string name="gender_female">女</string>
+<string name="today_format">%s</string>
+<string name="gender_male">男</string>
+<string name="yestoday_format">%s</string>
+<string name="dialog_birthday_title">我的生日</string>
+<string name="sociaty_level_format">Lv%d</string>
+<string name="my_account_honor">点</string>
+<string name="txt_hide_my_birthday">其他人不可见</string>
+<string name="dialog_nick_name_title">我的昵称</string>
+<string name="modify_nick_name_hint">设置昵称(支持2～12位字母,数字)</string>
+<string name="bbs_user_title_sociaty">关注社区</string>
+<string name="bbs_user_reply_default">还没回复过任何的帖子</string>
+<string name="update_nickname_fail_exist">该昵称已存在</string>
+<string name="update_birthday_fail">生日更新失败</string>
+<string name="update_gender_fail">性别更新失败</string>
+<string name="integral_add_txt_login">积分+%d!</string>
+<string name="update_signature_fail">签名更新失败</string>
+<string name="my_account">帐户</string>
+<string name="update_signature_success">签名更新成功</string>
+<string name="level_experience">等级与经验值</string>
+<string name="account_feedback">意见反馈</string>
+<string name="imm_join">立即参与</string>
+<string name="my_xiaomi_account">小米帐户</string>
+<string name="my_account_unlogin">未登录</string>
+<string name="bbs_other_user_title_post">主题列表</string>
+<string name="txt_installed_subtitle">已安装</string>
+<string name="bbs_other_user_title_reply">回帖列表</string>
+<string name="txt_updated_subtitle">可升级</string>
+<string name="bbs_user_title_post">Ta的主题</string>
+<string name="install_games_title">我的游戏</string>
+<string name="bbs_user_title_reply">Ta的回帖</string>
+<string name="my_games_title">升级管理</string>
+<string name="sociaty_creator">会长:%s</string>
+<string name="local_game_head">%d款</string>
+<string name="sociaty_content_games_text">入驻游戏:</string>
+<string name="game_date_version_name">%3$s版本</string>
+<string name="sociaty_member">成员</string>
+<string name="purchase_record_title">消费记录</string>
+<string name="post_text">帖子</string>
+<string name="txt_local_game">%d款</string>
+<string name="upgrade_game_head">全部升级(%d)</string>
+<string name="txt_gender_male">米Boy</string>
+<string name="sociaty_head_serach">搜一搜</string>
+<string name="my_special_area">我的专区</string>
+<string name="confirm_to_delete_post">您确定要删除该帖子么？</string>
+<string name="bbs_user_intro_default">这家伙什么也没有留下</string>
+<string name="recharge_alipay_title">支付宝</string>
+<string name="bbs_user_intro_title">签名</string>
+<string name="recharge_alipay_detail">支持用支付宝充值</string>
+<string name="bbs_cancel_follow_someone">取消关注</string>
+<string name="bbs_follow_someone">+关注</string>
+<string name="user_name_invalid">用户名不能为空。</string>
+<string name="password_invalid">密码无效。密码长度为8~16位字符，由数字和字母组成。</string>
+<string name="bbs_user_post_default">还没发表过任何的帖子</string>
+<string name="recharge_fee_title">话费充值卡</string>
+<string name="bbs_user_attend_sociaty_default">还没关注任何公会</string>
+<string name="recharge_fee_detail">支持移动、联通、电信话费充值卡</string>
+<string name="bbs_delete_process">正在删除中…</string>
+<string name="post_disable">只要在右上角点击关注按钮，即可发帖</string>
+<string name="tip">提示</string>
+<string name="open_browser_tip">是否通过外部浏览器打开此链接</string>
+<string name="exit_btn_text">退出</string>
+<string name="bbs_user_info_id_format">ID:%s</string>
+<string name="bbs_user_info_title">名片</string>
+<string name="category_all">小米</string>
+<string name="no_vendor_games">开发商没有其它作品</string>
+<string name="game_vendor_games_tag">开发商其它作品</string>
+<string name="update_record_title">%1$s版新增功能</string>
+<string name="game_develpoer">开发商:%s</string>
+<string name="alipay_recharge_title">支付宝充值</string>
+<string name="confirm_to_delete_reply">您确定要删除该回复么？</string>
+<string name="alipay_rechare_title_hint">请选择充值金额：</string>
+<string name="card_recharge_title">话费充值卡充值</string>
+<string name="bbs_delete_fail">删除失败</string>
+<string name="bbs_delete_success">删除成功</string>
+<string name="txt_gender_female">米Girl</string>
+<string name="sociaty_post_title">公会帖子</string>
+<string name="dialog_gender_title">我是</string>
+<string name="bbs_popular">人气%s</string>
+<string name="recharge_uint">元</string>
+<string name="reply_tip">:</string>
+<string name="mibi_unavailable">米币暂不可用</string>
+<string name="download_prepare">正在准备下载中…</string>
+<string name="search_hot_words">搜索热词</string>
+<string name="detail_gameinfo_news_title">相关资讯</string>
+<string name="charge_game_buy_success_and_download">购买成功，开始下载该游戏</string>
+<string name="bbs_title">玩家论坛</string>
+<string name="ignore_ad">跳过</string>
+<string name="game_download">人已下载</string>
+<string name="game_publish_time">%s发布</string>
+<string name="edit_comments">写评论</string>
+<string name="format_news_view_counts_ten_thousand">%.1f万次阅读</string>
+<string name="format_news_view_counts">%d次阅读</string>
+<string name="game_sociaty_tag">进入%s专区</string>
+<string name="game_update_record">更新记录</string>
+<string name="game_download_count">人下载</string>
+<string name="bbs_threadlist_has_delete">抱歉，指定的主题不存在或已被删除</string>
+<string name="hot_pull_down_news_format">发现了%d条资讯</string>
+<string name="browse_all_comments">查看全部%s条评论</string>
+<string name="format_ten_thousand">%.1f万</string>
+<string name="hot_pull_down_none_news">未发现新的资讯，再试试</string>
+<string name="format_news_liked">%s赞</string>
+<string name="hot_bbs">近期热门</string>
+<string name="all_bbs">所有社区</string>
+<string name="check_all_bbs">查看所有社区</string>
+<string name="about_me">与我相关</string>
+<string name="sociaty_name">%s专区</string>
+<string name="sociaty">专区</string>
+<string name="gamecenter_upgrade_latest_version_format">%s</string>
+<string name="gamecenter_upgrade_install_failed">安装失败</string>
+<string name="gamecenter_upgrade_in_non_wifi_hint">正在使用2G/3g/4G网络，更新可能会产生网络流量。</string>
+<string name="charge_game_need_login_alert">登录小米账号后，才能购买游戏</string>
+<string name="user_agreement_content1">游戏需要您同意</string>
+<string name="user_agreement_content2">《用户协议》</string>
+<string name="user_agreement_title">声明与条款</string>
+<string name="user_agreement_content5">方可使用。在使用过程中需要连接网络，您是否同意?</string>
+<string name="user_agreement_content4">《隐私政策》</string>
+<string name="user_agreement_content3">和</string>
+<string name="gamecenter_upgrade">立即更新</string>
+<string name="gamecenter_upgrade_discard_install">取消</string>
+<string name="gamecenter_upgrade_install">立即安装</string>
+<string name="format_news_liked_and_comments">%2$s评论</string>
+<string name="gamecenter_upgrade_discard">暂不更新</string>
+<string name="gamecenter_upgrade_content">更新说明</string>
+<string name="has_send_support">您已经赞过啦</string>
+<string name="report">举报此人</string>
+<string name="publish_just_now">刚刚发表</string>
+<string name="report_select_2">营销广告</string>
+<string name="report_select_3">恶意攻击谩骂</string>
+<string name="report_no_select">您还没有选择哦</string>
+<string name="report_select_1">淫秽色情</string>
+<string name="report_select_5">欺诈</string>
+<string name="report_select_4">政治谣言</string>
+<string name="report_success">举报成功</string>
+<string name="user_agreement_remind_never">不再提示</string>
+<string name="user_agreement_quit">退出</string>
+<string name="home_pull_down_format">发现了“%s”</string>
+<string name="user_agreement_remind_again">每次联网时通知</string>
+<string name="user_agreement_allow">同意并继续</string>
+<string name="assortment_tag">分类</string>
+<string name="baidu_search_tip">以下搜索结果由百度提供</string>
+<string name="search_baidu_text">去百度搜索</string>
+<string name="search_more">查看更多</string>
+<string name="comment_invalid_no_text">您还没有输入评论呢</string>
+<string name="my_comment">我的评论</string>
+<string name="report_fail">举报失败</string>
+<dimen name="red_point_left_margin">66.669983dp</dimen>
+<dimen name="plat_promotion_item_textlayout_height">51.000000dp</dimen>
+<dimen name="red_point_top_margin">8.000000dp</dimen>
+<dimen name="list_item_main">14.000000dp</dimen>
+<dimen name="common_icon_size">50.000000dp</dimen>
+<dimen name="list_item_group">11.329987dp</dimen>
+<dimen name="list_item_sub">13.000000dp</dimen>
+<dimen name="wall_item_main">13.329987dp</dimen>
+<dimen name="wall_item_sub">11.329987dp</dimen>
+<dimen name="pull_down_refresh_threshold">68.000000dp</dimen>
+<dimen name="main_padding_25">8.250000dp</dimen>
+<dimen name="main_padding_27">9.000000dp</dimen>
+<dimen name="list_item_padding">8.250000dp</dimen>
+<dimen name="recommend_pull_down_button_top_margin">13.000000dp</dimen>
+<dimen name="gift_head_divide_line_height">14.000000dp</dimen>
+<dimen name="banner_button_height">17.500000dp</dimen>
+<dimen name="text_size_user_title">14.669983sp</dimen>
+<dimen name="user_icon_size">50.000000dp</dimen>
+<dimen name="user_center_item_margin_left">10.000000dp</dimen>
+<dimen name="user_center_margin_left">8.329987dp</dimen>
+<dimen name="main_padding_5">1.669983dp</dimen>
+<dimen name="user_info_btn_w">333.328125dp</dimen>
+<dimen name="user_info_text_padding_right">10.000000dp</dimen>
+<dimen name="user_info_text_padding_left">26.669983dp</dimen>
+<dimen name="main_padding_15">5.000000dp</dimen>
+<dimen name="main_padding_10">3.329987dp</dimen>
+<dimen name="pull_down_header_height">68.000000dp</dimen>
+<dimen name="pull_down_text_size">11.329987dp</dimen>
+<dimen name="user_center_head_padding_tb">23.329987dp</dimen>
+<dimen name="user_center_head_padding_lr">13.329987dp</dimen>
+<dimen name="bbs_forum_margin">13.329987dp</dimen>
+<dimen name="user_center_head_height">97.669983dp</dimen>
+<dimen name="sub_classification_item_h">90.000000dp</dimen>
+<dimen name="main_padding_34">11.339996dp</dimen>
+<dimen name="sub_classification_item_w">114.669983dp</dimen>
+<dimen name="main_padding_33">11.000000dp</dimen>
+<dimen name="category_block_item_height">60.000000dp</dimen>
+<dimen name="main_padding_36">12.000000dp</dimen>
+<dimen name="recommend_small_banner_w">172.000000dp</dimen>
+<dimen name="main_padding_35">11.669983dp</dimen>
+<dimen name="main_padding_32">10.669983dp</dimen>
+<dimen name="main_padding_45">15.000000dp</dimen>
+<dimen name="text_font_size_34">11.339996sp</dimen>
+<dimen name="main_padding_39">13.000000dp</dimen>
+<dimen name="text_font_size_42">14.000000sp</dimen>
+<dimen name="main_padding_38">12.669983dp</dimen>
+<dimen name="main_padding_43">14.339996dp</dimen>
+<dimen name="text_font_size_36">12.000000sp</dimen>
+<dimen name="main_padding_42">14.000000dp</dimen>
+<dimen name="text_font_size_large">16.000000sp</dimen>
+<dimen name="text_font_size_medium">14.000000sp</dimen>
+<dimen name="main_padding_16">5.339996dp</dimen>
+<dimen name="recommend_red_packet_order_w">12.000000dp</dimen>
+<dimen name="text_font_size_small">12.000000sp</dimen>
+<dimen name="main_padding_18">6.000000dp</dimen>
+<dimen name="recommend_red_packet_time_layout_margin_top">42.000000dp</dimen>
+<dimen name="text_font_size_tiny">10.000000sp</dimen>
+<dimen name="main_padding_20">6.669983dp</dimen>
+<dimen name="text_font_size_big">40.000000sp</dimen>
+<dimen name="text_font_size_huge">17.000000sp</dimen>
+<dimen name="text_font_size_huge_2">30.000000sp</dimen>
+<dimen name="detail_guess_action_button_margion_top">509.660004dp</dimen>
+<dimen name="duobao_dialog_w">283.335938dp</dimen>
+<dimen name="new_category_item_height">88.000000dp</dimen>
+<dimen name="main_padding_22">7.339996dp</dimen>
+<dimen name="download_recommend_header_icon_size">24.000000dp</dimen>
+<dimen name="main_padding_24">8.000000dp</dimen>
+<dimen name="download_recommend_header_h">45.339996dp</dimen>
+<dimen name="main_padding_30">10.000000dp</dimen>
+<dimen name="download_queue_bottom_bar_h">66.669983dp</dimen>
+<dimen name="search_no_data_baidu_left_padding">35.000000dp</dimen>
+<dimen name="text_font_size_72">28.000000sp</dimen>
+<dimen name="main_padding_95">31.669983dp</dimen>
+<dimen name="download_manager_bar_left_margin">27.339996dp</dimen>
+<dimen name="text_font_size_60">20.000000sp</dimen>
+<dimen name="main_padding_90">30.000000dp</dimen>
+<dimen name="download_manager_bar_height">2.669983dp</dimen>
+<dimen name="text_font_size_56">18.669983sp</dimen>
+<dimen name="main_padding_80">26.669983dp</dimen>
+<dimen name="text_font_size_54">18.000000sp</dimen>
+<dimen name="main_padding_75">25.000000dp</dimen>
+<dimen name="text_font_size_38">12.669983sp</dimen>
+<dimen name="main_padding_70">23.339996dp</dimen>
+<dimen name="text_font_size_40">13.339996sp</dimen>
+<dimen name="main_padding_60">20.000000dp</dimen>
+<dimen name="main_padding_30_minus">16777206.000000dp</dimen>
+<dimen name="main_padding_120">40.000000dp</dimen>
+<dimen name="icon_display_size">56.000000dp</dimen>
+<dimen name="main_padding_100">33.339996dp</dimen>
+<dimen name="icon_size">62.669983dp</dimen>
+<dimen name="main_padding_99">33.000000dp</dimen>
+<dimen name="detail_icon_size">58.000000dp</dimen>
+<dimen name="main_padding_50">16.669983dp</dimen>
+<dimen name="detail_icon_display_size">52.000000dp</dimen>
+<dimen name="main_padding_51">17.000000dp</dimen>
+<dimen name="new_update_font_size">9.000000sp</dimen>
+<dimen name="main_padding_48">16.000000dp</dimen>
+<dimen name="alert_content_font_size">15.000000sp</dimen>
+<dimen name="main_padding_49">16.339996dp</dimen>
+<dimen name="text_font_size_all_category">14.000000sp</dimen>
+<dimen name="vip_level_view_height">5.000000dp</dimen>
+<dimen name="text_font_size_120">40.000000sp</dimen>
+<dimen name="primary_text_size">13.339996sp</dimen>
+<dimen name="recommend_red_packet_time_text_size">30.000000sp</dimen>
+<dimen name="bbs_publish_btn_height">26.669983dp</dimen>
+<dimen name="recommend_red_packet_h">150.000000dp</dimen>
+<dimen name="discovery_game_icon_display_size">57.339996dp</dimen>
+<dimen name="bbs_publish_btn_width">67.339996dp</dimen>
+<dimen name="search_no_data_baidu_right_padding">30.000000dp</dimen>
+<dimen name="main_padding_52">17.339996dp</dimen>
+<dimen name="recommend_banner_icon_display_size">41.000000dp</dimen>
+<dimen name="main_padding_54">18.000000dp</dimen>
+<dimen name="duobao_win_prize_pic_h">106.669983dp</dimen>
+<dimen name="main_padding_7">2.339996dp</dimen>
+<dimen name="duobao_check_prize_detail_h">40.000000dp</dimen>
+<dimen name="bbs_nofity_reply_title_height">40.000000dp</dimen>
+<dimen name="duobao_check_prize_detail_w">223.339996dp</dimen>
+<dimen name="bbs_nofity_reply_title_max_width">116.669983dp</dimen>
+<dimen name="bbs_nofity_tag_width">33.339996dp</dimen>
+<dimen name="bbs_nofity_tag_height">16.669983dp</dimen>
+<dimen name="bbs_attendtion_sociaty_item_height">53.339996dp</dimen>
+<dimen name="bbs_attendtion_sociaty_item_icon_left_margin">13.339996dp</dimen>
+<dimen name="bbs_attendtion_sociaty_item_text_left_margin">10.000000dp</dimen>
+<dimen name="user_info_btn_h">50.000000dp</dimen>
+<dimen name="processor_icon_size">68.000000dp</dimen>
+<dimen name="user_info_btn_margin">28.669983dp</dimen>
+<dimen name="recommend_multiple_left_banner_h">140.000000dp</dimen>
+<dimen name="processor_icon_inner_size">68.000000dp</dimen>
+<dimen name="recommend_multiple_right_top_banner_h">60.000000dp</dimen>
+<dimen name="icon_size_small">45.000000dp</dimen>
+<dimen name="recommend_multiple_right_top_icon_size">40.000000dp</dimen>
+<dimen name="divider">1.000000px</dimen>
+<dimen name="main_padding_8_minus">509.330017dp</dimen>
+<dimen name="main_grid_padding">6.000000dp</dimen>
+<dimen name="download_grid_item_w">114.669983dp</dimen>
+<dimen name="mibi_grid_padding">12.000000dp</dimen>
+<dimen name="main_padding_13">4.339996dp</dimen>
+<dimen name="main_padding_124">41.339996dp</dimen>
+<dimen name="main_padding_67">22.339996dp</dimen>
+<dimen name="category_block_icon_size">30.000000dp</dimen>
+<dimen name="reply_text_top_padding">3.339996dp</dimen>
+<dimen name="recommend_two_grid_item_w">172.000000dp</dimen>
+<dimen name="main_padding_40">13.339996dp</dimen>
+<dimen name="reply_text_bottom_padding">4.000000dp</dimen>
+<dimen name="mibi_title_margin_top">14.000000dp</dimen>
+<dimen name="bbs_forum_item_name_margin_top">6.669983dp</dimen>
+<dimen name="bbs_forum_item_name_width">72.000000dp</dimen>
+<dimen name="mibi_promotion_icon_margin_right">7.500000dp</dimen>
+<dimen name="bbs_attendtion_sociaty_item_icon_size">33.339996dp</dimen>
+<dimen name="mibi_title_margin_bottom">10.000000dp</dimen>
+<dimen name="sociaty_level_height">12.000000dp</dimen>
+<dimen name="app_detail_expand_padding">20.000000dp</dimen>
+<dimen name="main_edit_padding">9.000000dp</dimen>
+<dimen name="action_bar_bbs_user_custom_height">260.000000dp</dimen>
+<dimen name="webkit_dialog_heigt">466.664062dp</dimen>
+<dimen name="main_padding">13.339996dp</dimen>
+<dimen name="webkit_dialog_width">297.000000dp</dimen>
+<dimen name="app_detail_info_bar_padding">4.000000dp</dimen>
+<dimen name="recommend_single_column_h">80.000000dp</dimen>
+<dimen name="main_padding_6">2.000000dp</dimen>
+<dimen name="high_quality_game_sort_item_h">40.000000dp</dimen>
+<dimen name="main_padding_2">0.670000dp</dimen>
+<dimen name="recommend_red_packet_time_w">126.669983dp</dimen>
+<dimen name="bbs_action_bar_account_vip_level_left_margin">8.339996dp</dimen>
+<dimen name="sub_classification_icon_size">40.000000dp</dimen>
+<dimen name="bbs_action_bar_nickname_bottom_margin">510.330017dp</dimen>
+<dimen name="recommend_red_packet_time_tv_margin_top">507.660004dp</dimen>
+<dimen name="bbs_action_bar_follow_btn_corner_radius">16.669983dp</dimen>
+<dimen name="recommend_red_packet_title_w">210.000000dp</dimen>
+<dimen name="bbs_action_bar_account_icon_size">70.000000dp</dimen>
+<dimen name="bbs_user_info_item_height">88.000000dp</dimen>
+<dimen name="bbs_user_info_sociaty_item_height">78.000000dp</dimen>
+<dimen name="bbs_user_info_title_height">58.000000dp</dimen>
+<dimen name="bbs_user_info_title_text_top_margin">0.670000dp</dimen>
+<dimen name="main_padding_21">7.000000dp</dimen>
+<dimen name="duobao_empty_progressbar_size">32.000000dp</dimen>
+<dimen name="main_padding_dif">9.339996dp</dimen>
+<dimen name="main_padding_12">4.000000dp</dimen>
+<dimen name="bbs_icon_coners_radius">30.000000dp</dimen>
+<dimen name="main_padding_14">4.669983dp</dimen>
+<dimen name="duobao_empty_view_w">72.000000dp</dimen>
+<dimen name="bbs_sociaty_item_banner_h">200.000000dp</dimen>
+<dimen name="duobao_empty_view_center_text_size">13.339996dp</dimen>
+<dimen name="main_padding_top">16.669983dp</dimen>
+<dimen name="duobao_empty_view_h">86.669983dp</dimen>
+<dimen name="main_padding_top_large">54.000000dp</dimen>
+<dimen name="new_entry_move_distance">28.339996dp</dimen>
+<dimen name="bbs_user_info_icon_bottom_margin">9.000000dp</dimen>
+<dimen name="bbs_sociaty_item_thread_title_w">245.339996dp</dimen>
+<dimen name="bbs_user_cover_height">200.000000dp</dimen>
+<dimen name="bbs_sociaty_item_icon_size">57.339996dp</dimen>
+<dimen name="bbs_sociaty_item_content_h">73.339996dp</dimen>
+<dimen name="search_hint_left_padding">50.000000dp</dimen>
+<dimen name="bbs_action_bar_follow_btn_height">26.669983dp</dimen>
+<dimen name="main_padding_bottom">50.000000dp</dimen>
+<dimen name="bbs_action_bar_follow_btn_width">56.669983dp</dimen>
+<dimen name="bbs_user_info_nickname_top_margin">11.000000dp</dimen>
+<dimen name="new_entry_bottom_margin">133.339996dp</dimen>
+<dimen name="bbs_user_info_height">60.000000dp</dimen>
+<dimen name="common_list_item_padding">5.000000dp</dimen>
+<dimen name="search_icon_size">26.599976dp</dimen>
+<dimen name="search_action_margin">2.000000dp</dimen>
+<dimen name="bbs_user_info_item_right_margin">3.339996dp</dimen>
+<dimen name="search_hint_margin_padding">8.000000dp</dimen>
+<dimen name="bbs_user_info_sociaty_name_width">140.000000dp</dimen>
+<dimen name="duobao_win_prize_pic_w">160.000000dp</dimen>
+<dimen name="common_padding_medium">6.669983dp</dimen>
+<dimen name="duobao_dialog_title_h">43.339996dp</dimen>
+<dimen name="common_padding">13.299988dp</dimen>
+<dimen name="duobao_dialog_h">431.335938dp</dimen>
+<dimen name="common_padding_large">17.000000dp</dimen>
+<dimen name="common_list_item_left_padding">6.669983dp</dimen>
+<dimen name="main_actionbar_qr_scanner_margin_left">10.000000dp</dimen>
+<dimen name="qr_scanner_width">33.339996dp</dimen>
+<dimen name="qr_scanner_height">33.339996dp</dimen>
+<dimen name="common_padding_small">3.299988dp</dimen>
+<dimen name="main_actionbar_search_width">40.000000dp</dimen>
+<dimen name="main_padding_1">0.340000dp</dimen>
+<dimen name="first_recommend_list_height">300.000000dp</dimen>
+<dimen name="recommend_list_item_height">66.669983dp</dimen>
+<dimen name="action_button_width">50.000000dp</dimen>
+<dimen name="action_button_height">26.669983dp</dimen>
+<dimen name="mibi_tab_list_item_height_medium">50.000000dp</dimen>
+<dimen name="bbs_thread_list_icon_size">63.339996dp</dimen>
+<dimen name="common_padding_trivial">2.000000dp</dimen>
+<dimen name="list_item_height">80.000000dp</dimen>
+<dimen name="list_item_height_medium">60.000000dp</dimen>
+<dimen name="list_item_height_small">50.000000dp</dimen>
+<dimen name="ratingbar_size">22.000000dp</dimen>
+<dimen name="bbs_user_info_title_top_margin">35.000000dp</dimen>
+<dimen name="bbs_user_info_post_item_top_margin">1.000000dp</dimen>
+<dimen name="action_button_width_large">70.000000dp</dimen>
+<dimen name="ratingbar_readonly_size">10.500000dp</dimen>
+<dimen name="bbs_user_info_name_margin_top">1.339996dp</dimen>
+<dimen name="bbs_user_info_reply_item_height">50.000000dp</dimen>
+<dimen name="bbs_popular_textview_top_margin">509.330017dp</dimen>
+<dimen name="bbs_special_area_head_height">23.339996dp</dimen>
+<dimen name="recommend_tmplt1_hmargin">4.000000dp</dimen>
+<dimen name="text_min_height">40.000000dp</dimen>
+<dimen name="update_hint_vertical_margin">10.000000dp</dimen>
+<dimen name="screen_shot_maxHeight">243.299988dp</dimen>
+<dimen name="large_button_height">42.699982dp</dimen>
+<dimen name="sub_categry_item_text_size">12.669983sp</dimen>
+<dimen name="recommend_grid_padding">40.000000px</dimen>
+<dimen name="recommend_grid_gap">20.000000px</dimen>
+<dimen name="update_hint_horizontal_margin">6.669983dp</dimen>
+<dimen name="text_font_size_50">16.000000sp</dimen>
+<dimen name="game_tag1_width">40.000000dp</dimen>
+<dimen name="common_game_list_item_tag_font_size">9.000000sp</dimen>
+<dimen name="first_publish_tag_height">40.000000dp</dimen>
+<dimen name="recommend_pull_down_banner_height">100.000000dp</dimen>
+<dimen name="new_category_head_item_height">93.339996dp</dimen>
+<dimen name="first_publish_tag_width">42.500000dp</dimen>
+<dimen name="recommend_single_column_icon_size">46.669983dp</dimen>
+<dimen name="category_head_icon_size">40.000000dp</dimen>
+<dimen name="recommend_multiple_left_banner_w">150.000000dp</dimen>
+<dimen name="category_item_text_padding">11.339996dp</dimen>
+<dimen name="category_item_divider_height">40.000000dp</dimen>
+<dimen name="category_item_triple_divider_height">66.669983dp</dimen>
+<dimen name="grid_text_padding">4.000000dp</dimen>
+<dimen name="gamedetail_tag_height">50.000000dp</dimen>
+<dimen name="game_tag2_width">16.399994dp</dimen>
+<dimen name="game_tag2_height">30.000000dp</dimen>
+<dimen name="rank_tab_bottom_margin">13.339996dp</dimen>
+<dimen name="rank_tab_top_margin">13.339996dp</dimen>
+<dimen name="list_bottom_bar_height">77.000000dp</dimen>
+<dimen name="category_item_icon_height">80.000000dp</dimen>
+<dimen name="integral_progress_padding">5.000000dp</dimen>
+<dimen name="category_item_icon_width">55.000000dp</dimen>
+<dimen name="category_item_triple_icon_layout_height">100.000000dp</dimen>
+<dimen name="category_item_icon_layout_height">73.339996dp</dimen>
+<dimen name="category_item_icon_layout_width">76.669983dp</dimen>
+<dimen name="sub_category_item_divider_right_margin">21.669983dp</dimen>
+<dimen name="xunlei_notification_image_size">50.000000dp</dimen>
+<dimen name="view_dimen_850">283.335938dp</dimen>
+<dimen name="view_dimen_696">232.000000dp</dimen>
+<dimen name="account_title_margin_left">30.000000dp</dimen>
+<dimen name="view_dimen_670">223.339996dp</dimen>
+<dimen name="tab_number_point_margin">2.500000dp</dimen>
+<dimen name="view_dimen_120">40.000000dp</dimen>
+<dimen name="rank_tab_shadow_height">7.000000dp</dimen>
+<dimen name="rank_tab_button_width">83.500000dp</dimen>
+<dimen name="rank_tab_button_height">35.000000dp</dimen>
+<dimen name="tab_indicator_height">2.699982dp</dimen>
+<dimen name="bbs_publish_pic_item_size">73.339996dp</dimen>
+<dimen name="pic_dir_h">433.335938dp</dimen>
+<dimen name="bbs_publish_pic_height">66.669983dp</dimen>
+<dimen name="usercenter_server_item_w">66.669983dp</dimen>
+<dimen name="mul_take_photo_text_top_margin">60.000000dp</dimen>
+<dimen name="usercenter_server_item_h">86.669983dp</dimen>
+<dimen name="edit_button_height">33.339996dp</dimen>
+<dimen name="edit_button_width">50.000000dp</dimen>
+<dimen name="acccout_vip_pg_h">11.000000dp</dimen>
+<dimen name="list_view_adjust">16777215.000000dp</dimen>
+<dimen name="uc_item_height">58.339996dp</dimen>
+<dimen name="drop_down_popwinodow_padding">12.000000dp</dimen>
+<dimen name="sociaty_bottom_layout_height">52.669983dp</dimen>
+<dimen name="me_item_line_height">30.000000dp</dimen>
+<dimen name="bbs_publish_title_height">46.669983dp</dimen>
+<dimen name="bbs_publish_smiley_btn_size">33.339996dp</dimen>
+<dimen name="user_info_item_height">50.000000dp</dimen>
+<dimen name="user_info_avatar_height">83.339996dp</dimen>
+<dimen name="acccout_vip_pg_w">30.000000dp</dimen>
+<dimen name="community_plate_title_height">40.000000dp</dimen>
+<dimen name="usercenter_head_height">158.339996dp</dimen>
+<dimen name="uc_action_width">80.000000dp</dimen>
+<dimen name="pic_dir_item_h">70.000000dp</dimen>
+<dimen name="pic_dir_item_pic_size">51.669983dp</dimen>
+<dimen name="text_gift_title_size">17.000000sp</dimen>
+<dimen name="text_gift_title_message_size">12.000000sp</dimen>
+<dimen name="gift_title_padding_top_bottom">11.000000dp</dimen>
+<dimen name="text_font_size_vip_level_flag">5.000000sp</dimen>
+<dimen name="vipmain_padding_bottom">50.000000dp</dimen>
+<dimen name="gift_title_padding_left_right">10.000000dp</dimen>
+<dimen name="message_arrowhead_height">12.000000dp</dimen>
+<dimen name="ticket_mibi_margin_left">20.000000dp</dimen>
+<dimen name="ticket_mibi_margin_top">0.000000dp</dimen>
+<dimen name="main_padding_small">3.299988dp</dimen>
+<dimen name="main_padding_medium">6.699982dp</dimen>
+<dimen name="message_view_bottom_margin">3.299988dp</dimen>
+<dimen name="vip_text_font_size_huge">17.000000sp</dimen>
+<dimen name="vip_text_font_size_large">16.000000sp</dimen>
+<dimen name="list_view_item_group_header_padding_right">23.299988dp</dimen>
+<dimen name="message_center_new_point_margin_right">16.299988dp</dimen>
+<dimen name="intergral_text_size">11.500000sp</dimen>
+<dimen name="vipname_text_font_size">14.000000sp</dimen>
+<dimen name="vip_text_font_size_small">12.000000sp</dimen>
+<dimen name="vip_text_font_size_tiny">10.000000sp</dimen>
+<dimen name="vip_text_font_size_big">15.000000sp</dimen>
+<dimen name="vip_text_font_size_medium">14.000000sp</dimen>
+<dimen name="view_exchange_top">25.000000dp</dimen>
+<dimen name="gift_tips_text_size">13.000000sp</dimen>
+<dimen name="gift_detail_desp_text_size">13.000000sp</dimen>
+<dimen name="gift_detail_desp_bottom">20.000000dp</dimen>
+<dimen name="gift_remain_text_size">11.339996sp</dimen>
+<dimen name="point_btn_text_size">13.000000sp</dimen>
+<dimen name="ticket_order_margin_top">20.000000dp</dimen>
+<dimen name="ticket_description_margin_top">56.000000dp</dimen>
+<dimen name="ticket_description_margin_right">20.000000dp</dimen>
+<dimen name="game_detail_tab_textsize">14.000000sp</dimen>
+<dimen name="game_detail_tabbar_width">359.000000dp</dimen>
+<dimen name="game_detail_tabbar_info_width">100.000000dp</dimen>
+<dimen name="account_item_charge_button_width">46.699982dp</dimen>
+<dimen name="ticket_empty_text_margin_left">43.299988dp</dimen>
+<dimen name="ticket_empty_text_margin_top">66.599976dp</dimen>
+<dimen name="game_detail_tab_margin_top">20.000000dp</dimen>
+<dimen name="activity_vertical_margin">16.000000dp</dimen>
+<dimen name="activity_horizontal_margin">16.000000dp</dimen>
+<dimen name="viptext_get_over_size">22.000000sp</dimen>
+<dimen name="vipservice_list_icon_size">81.000000dp</dimen>
+<dimen name="vipicon_inner_size">48.000000dp</dimen>
+<dimen name="vipicon_size">54.699982dp</dimen>
+<dimen name="action_search_width">150.000000dp</dimen>
+<dimen name="game_detail_tabbar_height">32.000000dp</dimen>
+<dimen name="list_view_item_group_header_padding_top">5.000000dp</dimen>
+<dimen name="list_view_item_group_header_text">11.500000sp</dimen>
+<dimen name="list_view_item_group_header_padding_left">23.299988dp</dimen>
+<dimen name="list_view_item_group_header_padding_bottom">5.000000dp</dimen>
+<dimen name="vipleft_horizontal_margin">8.000000dp</dimen>
+<dimen name="vipright_horizontal_margin">23.299988dp</dimen>
+<dimen name="vipgift_right_horizontal_margin">30.000000dp</dimen>
+<dimen name="vipgift_bottom_vertical_margin">0.000000dp</dimen>
+<dimen name="viptab_height">45.000000dp</dimen>
+<dimen name="viptab_indicator_height">2.699982dp</dimen>
+<dimen name="vipdivider">1.000000px</dimen>
+<dimen name="vipmain_padding">13.299988dp</dimen>
+<dimen name="vipmain_padding_top">50.000000dp</dimen>
+<dimen name="vipmain_padding_top_large">54.000000dp</dimen>
+<dimen name="common_item_tag2_left_margin">19.000000dp</dimen>
+<dimen name="empty_image_height">35.000000dp</dimen>
+<dimen name="empty_image_width">50.000000dp</dimen>
+<dimen name="empty_button_width">150.000000dp</dimen>
+<dimen name="empty_button_top_margin">58.699982dp</dimen>
+<dimen name="empty_image_bottom_margin">13.299988dp</dimen>
+<dimen name="delete_click_area_width">24.000000dp</dimen>
+<dimen name="search_history_delete_img_size">12.599976dp</dimen>
+<dimen name="text_font_size_46">15.339996sp</dimen>
+<dimen name="text_font_size_45">15.000000sp</dimen>
+<dimen name="text_font_size_52">17.329987sp</dimen>
+<dimen name="text_font_size_48">16.000000sp</dimen>
+<dimen name="text_font_size_44">14.669983sp</dimen>
+<dimen name="text_font_size_28">9.339996sp</dimen>
+<dimen name="exchange_code_text_top">120.000000dp</dimen>
+<dimen name="image_full_screen_height">46.669983dp</dimen>
+<dimen name="exchange_code_text_size">16.000000sp</dimen>
+<dimen name="image_btn_w">46.669983dp</dimen>
+<dimen name="edit_vertical_padding">10.000000dp</dimen>
+<dimen name="exchange_code_bg_margin">26.000000dp</dimen>
+<dimen name="edit_horizontal_padding">6.000000dp</dimen>
+<dimen name="exchange_code_desp_size">25.299988sp</dimen>
+<dimen name="exchange_code_top">33.299988dp</dimen>
+<dimen name="exchange_code_copy_btn_top">53.000000dp</dimen>
+<dimen name="gift_detail_divider_top">40.000000dp</dimen>
+<dimen name="message_icon_width">25.699982dp</dimen>
+<dimen name="promotion_detail_padding">20.000000dp</dimen>
+<dimen name="mi_account_icon_size">50.000000dp</dimen>
+<dimen name="message_view_height">44.699982dp</dimen>
+<dimen name="message_arrowhead_width">18.000000dp</dimen>
+<dimen name="message_title_size">14.000000sp</dimen>
+<dimen name="message_icon_left_margin">3.299988dp</dimen>
+<dimen name="message_icon_height">25.699982dp</dimen>
+<dimen name="title_tag_height">16.669983dp</dimen>
+<dimen name="mul_action_spinner_left_margin">498.660004dp</dimen>
+<dimen name="pic_dir_w">360.000000dp</dimen>
+<dimen name="category_title">13.000000sp</dimen>
+<dimen name="guess_item_image_height">150.000000dp</dimen>
+<dimen name="gift_base_info_height">41.299988dp</dimen>
+<dimen name="font_size_recommend_title_righttext">13.500000sp</dimen>
+<dimen name="font_size_recommend_title">15.000000sp</dimen>
+<dimen name="title_tag_width">2.669983dp</dimen>
+<dimen name="today_hot_btn_wdith">56.669983dp</dimen>
+<dimen name="today_hot_btn_height">23.339996dp</dimen>
+<dimen name="font_size_recommend_title_text">17.500000sp</dimen>
+<dimen name="common_item_tag1_padding_lr">5.000000dp</dimen>
+<dimen name="common_item_tag1_margin">6.299988dp</dimen>
+<dimen name="image_btn_h">26.669983dp</dimen>
+<dimen name="image_margin_left">16777211.000000dp</dimen>
+<dimen name="image_text_margin_left">508.660004dp</dimen>
+<dimen name="pic_view_item_size">117.339996dp</dimen>
+<dimen name="pic_action_bar_back_h">36.669983dp</dimen>
+<dimen name="gift_detail_top_margin">1.299988dp</dimen>
+<dimen name="gift_detail_margin">10.000000dp</dimen>
+<dimen name="pic_action_bar_back_w">40.000000dp</dimen>
+<dimen name="gift_detail_b_margin">10.000000dp</dimen>
+<dimen name="gift_detail_t_margin">10.000000dp</dimen>
+<dimen name="gift_detail_divider_top_margin">31.000000dp</dimen>
+<dimen name="gift_detail_exchange_code_top">22.000000dp</dimen>
+<dimen name="gift_detail_copy_btn_top">27.299988dp</dimen>
+<dimen name="gift_detail_code_top">5.000000dp</dimen>
+<dimen name="action_bar_custom_height">79.000000dp</dimen>
+<dimen name="feedback_vip4_higher_height">72.000000dp</dimen>
+<dimen name="tab_searchbar_text_vertical_margin">3.000000dp</dimen>
+<dimen name="tab_horizontal_padding">8.000000dp</dimen>
+<dimen name="search_with_qrscanner_top_padding">7.339996dp</dimen>
+<dimen name="maintab_search_with_qrscanner_height">33.339996dp</dimen>
+<dimen name="gift_detail_timing_space">4.000000dp</dimen>
+<dimen name="recommend_top_space_height">6.669983dp</dimen>
+<dimen name="maintab_search_padding">10.000000dp</dimen>
+<dimen name="ratingbar_small_height">7.339996dp</dimen>
+<dimen name="game_tag_view_max_width_new">160.000000dp</dimen>
+<dimen name="ratingbar_right_margin">3.339996dp</dimen>
+<dimen name="main_tab_avtar_size">33.339996dp</dimen>
+<dimen name="recommend_pull_down_txt_top_margin">12.339996dp</dimen>
+<dimen name="recommend_pull_banner_txt_height">36.000000dp</dimen>
+<dimen name="recommend_pull_redpacket_padding_trivial">5.339996dp</dimen>
+<dimen name="recommend_pull_padding_trivial">4.000000dp</dimen>
+<dimen name="recommend_pull_down_game_reward_text_left_padding">15.339996dp</dimen>
+<dimen name="today_padding_summary_title_top">16777213.000000dp</dimen>
+<dimen name="guess_padding_summary_title_top">5.339996dp</dimen>
+<dimen name="rank_tab_bar_height">26.669983dp</dimen>
+<dimen name="rank_tab_bar_width">110.000000dp</dimen>
+<dimen name="recommend_search_width">60.000000dp</dimen>
+<dimen name="recommend_qr_scanner_left_margin">4.000000dp</dimen>
+<dimen name="recommend_list_item_button_padding">13.339996dp</dimen>
+<dimen name="recommend_list_item_image_padding">5.339996dp</dimen>
+<dimen name="gift_pack_head_layout_height">86.000000dp</dimen>
+<dimen name="gift_head_icon_size">57.339996dp</dimen>
+<dimen name="gift_info_bottom_bar_height">68.000000dp</dimen>
+<dimen name="gift_pack_head_view_height">77.669983dp</dimen>
+<dimen name="category_head_item_height">83.339996dp</dimen>
+<dimen name="category_head_item_width">89.669983dp</dimen>
+<dimen name="tab_slider_height">3.000000dp</dimen>
+<dimen name="category_listview_selector_height">6.669983dp</dimen>
+<dimen name="category_tab_slider_width_3">60.000000dp</dimen>
+<dimen name="category_tab_slider_width_4">73.339996dp</dimen>
+<dimen name="recommend_pull_down_gift_action_left_padding">12.000000dp</dimen>
+<dimen name="recommend_pull_down_html_game_action_left">10.000000dp</dimen>
+<dimen name="recommend_pull_down_toast_height">23.339996dp</dimen>
+<dimen name="recommend_search_text_padding">6.669983dp</dimen>
+<dimen name="list_view_item_divider">8.339996dp</dimen>
+<dimen name="first_recommend_item_icon_left_padding">10.000000dp</dimen>
+<dimen name="to_top_right_margin">20.000000dp</dimen>
+<dimen name="me_center_item_margin_right">6.669983dp</dimen>
+<dimen name="login_btn_width">60.000000dp</dimen>
+<dimen name="login_btn_height">30.000000dp</dimen>
+<dimen name="tag_margin">17.000000px</dimen>
+<dimen name="tag_horizontal_padding">10.000000px</dimen>
+<dimen name="banner_tag_width">30.000000dp</dimen>
+<dimen name="banner_tag_height">15.000000dp</dimen>
+<dimen name="me_center_margin_left">10.000000dp</dimen>
+<dimen name="me_padding_trivial">1.339996dp</dimen>
+<dimen name="me_padding_trivial_img_txt_vertical">1.669983dp</dimen>
+<dimen name="categort_bar_height">43.299988dp</dimen>
+<dimen name="to_top_bottom_margin">20.000000dp</dimen>
+<dimen name="category_gamelist_head_sub_item_height">40.000000dp</dimen>
+<dimen name="specific_category_row_left_margin">10.000000dp</dimen>
+<dimen name="category_tab_slider_width">46.669983dp</dimen>
+<dimen name="category_gamelist_head_sub_item_padding">13.339996dp</dimen>
+<dimen name="me_user_icon_size">56.669983dp</dimen>
+<dimen name="gift_action_bottom_button">40.000000dp</dimen>
+<dimen name="gift_red_point_padding">2.669983dp</dimen>
+<dimen name="more_gift_search_height">33.339996dp</dimen>
+<dimen name="me_user_arrorw_top_padding">18.339996dp</dimen>
+<dimen name="gift_pack_list_item_height">84.000000dp</dimen>
+<dimen name="float_title_text_size">14.000000sp</dimen>
+<dimen name="plugin_setting_scrollview_bottom_margin">96.000000dp</dimen>
+<dimen name="add_speed_setting_value_top_margin">45.000000dp</dimen>
+<dimen name="float_seekbar_top_margin">23.299988dp</dimen>
+<dimen name="float_bottom_addspeed_button_top_margin">15.000000dp</dimen>
+<dimen name="add_speed_button_top_margin">16.699982dp</dimen>
+<dimen name="actionbar_horizontal_padding">8.000000dp</dimen>
+<dimen name="promored_point__bottom_padding">0.670000dp</dimen>
+<dimen name="subject_game_description_bottom_margin">13.299988dp</dimen>
+<dimen name="ticked_used_button_padding_top">20.000000dp</dimen>
+<dimen name="ticket_detail_mibi_top_margin">24.000000dp</dimen>
+<dimen name="search_history_item_text_left_margin">13.299988dp</dimen>
+<dimen name="search_hint_item_text_left_margin">13.299988dp</dimen>
+<dimen name="subject_game_description_left_margin">13.299988dp</dimen>
+<dimen name="subject_game_description_top_margin">13.299988dp</dimen>
+<dimen name="text_font_size_62">20.669983sp</dimen>
+<dimen name="git_searchmodel_headview_height">5.000000dp</dimen>
+<dimen name="gift_money_animation_view_width">360.000000dp</dimen>
+<dimen name="subject_horizontal_image_placeholder_width">260.000000dp</dimen>
+<dimen name="gift_money_animation_view_height">333.328125dp</dimen>
+<dimen name="account_mibi_text_left_margin">10.000000dp</dimen>
+<dimen name="gift_money_animation_mailer_width">174.000000dp</dimen>
+<dimen name="text_font_size_32">10.669983sp</dimen>
+<dimen name="text_font_size_30">10.000000sp</dimen>
+<dimen name="text_font_size_24">8.000000sp</dimen>
+<dimen name="h5_float_menu_testsize">17.000000dp</dimen>
+<dimen name="float_window_cue_margintop">23.299988dp</dimen>
+<dimen name="float_window_text_large_size">17.000000sp</dimen>
+<dimen name="float_window_add_icon_height">163.000000dp</dimen>
+<dimen name="float_window_add_icon_width">310.000000dp</dimen>
+<dimen name="float_window_menu_item_width">47.000000dp</dimen>
+<dimen name="float_window_menu_item_height">33.000000dp</dimen>
+<dimen name="plugin_image_minimum_height">100.000000dp</dimen>
+<dimen name="float_window_title_height">50.000000dp</dimen>
+<dimen name="pop_dialog_content_width">333.296875dp</dimen>
+<dimen name="plugin_image_top_padding">3.299988dp</dimen>
+<dimen name="plugin_detail_text_bottom_margin">7.000000dp</dimen>
+<dimen name="plugin_detail_image_bottom_margin">26.000000dp</dimen>
+<dimen name="ticket_detail_mibitext_bottom_margin">30.000000dp</dimen>
+<dimen name="ticket_detail_mibitext_top_margin">16777206.000000dp</dimen>
+<dimen name="detail_scereen_indicator_top_margin">10.000000dp</dimen>
+<dimen name="ticked_used_text_padding_top">33.299988dp</dimen>
+<dimen name="ticket_detail_divideline_top_margin">13.299988dp</dimen>
+<dimen name="ticket_detail_info_top_margin">13.299988dp</dimen>
+<dimen name="float_window_title_h">52.000000dp</dimen>
+<dimen name="float_window_hitdialog_h">220.000000dp</dimen>
+<dimen name="float_window_icon_top_padding">16777213.000000dp</dimen>
+<dimen name="send_image_height">30.699982dp</dimen>
+<dimen name="float_window_hitdialog_w">309.000000dp</dimen>
+<dimen name="float_window_text_top_padding">0.000000dp</dimen>
+<dimen name="head_grid_margin">13.299988dp</dimen>
+<dimen name="detail_screen_view_height_ver">234.669983dp</dimen>
+<dimen name="send_image_width">21.299988dp</dimen>
+<dimen name="head_grid_item_gap">6.699982dp</dimen>
+<dimen name="detail_tab_button_width">313.296875dp</dimen>
+<dimen name="detail_tab_button_height">30.000000dp</dimen>
+<dimen name="screen_view_height_ver">283.296875dp</dimen>
+<dimen name="screen_view_height_hor">132.000000dp</dimen>
+<dimen name="list_item_height_v6">41.299988dp</dimen>
+<dimen name="guesst_shield_line_top_margin">505.700012dp</dimen>
+<dimen name="float_window_text_normal_size">9.000000sp</dimen>
+<dimen name="float_window_activity_height">310.000000dp</dimen>
+<dimen name="float_window_activity_width">310.000000dp</dimen>
+<dimen name="float_window_setting_height">163.299988dp</dimen>
+<dimen name="float_window_menu_testsize">10.000000sp</dimen>
+<dimen name="float_window_menu_bar_width">215.000000dp</dimen>
+<dimen name="float_window_menu_bar_height">60.000000dp</dimen>
+<dimen name="float_window_height">46.599976dp</dimen>
+<dimen name="float_window_width">46.599976dp</dimen>
+<dimen name="float_window_hitdialog_title_textsize">6.000000sp</dimen>
+<dimen name="float_window_btn_h">46.669983dp</dimen>
+<dimen name="float_window_btn_layout_w">250.000000dp</dimen>
+<dimen name="float_window_btn_layout_panding_top">20.000000dp</dimen>
+<dimen name="float_window_botlayout_h">170.000000dp</dimen>
+<dimen name="float_window_bottext_panding_top">13.329987dp</dimen>
+<dimen name="float_window_title_panding_left">16.669983dp</dimen>
+<dimen name="prefences_widget_height">62.000000dp</dimen>
+<dimen name="mibi_promotion_item_height">62.000000dp</dimen>
+<dimen name="prefences_secondary_size">11.500000sp</dimen>
+<dimen name="prefences_widget_single_height">50.000000dp</dimen>
+<dimen name="rank_tab_text_size">14.669983sp</dimen>
+<dimen name="gift_exchange_code_button_width">188.000000dp</dimen>
+<dimen name="button_action_text_size">11.500000sp</dimen>
+<dimen name="secondary_text_size">11.699982sp</dimen>
+<dimen name="font_size_list_summary">11.000000sp</dimen>
+<dimen name="font_size_list_title">14.000000sp</dimen>
+<dimen name="main_padding_v6">23.339996dp</dimen>
+<dimen name="promotion_time_height">70.000000dp</dimen>
+<dimen name="promotion_info_title_height">50.000000dp</dimen>
+<dimen name="account_item_height">78.299988dp</dimen>
+<dimen name="subject_item_padding_bottom">4.000000dp</dimen>
+<dimen name="prefences_title_size">13.000000sp</dimen>
+<dimen name="ratingbar_size_small">7.339996dp</dimen>
+<dimen name="comment_padding_summary_score_bottom">8.299988dp</dimen>
+<dimen name="comment_padding_summary_score_top">10.000000dp</dimen>
+<dimen name="comment_padding_summary_title_bottom">2.000000dp</dimen>
+<dimen name="feedback_head_title">20.000000sp</dimen>
+<dimen name="text_size_remain_intergral">23.000000sp</dimen>
+<dimen name="text_font_size_comment_score">24.000000sp</dimen>
+<dimen name="comment_padding_summary_title_top">5.339996dp</dimen>
+<dimen name="comment_padding_summary">10.000000dp</dimen>
+<dimen name="comment_padding_rating_list">5.000000dp</dimen>
+<dimen name="comment_star_text_width">44.000000dp</dimen>
+<dimen name="comment_padding_summary_count_top">9.000000dp</dimen>
+<dimen name="system_list_padding">23.000000dp</dimen>
+<dimen name="rating_list_gap">3.000000dp</dimen>
+<dimen name="comment_padding_summary_count_bottom">4.000000dp</dimen>
+<dimen name="gift_action_button_width">43.299988dp</dimen>
+<dimen name="discovery_bg_space_height">16777215.000000dp</dimen>
+<dimen name="discovery_bottom_bar_height">60.000000dp</dimen>
+<dimen name="discovery_actionbar_gamelist_arror_top_margin">5.000000dp</dimen>
+<dimen name="discovery_gamelist_item_img_left_padding">13.339996dp</dimen>
+<dimen name="issu_status_top_margin">40.000000dp</dimen>
+<dimen name="discovery_item_height">50.000000dp</dimen>
+<dimen name="discovery_category_icon_size">26.669983dp</dimen>
+<dimen name="discovery_game_icon_size">64.000000dp</dimen>
+<dimen name="vip_home_distant_margin">127.000000dp</dimen>
+<dimen name="vip_home_status_padding_top">19.000000dp</dimen>
+<dimen name="vip_home_privilege_hor_margin">23.000000dp</dimen>
+<dimen name="vip_info_view_eidtor_bottom_margin">6.000000dp</dimen>
+<dimen name="gift_success_view_bottom_height">218.299988dp</dimen>
+<dimen name="vip_home_padding_bottom">30.000000dp</dimen>
+<dimen name="gift_success_view_code_width">206.699982dp</dimen>
+<dimen name="vip_home_status_top">15.000000dp</dimen>
+<dimen name="vip_home_status_bottom">16.000000dp</dimen>
+<dimen name="vip_home_diver_top">17.000000dp</dimen>
+<dimen name="search_game_corner_radius">3.339996dp</dimen>
+<dimen name="search_game_screenshot_port_height">280.000000dp</dimen>
+<dimen name="discovery_head_item_left_margin">31.339996dp</dimen>
+<dimen name="discovery_head_view_height">171.669983dp</dimen>
+<dimen name="level_text_margin_left">10.000000dp</dimen>
+<dimen name="vip_info_view_name_top_margin">20.000000dp</dimen>
+<dimen name="search_game_screenshot_port_width">158.000000dp</dimen>
+<dimen name="vip_home_top_margin">23.000000dp</dimen>
+<dimen name="vip_home_name_bottom_margin">10.000000dp</dimen>
+<dimen name="vip_home_padding_top">30.000000dp</dimen>
+<dimen name="vip_home_left_margin">25.000000dp</dimen>
+<dimen name="discovery_game_margin_top_no1">45.339996dp</dimen>
+<dimen name="discovery_gamelist_item_img_right_padding">6.669983dp</dimen>
+<dimen name="vip_home_header_right_margin">10.000000dp</dimen>
+<dimen name="discovery_game_margin_top_no2">52.000000dp</dimen>
+<dimen name="vip_home_contrack_size">16.000000sp</dimen>
+<dimen name="my_special_list_item_height">50.000000dp</dimen>
+<dimen name="search_game_text_top_padding_trivial">3.669983dp</dimen>
+<dimen name="gift_hold_arrow_height">40.000000dp</dimen>
+<dimen name="game_download_progressbar_width">166.669983dp</dimen>
+<dimen name="sociaty_head_view_height">43.339996dp</dimen>
+<dimen name="gift_success_view_code_height">33.299988dp</dimen>
+<dimen name="gift_success_view_button_height">33.299988dp</dimen>
+<dimen name="feed_head_view_margin">4.000000dp</dimen>
+<dimen name="account_item_padding_top">23.399994dp</dimen>
+<dimen name="empty_button_text_size">13.000000sp</dimen>
+<dimen name="detail_bottom_bar_height">66.669983dp</dimen>
+<dimen name="category_head_item_text_bottom_margin">509.660004dp</dimen>
+<dimen name="vip_home_left_bigfont_margin">12.000000dp</dimen>
+<dimen name="vip_privilege_left_margin">16777211.000000dp</dimen>
+<dimen name="h5_float_menu_width">44.669983dp</dimen>
+<dimen name="gift_pic_process_round">10.000000dp</dimen>
+<dimen name="h5_float_menu_arrow_width">24.669983dp</dimen>
+<dimen name="MyPage_TextView_Value_MaxWidth">110.000000dp</dimen>
+<dimen name="gift_success_view_top_height">65.000000dp</dimen>
+<dimen name="gift_success_view_height">283.296875dp</dimen>
+<dimen name="gift_success_view_width">283.296875dp</dimen>
+<dimen name="egret_loading_margin">10.000000dp</dimen>
+<dimen name="account_item_padding_bottom">23.299988dp</dimen>
+<dimen name="instrucation_min_height">225.000000dp</dimen>
+<dimen name="intergral_list_item_height">50.000000dp</dimen>
+<dimen name="vip_info_board_height">160.000000dp</dimen>
+<dimen name="search_game_screenshot_land_height">166.669983dp</dimen>
+<dimen name="main_padding_large">17.000000dp</dimen>
+<dimen name="search_game_screenshot_land_width">320.000000dp</dimen>
+<dimen name="vip_home_mygame_height">115.000000dp</dimen>
+<dimen name="search_game_middle_left_margin">6.669983dp</dimen>
+<dimen name="more_item_height">45.000000dp</dimen>
+<dimen name="search_game_tag_top_padding_trivial">2.669983dp</dimen>
+<dimen name="plat_promotion_item_icon_height">100.000000dp</dimen>
+<dimen name="promotion_time_tag_height">14.669983dp</dimen>
+<dimen name="promotion_time_tag_radius">7.329987dp</dimen>
+<dimen name="promotion_item_action_button_height">26.669983dp</dimen>
+<dimen name="promotion_item_action_button_width">70.000000dp</dimen>
+<dimen name="text_gift_get_size">16.000000sp</dimen>
+<dimen name="text_gift_apply_information">9.000000sp</dimen>
+<dimen name="vip_title_font_size">15.000000sp</dimen>
+<dimen name="vipcomm_left_margin">10.000000dp</dimen>
+<dimen name="vipcomm_top_bottom_margin">18.000000dp</dimen>
+<dimen name="vipcomm_title_margin">6.000000dp</dimen>
+<dimen name="gift_attr_top_left_margin">18.000000dp</dimen>
+<dimen name="vipcomm_image_width_height">48.000000dp</dimen>
+<dimen name="gift_attr_bottom_margin">10.000000dp</dimen>
+<dimen name="gift_attr_right_margin">15.000000dp</dimen>
+<dimen name="common_item_actionbutton_top_margin">16.669983dp</dimen>
+<dimen name="h5_float_menu_height">53.339996dp</dimen>
+<dimen name="update_item_title_height">40.000000dp</dimen>
+<dimen name="plat_promotion_item_text_bottom_margin">1.329987dp</dimen>
+<dimen name="plat_promotion_item_text_top_margin">510.670013dp</dimen>
+<dimen name="recommend_pull_down_publish_time_left_margin">6.000000dp</dimen>
+<dimen name="color_banner_layout_height">36.669983dp</dimen>
+<dimen name="egret_loading_progress_text">15.000000sp</dimen>
+<dimen name="gift_money_animation_btn_wdith">170.000000dp</dimen>
+<dimen name="gift_money_animation_btn_height">40.000000dp</dimen>
+<dimen name="gift_money_animation_mailer_height">178.669983dp</dimen>
+<dimen name="gift_money_animation_btn_margin">33.329987dp</dimen>
+<dimen name="gift_desc_margin">14.000000dp</dimen>
+<dimen name="gift_apply_title_margin">12.000000dp</dimen>
+<dimen name="gift_apply_margin">10.500000dp</dimen>
+<dimen name="apply_btn_bottom_margin">20.000000dp</dimen>
+<dimen name="gift_log_text_size">14.000000sp</dimen>
+<dimen name="apply_edit_margin">20.500000dp</dimen>
+<dimen name="apply_btn_margin">12.500000dp</dimen>
+<dimen name="vip_home_name_size">29.000000sp</dimen>
+<dimen name="vip_home_grade_size">8.500000sp</dimen>
+<dimen name="vip_home_icon_margin">80.000000dp</dimen>
+<dimen name="subject_grid_item_icon_height">102.000000dp</dimen>
+<dimen name="gift_attr_desc_margin">13.000000dp</dimen>
+<dimen name="subject_grid_item_icon_width">169.000000dp</dimen>
+<dimen name="gary_style_side_samll_margin">5.000000dp</dimen>
+<dimen name="gift_money_animation_view_margin">76.669983dp</dimen>
+<dimen name="issu_grade_margin">11.000000dp</dimen>
+<dimen name="issu_grade_no_manyi_margin">22.000000dp</dimen>
+<dimen name="gift_head_icon_left_padding">13.339996dp</dimen>
+<dimen name="issu_grade_manyi_margin">31.000000dp</dimen>
+<dimen name="subject_grid_item_title_height">33.339996dp</dimen>
+<dimen name="issu_grade_very_manyi_margin">18.000000dp</dimen>
+<dimen name="tab_red_point_right_padding">6.669983dp</dimen>
+<dimen name="item_img_text_red_point_img_size">33.000000dp</dimen>
+<dimen name="item_text_red_point_right_padding">11.339996dp</dimen>
+<dimen name="item_text_red_point_padding">2.669983dp</dimen>
+<dimen name="tab_red_point_top_padding">8.339996dp</dimen>
+<dimen name="item_only_red_point_right_padding">9.669983dp</dimen>
+<dimen name="item_img_text_red_point_right_margin">6.339996dp</dimen>
+<dimen name="item_img_text_red_point_text_right_padding">4.000000dp</dimen>
+<dimen name="item_img_text_red_point_text_top_padding">3.339996dp</dimen>
+<dimen name="detail_tag_height">50.000000dp</dimen>
+<dimen name="detail_comment_button_height">27.000000dp</dimen>
+<dimen name="detail_comment_button_width">100.000000dp</dimen>
+<dimen name="rank_head_height">43.339996dp</dimen>
+<dimen name="bbs_personal_headinfo_name_padding_left">80.000000dp</dimen>
+<dimen name="red_point_of_item_left_margin">4.669983dp</dimen>
+<dimen name="item_red_point_size">9.000000dp</dimen>
+<dimen name="forum_search_btn_width">60.000000dp</dimen>
+<dimen name="forum_search_btn_height">33.339996dp</dimen>
+<dimen name="digest_content_title_right_margin">58.299988dp</dimen>
+<dimen name="thread_detail_quote_w">293.335938dp</dimen>
+<dimen name="item_tag_height">16.669983dp</dimen>
+<dimen name="post_tv_bottom_margin">18.000000dp</dimen>
+<dimen name="forum_search_history_item_height">50.000000dp</dimen>
+<dimen name="forum_search_history_title_item_height">40.000000dp</dimen>
+<dimen name="scroll_tab_gap_width">33.339996dp</dimen>
+<dimen name="forum_search_icon_size">49.669983dp</dimen>
+<dimen name="tab_red_point_size">6.669983dp</dimen>
+<dimen name="bbs_col_img_top">22.000000dp</dimen>
+<dimen name="forum_search_item_title_top_margin">13.000000dp</dimen>
+<dimen name="forum_search_item_height">66.669983dp</dimen>
+<dimen name="forum_search_item_title_left_margin">9.000000dp</dimen>
+<dimen name="forum_search_post_item_reply_icon_top_margin">3.000000dp</dimen>
+<dimen name="thread_list_moderators_right_margin">75.000000dp</dimen>
+<dimen name="news_tag_width">20.000000dp</dimen>
+<dimen name="news_text_tripple_top_margin">4.669983dp</dimen>
+<dimen name="news_tag_height">11.339996dp</dimen>
+<dimen name="news_item_tripple_time_bottom_margin">12.669983dp</dimen>
+<dimen name="news_item_tripple_time_top_margin">7.000000dp</dimen>
+<dimen name="news_item_tripple_title_top_margin">14.000000dp</dimen>
+<dimen name="ticket_description_margin_bottom">12.299988dp</dimen>
+<dimen name="digest_img_top_margin">15.000000dp</dimen>
+<dimen name="digest_icon_top_margin">116.669983dp</dimen>
+<dimen name="digest_cover_height">133.339996dp</dimen>
+<dimen name="bbs_digest_icon_size">56.669983dp</dimen>
+<dimen name="thread_list_sign_height">26.669983dp</dimen>
+<dimen name="thread_list_sign_width">50.000000dp</dimen>
+<dimen name="thread_list_cancel_sign_width">66.669983dp</dimen>
+<dimen name="nickname_max_width">170.000000dp</dimen>
+<dimen name="news_vertical_padding">4.669983dp</dimen>
+<dimen name="news_horizontal_padding">13.339996dp</dimen>
+<dimen name="discovery_game_margin_top_no3">58.669983dp</dimen>
+<dimen name="discovery_game_margin_left_right">41.669983dp</dimen>
+<dimen name="discovery_game_item_text_margin_top">510.330017dp</dimen>
+<dimen name="discovery_title_head_height">200.000000dp</dimen>
+<dimen name="discovery_action_bar_status_bar_height">65.339996dp</dimen>
+<dimen name="discovery_actionbar_single_title_left_margin">16.000000dp</dimen>
+<dimen name="discovery_head_item_icon_top_margin">12.669983dp</dimen>
+<dimen name="discovery_actionbar_title_top_margin">32.669983dp</dimen>
+<dimen name="discovery_actionbar_title_left_margin">16.000000dp</dimen>
+<dimen name="discovery_actionbar_arrow_top_margin">26.000000dp</dimen>
+<dimen name="discovery_move_threshold">33.339996dp</dimen>
+<dimen name="news_pic_height">70.000000dp</dimen>
+<dimen name="news_pic_width">106.000000dp</dimen>
+<dimen name="news_item_height">100.000000dp</dimen>
+<dimen name="news_pic_horizontal_margin">1.000000dp</dimen>
+<dimen name="h5_item_landscape_margin">153.339996dp</dimen>
+<dimen name="bbs_exit_view_bottom_magin">8.000000dp</dimen>
+<dimen name="thread_item_sociaty_icon_size">20.000000dp</dimen>
+<dimen name="bbs_list_thread_tip_height">23.339996dp</dimen>
+<dimen name="bbs_list_item_icon_frame_size">67.339996dp</dimen>
+<dimen name="thread_item_bottom_height">38.339996dp</dimen>
+<dimen name="detail_gameinfo_news_item_min_height">40.000000dp</dimen>
+<dimen name="discovery_head_game_name_width">71.339996dp</dimen>
+<dimen name="ignore_ad_btn_ring_size">1.000000dp</dimen>
+<dimen name="ignore_ad_btn_size">40.000000dp</dimen>
+<dimen name="ignore_ad_btn_radius">20.000000dp</dimen>
+<dimen name="discovery_category_item_rank_width">16.669983dp</dimen>
+<dimen name="bbs_list_item_height">164.000000dp</dimen>
+<dimen name="bbs_list_item_height_without_banner">83.339996dp</dimen>
+<dimen name="bbs_list_item_bottom_thread_height">25.000000dp</dimen>
+<dimen name="bbs_list_item_info_with_banner">64.000000dp</dimen>
+<dimen name="bbs_list_item_icon_size">66.669983dp</dimen>
+<dimen name="detail_gameinfo_news_pic_width">77.000000dp</dimen>
+<dimen name="discovery_exit_view_bottom_margin">18.000000dp</dimen>
+<dimen name="bbs_banner_height">100.000000dp</dimen>
+<dimen name="detail_gameinfo_news_pic_height">50.000000dp</dimen>
+<dimen name="discovery_exit_bar_height">33.339996dp</dimen>
+<dimen name="comment_scorer_left_margin">12.000000dp</dimen>
+<dimen name="update_log_vertial_margin">13.339996dp</dimen>
+<dimen name="detail_icon_margin_18">6.000000dp</dimen>
+<dimen name="detail_icon_margin_38">12.669983dp</dimen>
+<dimen name="update_log_horizontal_margin">15.339996dp</dimen>
+<dimen name="guesst_grid_text_top_margin">6.000000dp</dimen>
+<dimen name="detail_tab_view_height_34">11.339996dp</dimen>
+<dimen name="detail_imageswicher_width">166.669983dp</dimen>
+<dimen name="detail_shade_view_height">60.000000dp</dimen>
+<dimen name="detail_action_bar_height">33.299988dp</dimen>
+<dimen name="detail_list_move_distance">193.339996dp</dimen>
+<dimen name="discovery_icon_size">57.339996dp</dimen>
+<dimen name="detail_icon_margin_48">16.000000dp</dimen>
+<dimen name="detail_name_margin_bottom">3.669983dp</dimen>
+<dimen name="detail_screen_margin_left">16.000000dp</dimen>
+<dimen name="detail_screen_view_indicator_margin_top">6.000000dp</dimen>
+<dimen name="quick_update_recommend_game_title_height">23.339996dp</dimen>
+<dimen name="gamecenter_upgrade_discard_bottom_margin">31.000000dp</dimen>
+<dimen name="gamecenter_upgrade_version_top_margin">113.339996dp</dimen>
+<dimen name="gamecenter_upgrade_dialog_height">400.000000dp</dimen>
+<dimen name="recommend_cool_title_width">150.000000dp</dimen>
+<dimen name="recommend_cool_title_height">24.669983dp</dimen>
+<dimen name="recommend_grid_download_progressbar_width">66.669983dp</dimen>
+<dimen name="recommend_grid_download_status_layout_height">23.000000dp</dimen>
+<dimen name="recommend_two_grid_download_progressbar_left_margin">1.329987dp</dimen>
+<dimen name="detail_head_icon_top_margin">8.669983dp</dimen>
+<dimen name="recommend_two_grid_download_progressbar_width">76.669983dp</dimen>
+<dimen name="recommend_single_grid_download_progressbar_width">54.669983dp</dimen>
+<dimen name="recommend_game_banner_item_h">133.339996dp</dimen>
+<dimen name="recommend_play_icon_margin_top">60.000000dp</dimen>
+<dimen name="gamecenter_upgrade_install_btn_height">40.000000dp</dimen>
+<dimen name="rank_tab_bar_h">54.000000dp</dimen>
+<dimen name="gamecenter_upgrade_install_btn_width">216.669983dp</dimen>
+<dimen name="game_ticket_item_height">120.000000dp</dimen>
+<dimen name="recommend_two_grid_item_divider_two_data_height">67.339996dp</dimen>
+<dimen name="recommend_banner_icon_size">45.669983dp</dimen>
+<dimen name="gift_search_button_width">60.000000dp</dimen>
+<dimen name="recommend_simple_banner_action_h">23.339996dp</dimen>
+<dimen name="recommend_simple_banner_action_w">40.000000dp</dimen>
+<dimen name="recommend_small_banner_describe_margin_top">509.330017dp</dimen>
+<dimen name="recommend_simple_banner_action_progress_h">3.000000dp</dimen>
+<dimen name="recommend_single_item_w">114.669983dp</dimen>
+<dimen name="gamecenter_upgrade_install_btn_bottom_margin">63.339996dp</dimen>
+<dimen name="gamecenter_discard_upgrade_top_margin">20.000000dp</dimen>
+<dimen name="gamecenter_upgrade_content_bottom_margin">33.339996dp</dimen>
+<dimen name="gamecenter_upgrade_content_left_margin">48.339996dp</dimen>
+<dimen name="gamecenter_upgrade_dialog_width">283.335938dp</dimen>
+<dimen name="gamecenter_upgrade_head_height">158.000000dp</dimen>
+<dimen name="recommend_cool_title_top_margin">13.339996dp</dimen>
+<dimen name="recommend_common_title_height">45.000000dp</dimen>
+<dimen name="detail_news_title_bottom_margin">7.339996dp</dimen>
+<dimen name="detail_comment_title_top_margin">17.000000dp</dimen>
+<dimen name="detail_comment_new_head_button_width">66.669983dp</dimen>
+<dimen name="detail_comment_new_head_button_height">26.669983dp</dimen>
+<dimen name="main_padding_8">2.669983dp</dimen>
+<dimen name="main_padding_3">1.000000dp</dimen>
+<dimen name="input_text_height">48.000000dp</dimen>
+<dimen name="bbs_unlogin_head_height">100.000000dp</dimen>
+<dimen name="thread_head_focus_btn_w">53.339996dp</dimen>
+<dimen name="thread_head_focus_btn_h">26.669983dp</dimen>
+<dimen name="thread_list_head_h">83.339996dp</dimen>
+<dimen name="recommend_small_banner_name_maxwidth">65.000000dp</dimen>
+<dimen name="recommend_common_title_button_padding">16777211.000000dp</dimen>
+<dimen name="recommend_small_banner_height">80.000000dp</dimen>
+<dimen name="common_item_ratingbar_bottom_margin">1.000000dp</dimen>
+<dimen name="text_font_size_27">9.000000sp</dimen>
+<dimen name="common_title_height">40.000000dp</dimen>
+<dimen name="recommend_banner_title_space_left_margin">26.339996dp</dimen>
+<dimen name="recommend_banner_title_space_width">2.669983dp</dimen>
+<dimen name="icon_common_fg_radius">9.669983dp</dimen>
+<dimen name="icon_common_fg_transparent_width">5.669983dp</dimen>
+<dimen name="home_page_recommend_game_item_h">80.000000dp</dimen>
+<dimen name="recommend_two_grid_item_divider_height">83.339996dp</dimen>
+<dimen name="recommend_two_grid_item_divider_width">160.669983dp</dimen>
+<dimen name="text_divider_w">0.670000dp</dimen>
+<dimen name="recommend_game_item_h">80.000000dp</dimen>
+<dimen name="recommend_small_banner_describe_maxwidth">90.000000dp</dimen>
+<dimen name="home_page_recommend_banner_action_btn_w">50.669983dp</dimen>
+<dimen name="home_page_recommend_banner_action_btn_h">26.669983dp</dimen>
+<dimen name="main_padding_4_minus">510.660004dp</dimen>
+<dimen name="detail_guess_temple_bottom_margin">14.669983dp</dimen>
+<dimen name="detail_guess_temple_top_margin">17.339996dp</dimen>
+<dimen name="detail_update_temple_top_margin">7.339996dp</dimen>
+<dimen name="detail_head_icon_bottom_margin">6.669983dp</dimen>
+<dimen name="detail_comment_new_head_height">45.000000dp</dimen>
+<dimen name="all_comment_button_height">40.000000dp</dimen>
+<dimen name="detail_news_first_item_height">66.669983dp</dimen>
+<dimen name="detail_news_item_height">40.000000dp</dimen>
+<dimen name="common_item_ratingbar_top_margin">1.000000dp</dimen>
+<dimen name="category_item_text_size">17.000000dp</dimen>
+<dimen name="search_bar_frame_left_margin">1.500000dp</dimen>
+<dimen name="search_bar_frame_right_margin">6.699982dp</dimen>
+<dimen name="local_game_title_top_margin">17.000000px</dimen>
+<dimen name="search_bar_image_left_margin">16777212.000000dp</dimen>
+<dimen name="comment_bottom_install_button_size">32.000000dp</dimen>
+<dimen name="message_center_icon_size">45.000000dp</dimen>
+<dimen name="replace_bonus_line_width">0.330000dp</dimen>
+<dimen name="replace_bonus_btn_height">26.599976dp</dimen>
+<dimen name="replace_bonus_btn_width">50.000000dp</dimen>
+<dimen name="replace_download_progress_padding">23.299988dp</dimen>
+<dimen name="replace_download_progress_height">6.669983dp</dimen>
+<dimen name="replace_download_tiptext_padding">10.000000dp</dimen>
+<dimen name="replace_download_progress_marginbottom">34.000000dp</dimen>
+<dimen name="noti_item_icon_size">45.000000dp</dimen>
+<dimen name="noti_item_right_btn_width">66.000000dp</dimen>
+<dimen name="noti_item_right_btn_height">30.000000dp</dimen>
+<dimen name="replace_list_item_padding_left">30.000000dp</dimen>
+<dimen name="replace_rewards_view_padding_top">22.699982dp</dimen>
+<dimen name="replace_rewards_button_height">30.699982dp</dimen>
+<dimen name="replace_rewards_button_width">103.299988dp</dimen>
+<dimen name="replace_rewards_tiptext_padding_bottom">15.000000dp</dimen>
+<dimen name="replace_rewards_button_padding_bottom">14.299988dp</dimen>
+<dimen name="replace_rewards_nobtn_btn_padding_bottom">35.299988dp</dimen>
+<dimen name="sort_select_layout_width">146.669983dp</dimen>
+<dimen name="my_sociaty_head_height">40.000000dp</dimen>
+<dimen name="sort_select_item_line_width">120.000000dp</dimen>
+<dimen name="sociaty_finish_btn_width">53.339996dp</dimen>
+<dimen name="sociaty_finish_btn_height">26.669983dp</dimen>
+<dimen name="top_button_width">46.669983dp</dimen>
+<dimen name="sociaty_message_bar_height">33.339996dp</dimen>
+<dimen name="sociaty_sort_select_top_margin">0.000000dp</dimen>
+<dimen name="main_padding_20_minus">505.330017dp</dimen>
+<dimen name="sociaty_sort_select_right_margin">0.000000dp</dimen>
+<dimen name="replace_bonus_item_height">61.599976dp</dimen>
+<dimen name="replace_bonus_header_height">52.599976dp</dimen>
+<dimen name="replace_list_item_height">30.000000dp</dimen>
+<dimen name="replace_list_padding_top">10.000000dp</dimen>
+<dimen name="replace_bonus_line_padding">10.599976dp</dimen>
+<dimen name="replace_bonus_text_padding">13.299988dp</dimen>
+<dimen name="replace_btn_downloadstatus_width">315.000000dp</dimen>
+<dimen name="replace_fireworks_view_width">225.299988dp</dimen>
+<dimen name="replace_fireworks_view_height">188.000000dp</dimen>
+<dimen name="replace_fireworks_paiidng_top">36.699982dp</dimen>
+<dimen name="replace_bot_line_heigth">0.330000dp</dimen>
+<dimen name="replace_acitvity_icon_size">56.599976dp</dimen>
+<dimen name="replace_grid_view_height">111.000000dp</dimen>
+<dimen name="replace_btn_downloadstatus_height">50.000000dp</dimen>
+<dimen name="replace_game_info_height">220.000000dp</dimen>
+<dimen name="game_item_discount_price_margin_bottom">4.000000dp</dimen>
+<dimen name="replace_game_info_icon_size">61.329987dp</dimen>
+<dimen name="replace_rewards_finish_text_padding_top">16.599976dp</dimen>
+<dimen name="search_history_img_size">15.299988dp</dimen>
+<dimen name="replace_rewards_finish_bg_width">294.000000dp</dimen>
+<dimen name="replace_rewards_finish_bg_height">220.299988dp</dimen>
+<dimen name="hot_word_max_width">240.000000dp</dimen>
+<dimen name="replace_list_item_icon_height">20.000000dp</dimen>
+<dimen name="search_image_size">15.000000dp</dimen>
+<dimen name="replace_list_item_text_padding_left">5.329987dp</dimen>
+<dimen name="hot_word_text_size">13.000000sp</dimen>
+<dimen name="replace_rewards_icon_padding_top">56.599976dp</dimen>
+<dimen name="hot_word_min_width">40.000000dp</dimen>
+<dimen name="replace_list_item_icon_width">20.000000dp</dimen>
+<dimen name="replace_rewards_finish_text_padding_left">28.000000dp</dimen>
+<dimen name="search_list_item_height">50.000000dp</dimen>
+<dimen name="replace_rewards_icon_size">93.000000dp</dimen>
+<dimen name="replace_rewards_view_height">263.296875dp</dimen>
+<dimen name="replace_rewards_view_width">186.600006dp</dimen>
+<dimen name="replace_bot_button_height">40.000000dp</dimen>
+<dimen name="replace_bot_button_width">156.600006dp</dimen>
+<dimen name="replace_bot_button_layout_height">86.599976dp</dimen>
+<dimen name="replace_game_info_desc_padding_top">9.299988dp</dimen>
+<dimen name="replace_game_info_name_padding_top">28.599976dp</dimen>
+<dimen name="replace_game_info_icon_padding_top">50.000000dp</dimen>
+<dimen name="category_item_height">50.000000dp</dimen>
+<dimen name="category_item_left_padding">15.000000dp</dimen>
+<dimen name="pref_ver_new_width">40.000000dp</dimen>
+<dimen name="category_item_icon_size">26.669983dp</dimen>
+<dimen name="search_footer_view_bd_search_h">58.000000dp</dimen>
+<dimen name="head_cue_text_height">40.000000dp</dimen>
+<dimen name="pref_ver_new_left">8.000000dp</dimen>
+<dimen name="baidu_game_detail_head_info_margin_top">505.330017dp</dimen>
+<dimen name="search_head_view_h">42.000000dp</dimen>
+<dimen name="list_common_header_height">46.669983dp</dimen>
+<dimen name="download_manager_tab_height">40.000000dp</dimen>
+<dimen name="download_manager_bar_width">56.000000dp</dimen>
+<dimen name="image_text_bottom_padding">8.000000dp</dimen>
+<dimen name="bbs_notify_icon_size">33.339996dp</dimen>
+<dimen name="image_bottom_text_size">13.000000sp</dimen>
+<dimen name="bbs_ad_close_size">40.000000dp</dimen>
+<dimen name="head_cue_text_size">13.000000sp</dimen>
+<dimen name="community_game_bbs_icon_wh">66.699982dp</dimen>
+<dimen name="hot_word_layout_height">40.000000dp</dimen>
+<dimen name="hot_word_left_padding">10.000000dp</dimen>
+<dimen name="hot_word_right_padding">11.299988dp</dimen>
+<dimen name="line_layout_margins_bottom">10.000000dp</dimen>
+<dimen name="line_layout_margins_left">13.299988dp</dimen>
+<dimen name="hint_list_margins_bottom">300.000000dp</dimen>
+<dimen name="search_list_item_padding">13.299988dp</dimen>
+<dimen name="thread_list_pic_size">106.669983dp</dimen>
+<dimen name="thread_head_item_h">40.000000dp</dimen>
+<dimen name="bbs_notification_bar_height">60.000000dp</dimen>
+<dimen name="subject_indictor_top_margin">35.000000dp</dimen>
+<dimen name="game_tag2_bigfont_height">35.000000dp</dimen>
+<dimen name="game_detail_cplogo_height">46.000000dp</dimen>
+<dimen name="game_detail_cplogo_width">46.000000dp</dimen>
+<dimen name="subject_horizontal_divider_height">14.000000dp</dimen>
+<dimen name="game_tag_view_max_width">180.000000dp</dimen>
+<dimen name="corner_count_left_padding">2.000000dp</dimen>
+<dimen name="corner_count_top_padding">16777213.000000dp</dimen>
+<dimen name="game_tag_view_with_ratebar_max_width">150.000000dp</dimen>
+<dimen name="subject_text_top_spacing">4.000000dp</dimen>
+<dimen name="subject_vertical_spacing">12.000000dp</dimen>
+<dimen name="miui_recommend_title_text_size">32.000000sp</dimen>
+<dimen name="miui_recommend_title_text_size_2">15.000000sp</dimen>
+<dimen name="sbuject_game_summary_text_size">12.000000sp</dimen>
+<dimen name="sbuject_text_size">15.000000sp</dimen>
+<dimen name="subject_game_left_spacing">18.000000dp</dimen>
+<dimen name="welcome_actionbar_height">150.000000dp</dimen>
+<dimen name="bbs_thread_list_margin_size">11.000000dp</dimen>
+<dimen name="welcome_grid_item_height">93.299988dp</dimen>
+<dimen name="bbs_post_item_height">260.000000dp</dimen>
+<dimen name="welcome_check_btn_width">27.500000dp</dimen>
+<dimen name="welcome_title_offset_x">25.000000dp</dimen>
+<dimen name="bbs_reply_img_item">106.669983dp</dimen>
+<dimen name="detail_head_icon_left_margin">16777213.000000dp</dimen>
+<dimen name="bbs_detail_reply_img_size">93.339996dp</dimen>
+<dimen name="bbs_image_item_size">240.000000dp</dimen>
+<dimen name="bbs_thread_detail_item_horizontal_margin">13.339996dp</dimen>
+<dimen name="editor_right_padding_fro_smiley">36.669983dp</dimen>
+<dimen name="bbs_detail_content_margin_left">50.000000dp</dimen>
+<dimen name="timeline_title_height">40.000000dp</dimen>
+<dimen name="bbs_detail_content_margin_right">20.000000dp</dimen>
+<dimen name="bbs_detail_content_padding_bottom">5.339996dp</dimen>
+<dimen name="bbs_input_box_height">36.669983dp</dimen>
+<dimen name="bbs_detail_content_margin_top">16777209.000000dp</dimen>
+<dimen name="rank_item_index_width">24.000000dp</dimen>
+<dimen name="welcome_checkbutton_offset_x">9.000000dp</dimen>
+<dimen name="welcome_check_btn_height">27.500000dp</dimen>
+<dimen name="top_right_close_icon_size">20.000000dp</dimen>
+<dimen name="rank_item_icon_left_margin_minus">507.660004dp</dimen>
+<dimen name="comment_percentage_width">34.000000dp</dimen>
+<dimen name="noti_item_title_img_size">16.699982dp</dimen>
+<dimen name="common_list_item_height_container">100.000000dp</dimen>
+<dimen name="report_popup_title_divider_w">253.339996dp</dimen>
+<dimen name="advertise_height">560.000000dp</dimen>
+<dimen name="report_bottom_btn_h">40.000000dp</dimen>
+<dimen name="advertise_width">350.000000dp</dimen>
+<dimen name="noti_item_small_gameicon_height">23.299988dp</dimen>
+<dimen name="noti_item_samall_icon_padding_top">2.000000dp</dimen>
+<dimen name="welcome_checkbutton_offset_y">9.000000dp</dimen>
+<dimen name="noti_item_small_icon_padding">5.000000dp</dimen>
+<dimen name="comment_progressbar_height">15.000000dp</dimen>
+<dimen name="noti_item_midview_padding_bottom">4.000000dp</dimen>
+<dimen name="recommend_double_banner_height">102.339996dp</dimen>
+<dimen name="recommend_double_banner_width">169.000000dp</dimen>
+<dimen name="recommend_simple_banner_hight">100.339996dp</dimen>
+<dimen name="search_footer_view_more_h">48.000000dp</dimen>
+<dimen name="noti_item_midview_padding_left">8.329987dp</dimen>
+<dimen name="report_bottom_layout_w">216.669983dp</dimen>
+<dimen name="webkit_progress_pending">10.000000dp</dimen>
+<dimen name="report_popup_window_w">283.335938dp</dimen>
+<dimen name="screen_shot_margin">3.000000dp</dimen>
+<dimen name="game_comments_support_count_margin_right">508.660004dp</dimen>
+<dimen name="subject_image_width">260.000000dp</dimen>
+<dimen name="recommend_double_middle_width">6.000000dp</dimen>
+<dimen name="subject_image_height">355.000000dp</dimen>
+<dimen name="account_item_margin">15.000000dp</dimen>
+<dimen name="account_title_margin_bottom">10.000000dp</dimen>
+<dimen name="account_title_margin_top">20.000000dp</dimen>
+<dimen name="report_popup_title_h">50.000000dp</dimen>
+<dimen name="game_comments_bottom_divider_w">286.664062dp</dimen>
+<dimen name="game_comments_divider_height">10.000000dp</dimen>
+<dimen name="game_comments_user_icon_size">26.669983dp</dimen>
+<dimen name="account_network_error_data_failed">18.000000sp</dimen>
+<dimen name="detail_bottom_btn_height">40.669983dp</dimen>
+<dimen name="level_img_width">42.000000dp</dimen>
+<dimen name="comment_progressbar_width">130.000000dp</dimen>
+<dimen name="level_img_height">16.000000dp</dimen>
+<dimen name="account_server_box_height">73.299988dp</dimen>
+<dimen name="account_server_box_item_margin">38.299988dp</dimen>
+<dimen name="account_arrow_margin_left">7.500000dp</dimen>
+<dimen name="account_box_icon_size">33.299988dp</dimen>
+<dimen name="bbs_detail_user_avator_wh">30.000000dp</dimen>
+<dimen name="account_network_error_check">16.000000sp</dimen>
+<dimen name="bbs_detail_reply_margin_top">505.330017dp</dimen>
+<dimen name="smileypicker_default_height">260.000000dp</dimen>
+<dimen name="smileypicker_min_height">50.000000dp</dimen>
+<dimen name="bbs_detail_user_item_margin">6.669983dp</dimen>
+<dimen name="bbs_detail_user_head_icon_size">26.669983dp</dimen>
+<dimen name="welcome_bubble_height">53.299988dp</dimen>
+<dimen name="welcome_padding">10.000000dp</dimen>
+<dimen name="welcome_img_padding_right">5.000000dp</dimen>
+<dimen name="account_item_icon_size">16.599976dp</dimen>
+<dimen name="account_item_icon_margin_left">10.000000dp</dimen>
+<integer name="publish_down_in_duration">#000001f4</integer>
+<integer name="down_in_alpha_duration">#00000258</integer>
+<integer name="up_out_duration">#000001f4</integer>
+<integer name="listview_up_duration">#000002ee</integer>
+<integer name="text_font_size_38">#0000000c</integer>
+<integer name="down_in_duration">#000005dc</integer>
+<integer name="pull_down_toast_duration">#000000c8</integer>
+<integer name="text_font_size_34">#0000000b</integer>
+<string-array name="intergral_rule">
+<item>如何获得积分?</item>
+</string-array>
+<string-array name="select_photos">
+<item>手机拍照</item>
+<item>本地图片</item>
+</string-array>
+<string-array name="smiley_sign_texts">
+<item>【1】</item>
+<item>【2】</item>
+<item>【3】</item>
+<item>【4】</item>
+<item>【5】</item>
+<item>【6】</item>
+<item>【7】</item>
+<item>【8】</item>
+<item>【9】</item>
+<item>【0】</item>
+<item>【#】</item>
+<item>【↑】</item>
+<item>【↓】</item>
+<item>【←】</item>
+<item>【→】</item>
+<item>【up-right】</item>
+<item>【up-left】</item>
+<item>【down-right】</item>
+<item>【down-left】</item>
+<item>【back】</item>
+<item>【play】</item>
+<item>【rewind】</item>
+<item>【forward</item>
+<item>【OK】</item>
+<item>【new】</item>
+<item>【top】</item>
+<item>【agree】</item>
+<item>【cool】</item>
+<item>【video】</item>
+<item>【格子】</item>
+<item>bar】</item>
+<item>【full】</item>
+<item>【empty】</item>
+<item>【得】</item>
+<item>【割】</item>
+<item>【指】</item>
+<item>【营】</item>
+<item>【有】</item>
+<item>【无】</item>
+<item>【月】</item>
+<item>【申】</item>
+<item>【艹】</item>
+<item>【lady&amp;gentleman】</item>
+<item>【kid】</item>
+<item>smoking】</item>
+<item>【P】</item>
+<item>【disable】</item>
+<item>【Metro】</item>
+<item>【WC】</item>
+<item>【秘】</item>
+<item>【祝】</item>
+<item>18】</item>
+<item>【ID】</item>
+<item>【★】</item>
+<item>【风扇】</item>
+<item>【heart】</item>
+<item>【VS】</item>
+<item>【开机】</item>
+<item>calls】</item>
+<item>【stocks】</item>
+<item>exchange】</item>
+<item>【Aries】</item>
+<item>【Taurus】</item>
+<item>【Gemini】</item>
+<item>【Cancer】</item>
+<item>【Leo】</item>
+<item>【Virgo】</item>
+<item>【Libra】</item>
+<item>【Scorpio】</item>
+<item>【Sagittarius】</item>
+<item>【Capricorn】</item>
+<item>【Aquarius】</item>
+<item>【Pisces】</item>
+<item>【u~】</item>
+<item>【pentagram】</item>
+<item>A】</item>
+<item>B】</item>
+<item>AB】</item>
+<item>O】</item>
+<item>light】</item>
+<item>light】</item>
+<item>light】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>o’clock】</item>
+<item>【license】</item>
+<item>【registered】</item>
+<item>【trademark】</item>
+</string-array>
+<string-array name="pref_values_update">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="smiley_normal_texts_global">
+<item>0xe04f</item>
+<item>0xe524</item>
+<item>0xe52c</item>
+<item>0xe52a</item>
+<item>0xe52f</item>
+<item>0xe52d</item>
+<item>0xe055</item>
+<item>0xe520</item>
+<item>0xe43e</item>
+<item>0xe03e</item>
+<item>0xe303</item>
+<item>0xe12a</item>
+<item>0xe145</item>
+<item>0xe42b</item>
+<item>0xe035</item>
+<item>0xe33f</item>
+<item>0xe132</item>
+<item>better]</item>
+<item>me]</item>
+<item>0xe417</item>
+<item>0xe40a</item>
+<item>0xe409</item>
+<item>0xe403</item>
+<item>0xe401</item>
+<item>0xe406</item>
+<item>0xe412</item>
+<item>[Thanks]</item>
+<item>flake]</item>
+<item>0xe32c</item>
+<item>0xe32a</item>
+<item>0xe32d</item>
+<item>0xe328</item>
+<item>0xe32b</item>
+<item>0xe327</item>
+<item>0xe334</item>
+<item>0xe330</item>
+<item>0xe326</item>
+<item>0xe010</item>
+<item>0xe41e</item>
+<item>0xe012</item>
+<item>0xe422</item>
+<item>0xe427</item>
+<item>0xe41d</item>
+<item>0xe00f</item>
+<item>0xe41f</item>
+<item>0xe201</item>
+<item>0xe115</item>
+<item>0xe428</item>
+<item>0xe51f</item>
+<item>0xe429</item>
+<item>0xe424</item>
+<item>0xe423</item>
+<item>0xe253</item>
+<item>0xe426</item>
+<item>0xe31e</item>
+<item>0xe31f</item>
+<item>0xe31d</item>
+<item>0xe51a</item>
+<item>0xe519</item>
+<item>0xe518</item>
+<item>0xe515</item>
+<item>0xe516</item>
+<item>0xe517</item>
+<item>0xe51b</item>
+<item>0xe152</item>
+<item>0xe51c</item>
+<item>0xe51e</item>
+<item>0xe536</item>
+<item>0xe003</item>
+<item>0xe41b</item>
+<item>0xe419</item>
+<item>0xe41a</item>
+</string-array>
+<string-array name="smiley_v6_texts_global">
+<item>0xe056</item>
+<item>0xe411</item>
+<item>0xe416</item>
+<item>0xe404</item>
+<item>[No!]</item>
+<item>[hehe…]</item>
+<item>0xe418</item>
+<item>0xe40b</item>
+<item>[What?!]</item>
+<item>0xe415</item>
+<item>[dizzy]</item>
+<item>0xe108</item>
+<item>nose]</item>
+<item>0xe059</item>
+<item>gosh!]</item>
+<item>class]</item>
+<item>0xe402</item>
+<item>[boring]</item>
+<item>[yummy]</item>
+<item>0xe414</item>
+<item>river]</item>
+<item>[smoking]</item>
+<item>sleep]</item>
+<item>[饿]</item>
+<item>0xe408</item>
+<item>[星星眼]</item>
+<item>0xe40c</item>
+<item>[左哼哼]</item>
+<item>[please!]</item>
+<item>up]</item>
+<item>angry]</item>
+<item>0xe105</item>
+<item>[wretched]</item>
+<item>0xe057</item>
+<item>[吐血]</item>
+<item>face]</item>
+<item>[得意]</item>
+<item>[鼓掌]</item>
+<item>[怨念]</item>
+<item>[shush]</item>
+<item>0xe40e</item>
+<item>[ahh…]</item>
+<item>0xe40d</item>
+<item>[泪别]</item>
+<item>bye]</item>
+<item>explosion]</item>
+<item>[headache]</item>
+<item>kiss]</item>
+<item>[馋]</item>
+<item>[吃]</item>
+<item>decide]</item>
+<item>night]</item>
+<item>it]</item>
+<item>[whistling]</item>
+<item>[Oh]</item>
+<item>baby]</item>
+<item>[hug]</item>
+<item>hand]</item>
+<item>[candle]</item>
+<item>tie]</item>
+<item>[赞]</item>
+<item>[求包养]</item>
+<item>[有木有]</item>
+<item>[坑爹]</item>
+<item>[神马]</item>
+<item>[v5]</item>
+<item>[Hold]</item>
+<item>[orz]</item>
+<item>0xe11a</item>
+<item>0xe10c</item>
+<item>0xe41c</item>
+<item>0xe022</item>
+<item>0xe023</item>
+<item>0xe329</item>
+<item>0xe437</item>
+<item>0xe05a</item>
+<item>0xe00e</item>
+<item>0xe421</item>
+<item>0xe00d</item>
+<item>0xe011</item>
+<item>0xe420</item>
+<item>0xe14c</item>
+<item>0xe22e</item>
+<item>0xe22f</item>
+<item>0xe230</item>
+<item>0xe231</item>
+<item>0xe002</item>
+<item>0xe001</item>
+<item>0xe005</item>
+<item>0xe004</item>
+<item>0xe425</item>
+<item>0xe111</item>
+<item>0xe04e</item>
+<item>0xe11c</item>
+<item>0xe052</item>
+<item>0xe053</item>
+<item>0xe531</item>
+<item>0xe050</item>
+<item>0xe527</item>
+<item>0xe051</item>
+<item>0xe10b</item>
+<item>0xe52b</item>
+<item>0xe109</item>
+<item>0xe01a</item>
+<item>0xe521</item>
+<item>0xe52e</item>
+<item>0xe525</item>
+<item>0xe10a</item>
+<item>0xe522</item>
+<item>0xe054</item>
+<item>0xe04a</item>
+<item>0xe04b</item>
+<item>0xe04c</item>
+<item>0xe32e</item>
+<item>0xe32f</item>
+<item>0xe13d</item>
+<item>0xe049</item>
+<item>0xe048</item>
+<item>0xe021</item>
+<item>0xe020</item>
+<item>0xe13c</item>
+<item>0xe331</item>
+<item>0xe11d</item>
+<item>0xe032</item>
+<item>0xe307</item>
+<item>0xe308</item>
+<item>0xe448</item>
+<item>0xe11b</item>
+<item>0xe445</item>
+<item>0xe033</item>
+<item>0xe325</item>
+<item>0xe312</item>
+<item>0xe12d</item>
+<item>0xe310</item>
+<item>0xe513</item>
+<item>0xe126</item>
+<item>0xe008</item>
+<item>0xe03d</item>
+<item>0xe00c</item>
+<item>0xe009</item>
+<item>0xe144</item>
+<item>0xe03f</item>
+<item>0xe10f</item>
+<item>0xe101</item>
+<item>0xe13f</item>
+<item>0xe154</item>
+<item>0xe12f</item>
+<item>0xe30e</item>
+<item>0xe113</item>
+<item>0xe13b</item>
+<item>0xe30f</item>
+<item>0xe311</item>
+<item>0xe018</item>
+<item>0xe42a</item>
+<item>0xe131</item>
+<item>0xe12b</item>
+<item>0xe03c</item>
+<item>0xe041</item>
+<item>0xe322</item>
+<item>0xe13e</item>
+<item>0xe10e</item>
+<item>0xe43c</item>
+<item>0xe323</item>
+<item>0xe31c</item>
+<item>0xe034</item>
+<item>0xe112</item>
+<item>0xe045</item>
+<item>0xe34b</item>
+<item>0xe047</item>
+<item>0xe30c</item>
+<item>0xe044</item>
+<item>0xe120</item>
+<item>0xe33b</item>
+<item>0xe344</item>
+<item>0xe340</item>
+<item>0xe33a</item>
+<item>0xe345</item>
+<item>0xe10d</item>
+<item>0xe01d</item>
+<item>0xe159</item>
+<item>0xe435</item>
+<item>0xe136</item>
+<item>0xe138</item>
+<item>0xe139</item>
+<item>0xe332</item>
+<item>0xe333</item>
+<item>[Mi]</item>
+<item>[微微笑]</item>
+<item>0xe106</item>
+<item>[啵一个]</item>
+<item>[啊？！]</item>
+<item>[大怒]</item>
+<item>[瀑汗]</item>
+<item>0xe410</item>
+<item>[大哭]</item>
+<item>[龇着牙]</item>
+<item>0xe107</item>
+<item>0xe407</item>
+<item>0xe405</item>
+<item>[贱笑]</item>
+<item>[扮鬼脸]</item>
+<item>0xe40f</item>
+<item>0xe413</item>
+<item>[高兴]</item>
+<item>[吓到了]</item>
+<item>[失望]</item>
+<item>[生病]</item>
+<item>0xe058</item>
+</string-array>
+<string-array name="bbs_more">
+<item>放大文字</item>
+<item>只看楼主</item>
+<item>复制链接</item>
+<item>查看原文</item>
+</string-array>
+<string-array name="vip_user_welcome_subtitle">
+<item>多项VIP专属特权已为您开启</item>
+<item>24小时一对一专属客服，随时为您效劳</item>
+<item>您的反馈将得到优先处理权</item>
+<item>您将获得只有VIP才能享用的特权礼包</item>
+<item>以便激活您的VIP服务</item>
+</string-array>
+<string-array name="game_privacy">
+<item>读取短信</item>
+<item>读取通讯录</item>
+<item>读取设备号</item>
+</string-array>
+<string-array name="constellations">
+<item>白羊座</item>
+<item>金牛座</item>
+<item>双子座</item>
+<item>巨蟹座</item>
+<item>狮子座</item>
+<item>处女座</item>
+<item>天秤座</item>
+<item>天蝎座</item>
+<item>射手座</item>
+<item>魔羯座</item>
+<item>水瓶座</item>
+<item>双鱼座</item>
+</string-array>
+<string-array name="user_level_rule">
+<item>打开小米游戏</item>
+<item>下载游戏</item>
+</string-array>
+<string-array name="smiley_car_texts">
+<item>【house】</item>
+<item>【school】</item>
+<item>building】</item>
+<item>【apartment】</item>
+<item>【hospital】</item>
+<item>【bank】</item>
+<item>store】</item>
+<item>hotel】</item>
+<item>【hotel】</item>
+<item>【wedding】</item>
+<item>【church】</item>
+<item>【building】</item>
+<item>【morning】</item>
+<item>afternoon】</item>
+<item>【street】</item>
+<item>【temple】</item>
+<item>【castle】</item>
+<item>【tent】</item>
+<item>【factory】</item>
+<item>【tower】</item>
+<item>mountain】</item>
+<item>【sunset】</item>
+<item>【sunrise】</item>
+<item>star】</item>
+<item>liberty】</item>
+<item>【rainbow】</item>
+<item>park】</item>
+<item>【fountain】</item>
+<item>coaster】</item>
+<item>【cruise】</item>
+<item>【boat】</item>
+<item>】</item>
+<item>【car】</item>
+<item>car】</item>
+<item>【TAXI】</item>
+<item>car】</item>
+<item>engines】</item>
+<item>【ambulance】</item>
+<item>【truck】</item>
+<item>【trolley】</item>
+<item>【metro】</item>
+<item>【subway】</item>
+<item>【ticket】</item>
+<item>station】</item>
+<item>light】</item>
+<item>【warning】</item>
+<item>block】</item>
+<item>【shield】</item>
+<item>【gambling】</item>
+<item>【sign】</item>
+<item>【salon】</item>
+<item>【hot】</item>
+<item>flags】</item>
+<item>【Japan】</item>
+<item>【Korea】</item>
+<item>【USA】</item>
+<item>【France】</item>
+<item>【Spain】</item>
+<item>【Italy】</item>
+<item>【Russia】</item>
+<item>【England】</item>
+<item>【Germany】</item>
+</string-array>
+<string-array name="smiley_normal_texts">
+<item>【kitty】</item>
+<item>【mole】</item>
+<item>【rabbit】</item>
+<item>【fox】</item>
+<item>pig】</item>
+<item>【snake】</item>
+<item>【penguin】</item>
+<item>【dolphin】</item>
+<item>【wave】</item>
+<item>【music】</item>
+<item>flower】</item>
+<item>【TV】</item>
+<item>【unlock】</item>
+<item>football】</item>
+<item>【diamond】</item>
+<item>【pasta】</item>
+<item>car】</item>
+<item>better】</item>
+<item>me】</item>
+<item>【kiss】</item>
+<item>【relax】</item>
+<item>out】</item>
+<item>【sad】</item>
+<item>【worried】</item>
+<item>【complain】</item>
+<item>【happy+tears】</item>
+<item>【Thanks】</item>
+<item>flake】</item>
+<item>heart】</item>
+<item>heart】</item>
+<item>heart】</item>
+<item>heart】</item>
+<item>heart】</item>
+<item>【tempted】</item>
+<item>【punch】</item>
+<item>【Fart】</item>
+<item>notes】</item>
+<item>【rock】</item>
+<item>【paper】</item>
+<item>【Bye】</item>
+<item>】</item>
+<item>【wait】</item>
+<item>【praying】</item>
+<item>【one】</item>
+<item>【clapping】</item>
+<item>【walking】</item>
+<item>【running】</item>
+<item>【couple】</item>
+<item>【dancing】</item>
+<item>【ballet】</item>
+<item>【O】</item>
+<item>【NO】</item>
+<item>【please】</item>
+<item>accept】</item>
+<item>【massage】</item>
+<item>【haircut】</item>
+<item>nails】</item>
+<item>【baby】</item>
+<item>【grandma】</item>
+<item>【grandpa】</item>
+<item>guy】</item>
+<item>【Asian】</item>
+<item>eastern】</item>
+<item>worker】</item>
+<item>【policeman】</item>
+<item>【princess】</item>
+<item>【solder】</item>
+<item>prints】</item>
+<item>【lips】</item>
+<item>【ears】</item>
+<item>【eyes】</item>
+<item>【nose】</item>
+</string-array>
+<string-array name="average_score_star">
+<item>一星</item>
+<item>二星</item>
+<item>三星</item>
+<item>四星</item>
+<item>五星</item>
+</string-array>
+<string-array name="game_ad">
+<item>有广告</item>
+<item>无广告</item>
+</string-array>
+<string-array name="account_items">
+<item>头像：</item>
+<item>昵称：</item>
+<item>性别：</item>
+<item>生日：</item>
+<item>星座：</item>
+<item>所在地：</item>
+<item>最爱玩：</item>
+</string-array>
+<string-array name="game_packet">
+<item>需下载数据包</item>
+</string-array>
+<string-array name="ticket_type">
+<item>米币券</item>
+<item>小说券</item>
+<item>视频券</item>
+</string-array>
+<string-array name="download_tab_title">
+<item>下载队列</item>
+<item>一键更新</item>
+<item>已安装游戏</item>
+</string-array>
+<string-array name="vip_user_welcome_title">
+<item>您已升级为VIP</item>
+<item>VIP专属客服</item>
+<item>优先处理权</item>
+<item>VIP特权礼包</item>
+<item>请完善会员资料</item>
+</string-array>
+<string-array name="default_smiley_texts">
+<item>hi~</item>
+<item>:D</item>
+<item>:P</item>
+<item>囧:</item>
+<item>::&gt;_&lt;::</item>
+<item>&lt;_&gt;|||</item>
+<item>∩_∩</item>
+<item>bye~</item>
+<item>^口^</item>
+<item>〒_〒</item>
+<item>∠※</item>
+<item>:'(</item>
+<item>一-一</item>
+<item>b_d</item>
+<item>*^?^*</item>
+<item>^~^</item>
+<item>$_$</item>
+<item>:)</item>
+<item>^_^</item>
+<item>ˋ^ˊ</item>
+<item>ˋ_ˊ</item>
+<item>°ο°</item>
+<item>^o^</item>
+<item>⊙o⊙</item>
+<item>?_?</item>
+<item>Huh~</item>
+<item>ˉ^ˉ</item>
+<item>→_→</item>
+<item>@ο@</item>
+<item>^人^</item>
+<item>hands~</item>
+<item>oVo</item>
+<item>ōk</item>
+<item>-?o-?</item>
+<item>night~</item>
+<item>smoke~</item>
+</string-array>
+<string-array name="smiley_rubbish_texts">
+<item>【Star】</item>
+<item>【?】</item>
+<item>【!】</item>
+</string-array>
+<string-array name="alipay_choices">
+<item>10</item>
+<item>20</item>
+<item>30</item>
+<item>50</item>
+<item>100</item>
+<item>200</item>
+<item>300</item>
+<item>500</item>
+<item>1000</item>
+</string-array>
+<string-array name="smiley_nature_texts">
+<item>【tornado】</item>
+<item>monkey】</item>
+<item>horse】</item>
+<item>【camel】</item>
+<item>【sheep】</item>
+<item>【elephant】</item>
+<item>chicken】</item>
+<item>【fish】</item>
+<item>【bouquet】</item>
+<item>blossom】</item>
+<item>【flower】</item>
+<item>【clover】</item>
+<item>flower】</item>
+<item>leaf】</item>
+<item>【leaf】</item>
+<item>【fall】</item>
+<item>field】</item>
+<item>【scallop】</item>
+</string-array>
+<string-array name="game_fee">
+<item>关卡收费</item>
+<item>道具收费</item>
+<item>完全免费</item>
+</string-array>
+<string-array name="weeks">
+<item></item>
+<item>星期日</item>
+<item>星期一</item>
+<item>星期二</item>
+<item>星期三</item>
+<item>星期四</item>
+<item>星期五</item>
+<item>星期六</item>
+</string-array>
+<string-array name="vip_level_rule">
+<item>如何升级？</item>
+<item>升级后有什么好处？</item>
+<item>如何保级？</item>
+<item>没有保级，到期后会怎么样？</item>
+</string-array>
+<string-array name="smiley_v6_texts">
+<item>【smile】</item>
+<item>【crying】</item>
+<item>【angry】</item>
+<item>【silly】</item>
+<item>【No!】</item>
+<item>【hehe…】</item>
+<item>kiss】</item>
+<item>【scared】</item>
+<item>【What?!】</item>
+<item>【happy】</item>
+<item>【dizzy】</item>
+<item>serious?!】</item>
+<item>nose】</item>
+<item>【upset】</item>
+<item>gosh!】</item>
+<item>class】</item>
+<item>smile】</item>
+<item>【boring】</item>
+<item>【yummy】</item>
+<item>【fine】</item>
+<item>river】</item>
+<item>【smoking】</item>
+<item>sleep】</item>
+<item>【hungry】</item>
+<item>【sleeping】</item>
+<item>eye】</item>
+<item>【sick】</item>
+<item>【hum1】</item>
+<item>【please!】</item>
+<item>up】</item>
+<item>angry】</item>
+<item>【childish】</item>
+<item>【wretched】</item>
+<item>【laugh】</item>
+<item>blood】</item>
+<item>face】</item>
+<item>【complacent】</item>
+<item>【clap】</item>
+<item>【resentment】</item>
+<item>【shush】</item>
+<item>【disappointed】</item>
+<item>【ahh…】</item>
+<item>【surprised】</item>
+<item>goodbye】</item>
+<item>bye】</item>
+<item>explosion】</item>
+<item>【headache】</item>
+<item>kiss】</item>
+<item>【greedy】</item>
+<item>【eat】</item>
+<item>decide】</item>
+<item>night】</item>
+<item>it】</item>
+<item>【whistling】</item>
+<item>【Oh】</item>
+<item>baby】</item>
+<item>【hug】</item>
+<item>hand】</item>
+<item>【candle】</item>
+<item>tie】</item>
+<item>【赞】</item>
+<item>【求包养】</item>
+<item>【有木有】</item>
+<item>【坑爹】</item>
+<item>【神马】</item>
+<item>【v5】</item>
+<item>【Hold】</item>
+<item>【orz】</item>
+<item>【evil】</item>
+<item>【ET】</item>
+<item>【mouth】</item>
+<item>heart】</item>
+<item>heart】</item>
+<item>love】</item>
+<item>gift】</item>
+<item>【poop】</item>
+<item>【Good】</item>
+<item>good】</item>
+<item>【fist】</item>
+<item>【scissor】</item>
+<item>【Ok】</item>
+<item>【muscle】</item>
+<item>【up】</item>
+<item>【down】</item>
+<item>【left】</item>
+<item>【right】</item>
+<item>【girl】</item>
+<item>【boy】</item>
+<item>【woman】</item>
+<item>【guy】</item>
+<item>other】</item>
+<item>love】</item>
+<item>【angel】</item>
+<item>【skeleton】</item>
+<item>【dog】</item>
+<item>【mouse】</item>
+<item>【frog】</item>
+<item>【tiger】</item>
+<item>【koala】</item>
+<item>【bear】</item>
+<item>【pig】</item>
+<item>【cow】</item>
+<item>【monkey】</item>
+<item>【horse】</item>
+<item>duck】</item>
+<item>【roaster】</item>
+<item>【Caterpillar】</item>
+<item>【octopus】</item>
+<item>fish】</item>
+<item>【whale】</item>
+<item>【sunny】</item>
+<item>【raining】</item>
+<item>【moon】</item>
+<item>【twinkling】</item>
+<item>【star】</item>
+<item>【lightening】</item>
+<item>【cloudy】</item>
+<item>【snowman】</item>
+<item>【exclamation】</item>
+<item>mark】</item>
+<item>【snore】</item>
+<item>drops】</item>
+<item>【fire】</item>
+<item>【rose】</item>
+<item>tree】</item>
+<item>【cactus】</item>
+<item>【Santa】</item>
+<item>【ghost】</item>
+<item>【Halloween】</item>
+<item>tree】</item>
+<item>【bell】</item>
+<item>【congrats!】</item>
+<item>【Ma-jiang】</item>
+<item>【balloon】</item>
+<item>【China】</item>
+<item>【CD】</item>
+<item>【camera】</item>
+<item>recorder】</item>
+<item>【computer】</item>
+<item>【phone】</item>
+<item>【lock】</item>
+<item>【key】</item>
+<item>ball】</item>
+<item>【mailbox】</item>
+<item>bath】</item>
+<item>【ATM】</item>
+<item>【money】</item>
+<item>【cigarette】</item>
+<item>【gun】</item>
+<item>shot】</item>
+<item>【pill】</item>
+<item>【bomb】</item>
+<item>【soccer】</item>
+<item>【basketball】</item>
+<item>【trophy】</item>
+<item>game】</item>
+<item>【karaoke】</item>
+<item>【guitar】</item>
+<item>【bikini】</item>
+<item>heel】</item>
+<item>【crown】</item>
+<item>【umbrella】</item>
+<item>【purse】</item>
+<item>【lipstick】</item>
+<item>ring】</item>
+<item>【gift】</item>
+<item>【coffee】</item>
+<item>cake】</item>
+<item>【beer】</item>
+<item>【cheers】</item>
+<item>【martini】</item>
+<item>【hamburger】</item>
+<item>【fries】</item>
+<item>【sushi】</item>
+<item>soup】</item>
+<item>cone】</item>
+<item>【apple】</item>
+<item>【rocket】</item>
+<item>【airplane】</item>
+<item>【BUS】</item>
+<item>train】</item>
+<item>【bicycle】</item>
+<item>【gentleman】</item>
+<item>【lady】</item>
+<item>【pass】</item>
+<item>【wrong】</item>
+<item>【Mi】</item>
+<item>smile】</item>
+<item>【love】</item>
+<item>kiss】</item>
+<item>【ah?!】</item>
+<item>【rage】</item>
+<item>serious?!】</item>
+<item>out】</item>
+<item>【cry】</item>
+<item>teeth】</item>
+<item>【screaming】</item>
+<item>【speechless】</item>
+<item>eye】</item>
+<item>smile】</item>
+<item>face】</item>
+<item>lot】</item>
+<item>【tears】</item>
+<item>happy】</item>
+<item>【scare】</item>
+<item>【disappoint】</item>
+<item>sick】</item>
+<item>closed】</item>
+</string-array>
+<string-array name="user_level_rule_value">
+<item>经验值(1次/日)</item>
+<item>经验值(5次/日)</item>
+</string-array>
+<string-array name="smiley_life_texts">
+<item>plant】</item>
+<item>married】</item>
+<item>【schoolbag】</item>
+<item>【suit】</item>
+<item>flags】</item>
+<item>【fireworks】</item>
+<item>star】</item>
+<item>wishes】</item>
+<item>festival】</item>
+<item>album】</item>
+<item>phone】</item>
+<item>【fax】</item>
+<item>【DVD】</item>
+<item>【tape】</item>
+<item>【speaker】</item>
+<item>【horn】</item>
+<item>bell】</item>
+<item>【radio】</item>
+<item>【satellite】</item>
+<item>tape】</item>
+<item>lens】</item>
+<item>【scissors】</item>
+<item>【deal】</item>
+<item>【call】</item>
+<item>emails】</item>
+<item>【announcement】</item>
+<item>【toilet】</item>
+<item>【seat】</item>
+<item>【gold】</item>
+<item>【baseball】</item>
+<item>【tennis】</item>
+<item>【golf】</item>
+<item>【billiard】</item>
+<item>【swim】</item>
+<item>【surf】</item>
+<item>【snowboarding】</item>
+<item>【spade】</item>
+<item>【heart】</item>
+<item>【clover】</item>
+<item>【diamond】</item>
+<item>【dart】</item>
+<item>movies】</item>
+<item>【write】</item>
+<item>【read】</item>
+<item>【draw】</item>
+<item>music】</item>
+<item>【trumpet】</item>
+<item>【saxophone】</item>
+<item>【M】</item>
+<item>【shoes】</item>
+<item>【slipper】</item>
+<item>【boots】</item>
+<item>【t-shirt】</item>
+<item>【shirt】</item>
+<item>【dress】</item>
+<item>dress】</item>
+<item>tie】</item>
+<item>hat】</item>
+<item>【hat】</item>
+<item>case】</item>
+<item>【tea】</item>
+<item>【Saki】</item>
+<item>【folk&amp;knife】</item>
+<item>dish】</item>
+<item>combo】</item>
+<item>【onigiri】</item>
+<item>【cookies】</item>
+<item>【rice】</item>
+<item>【soup】</item>
+<item>【bread】</item>
+<item>egg】</item>
+<item>stick】</item>
+<item>stick】</item>
+<item>cream】</item>
+<item>【cake】</item>
+<item>【orange】</item>
+<item>【watermelon】</item>
+<item>【strawberry】</item>
+<item>【eggplant】</item>
+<item>【tomato】</item>
+</string-array>
+<string-array name="game_cer">
+<item>小米认证</item>
+<item>谷歌认证</item>
+</string-array>
+<string-array name="pref_values_data_save_mode">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="personal_menu">
+<item>礼包</item>
+<item>活动</item>
+<item>充值</item>
+<item>客服</item>
+<item>通知</item>
+<item>夺宝</item>
+</string-array>
+</MIUI_Theme_Values>

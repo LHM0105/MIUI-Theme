@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="选择" version="3.1.11" annotation="" tag="">
+    <resource description="picker" x="226" y="1198" width="72" height="72" uuid="8f773de1-7739-444e-a9d8-3040a4f6e664">
+        <path src="res\drawable-xhdpi\picker.png" description="" />
+    </resource>
+    <resource description="action_bar_logo" x="4" y="76" width="106" height="40" uuid="cb1824fd-6887-4bfa-a909-1de44839a331">
+        <path src="res\drawable-xhdpi\action_bar_logo.png" description="" />
+    </resource>
+</screenshot>

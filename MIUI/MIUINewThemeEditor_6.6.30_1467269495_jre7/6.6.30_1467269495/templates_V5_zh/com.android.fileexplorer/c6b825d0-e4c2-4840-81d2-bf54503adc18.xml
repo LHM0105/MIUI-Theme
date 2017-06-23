@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 远程管理 " version="3.1.11" annotation="" tag="2.0 SD卡">
+    <resource description="wifi_state0" x="244" y="378" width="238" height="194" uuid="da245ba2-05d2-4534-8a5c-f5d94131f4b4">
+        <path src="res\drawable-hdpi\wifi_state0.png" description="wifi 图标" />
+        <path src="res\drawable-xhdpi\wifi_state0.png" description="wifi 图标" />
+        <path src="res\drawable-hdpi\wifi_state4.png" description="" />
+        <path src="res\drawable-xhdpi\wifi_state4.png" description="" />
+    </resource>
+    <resource description="ipaddress_bg.9" x="52" y="892" width="614" height="100" uuid="4d66e4a8-226b-44c5-9c94-0fbbcdbfaf8c">
+        <path src="res\drawable-hdpi\ipaddress_bg.9.png" description="ip地址背景" />
+        <path src="res\drawable-xhdpi\ipaddress_bg.9.png" description="ip地址背景" />
+    </resource>
+    <resource description="disconnect" x="165" y="1119" width="45" height="43" uuid="7e69d587-e4c0-483c-bcc6-55cfda8f13a9">
+        <path src="res\drawable-hdpi\connect.png" description="开始按钮" />
+        <path src="res\drawable-xhdpi\connect.png" description="开始按钮" />
+        <path src="res\drawable-hdpi\disconnect.png" description="停止按钮" />
+        <path src="res\drawable-xhdpi\disconnect.png" description="停止按钮" />
+    </resource>
+</screenshot>

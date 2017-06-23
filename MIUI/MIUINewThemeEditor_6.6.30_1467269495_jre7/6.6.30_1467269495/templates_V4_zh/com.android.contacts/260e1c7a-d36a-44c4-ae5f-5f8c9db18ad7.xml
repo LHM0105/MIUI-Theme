@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="4.1 拨号键盘" version="2.9.16" annotation="" tag="拨号">
+    <resource description="dialer_btn_goto_contact_pressed.png" x="31" y="1145" width="174" height="114" uuid="2c323655-564e-4c2c-9813-0122035bdd45">
+        <path src="res\drawable-xhdpi\dialer_btn_goto_contact_normal.png" description="联系人" />
+        <path src="res\drawable-xhdpi\dialer_btn_goto_contact_pressed.png" description="" />
+    </resource>
+    <resource description="dialer_btn_delete_pressed.png" x="510" y="1146" width="174" height="114" uuid="4aae87a5-b8cb-4715-a09f-a44a86b8434d">
+        <path src="res\drawable-xhdpi\dialer_btn_delete_normal.png" description="删除" />
+        <path src="res\drawable-xhdpi\dialer_btn_delete_pressed.png" description="" />
+    </resource>
+    <resource description="dialer_btn_call_pressed.png" x="281" y="1143" width="148" height="114" uuid="62a4e79d-3482-4c8c-bab1-f2fd76abda83">
+        <path src="res\drawable-xhdpi\dialer_btn_call_normal.png" description="拨号" />
+        <path src="res\drawable-xhdpi\dialer_btn_call_pressed.png" description="" />
+    </resource>
+    <resource description="dialer_digits_background.9.png" x="0" y="50" width="720" height="116" uuid="d4e85123-ca29-491a-b324-82ad6733b9bf">
+        <path src="res\drawable-xhdpi\dialer_digits_background.9.png" description="" />
+    </resource>
+    <resource description="send_sms.png" x="26" y="418" width="53" height="53" uuid="4fc77ce7-33e2-4474-a5f2-ba4c66f28344">
+        <path src="res\drawable-xhdpi\send_sms.png" description="" />
+    </resource>
+    <resource description="new_contact.png" x="25" y="307" width="53" height="53" uuid="f9b08820-788e-42b2-a26f-b0c2efa4c079">
+        <path src="res\drawable-xhdpi\new_contact.png" description="" />
+    </resource>
+    <resource description="dialer_buttons.9.png" x="48" y="612" width="610" height="474" uuid="586c912e-3b33-4d81-bdd1-8ced9e4663c1">
+        <path src="res\drawable-hugeui-xhdpi\dialer_buttons.9.png" description="拨号数字" />
+        <path src="res\drawable-largeui-xhdpi\dialer_buttons.9.png" description="拨号数字" />
+        <path src="res\drawable-xhdpi\dialer_buttons.9.png" description="拨号数字" />
+    </resource>
+    <resource description="dialer_background.9.png" x="2" y="590" width="714" height="528" uuid="fe5f6db0-15dc-4704-9f8c-0c5df5c14673">
+        <path src="res\drawable-xhdpi\dialer_background.9.png" description="底板" />
+    </resource>
+    <resource description="dialer_bottom_bar_bg.9.png" x="0" y="1118" width="720" height="162" uuid="5c484a08-4139-4e57-a8b3-f6ae1f996aa0">
+        <path src="res\drawable-xhdpi\dialer_bottom_bar_bg.9.png" description="" />
+    </resource>
+    <resource description="dialer_button_pressed" x="240" y="732" width="240" height="126" uuid="298c6669-9543-40ab-b4b2-5415ab1451e2">
+        <path src="res\drawable-xhdpi\dialer_button_pressed.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 合并" version="3.2.26" annotation="" tag="合并重复联系人">
+    <resource description="merge_contacts_item_bg.9" x="4" y="326" width="706" height="256" uuid="65a8855c-aa99-4a93-9b82-13efb72c1f75">
+        <path src="res\drawable-hdpi\merge_contacts_item_bg.9.png" description="合并线框" />
+        <path src="res\drawable-xhdpi\merge_contacts_item_bg.9.png" description="合并线框" />
+        <path src="res\drawable-xxhdpi\merge_contacts_item_bg.9.png" description="合并线框" />
+    </resource>
+    <resource description="ic_menu_merge_n" x="318" y="1136" width="80" height="90" uuid="d305fe74-b759-4c46-aba1-a908276ccddb">
+        <path src="res\drawable-hdpi\ic_menu_merge_n.png" description="合并联系人图标" />
+        <path src="res\drawable-xhdpi\ic_menu_merge_n.png" description="合并联系人图标" />
+        <path src="res\drawable-xxhdpi\ic_menu_merge_n.png" description="合并联系人图标" />
+        <path src="res\drawable-hdpi\ic_menu_merge_p.png" description="合并联系人图标 二态" />
+        <path src="res\drawable-xhdpi\ic_menu_merge_p.png" description="合并联系人图标 二态" />
+        <path src="res\drawable-xxhdpi\ic_menu_merge_p.png" description="合并联系人图标 二态" />
+    </resource>
+</screenshot>

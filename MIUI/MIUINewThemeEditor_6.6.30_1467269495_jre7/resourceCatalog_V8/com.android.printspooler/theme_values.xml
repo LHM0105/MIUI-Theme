@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="action_button_background">#ffffffff</color>
+<color name="container_background">#fff2f2f2</color>
+<color name="important_text">#ff333333</color>
+<color name="print_option_title">#ff888888</color>
+<color name="separator">#ffcccccc</color>
+<integer name="page_option_value_page_range">#00000001</integer>
+<integer name="page_option_value_all">#00000000</integer>
+<dimen name="printer_list_view_padding_end">16.000000dp</dimen>
+<dimen name="printer_list_view_padding_start">16.000000dp</dimen>
+<dimen name="print_dialog_frame_max_width_dip">400.000000dp</dimen>
+<string name="printing_app_crashed">打印应用崩溃了</string>
+<string name="install_for_print_preview">查看器以便预览</string>
+<string name="no_connection_to_printer">未与打印机建立连接</string>
+<string name="generating_print_job">正在生成打印作业</string>
+<string name="reason_unknown">未知</string>
+<string name="page_count_unknown">页数</string>
+<string name="all_printers">所有打印机…</string>
+<string name="save_as_pdf">PDF</string>
+<string name="search">搜索</string>
+<string name="print_dialog">打印对话框</string>
+<string name="label_destination">目的地</string>
+<string name="label_copies">份数</string>
+<string name="label_paper_size">纸张尺寸</string>
+<string name="label_color">颜色</string>
+<string name="label_orientation">方向</string>
+<string name="label_pages">(%1$s)</string>
+<string name="mediasize_standard_iso">0</string>
+<string name="print_error_default_message">无法生成打印作业</string>
+<string name="printer_unavailable">无法使用</string>
+<string name="print_forget_printer">取消保存打印机</string>
+<string name="permdesc_accessAllPrintJobs">apps.</string>
+<string name="choose_print_service">选择打印服务</string>
+<string name="permlab_accessAllPrintJobs">jobs</string>
+<string name="print_searching_for_printers">正在搜索打印机</string>
+<string name="failed_notification_title_template">打印机在打印“%1$s”时出错</string>
+<string name="print_button">打印</string>
+<string name="cancelling_notification_title_template">正在取消打印“%1$s”</string>
+<string name="advanced_settings_button">打印机设置</string>
+<string name="printing_notification_title_template">正在打印“%1$s”</string>
+<string name="app_label">打印处理服务</string>
+<string name="print_no_printers">找不到打印机</string>
+<string name="mediasize_standard"></string>
+<string name="mediasize_default">PRC_9</string>
+<string name="restart">重新开始</string>
+<string name="mediasize_standard_china">3</string>
+<string name="cancel">取消</string>
+<string name="mediasize_standard_japan">2</string>
+<string name="blocked_notification_title_template">打印机拒绝打印“%1$s”</string>
+<string name="mediasize_standard_north_america">1</string>
+<string name="all_printers_label">所有打印机</string>
+<string name="save_button">保存</string>
+<string name="print_search_box_hidden_utterance">搜索框已隐藏</string>
+<string name="print_add_printer">添加打印机</string>
+<string name="add_print_service_label">添加服务</string>
+<string name="print_search_box_shown_utterance">搜索框已显示</string>
+<string name="print_select_printer">选择打印机</string>
+<string name="pages_range_example">例如：1-5、8、11-13</string>
+<string name="print_preview">打印预览</string>
+<string name="permlab_startPrintServiceConfigActivity">activities</string>
+<string name="permdesc_startPrintServiceConfigActivity">apps.</string>
+<string-array name="mediasize_to_standard_map">
+<item>NA_LETTER</item>
+</string-array>
+<string-array name="pdf_printer_media_sizes">
+<item>ROC_8K</item>
+<item>ROC_16K</item>
+<item>PRC_1</item>
+<item>PRC_2</item>
+<item>PRC_3</item>
+<item>PRC_4</item>
+<item>PRC_5</item>
+<item>PRC_6</item>
+<item>PRC_7</item>
+<item>PRC_8</item>
+<item>PRC_9</item>
+<item>PRC_10</item>
+<item>PRC_16K</item>
+<item>OM_PA_KAI</item>
+<item>OM_DAI_PA_KAI</item>
+<item>OM_JUURO_KU_KAI</item>
+<item>ISO_B6</item>
+<item>ISO_B7</item>
+<item>ISO_B8</item>
+<item>ISO_B9</item>
+<item>ISO_B10</item>
+<item>ISO_C1</item>
+<item>ISO_C2</item>
+<item>ISO_C3</item>
+<item>ISO_C4</item>
+<item>ISO_C5</item>
+<item>ISO_C6</item>
+<item>ISO_C7</item>
+<item>ISO_C8</item>
+<item>ISO_C9</item>
+<item>ISO_C10</item>
+</string-array>
+<string-array name="page_options_labels">
+<item>全部</item>
+<item>范围</item>
+</string-array>
+<string-array name="orientation_labels">
+<item>纵向</item>
+<item>横向</item>
+</string-array>
+<string-array name="color_mode_labels">
+<item>黑白</item>
+<item>彩色</item>
+</string-array>
+</MIUI_Theme_Values>

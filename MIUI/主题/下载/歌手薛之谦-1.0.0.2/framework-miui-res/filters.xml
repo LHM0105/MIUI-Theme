@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIUI_Theme_Filters>
+    <filter path="framework-miui">
+	<package>com.android.contacts</package>
+	<package>com.android.providers.contacts</package>
+    <package>com.android.providers.userdictionary</package>
+	<package>com.android.providers.applications</package>
+	<package>com.android.mms</package>
+	<package>com.android.packageinstaller</package>
+	<package>com.android.providers.downloads.ui</package>
+	<package>com.android.providers.media</package>
+	<package>com.android.providers.downloads</package>
+	<package>com.miui.weather2</package>
+	<package>com.android.systemui</package>
+    <package>com.android.thememanager</package>
+	<package>com.android.settings</package>
+	<package>com.miui.home</package>
+	<package>com.android.quicksearchbox</package>
+	<package>com.android.phone</package>
+	<package>android</package>
+	<package>miui</package>
+	<package>com.miui.mipub</package>
+	<package>com.miui.backup</package>
+    </filter>
+</MIUI_Theme_Filters>

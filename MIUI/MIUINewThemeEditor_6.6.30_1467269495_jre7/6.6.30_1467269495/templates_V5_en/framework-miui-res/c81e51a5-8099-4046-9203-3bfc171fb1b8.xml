@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Edit mode" version="3.3.1" annotation="" tag="Popup windows">
+    <resource description="v5_bottom_bar_delete_icon_pressed_dark" x="392" y="818" width="70" height="76" uuid="23f417ae-385f-4d05-a6c7-19b0c3e6eb00">
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="黑色背景 删除 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="黑色背景 删除 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="黑色背景 删除 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="黑色背景 删除" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="黑色背景 删除" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="黑色背景 删除" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="黑色背景 删除 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="黑色背景 删除 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="黑色背景 删除 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_favorite_icon_pressed_dark" x="258" y="816" width="76" height="80" uuid="4a187014-ead6-4283-ac55-5faab6ad47b2">
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="黑色背景 收藏 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="黑色背景 收藏 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="黑色背景 收藏 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="黑色背景 收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="黑色背景 收藏" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="黑色背景 收藏" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="黑色背景 收藏 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="黑色背景 收藏 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="黑色背景 收藏 按下" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_bg_light.9" x="0" y="650" width="700" height="296" uuid="f1b7c4fd-aa70-4568-8fd9-d9e2b368562e">
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_bg_light.9.png" description="编辑模式底部背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_bg_light.9" x="0" y="48" width="718" height="122" uuid="30e0bb54-7a93-4048-a6c6-d83bd94787f1">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_bg_light.9.png" description="编辑模式顶部背景" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_bg_light.9.png" description="编辑模式顶部背景" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_bg_light.9.png" description="编辑模式顶部背景" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="534" y="60" width="178" height="70" uuid="894c852e-ade1-4b69-a671-d939c86ee7c0">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+    </resource>
+    <resource description="v5_bottom_bar_more_icon_normal_dark" x="510" y="814" width="74" height="78" uuid="633ad95e-923e-4926-a09a-bc2fd9ad3a35">
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_normal_dark.png" description="黑色背景 更多按钮" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_normal_dark.png" description="黑色背景 更多按钮" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_normal_dark.png" description="黑色背景 更多按钮" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_pressed_light.png" description="黑色背景 更多按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="黑色背景 更多按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_pressed_light.png" description="黑色背景 更多按钮 按下" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="10" y="60" width="138" height="68" uuid="527eac3d-9408-4caa-875e-ed6d4873fa9e">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑模式按钮" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="编辑模式按钮 按下" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_list_bg_light.9" x="6" y="1064" width="702" height="216" uuid="3f81be8f-144d-420c-b0dd-c5b614195537">
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_list_bg_light.9.png" description="更多列表 背景" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9" x="122" y="802" width="474" height="110" uuid="9338ce09-3d56-4a2d-87e7-be717899532c">
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式第一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式第一个小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式第一个小豆豆 按下选中" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式最后一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式最后一个小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式最后一个小豆豆 选中" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="中间部分小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="中间部分小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="中间部分小豆豆 选中" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="单独一个小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="单独一个小豆豆 按下" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="单独一个小豆豆选中" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9" x="14" y="1078" width="680" height="90" uuid="1c3a95d4-12e2-43f9-b2ec-98db4f3a8b4e">
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_list_item_bg_normal_light.9.png" description="更多列表" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_item_bg_normal_light.9.png" description="更多列表" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_list_item_bg_normal_light.9.png" description="更多列表" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9.png" description="更多列表 按下" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9.png" description="更多列表 按下" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_list_item_bg_pressed_light.9.png" description="更多列表 按下" />
+    </resource>
+    <resource description="v5_btn_checkbox_on_normal_light" x="620" y="394" width="80" height="84" uuid="497d6e33-d3c8-4222-b72f-ffa54a754831">
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_disabled_dark.png" description="深色背景 未选中 不可按 " />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_disabled_light.png" description="未选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_normal_dark.png" description="深色背景 未选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_off_normal_light.png" description="未选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_disabled_dark.png" description="深色背景 选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_disabled_light.png" description="选中 不可按" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_normal_dark.png" description="深色背景 选中" />
+        <path src="res\drawable-hdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+        <path src="res\drawable-xhdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+        <path src="res\drawable-xxhdpi\v5_btn_checkbox_on_normal_light.png" description="选中" />
+    </resource>
+    <resource description="v5_bottom_bar_refresh_icon_pressed_dark" x="612" y="824" width="62" height="70" uuid="12f0a8d6-2561-42ec-9f66-33875159d38b">
+        <path src="res\drawable-hdpi\v5_bottom_bar_add_to_icon_disable_dark.png" description="添加到 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_add_to_icon_disable_dark.png" description="添加到 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_add_to_icon_disable_dark.png" description="添加到 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_add_to_icon_normal_dark.png" description="添加到" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_add_to_icon_normal_dark.png" description="添加到" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_add_to_icon_normal_dark.png" description="添加到" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_add_to_icon_pressed_dark.png" description="添加到 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_add_to_icon_pressed_dark.png" description="添加到 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_add_to_icon_pressed_dark.png" description="添加到 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_copy_icon_disable_dark.png" description="复制 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_copy_icon_disable_dark.png" description="复制 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_copy_icon_disable_dark.png" description="复制 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_copy_icon_normal_dark.png" description="复制" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_copy_icon_normal_dark.png" description="复制" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_copy_icon_normal_dark.png" description="复制" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_copy_icon_pressed_dark.png" description="复制 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_copy_icon_pressed_dark.png" description="复制 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_copy_icon_pressed_dark.png" description="复制 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_cut_icon_disable_dark.png" description="剪切 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_cut_icon_disable_dark.png" description="剪切 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_cut_icon_disable_dark.png" description="剪切 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_cut_icon_normal_dark.png" description="剪切" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_cut_icon_normal_dark.png" description="剪切" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_cut_icon_normal_dark.png" description="剪切" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_cut_icon_pressed_dark.png" description="剪切 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_cut_icon_pressed_dark.png" description="剪切 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_cut_icon_pressed_dark.png" description="剪切 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="删除 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="删除 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_disable_dark.png" description="删除 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="删除" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="删除" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_normal_dark.png" description="删除" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="删除 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="删除 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_delete_icon_pressed_dark.png" description="删除 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_discard_icon_disable_dark.png" description="停止 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_discard_icon_disable_dark.png" description="停止 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_discard_icon_disable_dark.png" description="停止 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_discard_icon_normal_dark.png" description="停止" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_discard_icon_normal_dark.png" description="停止" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_discard_icon_normal_dark.png" description="停止" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_discard_icon_pressed_dark.png" description="停止 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_discard_icon_pressed_dark.png" description="停止 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_discard_icon_pressed_dark.png" description="停止 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_icon_disable_dark.png" description="编写 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_icon_disable_dark.png" description="编写 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_icon_disable_dark.png" description="编写 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_icon_normal_dark.png" description="编写" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_icon_normal_dark.png" description="编写" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_icon_normal_dark.png" description="编写" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_icon_pressed_dark.png" description="编写 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_icon_pressed_dark.png" description="编写 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_icon_pressed_dark.png" description="编写 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_message_icon_disable_dark.png" description="编写信息 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_message_icon_disable_dark.png" description="编写信息 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_message_icon_disable_dark.png" description="编写信息 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_message_icon_normal_dark.png" description="编写信息" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_message_icon_normal_dark.png" description="编写信息" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_message_icon_normal_dark.png" description="编写信息" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_edit_message_icon_pressed_dark.png" description="编写信息 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_edit_message_icon_pressed_dark.png" description="编写信息 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_edit_message_icon_pressed_dark.png" description="编写信息 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="收藏 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="收藏 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_disable_dark.png" description="收藏 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="收藏" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_normal_dark.png" description="收藏" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="收藏 按下" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="收藏 按下" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_favorite_icon_pressed_dark.png" description="收藏 按下" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_normal_dark.png" description="更多" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_normal_dark.png" description="更多" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_normal_dark.png" description="更多" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_more_icon_pressed_dark.png" description="更多 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_more_icon_pressed_dark.png" description="更多 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_more_icon_pressed_dark.png" description="更多 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_move_to_icon_disable_dark.png" description="移动 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_move_to_icon_disable_dark.png" description="移动 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_move_to_icon_disable_dark.png" description="移动 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_move_to_icon_normal_dark.png" description="移动" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_move_to_icon_normal_dark.png" description="移动" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_move_to_icon_normal_dark.png" description="移动" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_move_to_icon_pressed_dark.png" description="移动 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_move_to_icon_pressed_dark.png" description="移动 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_move_to_icon_pressed_dark.png" description="移动 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_new_icon_disable_dark.png" description="新建 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_disable_dark.png" description="新建 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_new_icon_disable_dark.png" description="新建 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_new_icon_normal_dark.png" description="新建" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_normal_dark.png" description="新建" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_new_icon_normal_dark.png" description="新建" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_new_icon_pressed_dark.png" description="新建 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_new_icon_pressed_dark.png" description="新建 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_new_icon_pressed_dark.png" description="新建 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_pause_icon_disable_dark.png" description="暂停 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_pause_icon_disable_dark.png" description="暂停 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_pause_icon_disable_dark.png" description="暂停 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_pause_icon_normal_dark.png" description="暂停" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_pause_icon_normal_dark.png" description="暂停" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_pause_icon_normal_dark.png" description="暂停" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_pause_icon_pressed_dark.png" description="暂停 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_pause_icon_pressed_dark.png" description="暂停 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_pause_icon_pressed_dark.png" description="暂停 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_refresh_icon_disable_dark.png" description="刷新 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_refresh_icon_disable_dark.png" description="刷新 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_refresh_icon_disable_dark.png" description="刷新 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_refresh_icon_normal_dark.png" description="刷新" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_refresh_icon_normal_dark.png" description="刷新" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_refresh_icon_normal_dark.png" description="刷新" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_refresh_icon_pressed_dark.png" description="刷新 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_refresh_icon_pressed_dark.png" description="刷新 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_refresh_icon_pressed_dark.png" description="刷新 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_rename_icon_disable_dark.png" description="重命名 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_disable_dark.png" description="重命名 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_rename_icon_disable_dark.png" description="重命名 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_rename_icon_normal_dark.png" description="重命名" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_normal_dark.png" description="重命名" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_rename_icon_normal_dark.png" description="重命名" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_rename_icon_pressed_dark.png" description="重命名 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_rename_icon_pressed_dark.png" description="重命名 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_rename_icon_pressed_dark.png" description="重命名 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_save_icon_disable_dark.png" description="保存 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_save_icon_disable_dark.png" description="保存 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_save_icon_disable_dark.png" description="保存 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_save_icon_normal_dark.png" description="保存" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_save_icon_normal_dark.png" description="保存" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_save_icon_normal_dark.png" description="保存" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_save_icon_pressed_dark.png" description="保存 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_save_icon_pressed_dark.png" description="保存 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_save_icon_pressed_dark.png" description="保存 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_search_icon_disable_dark.png" description="搜索 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_search_icon_disable_dark.png" description="搜索 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_search_icon_disable_dark.png" description="搜索 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_search_icon_normal_dark.png" description="搜索" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_search_icon_normal_dark.png" description="搜索" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_search_icon_normal_dark.png" description="搜索" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_search_icon_pressed_dark.png" description="搜索 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_search_icon_pressed_dark.png" description="搜索 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_search_icon_pressed_dark.png" description="搜索 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_send_icon_disable_dark.png" description="发送 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_send_icon_disable_dark.png" description="发送 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_send_icon_disable_dark.png" description="发送 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_send_icon_normal_dark.png" description="发送" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_send_icon_normal_dark.png" description="发送" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_send_icon_normal_dark.png" description="发送" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_send_icon_pressed_dark.png" description="发送 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_send_icon_pressed_dark.png" description="发送 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_send_icon_pressed_dark.png" description="发送 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_setting_icon_disable_dark.png" description="设置 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_setting_icon_disable_dark.png" description="设置 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_setting_icon_disable_dark.png" description="设置 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_setting_icon_normal_dark.png" description="设置 " />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_setting_icon_normal_dark.png" description="设置 " />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_setting_icon_normal_dark.png" description="设置 " />
+        <path src="res\drawable-hdpi\v5_bottom_bar_setting_icon_pressed_dark.png" description="设置 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_setting_icon_pressed_dark.png" description="设置 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_setting_icon_pressed_dark.png" description="设置 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_share_icon_disable_dark.png" description="分享 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_share_icon_disable_dark.png" description="分享 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_share_icon_disable_dark.png" description="分享 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_share_icon_normal_dark.png" description="分享" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_share_icon_normal_dark.png" description="分享" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_share_icon_normal_dark.png" description="分享" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_share_icon_pressed_dark.png" description="分享 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_share_icon_pressed_dark.png" description="分享 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_share_icon_pressed_dark.png" description="分享 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_start_icon_disable_dark.png" description="播放 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_start_icon_disable_dark.png" description="播放 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_start_icon_disable_dark.png" description="播放 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_start_icon_normal_dark.png" description="播放" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_start_icon_normal_dark.png" description="播放" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_start_icon_normal_dark.png" description="播放" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_start_icon_pressed_dark.png" description="播放 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_start_icon_pressed_dark.png" description="播放 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_start_icon_pressed_dark.png" description="播放 二态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_unfavorite_icon_disable_dark.png" description="未收藏 不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_unfavorite_icon_disable_dark.png" description="未收藏 不可按" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_unfavorite_icon_disable_dark.png" description="未收藏 不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_unfavorite_icon_normal_dark.png" description="未收藏" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_unfavorite_icon_normal_dark.png" description="未收藏" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_unfavorite_icon_normal_dark.png" description="未收藏" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_unfavorite_icon_pressed_dark.png" description="未收藏 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_unfavorite_icon_pressed_dark.png" description="未收藏 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_unfavorite_icon_pressed_dark.png" description="未收藏 二态" />
+    </resource>
+    <resource description="v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9" x="600" y="806" width="90" height="110" uuid="e2c48f6c-75df-4b05-b2ba-1009e4b4883c">
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_first_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_last_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_middle_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_dark.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_dark.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_dark.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_more_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_more_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_more_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_more_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_normal_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_pressed_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-hdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-hdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-land-xxhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_bottom_bar_single_icon_selected_bg_light.9.png" description="编辑模式全部小豆豆" />
+    </resource>
+</screenshot>

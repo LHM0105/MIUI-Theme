@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 手机" version="3.1.11" annotation="" tag="2.0 SD卡">
+    <resource description="favorite_tag" x="72" y="616" width="42" height="44" uuid="fff7d543-aa38-4377-8dac-c0fc9102a1d9">
+        <path src="res\drawable-hdpi\favorite_tag.png" description="收藏标志" />
+        <path src="res\drawable-xhdpi\favorite_tag.png" description="收藏标志" />
+    </resource>
+    <resource description="path_gallery_bg.9" x="6" y="142" width="710" height="85" uuid="e807d743-b681-4e35-b618-a28c583b78c7">
+        <path src="res\drawable-hdpi\path_gallery_bg.9.png" description="文件路径背景" />
+        <path src="res\drawable-xhdpi\path_gallery_bg.9.png" description="文件路径背景" />
+    </resource>
+    <resource description="path_gallery_first_item_bg.9" x="27" y="157" width="134" height="58" uuid="3a467bdc-1def-4e9f-a2bb-48c513b00a9d">
+        <path src="res\drawable-hdpi\path_gallery_first_item_bg.9.png" description="第一个按钮" />
+        <path src="res\drawable-xhdpi\path_gallery_first_item_bg.9.png" description="第一个按钮" />
+    </resource>
+    <resource description="path_gallery_item_bg.9" x="349" y="157" width="120" height="56" uuid="19ad8f17-bbc2-4fc2-8f0a-9667d588da2e">
+        <path src="res\drawable-hdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+        <path src="res\drawable-xhdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+    </resource>
+    <resource description="path_gallery_item_bg.9" x="195" y="157" width="134" height="58" uuid="e66ca0bc-daf5-430c-898b-e124bfd799a0">
+        <path src="res\drawable-hdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+        <path src="res\drawable-xhdpi\path_gallery_item_bg.9.png" description="后续按钮" />
+    </resource>
+    <resource description="v5_bottom_bar_paste_icon_pressed_light" x="256" y="1140" width="80" height="90" uuid="23279a2b-7463-4f62-b5e4-51ca055ef402">
+        <path src="res\drawable-hdpi\v5_bottom_bar_paste_icon_disable_light.png" description="粘贴图标不可按" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_paste_icon_disable_light.png" description="粘贴图标不可按" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_paste_icon_normal_light.png" description="粘贴图标常态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_paste_icon_normal_light.png" description="粘贴图标常态" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_paste_icon_pressed_light.png" description="粘贴图标二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_paste_icon_pressed_light.png" description="粘贴图标二态" />
+    </resource>
+    <resource description="file_icon_folder_fav" x="24" y="372" width="84" height="84" uuid="7f141a18-0187-4349-8f39-f45caa70b15e">
+        <path src="res\drawable-hdpi\file_icon_folder.png" description="文件夹" />
+        <path src="res\drawable-xhdpi\file_icon_folder.png" description="文件夹" />
+        <path src="res\drawable-hdpi\file_icon_folder_fav.png" description="收藏文件夹" />
+        <path src="res\drawable-xhdpi\file_icon_folder_fav.png" description="收藏文件夹" />
+    </resource>
+</screenshot>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.6 百变闹钟" version="3.10.23" annotation="" tag="新 混搭">
+    <resource description="ringtone_ready_n" x="53" y="1172" width="70" height="68" uuid="da020fca-f54a-4daa-b084-1ba7a950e0de">
+        <path src="res\drawable-hdpi\ringtone_ready_n.png" description="播放按钮 常态" />
+        <path src="res\drawable-xhdpi\ringtone_ready_n.png" description="播放按钮 常态" />
+        <path src="res\drawable-xxhdpi\ringtone_ready_n.png" description="播放按钮 常态" />
+        <path src="res\drawable-hdpi\ringtone_ready_p.png" description="播放按钮 二态" />
+        <path src="res\drawable-xhdpi\ringtone_ready_p.png" description="播放按钮 二态" />
+        <path src="res\drawable-xxhdpi\ringtone_ready_p.png" description="播放按钮 二态" />
+        <path src="res\drawable-hdpi\ringtone_stop_n.png" description="暂停按钮 常态" />
+        <path src="res\drawable-xhdpi\ringtone_stop_n.png" description="暂停按钮 常态" />
+        <path src="res\drawable-xxhdpi\ringtone_stop_n.png" description="暂停按钮 常态" />
+        <path src="res\drawable-hdpi\ringtone_stop_p.png" description="暂停按钮 二态" />
+        <path src="res\drawable-xhdpi\ringtone_stop_p.png" description="暂停按钮 二态" />
+        <path src="res\drawable-xxhdpi\ringtone_stop_p.png" description="暂停按钮 二态" />
+    </resource>
+    <resource description="resource_operation_view_bg.9" x="0" y="1137" width="718" height="143" uuid="0f8683fe-46d7-434d-8b39-6146958ad78b">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="底栏背景" />
+    </resource>
+    <resource description="resource_comment_n" x="604" y="1188" width="48" height="50" uuid="08a983c6-5969-4d69-b2fd-223ace36da3b">
+        <path src="res\drawable-hdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-xhdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-xxhdpi\resource_comment_n.png" description="评论 常态" />
+        <path src="res\drawable-hdpi\resource_comment_p.png" description="评论 二态" />
+        <path src="res\drawable-xhdpi\resource_comment_p.png" description="评论 二态" />
+        <path src="res\drawable-xxhdpi\resource_comment_p.png" description="评论 二态" />
+    </resource>
+</screenshot>

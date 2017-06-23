@@ -1,0 +1,27 @@
+#BNF+IAT 1.0 UTF-8;
+!grammar talkgo;
+!slot <only>;
+!slot <want>;
+!slot <precall>;
+!slot <sufcall>;
+!slot <presms>;
+!slot <sufsms>;
+!slot <search>;
+!slot <preapp>;
+!slot <app>;
+!slot <contact>;
+!start <action>;
+<action>:<openapp>|<only>|<callsms>;
+<callsms>:[<want>]([<precall>]|[<presms>]|[<search>])<contact>([<sufcall>]|[<sufsms>]);
+<openapp>:<preapp><app>;
+
+<only>:打电话|发短信|编辑短信;
+<want>:我想|我要|帮我;
+<precall>:打电话给|打个电话给|呼叫|拨打|给;
+<sufcall>:打电话|打个电话|的号码|的手机|的电话|的电话号码|的手机号码;
+<presms>:给|发短信给|发个短信给;
+<sufsms>:发个短信|发短信;
+<search>:查找|查询|查一下|查看;
+<preapp>:打开|启动|打开应用|启动应用|打开软件|启动软件;
+<app>:应用名称;
+<contact>:联系人;

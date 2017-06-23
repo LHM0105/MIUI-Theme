@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="搜索按钮" version="3.1.11" annotation="" tag="主题风格">
+    <resource description="ic_menu_search" x="642" y="62" width="62" height="62" uuid="c2dd51e7-af75-4d2d-9970-cfb9db284bd0">
+        <path src="res\drawable-xhdpi\ic_menu_search.png" description="" />
+    </resource>
+    <resource description="flag_using" x="206" y="554" width="28" height="22" uuid="1b5951ad-2111-4d8e-b9b5-7b2a1b942934">
+        <path src="res\drawable-xhdpi\flag_using.png" description="" />
+    </resource>
+    <resource description="resource_thumbnail_mask.9" x="250" y="496" width="214" height="84" uuid="f19a813f-ce99-4a1a-9c51-9b6cd2f076c2">
+        <path src="res\drawable-hdpi\resource_thumbnail_mask.9.png" description="" />
+    </resource>
+    <resource description="resource_thumbnail_bg.9" x="250" y="242" width="216" height="338" uuid="dbfd5420-880d-42ca-ac4f-6d06f8ba7a2f">
+        <path src="res\drawable-hdpi\resource_thumbnail_bg.9.png" description="" />
+    </resource>
+</screenshot>

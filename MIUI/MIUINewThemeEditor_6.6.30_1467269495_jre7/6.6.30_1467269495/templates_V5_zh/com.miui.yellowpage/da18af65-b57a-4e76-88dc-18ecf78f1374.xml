@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="黄页详情2" version="3.8.8" annotation="" tag="">
+    <resource description="call_log_list_item_n.9" x="0" y="646" width="720" height="132" uuid="38532034-982f-49a9-94b2-06ce6c0788ec">
+        <path src="res\drawable-hdpi\call_log_list_item_n.9.png" description="通话记录列表 常态" />
+        <path src="res\drawable-xhdpi\call_log_list_item_n.9.png" description="通话记录列表 常态" />
+        <path src="res\drawable-hdpi\call_log_list_item_p.9.png" description="通话记录列表 二态" />
+        <path src="res\drawable-xhdpi\call_log_list_item_p.9.png" description="通话记录列表 二态" />
+    </resource>
+    <resource description="tab_indicator_bg.9" x="0" y="548" width="720" height="92" uuid="f3320651-b2eb-4b22-ba34-0757462020e8">
+        <path src="res\drawable-xhdpi\tab_indicator_bg.9.png" description="详情页面tab背景" />
+    </resource>
+    <resource description="yellow_page_default_photo" x="0" y="48" width="720" height="594" uuid="cb2f50e1-b1b5-4ce0-8a5e-7565224eba52">
+        <path src="res\drawable-hdpi\yellow_page_default_photo.png" description="黄页详情背景图片" />
+        <path src="res\drawable-xhdpi\yellow_page_default_photo.png" description="黄页详情背景图片" />
+    </resource>
+    <resource description="yellow_page_home_icon_single_n" x="4" y="52" width="86" height="186" uuid="71aa84b7-e21a-4d2c-8398-3d01d7524c45">
+        <path src="res\drawable-hdpi\yellow_page_home_icon_single_n.png" description="黄页返回按钮" />
+        <path src="res\drawable-xhdpi\yellow_page_home_icon_single_n.png" description="黄页返回按钮" />
+        <path src="res\drawable-hdpi\yellow_page_home_icon_single_p.png" description="黄页返回按钮 二态" />
+        <path src="res\drawable-xhdpi\yellow_page_home_icon_single_p.png" description="黄页返回按钮 二态" />
+    </resource>
+</screenshot>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 自定义通知栏开关" version="2.9.16" annotation="通知栏分为五个状态下（下拉、桌面、锁屏、全屏、其他）" tag="单页模式">
+    <resource description="status_bar_toggle_settings_divider.9.png" x="0" y="558" width="720" height="62" uuid="eacad8d7-9281-4907-91d6-488cda273532">
+        <path src="res\drawable-hdpi\status_bar_toggle_settings_divider.9.png" description="" />
+    </resource>
+    <resource description="status_bar_toggle_drag_handle.png" x="642" y="728" width="65" height="78" uuid="d0f30390-7202-4535-8565-1739aab63a2f">
+        <path src="res\drawable-xhdpi\status_bar_toggle_divider_drag_handle.png" description="" />
+        <path src="res\drawable-xhdpi\status_bar_toggle_drag_handle.png" description="" />
+    </resource>
+    <resource description="status_bar_background_fullscreen.9" x="0" y="0" width="720" height="52" uuid="ad8d7127-03ab-4efa-bd24-1804659af372">
+        <path src="res\drawable-hdpi\status_bar_background.9.png" description="其他界面" />
+        <path src="res\drawable-hdpi\status_bar_background_keyguard.9.png" description="锁屏状态" />
+        <path src="res\drawable-hdpi\status_bar_background_transparent.9.png" description="桌面" />
+        <path src="res\drawable-xhdpi\status_bar_background_alternative.9.png" description="下拉状态通知栏（4.1系统无此状态）" />
+        <path src="res\drawable-xhdpi\status_bar_background_fullscreen.9.png" description="全屏状态下（例如：看图片、玩游戏时的全屏状态）" />
+    </resource>
+</screenshot>

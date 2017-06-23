@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 联系人头像编辑" version="3.2.27" annotation="" tag="联系人">
+    <resource description="topbar_bg.9" x="4" y="4" width="710" height="98" uuid="55f84ccf-89cc-47f5-a334-77ec68f232f8">
+        <path src="res\drawable-hdpi\topbar_bg.9.png" description="头像选择 标题" />
+        <path src="res\drawable-xhdpi\topbar_bg.9.png" description="头像选择 标题" />
+        <path src="res\drawable-xxhdpi\topbar_bg.9.png" description="头像选择 标题" />
+    </resource>
+    <resource description="toolbar_bg.9" x="4" y="868" width="708" height="406" uuid="93b34e0d-929a-4a4d-8651-d2d55731960e">
+        <path src="res\drawable-hdpi\toolbar_bg.9.png" description="底部阴影" />
+        <path src="res\drawable-xhdpi\toolbar_bg.9.png" description="底部阴影" />
+        <path src="res\drawable-xxhdpi\toolbar_bg.9.png" description="底部阴影" />
+    </resource>
+    <resource description="toolbar_button_n.9" x="32" y="1146" width="658" height="98" uuid="3fc061dc-6041-4946-bbd3-7fb74df54509">
+        <path src="res\drawable-hdpi\toolbar_button_n.9.png" description="底部按钮" />
+        <path src="res\drawable-xhdpi\toolbar_button_n.9.png" description="底部按钮" />
+        <path src="res\drawable-xxhdpi\toolbar_button_n.9.png" description="底部按钮" />
+        <path src="res\drawable-hdpi\toolbar_button_p.9.png" description="底部按钮 二态" />
+        <path src="res\drawable-xhdpi\toolbar_button_p.9.png" description="底部按钮 二态" />
+        <path src="res\drawable-xxhdpi\toolbar_button_p.9.png" description="底部按钮 二态" />
+    </resource>
+    <resource description="contact_photo_thumbnail_area" x="2" y="136" width="712" height="708" uuid="f242f4a1-7f87-40b0-838b-845f2a16a164">
+        <path src="res\drawable-hdpi\contact_photo_thumbnail_area.png" description="头像选框" />
+        <path src="res\drawable-xhdpi\contact_photo_thumbnail_area.png" description="头像选框" />
+        <path src="res\drawable-xxhdpi\contact_photo_thumbnail_area.png" description="头像选框" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="596" y="18" width="105" height="65" uuid="65195f6b-ad00-4e12-a1d9-ec2071ada01d">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="17" y="16" width="105" height="70" uuid="dd0fb0a7-43c1-46a3-91fe-d8770d29417c">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="编辑按钮" />
+    </resource>
+</screenshot>

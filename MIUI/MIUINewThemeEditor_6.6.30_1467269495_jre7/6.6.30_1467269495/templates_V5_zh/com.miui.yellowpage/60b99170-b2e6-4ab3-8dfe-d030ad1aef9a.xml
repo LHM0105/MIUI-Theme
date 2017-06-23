@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="手机充值" version="3.9.20" annotation="" tag="">
+    <resource description="recharge_history_button_n" x="634" y="58" width="80" height="74" uuid="06f9ddbd-d2e0-4b89-90eb-2f937487a141">
+        <path src="res\drawable-xhdpi\recharge_history_button_n.png" description="充值历史" />
+        <path src="res\drawable-xhdpi\recharge_history_button_p.png" description="充值历史 二态" />
+    </resource>
+    <resource description="pick_phone_n" x="594" y="230" width="96" height="68" uuid="ada32bec-990d-44a0-8004-4b06cac20a86">
+        <path src="res\drawable-xhdpi\pick_phone_n.png" description="选择联系人" />
+        <path src="res\drawable-xhdpi\pick_phone_p.png" description="选择联系人 二态" />
+    </resource>
+</screenshot>

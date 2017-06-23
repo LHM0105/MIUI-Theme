@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 秒表2" version="3.4.12" annotation="" tag="">
+    <resource description="duration_org_1" x="234" y="203" width="263" height="73" uuid="ab09b257-60d6-4aba-9298-459a124dddd8">
+        <path src="res\drawable-hdpi\duration_org_0.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_0.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_1.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_1.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_2.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_2.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_3.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_3.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_4.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_4.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_5.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_5.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_6.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_6.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_7.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_7.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_8.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_8.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_9.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_9.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_colon.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_colon.png" description="橙色时间" />
+        <path src="res\drawable-hdpi\duration_org_dot.png" description="橙色时间" />
+        <path src="res\drawable-xhdpi\duration_org_dot.png" description="橙色时间" />
+    </resource>
+    <resource description="list_bg.9" x="6" y="336" width="708" height="766" uuid="a95cf7b3-32ea-4e6b-99a4-b7d249380377">
+        <path src="res\drawable-hdpi\list_bg.9.png" description="列表背景" />
+        <path src="res\drawable-xhdpi\list_bg.9.png" description="列表背景" />
+    </resource>
+    <resource description="list_item_bg_pressed.9" x="14" y="350" width="694" height="114" uuid="321bc1f0-0384-40e0-bed8-bd9c4a338569">
+        <path src="res\drawable-hdpi\list_item_bg_normal.9.png" description="列表常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_normal.9.png" description="列表常态" />
+        <path src="res\drawable-hdpi\list_item_bg_pressed.9.png" description="列表二态" />
+        <path src="res\drawable-xhdpi\list_item_bg_pressed.9.png" description="列表二态" />
+    </resource>
+    <resource description="bottom_button_bar_bg" x="8" y="1128" width="700" height="140" uuid="3cd172ac-1d60-48bf-b625-d5c804a743d6">
+        <path src="res\drawable-hdpi\bottom_button_bar_bg.png" description="按钮背景" />
+        <path src="res\drawable-xhdpi\bottom_button_bar_bg.png" description="按钮背景" />
+    </resource>
+</screenshot>

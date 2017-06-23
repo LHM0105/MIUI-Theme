@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="5.1 新建常用语" version="2.9.20" annotation="" tag="短信收藏">
+    <resource description="new_phrase.png" x="634" y="271" width="55" height="55" uuid="f012b3ca-4c1d-4303-a03a-ce0568e3d942">
+        <path src="res\drawable-hdpi\new_phrase.png" description="" />
+        <path src="res\drawable-xhdpi\new_phrase.png" description="" />
+    </resource>
+</screenshot>

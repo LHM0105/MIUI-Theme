@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Progress bar" version="3.3.1" annotation="" tag="Controls">
+    <resource description="v5_progress_mask_small.9" x="138" y="472" width="556" height="32" uuid="e7666a5c-ee18-468a-92fa-84422d42c03a">
+        <path src="res\drawable-hdpi\v5_progress_bar_small.9.png" description="进度条" />
+        <path src="res\drawable-xhdpi\v5_progress_bar_small.9.png" description="进度条" />
+        <path src="res\drawable-xxhdpi\v5_progress_bar_small.9.png" description="进度条" />
+        <path src="res\drawable-hdpi\v5_progress_horizontal_bg_small.9.png" description="背景" />
+        <path src="res\drawable-xhdpi\v5_progress_horizontal_bg_small.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\v5_progress_horizontal_bg_small.9.png" description="背景" />
+        <path src="res\drawable-hdpi\v5_progress_mask_small.9.png" description="形状遮罩" />
+        <path src="res\drawable-xhdpi\v5_progress_mask_small.9.png" description="形状遮罩" />
+        <path src="res\drawable-xxhdpi\v5_progress_mask_small.9.png" description="形状遮罩" />
+    </resource>
+</screenshot>

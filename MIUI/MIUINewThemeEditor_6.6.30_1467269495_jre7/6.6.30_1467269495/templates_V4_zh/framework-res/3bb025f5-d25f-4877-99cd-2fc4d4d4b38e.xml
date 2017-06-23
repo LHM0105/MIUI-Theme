@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="局部分割线" version="1.0" annotation="常见于闹钟、定时器" tag="">
+    <resource description="numberpicker_selection_divider.9.png" x="136" y="538" width="130" height="28" uuid="6b59ae59-4de8-4a5b-97d7-bf93c66a6f64">
+        <path src="res\drawable-hdpi\numberpicker_selection_divider.9.png" description="常见于闹钟、定时器" />
+        <path src="res\drawable-xhdpi\numberpicker_selection_divider.9.png" description="常见于闹钟、定时器" />
+    </resource>
+    <resource description="btn_title_pressed.9.png" x="18" y="288" width="676" height="98" uuid="28a4191d-f0a5-46ff-b3fd-206f6b0d46b5">
+        <path src="res\drawable-hdpi\btn_default_normal_holo_light.9.png" description="常态" />
+        <path src="res\drawable-hdpi\btn_default_pressed_holo_light.9.png" description="二态" />
+        <path src="res\drawable-xhdpi\btn_default_normal_holo_light.9.png" description="常态" />
+        <path src="res\drawable-xhdpi\btn_default_pressed_holo_light.9.png" description="二态" />
+    </resource>
+    <resource description="dialog_full_holo_light.9" x="16" y="62" width="690" height="868" uuid="06254bb3-0a59-4cbe-b4df-568d6861125a">
+        <path src="res\drawable-hdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+        <path src="res\drawable-xhdpi\dialog_full_holo_light.9.png" description="建议只做hdpi内弹窗" />
+    </resource>
+    <resource description="list_longpressed_holo.9.png" x="358" y="832" width="348" height="96" uuid="acfadff6-0525-4de4-aae1-e2e5f1a86b42">
+        <path src="res\drawable-hdpi\list_pressed_holo_dark.9.png" description="长按时效果" />
+        <path src="res\drawable-hdpi\list_pressed_holo_light.9.png" description="长按效果" />
+        <path src="res\drawable-xhdpi\list_pressed_holo_dark.9.png" description="长按时效果" />
+        <path src="res\drawable-xhdpi\list_pressed_holo_light.9.png" description="长按效果" />
+    </resource>
+</screenshot>

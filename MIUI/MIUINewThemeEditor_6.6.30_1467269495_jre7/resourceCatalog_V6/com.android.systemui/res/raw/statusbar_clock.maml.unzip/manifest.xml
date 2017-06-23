@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Statusbar version="1" frameRate="0" resDensity="480" scaleByDensity="true" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <Group visibility="le(#mode,1)+#is_tablet">
+        <Var name="hour" expression="ifelse(#time_format,#hour24,#hour12,#hour12,12)"/>
+        <Var name="space_second" expression="ifelse(eq(int(#hour%10),0),5,eq(int(#hour%10),9)*ne(int(#minute/10),1),4,eq(int(#hour%10),2)*ne(int(#minute/10),1),3,eq(int(#hour%10),1),-5,eq(int(#hour%10),2)*eq(int(#minute/10),1),7,eq(int(#hour%10),3)*eq(int(#minute/10),1),4,eq(int(#hour%10),7)*eq(int(#minute/10),1),5,eq(int(#hour%10),8)*eq(int(#minute/10),1),3,eq(int(#hour%10),9)*eq(int(#minute/10),1),7,0)"/>
+        <Var name="flag" expression="eq(int(#hour/10),1)"/>
+        <Var name="offset_x" expression="ifelse(#flag,-19,0)"/>
+        <Image name="hour_first" x="#offset_x" y="29" src="hour/hour.png" srcid="#hour/10"/>
+        <Image name="hour_second" x="#offset_x+#hour_first.bmp_width+16" y="29" src="hour/hour.png" srcid="#hour%10"/>
+        <Image name="dot" x="#offset_x+#hour_first.bmp_width+26+#hour_second.bmp_width+#space_second" y="42" src="minute/minute_dot.png"/>
+        <Image name="minute_first" x="#offset_x+#hour_first.bmp_width+46+#hour_second.bmp_width+#dot.bmp_width" y="29" src="minute/minute.png" srcid="#minute/10"/>
+        <Image name="minute_second" x="#offset_x+#hour_first.bmp_width+58+#hour_second.bmp_width+#dot.bmp_width+#minute_first.bmp_width" y="29" src="minute/minute.png" srcid="#minute%10"/>
+        <DateTime x="0" y="226" format="@date_time" size="34+ifelse(#is_tablet,8,0)" color="#ffffff" alpha="153"/>
+        <Button x="0" y="12" w="410" h="202">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand package="com.android.deskclock" class="com.android.deskclock.DeskClockTabActivity"/>
+                    <ExternCommand command="statusbar_collapse_and_unlock"/>
+                </Trigger>
+            </Triggers>
+        </Button>
+        <Button x="0" y="218" w="410" h="100">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand package="com.android.calendar" class="com.android.calendar.AllInOneActivity"/>
+                    <ExternCommand command="statusbar_collapse_and_unlock"/>
+                </Trigger>
+            </Triggers>
+        </Button>
+    </Group>
+</Statusbar>

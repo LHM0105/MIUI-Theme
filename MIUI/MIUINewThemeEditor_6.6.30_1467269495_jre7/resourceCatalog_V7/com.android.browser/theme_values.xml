@@ -1,0 +1,1844 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<bool name="show_most_visited_first">true</bool>
+<bool name="menu_show_navigation">false</bool>
+<bool name="menu_show_bookmarks">false</bool>
+<bool name="isTablet">false</bool>
+<bool name="hide_nav_buttons">true</bool>
+<color name="color_milink_device_divider">#778d8d8d</color>
+<color name="webapp_bottom_bar_divider_color">#2f000000</color>
+<color name="color_milink_playing_message">#ff8d8d8d</color>
+<color name="color_milink_device_item_s">#fff95805</color>
+<color name="color_milink_device_item_n">#ff8d8d8d</color>
+<color name="color_milink_device_title">#ffdddddd</color>
+<color name="numberpicker_label">#ffdf5600</color>
+<color name="numberpicker_highlight_text">#ffdf5600</color>
+<color name="find_on_page_bar_divider_color">#ffafafaf</color>
+<color name="find_on_page_text_highlight_color_night">#ff5f3011</color>
+<color name="numberpicker_hint_text">#7f000000</color>
+<color name="find_on_page_bar_divider_color_night">#ff1b1c1e</color>
+<color name="webapp_bottom_bar_text_color">#a2000000</color>
+<color name="webapp_appimg_bound_color">#37000000</color>
+<color name="loading_color_bg">#ff000000</color>
+<color name="favorite_date_color">#ffbfbfbf</color>
+<color name="menu_select_color">#22000000</color>
+<color name="favorite_image_bgcolor">#ffdfdfdf</color>
+<color name="loading_color">#ffffffff</color>
+<color name="favorite_divider_color">#ffdfdfdf</color>
+<color name="favorite_select_color">#88dfdfdf</color>
+<color name="favorite_unselect_color">#ffffffff</color>
+<color name="url_color_night">#ff656565</color>
+<color name="url_high_light_color">#fffdd6b0</color>
+<color name="url_hint_color">#ffb0b0b0</color>
+<color name="bookmarkListFaviconBackground">#23ffffff</color>
+<color name="group_text_night">#bb808080</color>
+<color name="label_font_color">#ff999999</color>
+<color name="url_color">#ff7e7e7e</color>
+<color name="white">#ffffffff</color>
+<color name="black">#ff000000</color>
+<color name="bookmarkWidgetFaviconBackground">#23ffffff</color>
+<color name="clear_search_history_color">#ff323232</color>
+<color name="search_color">#ff000000</color>
+<color name="url_status_color">#ffffffff</color>
+<color name="url_hint_color_edit_mode_night">#ff333335</color>
+<color name="url_hint_color_edit_mode">#ffcacaca</color>
+<color name="url_hint_color_night">#ff68686a</color>
+<color name="normal_color"></color>
+<color name="nightmode_color">#ff333333</color>
+<color name="color_picker_background_color">#ffffffff</color>
+<color name="color_picker_border_color">#ffb0b0b0</color>
+<color name="dropdown_dark_divider_color">#ffc0c0c0</color>
+<color name="dropdown_divider_color">#ffe5e5e5</color>
+<color name="indicated_view_pager_text_normal_night">#ff292a2c</color>
+<color name="indicated_view_pager_text_selected">#ffff5816</color>
+<color name="history_list_item_separator_color">#ffe0e0e0</color>
+<color name="indicated_view_pager_text_normal">#ff7c7c7c</color>
+<color name="no_history">#80323232</color>
+<color name="no_history_night">#ff5d5d5d</color>
+<color name="search_hint_color">#ffc6c6c6</color>
+<color name="search_hint_color_night">#ff676869</color>
+<color name="clear_search_history_color_night">#ff1e4a5f</color>
+<color name="search_color_night">#ff656565</color>
+<color name="operation_view_text_color_night">#ff808080</color>
+<color name="indicated_view_pager_text_selected_night">#ff414143</color>
+<color name="indicated_viewpager_divider_color">#ffb0b0b0</color>
+<color name="indicated_viewpager_divider_color_night">#ff292a2c</color>
+<color name="path_text_nomal">#ff6a6a6a</color>
+<color name="path_text_night">#ff5f5f5f</color>
+<color name="parent_path_text_nomal">#ff424242</color>
+<color name="button_text_normal_color">#ff565656</color>
+<color name="button_text_pressed_color">#ffffffff</color>
+<color name="file_picker_root_path_item_text_color">#ff494949</color>
+<color name="file_picker_path_item_text_color">#ffababab</color>
+<color name="qr_button_color_d">#ffcfcfd0</color>
+<color name="qr_button_color_n">#ff707070</color>
+<color name="parent_path_text_night">#ff7f7f7f</color>
+<color name="qr_url_color">#ff989899</color>
+<color name="copy_qr_color_p_night">#ff424244</color>
+<color name="info_bar_title_color">#ff585858</color>
+<color name="common_use_bottom_bar_paste">#ffdcdbdb</color>
+<color name="info_bar_title_highlight_color">#ffeeeeee</color>
+<color name="info_bar_url_color">#ff818181</color>
+<color name="info_bar_title_color_night">#33ffffff</color>
+<color name="info_bar_url_highlight_color">#ffe1e1e1</color>
+<color name="operation_view_text_color">#ffa9a9a9</color>
+<color name="info_bar_url_color_night">#1affffff</color>
+<color name="list_item_url_text_color">#ffa9a9a9</color>
+<color name="list_item_title_text_color_night">#bb808080</color>
+<color name="bookmark_list_item_label_null_text_color">#ffa9a9a9</color>
+<color name="list_item_title_text_color">#ff636363</color>
+<color name="list_item_url_text_color_night">#ff919191</color>
+<color name="list_item_text_pressed_color">#ffffffff</color>
+<color name="readmode_divider_night">#ff121314</color>
+<color name="search_buttun_color_normal">#ff565656</color>
+<color name="default_browser_dialog_white">#ffffffff</color>
+<color name="backgroud_white">#ffffffff</color>
+<color name="backgroud_translucent_dark">#7f000000</color>
+<color name="readmode_divider">#ffb6b6b6</color>
+<color name="quicklink_OKBtn_off">#7f888989</color>
+<color name="quicklink_group_subtitle">#ffb8b8b8</color>
+<color name="quicklink_group_title">#ff313131</color>
+<color name="default_browser_dialog_txt_summary">#ff7e7e7e</color>
+<color name="action_mode_cancle_button_text_color_normal">#cc000000</color>
+<color name="action_mode_cancle_button_text_color_pressed">#ffffffff</color>
+<color name="quicklink_OKBtn_on">#ffffffff</color>
+<color name="device_title_color">#ff303030</color>
+<color name="action_mode_ok_button_text_color_normal">#ffffffff</color>
+<color name="action_mode_cancle_button_text_color_disable">#4d000000</color>
+<color name="action_mode_cancle_button_text_color_normal_night">#ff3f4041</color>
+<color name="quicklink_panel_title_night">#ff3f4041</color>
+<color name="find_on_page_text_highlight_color">#ffee5b1a</color>
+<color name="quicklink_unClick_Url">#ff979797</color>
+<color name="quicklink_add_to_desk_title">#ff6f6f6f</color>
+<color name="quicklink_add_to_desk_title_night">#ff2c2d2f</color>
+<color name="quicklink_panel_title_normal">#ff9e9e9e</color>
+<color name="miuisearch_divider">#99ffffff</color>
+<color name="readmode_portrait_menu_text_color_night">#ffbbbbbb</color>
+<color name="miuisearch_suggest_text_color">#ccffffff</color>
+<color name="miuisearch_searchengine_text_color">#88ffffff</color>
+<color name="portrait_menu_text_color_p">#ffffffff</color>
+<color name="webview_color_night">#ff111214</color>
+<color name="portrait_menu_text_color_n">#ff626262</color>
+<color name="color_milink_playing_button_s">#ff939393</color>
+<color name="color_milink_playing_button_n">#ff8d8d8d</color>
+<color name="video_seekbar_fr_color">#ffffffff</color>
+<color name="miuisearch_window_bg">#bb000000</color>
+<color name="portrait_menu_text_color_night_highlight">#ff742400</color>
+<color name="portrait_menu_text_color_night_d">#ff1f2022</color>
+<color name="landscape_menu_text_color_n">#ff4b4b4b</color>
+<color name="webview_color_normal">#ffffffff</color>
+<color name="portrait_menu_text_color_highlight">#fff35d02</color>
+<color name="adblock_rules_listview_divider">#ffc0c0c1</color>
+<color name="portrait_menu_text_color_d">#ffcacaca</color>
+<color name="portrait_menu_text_color_night_p">#ffa9a9aa</color>
+<color name="portrait_menu_text_color_night_n">#ff424345</color>
+<color name="landscape_menu_text_color_p">#ff4b4b4b</color>
+<color name="landscape_menu_text_color_d">#ffcacaca</color>
+<color name="device_tip_color">#ffa3a3a3</color>
+<color name="dir_tip_color">#ff6c6c6c</color>
+<color name="quicklink_title_selected">#ffff5816</color>
+<color name="quicklink_title_unSelected">#ffaaabab</color>
+<color name="landscape_custom_menu_bg_color">#fffafafa</color>
+<color name="quicklink_add_to">#ffadadad</color>
+<color name="url_input_suggest_indicator_text_color">#ffc4c4c4</color>
+<color name="action_mode_ok_button_text_color_normal_night">#ff4c4c4c</color>
+<color name="url_input_suggest_highlight_night">#ff542816</color>
+<color name="action_mode_ok_button_text_color_disable">#4dffffff</color>
+<color name="url_input_suggest_highlight">#ffee5b1a</color>
+<color name="find_on_page_bar_text_color_n">#ff8a8a8a</color>
+<color name="add_quicklink_title">#ff333333</color>
+<color name="find_on_page_bar_text_color_d">#ffd9d9d9</color>
+<color name="find_on_page_bar_text_color_d_night">#ff2b2e2e</color>
+<color name="find_on_page_bar_text_color_p">#ffffffff</color>
+<color name="find_on_page_bar_text_color_p_night">#ff454546</color>
+<color name="find_on_page_bar_text_color_n_night">#ff404041</color>
+<color name="home_indicator_bar_bg_color">#fff8f8f8</color>
+<color name="url_input_suggest_listitem_url_color_night">#ff1d1e20</color>
+<color name="url_input_suggest_listitem_url_color">#ff959595</color>
+<color name="url_input_suggest_listitem_title_color_night">#ff292a2c</color>
+<color name="url_input_suggest_listitem_title_color">#ff4a4a4a</color>
+<color name="action_mode_ok_button_text_color_pressed">#ffffffff</color>
+<color name="url_input_suggest_indicator_text_color_night">#ff292a2c</color>
+<color name="copy_qr_color_n_night">#ff3f4041</color>
+<color name="copy_qr_color_n">#ff6c6c6c</color>
+<color name="copy_qr_color_p">#ffe4e4e4</color>
+<color name="copy_qr_splite">#ffc1c1c2</color>
+<color name="copy_qr_splite_night">#ff292a2c</color>
+<color name="copy_qr_bg">#80000000</color>
+<color name="bookmark_new_folder_edit_text_color">#ffa5a5a6</color>
+<color name="hitory_item_title_selected_color">#ffff5816</color>
+<color name="homepage_bg_color_night">#ff111214</color>
+<color name="homepage_bg_color">#fff8f8f8</color>
+<color name="tabs_text_color_special_p">#d8ffffff</color>
+<color name="tabs_text_color_special_n">#80ffffff</color>
+<color name="status_bar_color_normal">#ffefeff0</color>
+<color name="status_bar_color_normal_night">#ff111214</color>
+<color name="status_bar_color_normal_phish">#ff721605</color>
+<color name="status_bar_color_normal_incognito">#ff272444</color>
+<color name="adblock_tip_text_color">#ffededed</color>
+<color name="adblock_tip_text_color_night">#ff424345</color>
+<color name="adblock_tip_text_color_phish">#ffd9b5af</color>
+<color name="adblock_tip_text_color_incognito">#ff9897a8</color>
+<color name="info_bar_title_highlight_color_night">#4dffffff</color>
+<color name="info_bar_url_highlight_color_night">#33ffffff</color>
+<color name="notification_action_button_color_p">#ffffffff</color>
+<color name="voice_title_text_color_night">#33ed5137</color>
+<color name="voice_sub_title_text_color">#80000000</color>
+<color name="voice_title_text_color">#ffed5137</color>
+<color name="notification_action_button_color_disable">#ffbdbdbd</color>
+<color name="voice_sub_title_text_color_night">#1affffff</color>
+<color name="voice_circle_color_night">#ffffffff</color>
+<color name="miui_history_group_header_txt_color_normal">#66000000</color>
+<color name="voice_circle_color">#ff000000</color>
+<color name="indicated_top_bar_text_selected">#ffe6691e</color>
+<color name="history_item_title_text_color">#ff4a4a4a</color>
+<color name="miui_history_group_header_txt_color_pressed">#66ffffff</color>
+<color name="indicated_top_bar_text_normal">#ff606060</color>
+<color name="history_item_url_unselected_color">#ffd0d0d0</color>
+<color name="history_item_url_text_color">#ff959595</color>
+<color name="history_item_title_unselected_color">#ffb2b2b2</color>
+<color name="top_bar_tabs_text_color_special_p">#40ffffff</color>
+<color name="top_bar_tabs_text_color_special_n">#40ffffff</color>
+<color name="url_input_suggest_bg_color_night">#ff111214</color>
+<color name="url_input_suggest_bg_color">#fff8f8f8</color>
+<color name="cloud_tab_title_color_night">#ff46464e</color>
+<color name="cloud_tab_title_color">#ffffffff</color>
+<color name="cloud_tab_child_title_color">#ffd1d1d2</color>
+<color name="cloud_tab_child_title_color_night">#ff303039</color>
+<color name="cloud_tab_child_url_color">#ff767678</color>
+<color name="cloud_tab_child_url_color_night">#ff24242d</color>
+<color name="cloud_tab_time_color">#ff8d8d8f</color>
+<color name="cloud_tab_time_color_night">#ff303039</color>
+<color name="cloud_tab_bg">#ff1a1b1e</color>
+<color name="cloud_device_text">#ff5f6062</color>
+<color name="cloud_device_text_night">#ff303039</color>
+<color name="notification_action_button_color_n">#ffffffff</color>
+<color name="v5_text_color_pressed_light">#ffffffff</color>
+<color name="v5_text_color_disable_light">#4d000000</color>
+<color name="home_indicator_bar_bg_color_night">#fff8f8f8</color>
+<color name="v5_text_color_hilighted_disabled_light">#ffffaf7e</color>
+<color name="v5_text_color_hilighted_light">#fff05000</color>
+<color name="v5_text_color_hint_light">#4d000000</color>
+<color name="tabs_text_color_p">#ffffffff</color>
+<color name="tabs_text_color_night_n">#ff414244</color>
+<color name="v5_primary_text_color_light">#ff000000</color>
+<color name="tabs_text_color_n">#ff000000</color>
+<color name="v5_menu_preference_list_color_light">#cc000000</color>
+<color name="top_bar_tabs_text_color_p">#ffffffff</color>
+<color name="top_bar_tabs_text_color_night_p">#26ffffff</color>
+<color name="top_bar_tabs_text_color_n">#80000000</color>
+<color name="tabs_text_color_night_p">#ffaaaaaa</color>
+<color name="top_bar_tabs_text_color_night_n">#26ffffff</color>
+<dimen name="download_file_name_padding_left">10.000000dp</dimen>
+<dimen name="nav_tab_pave_mode_info_bar_text_line_spacing">3.000000dp</dimen>
+<dimen name="topbar_width">240.000000dp</dimen>
+<dimen name="nav_tab_info_bar_left_padding">12.000000dp</dimen>
+<dimen name="nav_tab_info_bar_right_padding">44.000000dp</dimen>
+<dimen name="nav_tab_grid_mode_info_bar_text_line_spacing">2.000000dp</dimen>
+<dimen name="nav_tab_landscape_mode_info_bar_text_line_spacing">2.000000dp</dimen>
+<dimen name="nav_tab_item_grid_mode_infobar_height">27.000000dp</dimen>
+<dimen name="nav_tab_item_landscape_mode_infobar_height">27.000000dp</dimen>
+<dimen name="nav_landscape_mode_title_text_size">9.000000sp</dimen>
+<dimen name="nav_pave_mode_url_text_size">10.000000sp</dimen>
+<dimen name="nav_landscape_mode_url_text_size">8.000000sp</dimen>
+<dimen name="nav_grid_mode_title_text_size">9.000000sp</dimen>
+<dimen name="nav_tab_item_pave_mode_infobar_height">44.000000dp</dimen>
+<dimen name="nav_pave_mode_title_text_size">12.000000sp</dimen>
+<dimen name="nav_grid_mode_url_text_size">8.000000sp</dimen>
+<dimen name="link_preview_overlay_radius">7.000000dp</dimen>
+<dimen name="scroll_thumb_width">25.000000dp</dimen>
+<dimen name="favicon_icon_width">13.000000dp</dimen>
+<dimen name="scroll_thumb_height">30.000000dp</dimen>
+<dimen name="favicon_icon_height">13.000000dp</dimen>
+<dimen name="search_log_translate_value">85.000000dp</dimen>
+<dimen name="url_right_width">45.000000dp</dimen>
+<dimen name="search_input_bottomMargin">4.669983dp</dimen>
+<dimen name="search_icon_height">34.000000dp</dimen>
+<dimen name="storage_volume_item_icon_paddingright">11.000000dp</dimen>
+<dimen name="storage_volume_item_icon_paddingleft">13.000000dp</dimen>
+<dimen name="notification_content_to_icon_length">13.000000dp</dimen>
+<dimen name="notification_padding_right">0.000000dp</dimen>
+<dimen name="notification_padding_left">0.000000dp</dimen>
+<dimen name="tab_pager_info_bar_padding">10.000000dp</dimen>
+<dimen name="bottom_bar_height">56.000000dp</dimen>
+<dimen name="common_use_bottom_bar_cn_text_size">14.000000sp</dimen>
+<dimen name="common_use_bottom_bar_paste_text_size">12.000000sp</dimen>
+<dimen name="quick_link_panel_bottom_padding">10.000000dp</dimen>
+<dimen name="search_input_topMargin">1.000000dp</dimen>
+<dimen name="quicklink_height">84.000000dp</dimen>
+<dimen name="quicklink_defined_title_paddingmargin">10.000000dp</dimen>
+<dimen name="quicklink_defined_url_size">8.000000sp</dimen>
+<dimen name="quicklink_icon_size">57.000000dp</dimen>
+<dimen name="quicklink_add_to_size">11.000000sp</dimen>
+<dimen name="quicklink_add_margin">24.000000dp</dimen>
+<dimen name="quicklink_add_title_size">13.500000sp</dimen>
+<dimen name="add_quicklink_title_size">9.000000sp</dimen>
+<dimen name="quicklink_list_item_size">39.699982dp</dimen>
+<dimen name="quick_icon_corner_size">9.000000dp</dimen>
+<dimen name="quick_link_edit_mode_top_mask_height">45.329987dp</dimen>
+<dimen name="search_logo_container_height">82.329987dp</dimen>
+<dimen name="quick_title_size">12.000000sp</dimen>
+<dimen name="search_input_rightMargin">25.000000dp</dimen>
+<dimen name="search_input_leftMargin">25.000000dp</dimen>
+<dimen name="spacing_margin_quicklinks_top">12.599976dp</dimen>
+<dimen name="quicklink_width">73.000000dp</dimen>
+<dimen name="cloud_tab_group_title_height_small">35.000000dp</dimen>
+<dimen name="tab_indicator_height">37.329987dp</dimen>
+<dimen name="cloud_tab_group_title_height_large">62.500000dp</dimen>
+<dimen name="widgetItemMinHeight">45.000000dp</dimen>
+<dimen name="nav_bar_top_padding">11.329987dp</dimen>
+<dimen name="tab_scale_animation_value">16777191.000000dp</dimen>
+<dimen name="nav_bar_left_right_bottom_padding">3.329987dp</dimen>
+<dimen name="history_padding_left">15.000000dp</dimen>
+<dimen name="readmode_menu_item_landscape">110.000000dp</dimen>
+<dimen name="text_font_size_medium">12.000000sp</dimen>
+<dimen name="incognito_tip_show_alpha_margin">7.000000dp</dimen>
+<dimen name="text_font_size_small">11.000000sp</dimen>
+<dimen name="preference_screen_side_margin">0.000000dp</dimen>
+<dimen name="bookmark_url_padding_left">23.000000dp</dimen>
+<dimen name="bookmark_icon_height">14.000000dp</dimen>
+<dimen name="bookmark_icon_width">14.000000dp</dimen>
+<dimen name="history_padding_right">10.000000dp</dimen>
+<dimen name="spacing_margin_quicklinks_item_land">31.000000dp</dimen>
+<dimen name="spacing_margin_quicklinks_item_port">17.000000dp</dimen>
+<dimen name="spacing_between_quicklinks_item_vertical">16.000000dp</dimen>
+<dimen name="list_favicon_padding">0.000000dp</dimen>
+<dimen name="common_content_padding">10.000000dp</dimen>
+<dimen name="landscape_search_input_left_right">103.669983dp</dimen>
+<dimen name="border_gesture_slot">10.000000dp</dimen>
+<dimen name="indicator_bar_height">37.000000dp</dimen>
+<dimen name="popup_filter_icon_size">32.000000dp</dimen>
+<dimen name="quicklink_panel_bottom_margin">12.000000dp</dimen>
+<dimen name="popup_filter_item_min_height">40.000000dp</dimen>
+<dimen name="qr_image_view_margin_top_portrait">93.399994dp</dimen>
+<dimen name="preference_widget_width">56.000000dp</dimen>
+<dimen name="qr_image_view_margin_top_landscape">20.000000dp</dimen>
+<dimen name="history_item_title_right_padding">10.000000dp</dimen>
+<dimen name="bookmark_thumbnail_width">100.000000dp</dimen>
+<dimen name="qr_button_margin_top_portrait">93.399994dp</dimen>
+<dimen name="qr_button_margin_top_landscape">20.000000dp</dimen>
+<dimen name="preference_screen_side_margin_negative">0.000000dp</dimen>
+<dimen name="history_item_url_padding_left">20.000000dp</dimen>
+<dimen name="history_item_icon_height">13.329987dp</dimen>
+<dimen name="history_item_title_left_padding">6.669983dp</dimen>
+<dimen name="history_item_url_padding_top">8.000000dp</dimen>
+<dimen name="history_item_icon_width">13.329987dp</dimen>
+<dimen name="combo_horizontalSpacing">6.000000dp</dimen>
+<dimen name="combo_paddingTop">0.000000dp</dimen>
+<dimen name="widgetColumnWidth">80.000000dp</dimen>
+<dimen name="widgetVerticalSpacing">6.000000dp</dimen>
+<dimen name="cloud_tab_portrait_bottom_padding_percentage">0.168000%</dimen>
+<dimen name="widgetHorizontalSpacing">6.000000dp</dimen>
+<dimen name="cloud_tab_landscape_top_padding_percentage">0.120000%</dimen>
+<dimen name="cloud_tab_landscape_bottom_padding_percentage">0.243000%</dimen>
+<dimen name="cloud_tab_bottom_margin">10.000000dp</dimen>
+<dimen name="cloud_tab_portrait_side_offset_percentage">0.080000%</dimen>
+<dimen name="cloud_tab_landscape_side_offset_percentage">0.050000%</dimen>
+<dimen name="cloud_tab_portrait_top_padding_percentage">0.104000%</dimen>
+<dimen name="history_group_txt_size">13.000000sp</dimen>
+<dimen name="toolbar_tips_height">40.000000dp</dimen>
+<dimen name="bookmark_new_folder_edittext_margin_top">23.329987dp</dimen>
+<dimen name="toolbar_height">45.000000dp</dimen>
+<dimen name="cloud_tab_top_margin">10.000000dp</dimen>
+<dimen name="border_gesture_min_distance">50.000000dp</dimen>
+<dimen name="favicon_size">16.000000dp</dimen>
+<dimen name="favicon_padded_size">20.000000dp</dimen>
+<dimen name="mv_max_width">450.000000px</dimen>
+<dimen name="mv_item_width">80.000000px</dimen>
+<dimen name="indicated_top_bar_height">45.000000dp</dimen>
+<dimen name="bookmarkThumbnailWidth">90.000000dp</dimen>
+<dimen name="voice_circle_radius_distance">16.000000dp</dimen>
+<dimen name="bookmarkThumbnailHeight">80.000000dp</dimen>
+<dimen name="voice_logo_margin_bottom">104.000000dp</dimen>
+<dimen name="voice_logo_center_margin_bottom">137.000000dp</dimen>
+<dimen name="voice_close_btn_margin_bottom">21.000000dp</dimen>
+<dimen name="voice_sub_title_text_size">13.000000sp</dimen>
+<dimen name="history_header_padding_left">23.329987dp</dimen>
+<dimen name="history_item_height">56.329987dp</dimen>
+<dimen name="history_item_padding_left">23.329987dp</dimen>
+<dimen name="history_header_height">40.000000dp</dimen>
+<dimen name="tab_container_padding_top">13.000000dp</dimen>
+<dimen name="tab_container_padding_bottom">13.000000dp</dimen>
+<dimen name="tab_container_padding_left">23.329987dp</dimen>
+<dimen name="tab_container_padding_right">23.329987dp</dimen>
+<dimen name="indicated_indicator_padding">61.329987dp</dimen>
+<dimen name="mv_border_width">2.000000px</dimen>
+<dimen name="tab_container_height">53.329987dp</dimen>
+<dimen name="mv_item_width_portrait">80.000000px</dimen>
+<dimen name="widgetThumbnailHeight">94.000000dp</dimen>
+<dimen name="list_favicon_corner_radius">3.000000dp</dimen>
+<dimen name="portrait_custom_menu_left_right_padding">15.000000dp</dimen>
+<dimen name="portrait_custom_menu_indicator_height">13.000000dp</dimen>
+<dimen name="portrait_menu_text_bottom_margin_first_row">13.669983dp</dimen>
+<dimen name="landscape_custom_menu_height">96.000000dp</dimen>
+<dimen name="portrait_custom_menu_height_multi_page">182.329987dp</dimen>
+<dimen name="portrait_custom_menu_height_single_page">169.329987dp</dimen>
+<dimen name="numberpicker_text_size_highlight">17.000000sp</dimen>
+<dimen name="tabs_number_text_size">18.669983dp</dimen>
+<dimen name="numberpicker_text_size_hint">12.000000sp</dimen>
+<dimen name="voice_title_animation_distance">80.000000dp</dimen>
+<dimen name="numberpicker_label_padding">15.000000dp</dimen>
+<dimen name="voice_title_margin_top">114.000000dp</dimen>
+<dimen name="numberpicker_label_text_size">10.000000sp</dimen>
+<dimen name="voice_sub_title_margin_top">4.000000dp</dimen>
+<dimen name="voice_title_text_size">18.000000sp</dimen>
+<dimen name="quick_input_text_size">12.000000sp</dimen>
+<dimen name="estimated_landscape_keyboard_height">230.000000dp</dimen>
+<dimen name="portrait_menu_text_bottom_margin_second_row">25.329987dp</dimen>
+<dimen name="config_min_scaling_touch_major">48.000000dp</dimen>
+<dimen name="landscape_custom_menu_width">225.000000dp</dimen>
+<dimen name="config_min_scaling_span">27.000000mm</dimen>
+<dimen name="title_bar_height">45.329987dp</dimen>
+<dimen name="v5_text_font_size_list_primary">16.000000sp</dimen>
+<dimen name="android_status_bar_height">25.000000dp</dimen>
+<dimen name="dropdown_item_height">44.000000dp</dimen>
+<dimen name="nav_pave_top_padding_percentage">0.171900%</dimen>
+<dimen name="dropdown_item_divider_height">1.000000px</dimen>
+<dimen name="nav_pave_screen_offset_percentage">0.125900%</dimen>
+<dimen name="color_picker_gradient_margin">14.500000dp</dimen>
+<dimen name="nav_seekbar_bottom_margin">63.000000dp</dimen>
+<dimen name="color_button_height">60.000000dp</dimen>
+<dimen name="nav_landscape_item_margin">8.000000dp</dimen>
+<dimen name="indicator_bar_notification_padding">5.000000dp</dimen>
+<dimen name="toolbar_guide_popup_offset_y">5.000000dp</dimen>
+<dimen name="sys_status_bar_height">25.000000dp</dimen>
+<dimen name="customizer_icon_size">64.000000dp</dimen>
+<dimen name="nav_grid_item_margin">10.000000dp</dimen>
+<dimen name="nav_pave_item_margin">10.000000dp</dimen>
+<dimen name="nav_landscape_bottom_padding_percentage">0.220000%</dimen>
+<dimen name="indicated_viewpager_item_min_width">67.000000dp</dimen>
+<dimen name="nav_landscape_panel_left_right_padding_percentage">0.020000%</dimen>
+<dimen name="nav_landscape_top_padding_percentage">0.150000%</dimen>
+<dimen name="indicated_viewpager_item_padding">8.000000dp</dimen>
+<dimen name="indicated_viewpager_divider_height">12.669983dp</dimen>
+<dimen name="nav_grid_top_padding_percentage">0.107800%</dimen>
+<dimen name="estimated_portrait_keyboard_height">290.000000dp</dimen>
+<dimen name="nav_grid_bottom_padding_percentage">0.159900%</dimen>
+<dimen name="download_router_text_size">15.000000sp</dimen>
+<dimen name="nav_pave_bottom_padding_percentage">0.222900%</dimen>
+<dimen name="voice_layout_landscape_top_padding">70.000000dp</dimen>
+<dimen name="nav_grid_panel_left_right_padding_percentage">0.042600%</dimen>
+<integer name="max_suggest_lines_portrait">#00000004</integer>
+<integer name="max_suggest_lines_landscape">#00000005</integer>
+<integer name="tab_animation_duration">#000000c8</integer>
+<integer name="max_tabs">#00000010</integer>
+<integer name="most_visits_limit">#0000000a</integer>
+<integer name="comboViewFadeInDuration">#00000190</integer>
+<integer name="tabFadeDuration">#0000012c</integer>
+<integer name="max_bookmark_columns">#00000005</integer>
+<integer name="titlebar_animation_duration">#0000012c</integer>
+<integer name="bookmark_columns_portrait">#00000003</integer>
+<integer name="nav_tab_num_per_screen_landscape">#00000003</integer>
+<integer name="indicated_text_size">#0000000d</integer>
+<integer name="path_item_text_alpha_unclickable">#00000066</integer>
+<integer name="path_item_text_alpha_clickable">#000000cc</integer>
+<integer name="nav_screen_padding_top">#00000002</integer>
+<integer name="nav_tab_num_per_screen_portrait">#00000002</integer>
+<integer name="bookmark_border_length">#00000001</integer>
+<integer name="bookmark_height_width_ratio">#00000064</integer>
+<integer name="bookmark_visible_rows_portrait">#00000003</integer>
+<integer name="bookmark_group_view_height">#00000064</integer>
+<integer name="bookmark_columns_landscape">#00000005</integer>
+<integer name="bookmark_title_max_length">#000000c8</integer>
+<integer name="bookmark_url_max_length">#00000800</integer>
+<integer name="animation_duration">#00000190</integer>
+<integer name="config_screenBrightnessDim">#0000000a</integer>
+<integer name="bookmark_folder_max_length">#00000064</integer>
+<string name="pref_autofill_profile_editor">自动填充文本</string>
+<string name="pref_autofill_profile_editor_summary">设置要用于自动填充网络表单的文本</string>
+<string name="pref_autologin_title">Google</string>
+<string name="pref_autologin_progress">网站</string>
+<string name="pref_general_title">常规</string>
+<string name="pref_general_autofill_title">自动填充</string>
+<string name="pref_autofill_enabled">表单自动填充</string>
+<string name="pref_autofill_enabled_summary">只需触摸一下，即可填完网络表单</string>
+<string name="pref_content_autofit">自动调整页面</string>
+<string name="pref_content_autofit_summary">调整网页版面以适合屏幕大小</string>
+<string name="pref_set_homepage_to">设置为</string>
+<string name="pref_content_search_engine_summary">选择搜索引擎</string>
+<string name="pref_content_javascript">JavaScript</string>
+<string name="pref_content_block_popups">阻止弹出式窗口</string>
+<string name="pref_content_plugins">启用插件</string>
+<string name="pref_content_open_in_background">在后方打开</string>
+<string name="replace">替换</string>
+<string name="menu_preferences">设置</string>
+<string name="choosertitle_sharevia">分享方式</string>
+<string name="clear">清除</string>
+<string name="contextmenu_send_mail">发送电子邮件</string>
+<string name="contextmenu_map">地图</string>
+<string name="contextmenu_dial_dot">拨打…</string>
+<string name="contextmenu_add_contact">添加联系人</string>
+<string name="contextmenu_set_wallpaper">设为壁纸</string>
+<string name="contextmenu_view_image">查看图片</string>
+<string name="contextmenu_download_image">保存图片</string>
+<string name="contextmenu_copylink">复制链接网址</string>
+<string name="contextmenu_copy">复制</string>
+<string name="contextmenu_sharelink">分享链接</string>
+<string name="contextmenu_savelink">保存链接</string>
+<string name="pref_content_title">网页内容</string>
+<string name="pref_privacy_clear_cache">清除缓存</string>
+<string name="pref_privacy_clear_cache_summary">清除存储在本地缓存中的内容和数据库</string>
+<string name="pref_privacy_clear_cache_dlg">要删除本地缓存的内容和数据库吗？</string>
+<string name="pref_privacy_cookies_title">Cookie</string>
+<string name="pref_privacy_clear_cookies">数据</string>
+<string name="pref_privacy_clear_cookies_summary">Cookie</string>
+<string name="autofill_setup_dialog_message">浏览器可以自动填写与此类似的网络表单。要设置自动填充文字吗？</string>
+<string name="autofill_setup_dialog_negative_toast">您可以随时通过“浏览器”&gt;“设置”&gt;“常规”屏幕设置自动填充文本。</string>
+<string name="pref_images_preload_title">载入图片</string>
+<string name="disable_autofill">停用自动填充</string>
+<string name="pref_images_preload_summary">在服务器支持的情况下，允许浏览器预加载图片</string>
+<string name="pref_privacy_security_title">隐私和安全</string>
+<string name="pref_images_preload_value_never_summary">不允许浏览器加载网页中的图片</string>
+<string name="autofill_profile_successful_save">自动填充文本已保存。</string>
+<string name="autofill_profile_editor_save_profile">保存</string>
+<string name="autofill_profile_editor_delete_profile">删除</string>
+<string name="autofill_profile_successful_delete">自动填充文本已删除。</string>
+<string name="autofill_profile_editor_phone_number_invalid">电话号码无效。</string>
+<string name="autofill_profile_editor_phone_number">电话</string>
+<string name="autofill_profile_editor_address_line_2_hint">公寓、套房、单元、楼栋、楼层等等</string>
+<string name="autofill_profile_editor_city">城市/乡镇</string>
+<string name="autofill_profile_editor_address_line_1_hint">街道地址、邮政信箱、转交人</string>
+<string name="autofill_profile_editor_address_line_2">2</string>
+<string name="autofill_profile_editor_country">国家/地区</string>
+<string name="autofill_profile_editor_state">州或省/直辖市/自治区</string>
+<string name="autofill_profile_editor_zip_code">邮政编码</string>
+<string name="autofill_profile_editor_company_name">公司名称</string>
+<string name="autofill_profile_editor_address_line_1">1</string>
+<string name="autofill_profile_editor_email_address">电子邮件地址</string>
+<string name="autofill_profile_editor_heading">键入您要用于自动填充网络表单的文本</string>
+<string name="autologin_bar_error">无法登录。</string>
+<string name="autologin_bar_hide_text">隐藏</string>
+<string name="autologin_bar_login_text">登录</string>
+<string name="autofill_profile_editor_name">全名</string>
+<string name="autologin_bar_text">使用以下身份登录：</string>
+<string name="common_use_phrase_bottom_bar_up_analytic_txt">Expand</string>
+<string name="common_use_phrase_bottom_bar_paste_analytic_txt">Paste</string>
+<string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+<string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+<string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+<string name="common_use_phrase_bottom_bar_point_txt">.</string>
+<string name="pref_privacy_clear_history">清除历史记录</string>
+<string name="pref_privacy_clear_history_summary">清除浏览器导航历史记录</string>
+<string name="pref_privacy_clear_cookies_dlg">吗？</string>
+<string name="pref_privacy_clear_form_data_summary">清除所有保存的表单数据</string>
+<string name="pref_privacy_formdata_title">表单数据</string>
+<string name="pref_privacy_clear_form_data">清除表单数据</string>
+<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">已经是最后一页了</string>
+<string name="bottom_bar_tabs_long_click_down_tip_txt">长按下滑关闭当前页面</string>
+<string name="add_to_bookmark">书签列表</string>
+<string name="add_to_quicklink">主页常用</string>
+<string name="quicklink_bookmark_save">保存到</string>
+<string name="quicklink_saved_before">此网站已添加</string>
+<string name="add_quicklink_to_popular">添加到常用</string>
+<string name="quicklinks_group_default_subtitle">尚未添加任何网站到应用</string>
+<string name="quicklinks_most_visited_title">快速添加</string>
+<string name="quicklinks_most_visited">添加自定义网站</string>
+<string name="quicklinks_most_visited_subtitle">可以快速添加已经访问过的常用候选列表中的网站</string>
+<string name="download_dialog_file_length_hint_txt">文件大小：</string>
+<string name="pref_file_download_save_modify_default_path">修改存放目录</string>
+<string name="download_dialog_file_length_nolength_error_txt">获取失败</string>
+<string name="download_dialog_file_length_nolength_txt">获取中...</string>
+<string name="pref_file_downlaod_save_is_reset_default_settings">要恢复保存路径的默认设置吗？</string>
+<string name="download_dialog_file_length_lessthan1kb">小于1K</string>
+<string name="add_ql_bm_title">保存</string>
+<string name="add_to_desk">拖动到此处，添加到桌面</string>
+<string name="add_to_desk_success">已添加到桌面</string>
+<string name="bottom_bar_tabs_long_click_up_tip_txt">长按上滑关闭当前页面</string>
+<string name="edit_quicklink">编辑常用</string>
+<string name="quicklink_saved">已添加常用</string>
+<string name="quicklink_not_saved">添加常用失败</string>
+<string name="add_quicklinks">添加</string>
+<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">热点提示</string>
+<string name="network_show_wifi_setting_tip_dialog_title">可用热点提示</string>
+<string name="network_show_wifi_setting_tip_dialog_setting_title">使用数据网络访问网页时，提示连接附近可用热点</string>
+<string name="dont_remind_again">不再提醒</string>
+<string name="network_show_wifi_setting_tip_dialog_description">附近有可用WLAN热点，请确认是否尝试连接</string>
+<string name="use_cellular_network_alert_title">网络提示</string>
+<string name="menu_disable_save_bandwidth_mode">关闭省流模式</string>
+<string name="menu_save_bandwidth_mode_first_clicked_txt">省流模式开启，2G/3G下将不再进行网页预读，网页图片点击后加载</string>
+<string name="max_tabs_warning">已达到可用窗口数量上限</string>
+<string name="notif_install_successful">下载已完成。</string>
+<string name="too_many_windows_dialog_title">已达到可用窗口数量上限</string>
+<string name="too_many_windows_dialog_message">无法打开新窗口，请先关闭某个窗口。</string>
+<string name="contextmenu_openlink_newwindow_background">后台窗口中打开</string>
+<string name="pref_content_open_in_background_summary">在当前窗口后方打开新窗口</string>
+<string name="storage_usb">存储器</string>
+<string name="storage_sd_card">卡</string>
+<string name="storage_internal">内存设备</string>
+<string name="file_dir">目录</string>
+<string name="file_name">文件名称</string>
+<string name="return_to_homepage">已回到起始页</string>
+<string name="menu_save_bandwidth_mode_close_toast">省流模式已关闭</string>
+<string name="menu_save_bandwidth_mode_open_toast">省流模式已开启</string>
+<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">确认</string>
+<string name="pref_save_bandwidth_mode_title">省流模式</string>
+<string name="pref_save_bandwidth_mode_summary">开启后，非WLAN下不进行网页预读，图片智能加载</string>
+<string name="menu_enable_save_bandwidth_mode">开启省流模式</string>
+<string name="pref_images_preload_value_wifi_only_summary">根据网络环境智能加载网页中的图片，非WLAN环境下默认不显示，点击图片区域后加载显示</string>
+<string name="pref_images_preload_value_always_summary">始终允许浏览器加载网页中的图片</string>
+<string name="pref_link_prefetch_value_never_summary">不允许浏览器在后台预加载链接的网页</string>
+<string name="pref_data_title">流量管理</string>
+<string name="new_incognito_tab">新建隐身窗口</string>
+<string name="new_tab">新建窗口</string>
+<string name="contextmenu_openlink_newwindow">新窗口中打开</string>
+<string name="open_all_in_new_window">在新窗口中打开全部书签</string>
+<string name="download_complete">文件下载完成</string>
+<string name="app_update_install">文件下载完成，该应用可以进行升级安装</string>
+<string name="quicklinks_management">常用网站</string>
+<string name="download_failed">下载失败</string>
+<string name="pref_file_download_save_title">文件下载与保存</string>
+<string name="pref_file_downlaod_save_reset_default_settings">恢复保存路径的默认设置</string>
+<string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+<string name="download_default_path_txt">设为默认保存路径，以后不再提醒</string>
+<string name="pref_content_homepage">设置起始页</string>
+<string name="modify_download_path_no_sdcard_dlg_msg">存储设备才能修改</string>
+<string name="download_dialog_default_path_invalid">下载路径无效，使用默认下载路径</string>
+<string name="user_defined_webpage_title">添加自定义网站</string>
+<string name="quicklink_user_define_webpage_url">网址</string>
+<string name="quicklink_user_define_webpage_title">名称</string>
+<string name="user_defined_webpage">添加自定义网站</string>
+<string name="clip_dialog_title">是否打开已复制链接?</string>
+<string name="app_new_version">文件下载完成，该应用已安装了最新版本</string>
+<string name="in_incognito">已进入隐身模式，浏览历史将不会被记录。</string>
+<string name="alert_tips">此网站可能存在安全风险，请谨慎访问！</string>
+<string name="stop_loading">停止</string>
+<string name="save_dialog_title">保存</string>
+<string name="save_file_already_exist_alert_title">确认提示</string>
+<string name="save_file_already_exist_alert_message">文件已存在，覆盖吗？</string>
+<string name="filename_empty_alert_message">文件名不能为空</string>
+<string name="filename_illegal_alert_message">文件名包含无效字符，已自动去除</string>
+<string name="downloading">下载中</string>
+<string name="download">下载</string>
+<string name="pref_accessibility_url_shortcut_enter_title">网址快捷输入</string>
+<string name="downloaded">已下载</string>
+<string name="common_use_phrase_bottom_bar_paste_txt">粘贴</string>
+<string name="pref_accessibility_url_shortcut_enter_summary">地址栏输入时可以一键输入常用字母组合</string>
+<string name="close_all_tab_alert_message">确定要关闭所有窗口吗?</string>
+<string name="close_all_tab_alert_title">关闭窗口</string>
+<string name="file_picker">选择路径</string>
+<string name="v5_select_all">全选</string>
+<string name="v5_deselect_all">全不选</string>
+<string name="js_disable_confirm_title">确认关闭JavaScript?</string>
+<string name="js_disable_confirm_message">关闭JavaScript可能会导致部分网页不能正常显示</string>
+<string name="pref_version_summary">版本号:%s</string>
+<string name="pref_category_title_version">版本信息</string>
+<string name="save_image_success">图片保存成功</string>
+<string name="save_image_failed">图片保存失败</string>
+<string name="v5_edit_mode_title_empty">请选择项目</string>
+<string name="use_cellular_network_alert_message">WLAN不可用，是否使用移动网络?</string>
+<string name="sync_item_browser_title">启用浏览器云同步</string>
+<string name="sync_item_browser_summary">开启后可以自动同步您在浏览器上的使用数据，方便您在不同设备上使用浏览器数据。</string>
+<string name="sub_sync_item_browser_title_bookmark">同步书签</string>
+<string name="sub_sync_item_browser_title_bookmark_summary">同步浏览器的书签数据</string>
+<string name="voice_title_distinguish">正在识别…</string>
+<string name="voice_title_listening">正在倾听…</string>
+<string name="voice_title_speech_again">我没听懂，请再说一次</string>
+<string name="cloud_tab">云标签</string>
+<string name="voice_title_please">请说话…</string>
+<string name="voice_sub_title">“打开小米网”</string>
+<string name="webstorage_clear_data_dialog_cancel_button">取消</string>
+<string name="webstorage_origin_summary_mb_stored">数据存储在您手机中</string>
+<string name="webstorage_clear_data_dialog_message">要删除此网站中存储的所有数据吗？</string>
+<string name="webstorage_clear_data_dialog_ok_button">确定</string>
+<string name="geolocation_permissions_prompt_message">%s需要了解您的位置信息</string>
+<string name="geolocation_permissions_prompt_share">共享位置信息</string>
+<string name="accessibility_time_picker_ampm">上午/下午</string>
+<string name="accessibility_time_picker_milli">毫秒</string>
+<string name="color_picker_button_cancel">取消</string>
+<string name="color_picker_button_red">红色</string>
+<string name="color_picker_dialog_title">选择颜色</string>
+<string name="color_picker_button_blue">蓝色</string>
+<string name="color_picker_button_cyan">青色</string>
+<string name="color_picker_button_magenta">洋红色</string>
+<string name="color_picker_button_green">绿色</string>
+<string name="color_picker_button_yellow">黄色</string>
+<string name="color_picker_button_black">黑色</string>
+<string name="color_picker_button_white">白色</string>
+<string name="opening_file_error">无法打开所选文件</string>
+<string name="color_picker_button_more">更多</string>
+<string name="color_picker_hue">色调</string>
+<string name="color_picker_saturation">饱和度</string>
+<string name="color_picker_value">值</string>
+<string name="color_picker_button_set">设置</string>
+<string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
+<string name="miuichromium_error_page_url">检查网址</string>
+<string name="miuichromium_error_page_reload">重新加载</string>
+<string name="miuichromium_error_page_reason_server">网页访问失败</string>
+<string name="save_password_remember">记住</string>
+<string name="save_password_notnow">暂不保存</string>
+<string name="save_password_message">是否希望浏览器记住此密码？</string>
+<string name="webviewchromium_private_browsing_warning">Android.</string>
+<string name="save_password_never">永不</string>
+<string name="private_browsing_warning">不支持该功能。</string>
+<string name="date_picker_dialog_other_button_label">其他</string>
+<string name="copy_to_clipboard_failure_message">未能复制到剪贴板</string>
+<string name="miuichromium_error_page_mobile">移动网络</string>
+<string name="miuichromium_error_page_wlan">设置WLAN</string>
+<string name="miuichromium_error_page_title">找不到网页</string>
+<string name="miuichromium_error_page_reason_network">请检查网络连接</string>
+<string name="miui_content_share">分享</string>
+<string name="menu_exit_nightmode">退出阅读模式</string>
+<string name="js_dialog_before_unload_positive_button">离开此页</string>
+<string name="menu_nightmode">夜间模式/关</string>
+<string name="js_dialog_before_unload_title">确认离开</string>
+<string name="js_dialog_before_unload">\n\n您确定要离开此页面吗？</string>
+<string name="pref_content_auto_light_mode">自动亮度</string>
+<string name="js_dialog_before_unload_negative_button">留在此页</string>
+<string name="menu_theme_setting">主题设置</string>
+<string name="older">往前</string>
+<string name="miui_quicksearch_enable_pref_summary">在顶部通知栏启用快速搜索</string>
+<string name="last_month">上个月</string>
+<string name="menu_addtodesk">添加桌面</string>
+<string name="js_dialog_title_default">JavaScript</string>
+<string name="menu_hv_swap">切换横竖屏</string>
+<string name="js_dialog_title">”的网页显示：</string>
+<string name="miui_search_notification_title">浏览器搜索</string>
+<string name="miui_search_notification_message">点击快速搜索</string>
+<string name="miui_quicksearch_enable_pref_title">通知栏快速搜索</string>
+<string name="find_next">下一条结果</string>
+<string name="miui_content_copy">复制</string>
+<string name="miui_content_paste">粘贴</string>
+<string name="miui_content_web_search">搜索</string>
+<string name="miui_content_select">选择</string>
+<string name="miui_content_select_all">全选</string>
+<string name="miui_content_cut">剪切</string>
+<string name="readmode_page_loading">页面加载中，请稍候...</string>
+<string name="dump_render_tree">file</string>
+<string name="pref_content_fontsize_setting">字号设置</string>
+<string name="dump_dom_tree">file</string>
+<string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+<string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+<string name="tab_most_visited">访问最多</string>
+<string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+<string name="uploads_disabled">文件上传功能已停用。</string>
+<string name="pref_images_preload_default_value"></string>
+<string name="choose_upload">选择要上传的文件</string>
+<string name="pref_images_preload_value_always">2</string>
+<string name="application_name">浏览器</string>
+<string name="pref_images_preload_value_wifi_only">1</string>
+<string name="readmode_battery">电量 </string>
+<string name="pref_images_preload_value_never">0</string>
+<string name="readmode_refresh">刷新</string>
+<string name="dump_display_tree">file</string>
+<string name="readmode_pay">订阅章节</string>
+<string name="readmode_recommend">查看推荐</string>
+<string name="readmode_recommend_message">您已经读完本书所有已出章节,换换口味如何</string>
+<string name="readmode_login">登陆帐号</string>
+<string name="pref_ua_mione_value">4</string>
+<string name="dump_counters">counters</string>
+<string name="webview_find_on_page">在网页上查找</string>
+<string name="miui_content_open_url">打开网址</string>
+<string name="find_previous">上一条结果</string>
+<string name="no_matches">无匹配项</string>
+<string name="title_bar_loading">正在载入...</string>
+<string name="page_info">网页信息</string>
+<string name="page_info_view">查看网页信息</string>
+<string name="page_info_address">网址：</string>
+<string name="ssl_warnings_header">该网站的安全证书有问题。</string>
+<string name="sub_sync_item_browser_title_webapp">同步轻应用</string>
+<string name="sub_sync_item_browser_title_webapp_summary">同步浏览器已添加的轻应用和我的收藏数据</string>
+<string name="sub_sync_item_browser_title_video">同步视频</string>
+<string name="error_title">%s同步错误</string>
+<string name="error_unauthorized">认证失败次数过多，同步已关闭</string>
+<string name="error_forbidden">您的账户出现问题，同步已关闭</string>
+<string name="error_not_acceptable">服务器状态异常，同步已关闭</string>
+<string name="tab_hotpage">热门</string>
+<string name="tab_history">历史</string>
+<string name="voice_title">请说话…</string>
+<string name="tab_snapshots">保存的网页</string>
+<string name="added_to_bookmarks">已添加到书签。</string>
+<string name="readmode_already_add_to_bookshelf">已经加入书架</string>
+<string name="readmode_page_load_error">页面加载失败，请点击刷新按钮重试</string>
+<string name="readmode_pay_message">后续付费章节需要订阅后方可查看</string>
+<string name="readmode_login_message">后续章节需要登录方可查看</string>
+<string name="sub_sync_item_browser_title_history">同步历史数据</string>
+<string name="loading_tips">下拉刷新</string>
+<string name="sub_sync_item_browser_title_video_summary">同步浏览器的视频观看历史及收藏数据</string>
+<string name="password">密码</string>
+<string name="cloud_loading_tips">下拉同步</string>
+<string name="up_to_loading_tips">释放刷新</string>
+<string name="bookmarks_search">浏览器</string>
+<string name="cloud_time_tips">上次同步</string>
+<string name="action">登录</string>
+<string name="cloud_up_to_loading_tips">释放同步</string>
+<string name="ok">确定</string>
+<string name="cancel">取消</string>
+<string name="cloud_no_new_data_toast">当前数据已是最新</string>
+<string name="forward">前进</string>
+<string name="save">确定</string>
+<string name="reload">刷新</string>
+<string name="back">返回</string>
+<string name="download_router_tip">(将文件下载到路由器)</string>
+<string name="router_download_success">已下载，请在小米路由器应用中查看下载进度</string>
+<string name="miui_autologin_bar_error">无法登录，请重试</string>
+<string name="download_phone_tip">小米手机</string>
+<string name="sub_sync_item_browser_title_novel_summary">同步浏览器中读小说平台的书架数据</string>
+<string name="sub_sync_item_browser_title_cloud_tab">同步云标签</string>
+<string name="sub_sync_item_browser_title_history_summary">同步浏览器的浏览历史数据</string>
+<string name="sub_sync_item_browser_title_novel">同步小说书架</string>
+<string name="view_certificate">查看证书</string>
+<string name="ssl_go_back">返回</string>
+<string name="ssl_continue">继续</string>
+<string name="sub_sync_item_browser_title_cloud_tab_summary">同步浏览器在不同设备上正在打开的页面标签数据</string>
+<string name="security_warning">安全警告</string>
+<string name="username">姓名</string>
+<string name="sign_in_to">%s1“%s2”</string>
+<string name="removed_from_bookmarks">已从书签中删除。</string>
+<string name="cloud_sync_closed_toast">同步功能被关闭，无法更新</string>
+<string name="cloud_sync_failed_toast">更新失败，请稍后重试</string>
+<string name="ssl_not_yet_valid">该证书尚未生效。</string>
+<string name="actionbar_share">分享</string>
+<string name="ssl_expired">该证书已过期。</string>
+<string name="select_download_device">选择设备</string>
+<string name="router_download_exist">下载地址已存在</string>
+<string name="router_download_failed">下载失败，请稍后重试</string>
+<string name="stop">停止</string>
+<string name="ssl_unknown">未知证书错误。</string>
+<string name="ssl_invalid">该证书无效。</string>
+<string name="accessibility_content_view">网页视图</string>
+<string name="ssl_date_invalid">该证书的日期无效。</string>
+<string name="actionbar_web_search">网页搜索</string>
+<string name="time_picker_dialog_hour_minute_separator">:</string>
+<string name="time_picker_dialog_minute_second_separator">:</string>
+<string name="time_picker_dialog_second_subsecond_separator">.</string>
+<string name="month_picker_dialog_title">设置月份</string>
+<string name="remove_history_item">从历史记录中删除</string>
+<string name="set_as_homepage">设置为主页</string>
+<string name="bookmark_saved">已保存至书签。</string>
+<string name="time_picker_dialog_pm">下午</string>
+<string name="account">帐户</string>
+<string name="edit_folder">修改文件夹</string>
+<string name="delete_folder">删除文件夹</string>
+<string name="name">标签</string>
+<string name="close_cloud_tab_tip">确定关闭当前“%s”上云标签的显示?</string>
+<string name="enter_incongnito_mode">进入隐私模式</string>
+<string name="miui_autologin_bar_title">可以使用系统帐户身份直接登录此网站</string>
+<string name="location">网址</string>
+<string name="account_prifix">帐户:</string>
+<string name="date_picker_dialog_set">设置</string>
+<string name="date_picker_dialog_title">设置日期</string>
+<string name="date_picker_dialog_clear">清除</string>
+<string name="ssl_mismatch">网站的名称与证书上的名称不一致。</string>
+<string name="ssl_untrusted">该证书并非来自可信的授权中心。</string>
+<string name="open_bookmark">打开</string>
+<string name="create_shortcut_bookmark">添加快捷方式到桌面</string>
+<string name="accessibility_date_picker_week">周</string>
+<string name="remove_from_bookmarks">从书签中删除</string>
+<string name="remove_bookmark">删除书签</string>
+<string name="save_to_bookmarks">保存到书签</string>
+<string name="accessibility_datetime_picker_date">日期</string>
+<string name="week_picker_dialog_title">设置星期</string>
+<string name="edit_bookmark">编辑书签</string>
+<string name="accessibility_date_picker_month">月</string>
+<string name="remove">删除</string>
+<string name="accessibility_datetime_picker_time">时间</string>
+<string name="media_player_loading_video">加载视频</string>
+<string name="profiler_started_toast">分析器已启动</string>
+<string name="media_player_error_text_unknown">抱歉，此视频无法播放。</string>
+<string name="media_player_error_button">确定</string>
+<string name="media_player_error_title">无法播放视频</string>
+<string name="media_player_error_text_invalid_progressive_playback">抱歉，此视频无法流式传输到该设备。</string>
+<string name="snapshot_successed">网页保存成功</string>
+<string name="contextmenu_openlink">打开</string>
+<string name="bookmark_url_not_valid">此网址无效。</string>
+<string name="bookmark_cannot_save_url">无法将此网址添加到书签。</string>
+<string name="bookmark_needs_title">书签必须具有名称。</string>
+<string name="bookmark_needs_url">书签必须具有网址。</string>
+<string name="bookmark_not_saved">无法保存书签。</string>
+<string name="time_picker_dialog_am">上午</string>
+<string name="homepage_set">主页已设置。</string>
+<string name="date_time_picker_dialog_title">设置日期和时间</string>
+<string name="time_picker_dialog_title">设置时间</string>
+<string name="accessibility_time_picker_second">秒</string>
+<string name="accessibility_time_picker_minute">分钟</string>
+<string name="accessibility_time_picker_hour">小时</string>
+<string name="accessibility_date_picker_year">年</string>
+<string name="http">http://</string>
+<string name="snapshot_failed">无法保存以供离线阅读</string>
+<string name="saving_snapshot">正在保存...</string>
+<string name="menu_save_snapshot">保存以供离线阅读</string>
+<string name="history">历史记录</string>
+<string name="bookmarks">书签</string>
+<string name="low_memory_error">内存不足，无法完成上一操作</string>
+<string name="select_dot">选择文本</string>
+<string name="profiler_error_toast">无法启动分析器</string>
+<string name="delete_bookmark_warning">要删除书签“%s”吗？</string>
+<string name="profiler_no_storage_toast">外部存储设备尚未准备就绪，无法启动分析器</string>
+<string name="bookmark_list_view">列表</string>
+<string name="profiler_stopped_toast">中查看分析结果。</string>
+<string name="action_menu_text_video">视频管理</string>
+<string name="action_menu_text_bandwidth">省流模式</string>
+<string name="suggest_access_btn_play">播放</string>
+<string name="suggest_access_btn_view">查看</string>
+<string name="suggest_access_appstore">小米应用商店</string>
+<string name="suggest_access_music">小米音乐</string>
+<string name="suggest_access_yellow">小米黄页</string>
+<string name="close_ads_title">操作提示</string>
+<string name="close_ads_message">您将关闭该内容链接。以后是否直接帮您过滤掉该链接？过滤的链接可在“设置&gt;高级&gt;自定义过滤”内查看。</string>
+<string name="ssl_certificate">安全证书</string>
+<string name="empty_history_hint">历史记录为空</string>
+<string name="suggest_access_item_app_size">%.2fMB</string>
+<string name="ssl_certificate_is_valid">该证书有效。</string>
+<string name="show_check_security_url_check_tip_dialog_description">为了保障您的上网安全，浏览器会提交当前访问的网址，用以检测网站的安全性。如果您不需要此功能，请在设置中关闭“安全网址检测”即可</string>
+<string name="show_check_security_url_check_tip_dialog_title">安全网址功能提示</string>
+<string name="pref_check_security_url_summary">当访问网站时提交当前网址到服务器检测其安全性</string>
+<string name="pref_check_security_url_title">安全网址检测</string>
+<string name="suggest_access_btn_open">打开</string>
+<string name="adblock_websites_settings_title">自定义过滤</string>
+<string name="close_ads_choice_no">否</string>
+<string name="close_ads_choice_yes">是</string>
+<string name="suggest_access_item_app_update">%s</string>
+<string name="suggest_access_btn_install">安装</string>
+<string name="suggest_access_item_album_songs">%d首歌曲</string>
+<string name="suggest_access_item_singer_albums">专辑%d张</string>
+<string name="suggest_access_item_singer_pop">热曲%d首</string>
+<string name="pref_clear_all_data_dlg">要删除以上所有保存的数据吗？</string>
+<string name="pref_content_cloud_speedup">启用云加速</string>
+<string name="adjust_text_zoom_toast">改变文字大小可能会影响网页的显示效果</string>
+<string name="pref_file_download_default_path_prefix">%s</string>
+<string name="adblock_notification">过滤了%d条广告</string>
+<string name="share_page_text">%2$s</string>
+<string name="qr_code_title">二维码</string>
+<string name="save_to_camera">保存到相册</string>
+<string name="pref_clear_adblock_statistics_dlg">要清除所有广告过滤统计吗？</string>
+<string name="bookmark_url_already_exisit">书签中已存在该网址</string>
+<string name="root_folder_lable">无</string>
+<string name="bookmark_title_lable">名称</string>
+<string name="delete_bookmark_group_warning">分组内的所有书签也会一起删除。</string>
+<string name="bookmark_group_lable">分组</string>
+<string name="bookmark_url_lable">地址</string>
+<string name="pref_clear_all_data_title">全部清除</string>
+<string name="pref_clear_data_title">清除数据</string>
+<string name="pref_adblock_counts">已过滤%d条广告</string>
+<string name="pref_enable_adblock_notification">广告过滤提醒</string>
+<string name="pref_clear_adblock_statistics">清除广告拦截统计数据</string>
+<string name="block_ads_choice_continue">继续查看</string>
+<string name="block_ads_choice_block">过滤掉</string>
+<string name="block_ads_title">该内容可能是广告链接</string>
+<string name="block_ads_message">您可以选择将该内容过滤掉或者继续查看</string>
+<string name="action_menu_text_bandwidth_on">省流模式/开</string>
+<string name="action_menu_text_bandwidth_off">省流模式/关</string>
+<string name="sdcard_error">请检查sacard状态</string>
+<string name="save_to_camera_failed">保存图片失败</string>
+<string name="save_to_camera_success">已保存至相册</string>
+<string name="create_qr_code">生成二维码</string>
+<string name="copy_url">复制网址</string>
+<string name="pref_adblock_title">广告过滤</string>
+<string name="url_opened_in_background">已在后台窗口中打开</string>
+<string name="add_new_quicklink">添加常用</string>
+<string name="pref_general_setting_title">一般设置</string>
+<string name="pref_inverted_summary">黑色轉換成白色，反之亦然</string>
+<string name="pref_images_preload_dialogtitle">载入图片</string>
+<string name="geolocation_permissions_prompt_toast_disallowed">此网站无法获取您的位置信息。您可以在“设置”&gt;“隐私和安全”&gt;“取消获取位置信息的权限”中清除此操作。</string>
+<string name="geolocation_permissions_prompt_toast_allowed">此网站可以获取您的位置信息。您可以在“设置”&gt;“高级”&gt;“网站数据存储”中更改此设置。</string>
+<string name="pref_extras_website_settings">网站数据存储</string>
+<string name="search_google">谷歌</string>
+<string name="search_yicha">易查</string>
+<string name="search_bing">必应</string>
+<string name="search_yahoo">雅虎</string>
+<string name="search_taobao">淘宝</string>
+<string name="search_s139">139</string>
+<string name="enter_developer_mode">您已处于开发者模式</string>
+<string name="search_easou">宜搜</string>
+<string name="data_traffic_prompt_title">数据网络提示</string>
+<string name="search_dianping">美食</string>
+<string name="data_traffic_prompt_message">您目前正在使用数据网络，可能会产生大量的流量费用，是否继续？</string>
+<string name="search_shipin">视频</string>
+<string name="data_traffic_prompt_change">无WIFI可用，继续观看可能会产生大量的流量费用，是否继续？</string>
+<string name="adblock_websites_settings_empyt_hint">过滤规则为空</string>
+<string name="adblock_rules_restore">恢复</string>
+<string name="empty_history">没有浏览器历史记录</string>
+<string name="pref_setting_title">网页设置</string>
+<string name="pref_text_zoom">文字比例</string>
+<string name="search_tupian">图片</string>
+<string name="MIUI_startpage">起始页</string>
+<string name="find_on_page">在网页上查找</string>
+<string name="url_copy_done">已经复制此链接网址</string>
+<string name="pref_clear_cache_for_exit">退出时清除缓存</string>
+<string name="pref_confirm_for_exit">退出前确认</string>
+<string name="pref_general_exit_setting_title">退出设置</string>
+<string name="not_remind_again">不再提醒</string>
+<string name="exit_browser_warning">确认退出浏览器？</string>
+<string name="menu_exit">退出</string>
+<string name="pref_clear_history_for_exit">退出时清除历史记录</string>
+<string name="recover">恢复</string>
+<string name="search_baidu">百度</string>
+<string name="search_sogou">搜狗</string>
+<string name="search">搜索</string>
+<string name="clear_search_history">清除历史记录</string>
+<string name="menu_disable_night_mode">关闭夜间模式</string>
+<string name="search_cancel">取消</string>
+<string name="pref_autologin_progress_in_background">并同步Google书签</string>
+<string name="menu_enable_night_mode">开启夜间模式</string>
+<string name="popup_window_attempt">要允许此网站打开一个弹出式窗口吗？</string>
+<string name="search_settings_description">书签和网络历史记录</string>
+<string name="search_button_text">开始</string>
+<string name="download_no_sdcard_dlg_title">存储设备</string>
+<string name="block">阻止</string>
+<string name="allow">允许</string>
+<string name="webstorage_clear_data_title">清除存储的数据</string>
+<string name="pref_link_prefetch_value_always">ALWAYS</string>
+<string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_link_prefetch_dialogtitle">网页预加载</string>
+<string name="pref_link_prefetch_default_value"></string>
+<string name="pref_video_preload_value_never">NEVER</string>
+<string name="pref_video_preload_title">视频预加载</string>
+<string name="search_label">Browser</string>
+<string name="add_new_bookmark">添加书签</string>
+<string name="download_sdcard_busy_dlg_title">存储设备</string>
+<string name="download_sdcard_busy_dlg_msg">存储设备”。</string>
+<string name="cannot_download">只能从“http”或“https”网址下载。</string>
+<string name="download_pending">开始下载...</string>
+<string name="dump_nav">cache</string>
+<string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+<string name="webstorage_outofspace_notification_title">浏览器存储空间已满</string>
+<string name="webstorage_outofspace_notification_text">触摸可释放空间。</string>
+<string name="download_no_sdcard_dlg_msg">存储设备才能下载“%s”。</string>
+<string name="pref_default_text_encoding_dialogtitle">文字编码</string>
+<string name="pref_default_text_encoding">文字编码</string>
+<string name="pref_development_reset_prelogin">prelogin</string>
+<string name="pref_development_error_console">Console</string>
+<string name="js_engine_flags">flags</string>
+<string name="pref_link_prefetch_value_never">NEVER</string>
+<string name="pref_link_prefetch_title">网页预加载</string>
+<string name="pref_data_preload_dialogtitle">搜索结果预加载</string>
+<string name="browserFrameFormResubmitLabel"></string>
+<string name="browserFrameFormResubmitMessage">您尝试查看的网页中包含已提交的数据（“POSTDATA”）。如果您重新发送这些数据，系统会重复该网页上的表单所执行过的一切操作（如搜索或在线购买）。</string>
+<string name="browserFrameNetworkErrorLabel">连接问题</string>
+<string name="browserFrameFileErrorLabel">文件问题</string>
+<string name="pref_video_preload_default_value"></string>
+<string name="pref_video_preload_dialogtitle">视频预加载</string>
+<string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_video_preload_value_always">ALWAYS</string>
+<string name="pref_default_text_encoding_default">UTF-8</string>
+<string name="pref_default_zoom_dialogtitle">默认缩放设置</string>
+<string name="pref_default_zoom">默认缩放设置</string>
+<string name="pref_content_load_page_summary">显示新打开网页的概览</string>
+<string name="pref_content_load_page">以概览模式打开网页</string>
+<string name="pref_development_hardware_accel_skia">Skia</string>
+<string name="pref_development_hardware_accel">Rendering</string>
+<string name="pref_development_cpu_upload_path">Path</string>
+<string name="pref_development_visual_indicator">Indicator</string>
+<string name="pref_data_preload_value_never">NEVER</string>
+<string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+<string name="pref_data_preload_value_always">ALWAYS</string>
+<string name="pref_data_preload_default_value"></string>
+<string name="pref_accessibility_title">辅助功能</string>
+<string name="pref_font_size_category">文字大小</string>
+<string name="pref_data_preload_title">搜索结果预加载</string>
+<string name="pref_extras_title">高级</string>
+<string name="pref_extras_website_settings_summary">各网站的高级设置</string>
+<string name="pref_inverted_category">屏幕反色显示</string>
+<string name="pref_inverted">反色显示</string>
+<string name="pref_force_userscalable">强制启用缩放</string>
+<string name="pref_force_userscalable_summary">替换网站的请求以控制缩放行为</string>
+<string name="pref_inverted_contrast">对比度</string>
+<string name="action_menu_text_bookmark">添加书签</string>
+<string name="action_menu_text_share">分享</string>
+<string name="common_use_phrase_bottom_bar_text_previous">上一项</string>
+<string name="bottom_bar_back_long_click_up_tip_txt">长按上滑回到主页</string>
+<string name="pref_security_remember_passwords">记住密码</string>
+<string name="action_menu_text_nightmode_on">夜间模式/开</string>
+<string name="pref_security_remember_passwords_summary">保存网站的用户名和密码</string>
+<string name="action_menu_text_nightmode_off">夜间模式/关</string>
+<string name="action_menu_text_history">书签/历史</string>
+<string name="pref_security_passwords_title">密码</string>
+<string name="action_menu_text_nightmode">夜间模式</string>
+<string name="pref_security_show_security_warning">显示安全警告</string>
+<string name="pref_security_save_form_data_summary">记住我在表单中输入的数据以便于以后使用</string>
+<string name="pref_security_save_form_data">记住表单数据</string>
+<string name="find_on_page_next">下一项</string>
+<string name="find_on_page_prev">上一项</string>
+<string name="url_find_on_page_result_item">\ %s\</string>
+<string name="pref_development_viewport">viewport</string>
+<string name="pref_extras_reset_default_summary">还原默认设置</string>
+<string name="pref_development_nav_dump">dump</string>
+<string name="pref_development_trace">tracing</string>
+<string name="pref_development_normal_rendering">rendering</string>
+<string name="pref_development_single_column_rendering">rendering</string>
+<string name="pref_privacy_location_title">位置</string>
+<string name="pref_privacy_enable_geolocation">启用位置信息功能</string>
+<string name="pref_privacy_enable_geolocation_summary">允许网站请求获取您的位置信息</string>
+<string name="pref_privacy_clear_geolocation_access">取消获取位置信息的权限</string>
+<string name="pref_privacy_clear_geolocation_access_summary">取消所有网站获取您位置信息的权限</string>
+<string name="pref_privacy_clear_geolocation_access_dlg">要清除网站获取位置信息的权限吗？</string>
+<string name="action_menu_text_exit">退出</string>
+<string name="find_on_page_cancel">取消</string>
+<string name="sub_sync_item_browser_title_hotpage">同步热门</string>
+<string name="sub_sync_item_browser_title_hotpage_summary">同步浏览器已添加的热门模块</string>
+<string name="sub_sync_item_browser_title_useful">同步常用</string>
+<string name="sub_sync_item_browser_title_useful_summary">同步浏览器已添加的常用网址</string>
+<string name="pref_volume_key_action">音量键上下翻页</string>
+<string name="pref_other_title">其他</string>
+<string name="new_folder_name_lable">分组名</string>
+<string name="add_bookmark_group">添加分组</string>
+<string name="remove_bookmark_group">删除分组</string>
+<string name="bookmark_rename_group">更改组名</string>
+<string name="url_suggest_indicator_hoturl">热门网站</string>
+<string name="action_menu_text_setting">设置</string>
+<string name="pref_security_show_security_warning_summary">当网站证书出现问题时显示警告</string>
+<string name="url_suggest_indicator_mostvisited">最常访问</string>
+<string name="url_suggest_indicator_bookmark">书签/历史</string>
+<string name="pref_security_accept_cookies_summary">数据</string>
+<string name="pref_security_accept_cookies">Cookie</string>
+<string name="url_find_on_page_result">在网页上查找</string>
+<string name="pref_zoom_on_double_tap">双击缩放比例</string>
+<string name="pref_min_font_size_value">PT</string>
+<string name="pref_privacy_clear_passwords_dlg">要删除所有保存的密码吗？</string>
+<string name="pref_privacy_clear_passwords_summary">清除所有保存的用户名和密码</string>
+<string name="pref_privacy_clear_passwords">清除密码</string>
+<string name="pref_privacy_clear_form_data_dlg">要删除所有保存的表单数据吗？</string>
+<string name="common_use_phrase_bottom_bar_text_next">下一项</string>
+<string name="common_use_phrase_bottom_bar_down_analytic_txt">Collapse</string>
+<string name="import_bookmarks_wizard_done">完成</string>
+<string name="import_bookmarks_wizard_previous">返回</string>
+<string name="import_bookmarks_wizard_cancel">取消</string>
+<string name="other_bookmarks">其他書籤</string>
+<string name="account_chooser_dialog_title">選擇帳戶</string>
+<string name="loading_video">正在載入影片…</string>
+<string name="defaultBookmarksUpButton">書籤</string>
+<string name="search_the_web">搜尋網頁</string>
+<string name="pref_use_instant_search">互動智慧搜尋</string>
+<string name="pref_lab_quick_controls_summary">姆指從左側邊緣或右側邊緣滑動，即可開啟快速控制項並隱藏應用程式和網址列</string>
+<string name="import_bookmarks_wizard_next">繼續</string>
+<string name="import_bookmarks_dialog_remove">刪除書籤</string>
+<string name="import_bookmarks_dialog_confirm_add">的書籤同步化嗎？</string>
+<string name="import_bookmarks_dialog_confirm_delete">的書籤同步化嗎？</string>
+<string name="import_bookmarks_dialog_delete_select_account">帳戶同步化</string>
+<string name="import_bookmarks_dialog_select_add_account">帳戶同步化</string>
+<string name="import_bookmarks_dialog_description">帳戶建立關聯。您可以將這些書籤新增至帳戶中加以儲存；如果您不想同步處理這些書籤，只需將其刪除即可。</string>
+<string name="go_home">首頁</string>
+<string name="add_bookmark_short">新增</string>
+<string name="too_many_subwindows_dialog_title">已開啟快顯視窗</string>
+<string name="too_many_subwindows_dialog_message">一次只能開啟一個彈出式視窗。</string>
+<string name="pref_general_sync_title">同步處理</string>
+<string name="pref_development_title">偵錯</string>
+<string name="pref_lab_title">研究室</string>
+<string name="pref_lab_quick_controls">快速控制介面</string>
+<string name="goto_dot">前往</string>
+<string name="current_page"></string>
+<string name="close_other_tabs">關閉其他分頁</string>
+<string name="loadSuspendedTitle">無網路連線</string>
+<string name="pref_lab_fullscreen_summary">使用全螢幕模式以隱藏狀態列</string>
+<string name="browser_history">最近瀏覽的頁面</string>
+<string name="loadSuspended">沒有網際網路連線，因此瀏覽器無法載入這個網頁。</string>
+<string name="pref_lab_fullscreen">全螢幕</string>
+<string name="pref_use_instant_search_summary">(這會增加資料傳輸量)。</string>
+<string name="pref_allow_apptabs">允許單一應用程式開啟多個分頁</string>
+<string name="pref_content_load_images">載入圖片</string>
+<string name="contextheader_folder_empty">空資料夾</string>
+<string name="browser_bookmarks_page_bookmarks_text">書籤</string>
+<string name="pref_content_load_images_summary">顯示網頁上的圖片</string>
+<string name="bookmark_page">將最後瀏覽的網頁加入書籤</string>
+<string name="bookmark_thumbnail_view">縮圖</string>
+<string name="bookmark_this_page">將這個網頁加入書籤</string>
+<string name="pref_webapp_settings_wifisave_key">pref_webapp_settings_wifisave_key</string>
+<string name="pref_webapp_settings_hidebottombar_key">pref_webapp_settings_hidebottombar_key</string>
+<string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>
+<string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
+<string name="shortcut_bookmark">書籤</string>
+<string name="contextheader_folder_bookmarkcount">個書籤</string>
+<string name="copy_page_url">複製網頁網址</string>
+<string name="menu_view_download">下載</string>
+<string name="shortcut_bookmark_title">選擇書籤</string>
+<string name="containing_folder">新增至</string>
+<string name="new_folder">新資料夾</string>
+<string name="no_subfolders">沒有子資料夾。</string>
+<string name="add_to_bookmarks_menu_option">書籤</string>
+<string name="add_to_homescreen_menu_option">主螢幕</string>
+<string name="add_to_other_folder_menu_option">其他資料夾</string>
+<string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
+<string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
+<string name="webapp_menu_exit">退出</string>
+<string name="webapp_menu_favorites">我的收藏</string>
+<string name="pref_webapp_settings_fontsize">字体大小</string>
+<string name="webapp_settings_title">设置</string>
+<string name="pref_webapp_settings_savewidth">2G/3G下不加载图片</string>
+<string name="bookmarks_add_page">儲存書籤</string>
+<string name="tab_bookmarks">書籤</string>
+<string name="do_not_save">取消</string>
+<string name="stopping">停止中…</string>
+<string name="accessibility_button_more">更多選項</string>
+<string name="accessibility_button_navscreen">網頁管理員</string>
+<string name="accessibility_button_go">開始</string>
+<string name="accessibility_transition_navscreen">分頁管理</string>
+<string name="accessibility_state_frozen">儲存的頁面</string>
+<string name="accessibility_state_incognito">無痕式頁面</string>
+<string name="accessibility_button_bookmarks_folder_up">上一個資料夾</string>
+<string name="import_bookmarks_dialog_import">的書籤</string>
+<string name="import_bookmarks_dialog_add">帳戶</string>
+<string name="instant_search_label">(研究室)</string>
+<string name="menu_share_url">分享</string>
+<string name="accessibility_button_forward">往前</string>
+<string name="accessibility_button_back">返回</string>
+<string name="accessibility_button_uaswitch">切換使用者代理程式</string>
+<string name="accessibility_button_newincognitotab">開啟新的無痕式分頁</string>
+<string name="accessibility_button_refresh">重新整理頁面</string>
+<string name="accessibility_button_stop">停止載入網頁</string>
+<string name="accessibility_button_addbookmark">將網頁加入書籤</string>
+<string name="accessibility_button_search">搜尋</string>
+<string name="accessibility_button_voice">開始語音搜尋</string>
+<string name="accessibility_button_bookmarks">書籤</string>
+<string name="accessibility_button_closetab">關閉分頁</string>
+<string name="accessibility_button_newtab">開啟新分頁</string>
+<string name="import_bookmarks_dialog_title">帳戶保持同步</string>
+<string name="pref_extras_reset_default_dlg">恢复所有设置为默认状态?</string>
+<string name="pref_extras_reset_default">恢复默认设置</string>
+<string name="pref_ua_string">浏览器标识</string>
+<string name="pref_ua_title">浏览器标识(UA)管理</string>
+<string name="search_hint">搜索</string>
+<string name="url_hint">输入网址或搜索关键词</string>
+<string name="pref_extras_reset_default_title">其它</string>
+<string name="contextmenu_download_image_as">图片另存为</string>
+<string name="already_in_top_level">此书签已存放在最上级</string>
+<string name="general_set_default_browser_dialog_summary">与系统结合更紧密，易用方便快捷</string>
+<string name="general_set_default_browser_dialog_close_txt">关闭</string>
+<string name="general_set_default_browser_dialog_ok_txt">确认</string>
+<string name="pref_exit_on_closing_last_tab_enabled_title">关闭最后一个窗口时退出浏览器</string>
+<string name="pref_content_night_read_mode">夜间模式</string>
+<string name="general_set_default_browser_title">设置为默认浏览器</string>
+<string name="pref_ua_mione_entry">小米手机</string>
+<string name="pref_content_search_engine">设置地址栏搜索引擎</string>
+<string name="is_last_history_item">已至最后一个访问记录</string>
+<string name="is_first_history_item">已至第一个访问记录</string>
+<string name="is_last_tab">已是最后一个窗口</string>
+<string name="is_first_tab">已是第一个窗口</string>
+<string name="is_page_bottom">已至页尾</string>
+<string name="is_page_top">已至页首</string>
+<string name="pref_fling_on_border_enabled_title_summary">从屏幕边缘左右滑动</string>
+<string name="pref_fling_on_border_enabled">单指滑动切换窗口</string>
+<string name="pref_gesture_title">手势操作</string>
+<string name="pref_volume_key_operation">音量键快捷控制设置</string>
+<string name="pref_key_title">按键设置</string>
+<string name="pref_volume_key_enabled">音量键快捷控制</string>
+<string name="pref_reading_mode_enabled_title_summary">需要启用JavaScript</string>
+<string name="pref_key_gesture_title">按键和手势</string>
+<string name="pref_reading_mode_enabled_title">阅读模式</string>
+<string name="warning">警告</string>
+<string name="send_bookmark_to_home_screen">发送到主屏幕</string>
+<string name="add_bookmark">新建书签</string>
+<string name="bookmark_url">http://</string>
+<string name="bookmark_title">书签名</string>
+<string name="add_folder">新建文件夹</string>
+<string name="bookmark_add_to">添加到</string>
+<string name="miui_bookmark_menu_delete_window_delete_txt">删除</string>
+<string name="miui_bookmark_menu_add_group_txt">加入分组</string>
+<string name="miui_bookmark_menu_delete_window_cancel_txt">取消</string>
+<string name="open_history_most_visited_group_in_new_window">打开访问最多的浏览记录</string>
+<string name="pref_privacy_clear_history_dlg">要删除浏览器所有的历史记录吗？</string>
+<string name="pref_privacy_clear_history_by_group_dlg">确定要删除当天浏览器的历史记录吗？</string>
+<string name="edit">编辑</string>
+<string name="folder_name">文件夹名</string>
+<string name="same_folder_name_warning">此文件夹已存在</string>
+<string name="same_bookmarks_warning">此书签已存在</string>
+<string name="have_sent_bookmark_to_home_screen">已发送到主屏幕</string>
+<string name="send_to_popular">添加常用</string>
+<string name="delete_bookmark">删除书签</string>
+<string name="save_bookmark">收藏书签</string>
+<string name="move_to_up_folder">移动到上一级</string>
+<string name="open_all_bookmarks">打开全部书签</string>
+<string name="share_link">分享链接</string>
+<string name="copy_link">复制网址</string>
+<string name="delete_multi_bookmarks_alert_title">个项目吗？</string>
+<string name="delete">删除</string>
+<string name="bookmark_this_page_to_readmodelist">将此页加入阅读列表书签中</string>
+<string name="bookmark_to_readmodelist_not_saved">无法保存至阅读列表书签。</string>
+<string name="readmode_reach_last_page">已到达最后一页</string>
+<string name="readmodelist_bookmarks_to_show">阅读列表</string>
+<string name="bookmark_to_readmodelist_saved">已保存至阅读列表</string>
+<string name="tab_quicklinks">常用</string>
+<string name="bookmark_folder_needs_title">文件夹必须具有名称。</string>
+<string name="tab_yellowpage">网址</string>
+<string name="error_console_eval_text_hint">JavaScript</string>
+<string name="pref_webapp_settings_hidebottombar">始终隐藏操作栏</string>
+<string name="webapp_bottom_bar_addtodesk">添加此应用到桌面</string>
+<string name="webapp_splashview_loading">正在加載...</string>
+<string name="website_settings_clear_all_dialog_cancel_button">取消</string>
+<string name="progress_dialog_setting_wallpaper">正在设置壁纸...</string>
+<string name="error_console_header_text_minimized">console</string>
+<string name="error_console_header_text_maximized">console</string>
+<string name="webapp_app_name">轻应用</string>
+<string name="webpage_title">书签/历史</string>
+<string name="webapp_dialog_title">添加此应用到桌面</string>
+<string name="video_title">视频</string>
+<string name="webpage_bookmark_title">书签列表</string>
+<string name="webpage_history_title">历史记录</string>
+<string name="media_error_timeout">网络传输超时</string>
+<string name="media_error_nomemory">手机内存已满</string>
+<string name="media_error_action_refresh">刷新</string>
+<string name="media_error_action_replace_video_source">更换数据源</string>
+<string name="bookmarks_root_folder">根目录</string>
+<string name="bookmarks_management">书签管理</string>
+<string name="webapp_menu_nightmode">夜间模式</string>
+<string name="bookmark_add_group_text_header">项加入分组</string>
+<string name="empty_bookmark">书签为空</string>
+<string name="google_bookmarks">Google书签：</string>
+<string name="local_bookmarks">小米书签</string>
+<string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
+<string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
+<string name="pref_link_prefetch_summary">允许浏览器在后台预加载链接的网页</string>
+<string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
+<string name="pref_data_preload_summary">允许浏览器在后台预加载相关度高的搜索结果</string>
+<string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
+<string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
+<string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
+<string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
+<string name="webapp_add_to_desktop">添加到桌面</string>
+<string name="webapp_addtodeskpop_append">添加</string>
+<string name="pref_video_preload_summary">在服务器支持的情况下，允许浏览器预加载视频</string>
+<string name="pref_content_block_float_popups">阻止悬浮弹出式窗口</string>
+<string name="share_page">分享网页</string>
+<string name="pref_min_font_size">最小字型大小</string>
+<string name="video_download_pause">已经暂停</string>
+<string name="history_browsed">浏览历史</string>
+<string name="history_track">历史记录</string>
+<string name="video_download_success">下载完成</string>
+<string name="miui_bookmark_action_bar_new_group_title">新建分组</string>
+<string name="video_download_fail">获取失败</string>
+<string name="miui_bookmark_menu_moveout_group_txt">移出分组</string>
+<string name="video_collect_success">收藏成功</string>
+<string name="video_collect_cancel">取消收藏</string>
+<string name="miui_bookmark_action_bar_add_group_title">加入分组</string>
+<string name="video_download_downloaded">下载完</string>
+<string name="open_history_group_in_new_window">打开%s的浏览记录</string>
+<string name="clear_history_group">删除%s的浏览记录</string>
+<string name="clear_history">清除历史</string>
+<string name="history_saved_webpage">保存网页</string>
+<string name="history_most_visited">访问最多</string>
+<string name="webapp_menu_settings">设置</string>
+<string name="miui_bookmark_menu_edit_txt">编辑</string>
+<string name="webapp_menu_share">分享</string>
+<string name="miui_bookmark_menu_change_group_txt">更换分组</string>
+<string name="webapp_menu_already_addtodesk">已添加桌面</string>
+<string name="bookmarks_content_is_null">内容为空</string>
+<string name="webapp_menu_addtodesk">添加桌面</string>
+<string name="dialog_geolocation_share">同意分享</string>
+<string name="dialog_geolocation_reject">拒绝</string>
+<string name="webapp_webapp_favortes_title">我的收藏</string>
+<string name="webapp_add_to_favorite_toast">已添加到收藏</string>
+<string name="video_push_single_message">已经更新到%1$d集</string>
+<string name="geolocation_permissions_prompt_dont_share">拒绝</string>
+<string name="geolocation_permissions_prompt_remember">记住偏好设置</string>
+<string name="geolocation_settings_page_summary_allowed">此网站目前可获取您的位置信息</string>
+<string name="media_error_source">视频源出错</string>
+<string name="geolocation_settings_page_title">取消获取位置信息的权限</string>
+<string name="geolocation_settings_page_dialog_message">要取消此网站获取位置信息的权限吗？</string>
+<string name="geolocation_settings_page_summary_not_allowed">此网站目前不能获取您的位置信息</string>
+<string name="geolocation_settings_page_dialog_cancel_button">取消</string>
+<string name="geolocation_settings_page_dialog_ok_button">确定</string>
+<string name="website_settings_clear_all_dialog_message">要取消所有网站对数据和位置信息的权限？</string>
+<string name="website_settings_clear_all">全部清除</string>
+<string name="video_push_multi_title">收藏的视频节目更新</string>
+<string name="video_push_multi_message">有%1$d个更新</string>
+<string name="video_project_msg">视频已投射到\ %s\</string>
+<string name="video_project_title">视频投射</string>
+<string name="media_error_failure">视频播放失败</string>
+<string name="video_project_button">停止投射</string>
+<string name="media_error_format">视频格式错误</string>
+<string name="media_error_video_not_exist">视频不存在</string>
+<string name="empty_bookmarks_folder">没有书签。</string>
+<string name="rlz_access_point">Y1</string>
+<string name="error_console_eval_button_text">Evaluate</string>
+<string name="empty_snapshots_folder">没有保存的网页。</string>
+<string name="permission_preload_label">预加载结果</string>
+<string name="video_download_downloading">下载中</string>
+<string name="ua_switcher_desktop">请求桌面版网站</string>
+<string name="video_group_noupdates_list">无更新</string>
+<string name="preview">预览</string>
+<string name="accessibility_button_clear">清除输入内容</string>
+<string name="snapshot_go_live">转到实际网页</string>
+<string name="remove_snapshot">删除已保存的网页</string>
+<string name="video_activity_name">收藏</string>
+<string name="action_menu_text_snapshot">保存网页</string>
+<string name="empty_snapshot_hint">没有保存的离线网页</string>
+<string name="maximum_input_alert">最大输入2048个字符</string>
+<string name="video_group_updates_list">有更新</string>
+<string name="website_settings_clear_all_dialog_ok_button">确定</string>
+<string name="video_fragment_name_offine">离线视频</string>
+<string name="video_fragment_name_historys">历史</string>
+<string name="video_fragment_name_collections">我的收藏</string>
+<string-array name="bookmarks_zh">
+<item>小米论坛</item>
+<item>http://bbs.xiaomi.cn/</item>
+<item>百度</item>
+<item>http://m.baidu.com/?from=1269a</item>
+<item>谷歌</item>
+<item>http://www.google.com.hk/</item>
+<item>新浪</item>
+<item>http://3g.sina.com.cn/</item>
+<item>QQ</item>
+<item>http://3g.qq.com/</item>
+<item>凤凰网</item>
+<item>http://i.ifeng.com/?ch=rj_mr</item>
+<item>网易</item>
+<item>http://3g.163.com/</item>
+</string-array>
+<string-array name="search_bar_search_engines_default">
+<item>google</item>
+<item>yahoo</item>
+<item>bing</item>
+</string-array>
+<string-array name="bookmarks_cu_customization">
+<item>沃门户</item>
+<item>http://www.wo.com.cn</item>
+</string-array>
+<string-array name="bing">
+<item>Bing</item>
+<item>bing.com</item>
+<item>http://www.bing.com/s/wlflag.ico</item>
+<item>http://www.bing.com/search?q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="pref_text_size_choices">
+<item>超小</item>
+<item>小</item>
+<item>正常</item>
+<item>大</item>
+<item>超大</item>
+</string-array>
+<string-array name="pref_ua_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+</string-array>
+<string-array name="yahoo_in_list">
+<item>search_yahoo</item>
+<item>ic_search_engine_yahoo</item>
+<item>yahoo</item>
+</string-array>
+<string-array name="bing_zh_CN_in_list">
+<item>search_bing</item>
+<item>ic_search_engine_bing</item>
+<item>bing_zh_CN</item>
+</string-array>
+<string-array name="pref_content_plugins_choices">
+<item>始终启用（打开）</item>
+<item>在需要时打开</item>
+<item>关闭</item>
+</string-array>
+<string-array name="bookmarks">
+<item>Google</item>
+<item>http://www.google.com/</item>
+<item>Picasa</item>
+<item>http://picasaweb.google.com/</item>
+<item>Yahoo!</item>
+<item>http://www.yahoo.com/</item>
+<item>MSN</item>
+<item>http://www.msn.com/</item>
+<item>Twitter</item>
+<item>http://twitter.com/</item>
+<item>Facebook</item>
+<item>http://www.facebook.com/</item>
+<item>Wikipedia</item>
+<item>http://www.wikipedia.org/</item>
+<item>eBay</item>
+<item>http://www.ebay.com/</item>
+<item>CNN</item>
+<item>http://www.cnn.com/</item>
+<item>Times</item>
+<item>http://www.nytimes.com/</item>
+<item>ESPN</item>
+<item>http://espn.com/</item>
+<item>Amazon</item>
+<item>http://www.amazon.com/</item>
+<item>Channel</item>
+<item>http://www.weather.com/</item>
+<item>BBC</item>
+<item>http://www.bbc.co.uk/</item>
+</string-array>
+<string-array name="google_in_list">
+<item>search_google</item>
+<item>ic_search_engine_google</item>
+<item>google</item>
+</string-array>
+<string-array name="s139_in_list">
+<item>search_s139</item>
+<item>ic_search_engine_s139</item>
+<item>s139</item>
+</string-array>
+<string-array name="yicha">
+<item>易查</item>
+<item>yicha.cn</item>
+<item>http://yicha.cn/favicon.ico</item>
+<item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_images_preload_choices">
+<item>不允许</item>
+<item>智能加载</item>
+<item>始终加载</item>
+</string-array>
+<string-array name="pref_default_text_encoding_choices">
+<item>(ISO-8859-1)</item>
+<item>(UTF-8)</item>
+<item>(GBK)</item>
+<item>(Big5)</item>
+<item>(ISO-2022-JP)</item>
+<item>(SHIFT_JIS)</item>
+<item>(EUC-JP)</item>
+<item>(EUC-KR)</item>
+</string-array>
+<string-array name="shipin_in_list">
+<item>search_shipin</item>
+<item>ic_search_engine_shipin</item>
+<item>shipin</item>
+</string-array>
+<string-array name="yahoo_tw">
+<item>Yahoo!奇摩</item>
+<item>tw.yahoo.com</item>
+<item>http://tw.search.yahoo.com/favicon.ico</item>
+<item>http://tw.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+<item>UTF-8</item>
+<item></item>
+</string-array>
+<string-array name="taobao">
+<item>淘宝</item>
+<item>taobao.com</item>
+<item>http://r.m.taobao.com/favicon.ico</item>
+<item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_development_ua_choices">
+<item>Android</item>
+<item>Desktop</item>
+<item>iPhone</item>
+<item>iPad</item>
+<item>Froyo-N1</item>
+<item>Honeycomb-Xoom</item>
+</string-array>
+<string-array name="tupian">
+<item>图片</item>
+<item>baidu.com</item>
+<item>http://image.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="baidu_in_list">
+<item>search_baidu</item>
+<item>ic_search_engine_baidu</item>
+<item>baidu</item>
+</string-array>
+<string-array name="pref_content_plugins_values">
+<item>ON</item>
+<item>ON_DEMAND</item>
+<item>OFF</item>
+</string-array>
+<string-array name="bing_zh_TW_in_list">
+<item>search_bing</item>
+<item>ic_search_engine_bing</item>
+<item>bing_zh_TW</item>
+</string-array>
+<string-array name="yahoo_hk">
+<item>Kong</item>
+<item>hk.yahoo.com</item>
+<item>http://hk.search.yahoo.com/favicon.ico</item>
+<item>http://hk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+<item>UTF-8</item>
+<item></item>
+</string-array>
+<string-array name="pref_default_zoom_choices">
+<item>小</item>
+<item>中</item>
+<item>大</item>
+</string-array>
+<string-array name="pref_default_text_encoding_values">
+<item>Latin-1</item>
+<item>UTF-8</item>
+<item>GBK</item>
+<item>Big5</item>
+<item>ISO-2022-JP</item>
+<item>SHIFT_JIS</item>
+<item>EUC-JP</item>
+<item>EUC-KR</item>
+</string-array>
+<string-array name="pref_homepage_choices">
+<item>起始页</item>
+<item>自定义</item>
+</string-array>
+<string-array name="pref_volume_key_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="sogou_in_list">
+<item>search_sogou</item>
+<item>ic_search_engine_sogou</item>
+<item>sogou</item>
+</string-array>
+<string-array name="dianping">
+<item>团购</item>
+<item>dianping.com</item>
+<item>http://developer.dianping.com/favicon.ico</item>
+<item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_ua_choices">
+<item>默认</item>
+<item>桌面版</item>
+<item>iPhone</item>
+<item>iPad</item>
+</string-array>
+<string-array name="bing_in_list">
+<item>search_bing</item>
+<item>ic_search_engine_bing</item>
+<item>bing</item>
+</string-array>
+<string-array name="bookmarks_cm_customization">
+<item>MM综合门户</item>
+<item>http://mm.10086.cn/a/j/2743/</item>
+<item>手机阅读</item>
+<item>http://wap.cmread.com</item>
+<item>手机游戏</item>
+<item>http://g.10086.cn</item>
+<item>手机视频</item>
+<item>http://wap.cmvideo.cn</item>
+<item>无线音乐</item>
+<item>http://m.10086.cn</item>
+<item>12580</item>
+<item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+<item>飞信首页</item>
+<item>http://f.10086.cn</item>
+<item>139邮箱</item>
+<item>http://mail.10086.cn</item>
+<item>冲浪网址</item>
+<item>http://go.10086.cn/?coc=6GG2GGRq</item>
+</string-array>
+<string-array name="yahoo_tw_in_list">
+<item>search_yahoo</item>
+<item>ic_search_engine_yahoo</item>
+<item>yahoo_tw</item>
+</string-array>
+<string-array name="s139">
+<item>百度</item>
+<item>139.com</item>
+<item>http://s.139.com/favicon.ico</item>
+<item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="taobao_in_list">
+<item>search_taobao</item>
+<item>ic_search_engine_taobao</item>
+<item>taobao</item>
+</string-array>
+<string-array name="search_bar_search_engines_rCN">
+<item>baidu</item>
+<item>sogou</item>
+<item>taobao</item>
+<item>yicha</item>
+<item>easou</item>
+<item>dianping</item>
+<item>google</item>
+<item>shipin</item>
+<item>tupian</item>
+</string-array>
+<string-array name="dianping_in_list">
+<item>search_dianping</item>
+<item>ic_search_engine_dianping</item>
+<item>dianping</item>
+</string-array>
+<string-array name="google">
+<item>Google</item>
+<item>google.com</item>
+<item>http://www.google.com/favicon.ico</item>
+<item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="pre_webapp_text_size_values">
+<item>150</item>
+<item>125</item>
+<item>100</item>
+<item>75</item>
+</string-array>
+<string-array name="pref_link_prefetch_choices">
+<item>不允许</item>
+<item>下</item>
+<item>始终</item>
+</string-array>
+<string-array name="menu_theme_setting">
+<item>默认</item>
+<item>浅黄</item>
+<item>灰白</item>
+<item>棕黄</item>
+<item>青绿</item>
+<item>灰蓝</item>
+</string-array>
+<string-array name="pref_text_zoom_values">
+<item>50</item>
+<item>75</item>
+<item>100</item>
+<item>125</item>
+<item>200</item>
+</string-array>
+<string-array name="tupian_in_list">
+<item>search_tupian</item>
+<item>ic_search_engine_tupian</item>
+<item>tupian</item>
+</string-array>
+<string-array name="search_bar_search_engines_cmcc">
+<item>s139</item>
+<item>baidu</item>
+<item>sogou</item>
+<item>taobao</item>
+<item>yicha</item>
+<item>easou</item>
+<item>dianping</item>
+<item>shipin</item>
+<item>tupian</item>
+</string-array>
+<string-array name="pref_text_zoom_choices">
+<item>超小</item>
+<item>小</item>
+<item>(建议)</item>
+<item>大</item>
+<item>超大</item>
+</string-array>
+<string-array name="search_engines_default">
+<item>google</item>
+<item>yahoo</item>
+<item>bing</item>
+</string-array>
+<string-array name="search_engines_cmcc">
+<item>s139</item>
+<item>baidu</item>
+<item>sogou</item>
+<item>bing_zh_CN</item>
+</string-array>
+<string-array name="yahoo">
+<item>Yahoo!</item>
+<item>yahoo.com</item>
+<item>http://search.yahoo.com/favicon.ico</item>
+<item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+<item>UTF-8</item>
+<item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+</string-array>
+<string-array name="bing_zh_CN">
+<item>Bing</item>
+<item>bing.com</item>
+<item>http://www.bing.com/s/wlflag.ico</item>
+<item>http://www.bing.com/search?setmkt=zh-CN&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="pref_video_preload_choices">
+<item>不允许</item>
+<item>下</item>
+<item>始终</item>
+</string-array>
+<string-array name="pref_development_ua_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+</string-array>
+<string-array name="pre_webapp_text_sizes">
+<item>超大</item>
+<item>大</item>
+<item>默认</item>
+<item>小</item>
+</string-array>
+<string-array name="pref_homepage_values">
+<item>miui_home</item>
+<item>other</item>
+</string-array>
+<string-array name="pref_default_zoom_values">
+<item>FAR</item>
+<item>MEDIUM</item>
+<item>CLOSE</item>
+</string-array>
+<string-array name="easou_in_list">
+<item>search_easou</item>
+<item>ic_search_engine_easou</item>
+<item>easou</item>
+</string-array>
+<string-array name="pref_fling_on_border_choices">
+<item>前进后退</item>
+<item>切换窗口</item>
+</string-array>
+<string-array name="sogou">
+<item>搜狗</item>
+<item>sogou.com</item>
+<item>http://wap.sogou.com/favicon.ico</item>
+<item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomi9&amp;e=1187</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="bing_zh_TW">
+<item>Bing</item>
+<item>bing.com</item>
+<item>http://www.bing.com/s/wlflag.ico</item>
+<item>http://www.bing.com/search?setmkt=zh-TW&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="shipin">
+<item>视频</item>
+<item>youku.com</item>
+<item>http://m.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="baidu">
+<item>百度</item>
+<item>baidu.com</item>
+<item>http://m.baidu.com/favicon.ico</item>
+<item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_fling_on_border_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+<string-array name="search_engines">
+<item>baidu</item>
+<item>sogou</item>
+<item>google</item>
+<item>bing_zh_CN</item>
+</string-array>
+<string-array name="easou">
+<item>宜搜</item>
+<item>easou.com:8080</item>
+<item>http://ad3.easou.com:8080/favicon.ico</item>
+<item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+</string-array>
+<string-array name="pref_data_preload_choices">
+<item>不允许</item>
+<item>下</item>
+<item>始终</item>
+</string-array>
+<string-array name="pref_volume_key_choices">
+<item>页面上下翻页</item>
+<item>切换窗口</item>
+</string-array>
+<string-array name="yicha_in_list">
+<item>search_yicha</item>
+<item>ic_search_engine_yicha</item>
+<item>yicha</item>
+</string-array>
+<string-array name="bing_zh_HK">
+<item>Bing</item>
+<item>bing.com</item>
+<item>http://www.bing.com/s/wlflag.ico</item>
+<item>http://www.bing.com/search?setmkt=zh-HK&amp;q={searchTerms}</item>
+<item>UTF-8</item>
+<item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+</string-array>
+<string-array name="search_engines_rCN">
+<item>baidu</item>
+<item>sogou</item>
+<item>google</item>
+<item>bing_zh_CN</item>
+</string-array>
+</MIUI_Theme_Values>

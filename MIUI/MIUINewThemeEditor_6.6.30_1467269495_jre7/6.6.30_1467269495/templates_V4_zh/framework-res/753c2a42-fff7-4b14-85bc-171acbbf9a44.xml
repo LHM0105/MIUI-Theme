@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="系统二态" version="2.9.21" annotation="此处只有橙色二态，灰色分割线见framework-miui-res模块内“系统二态”" tag="">
+    <resource description="list_longpressed_holo.9.png" x="30" y="504" width="658" height="96" uuid="a6584ab8-092f-4616-9abc-b3dc5815134d">
+        <path src="res\drawable-hdpi\list_longpressed_holo.9.png" description="按下效果" />
+        <path src="res\drawable-hdpi\list_pressed_holo_light.9.png" description="长按时效果" />
+        <path src="res\drawable-xhdpi\list_longpressed_holo.9.png" description="按下效果" />
+        <path src="res\drawable-xhdpi\list_pressed_holo_light.9.png" description="长按时效果" />
+    </resource>
+    <resource description="list_section_divider_holo_light.9" x="30" y="752" width="666" height="26" uuid="5de0bfd1-9104-4339-9fb2-5a272842f2e2">
+        <path src="res\drawable-hdpi\list_section_divider_holo_dark.9.png" description="" />
+        <path src="res\drawable-hdpi\list_section_divider_holo_light.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_section_divider_holo_dark.9.png" description="" />
+        <path src="res\drawable-xhdpi\list_section_divider_holo_light.9.png" description="" />
+    </resource>
+    <resource description="background_holo_light" x="0" y="50" width="720" height="1230" uuid="73a8a542-c60b-4711-8b27-745b5bf16aea">
+        <path src="res\drawable-nodpi\background_holo_light.png" description="全局大部分界面背景图" />
+    </resource>
+</screenshot>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="Theme comments" version="3.10.23" annotation="" tag="Other">
+    <resource description="v5_edit_mode_top_bar_button_default_normal_light.9" x="568" y="54" width="136" height="78" uuid="98011f04-1f7b-4575-bbfe-1470b0148157">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="发布按钮 常态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="发布按钮 常态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_normal_light.9.png" description="发布按钮 常态" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="发布按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="发布按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_default_pressed_light.9.png" description="发布按钮 二态" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_button_normal_light.9" x="10" y="54" width="142" height="78" uuid="26d60762-87ae-44be-a5ec-fa019971a94f">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="取消 常态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="取消 常态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_normal_light.9.png" description="取消 常态" />
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="取消 二态" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="取消 二态" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_button_pressed_light.9.png" description="取消 二态" />
+    </resource>
+    <resource description="v5_edit_mode_top_bar_no_shadow_bg_light.9" x="0" y="46" width="716" height="94" uuid="7b9020b9-eaa1-4441-a355-d46d07b11357">
+        <path src="res\drawable-hdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题栏" />
+        <path src="res\drawable-xhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题栏" />
+        <path src="res\drawable-xxhdpi\v5_edit_mode_top_bar_no_shadow_bg_light.9.png" description="编辑模式标题栏" />
+    </resource>
+    <resource description="v5_window_bg_light.9" x="0" y="0" width="720" height="1282" uuid="fcea786d-d623-45b5-aab8-34c5b620b48a">
+        <path src="res\drawable-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-hdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-land-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xhdpi\v5_window_bg_light.9.png" description="全局背景" />
+        <path src="res\drawable-xxhdpi\v5_window_bg_light.9.png" description="全局背景" />
+    </resource>
+    <resource description="v5_rate_star_big_on" x="216" y="166" width="292" height="46" uuid="d672d983-b2a0-434b-b042-5c5c7843422d">
+        <path src="res\drawable-hdpi\v5_rate_star_big_on.png" description="评论星级 选中" />
+        <path src="res\drawable-xhdpi\v5_rate_star_big_on.png" description="评论星级 选中" />
+        <path src="res\drawable-xxhdpi\v5_rate_star_big_on.png" description="评论星级 选中" />
+        <path src="res\drawable-hdpi\v5_rate_star_big_off.png" description="评论星级 未选" />
+        <path src="res\drawable-xhdpi\v5_rate_star_big_off.png" description="评论星级 未选" />
+        <path src="res\drawable-xxhdpi\v5_rate_star_big_off.png" description="评论星级 未选" />
+    </resource>
+</screenshot>

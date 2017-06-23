@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="详情标题背景" version="3.4.26" annotation="" tag="">
+    <resource description="title_bar_bg.9" x="1" y="53" width="713" height="143" uuid="011db851-89d4-4ee5-bc1d-3177d12496b1">
+        <path src="res\drawable-xhdpi\title_bar_bg.9.png" description="标题背景" />
+    </resource>
+    <resource description="bottom_bar_no_block_n" x="256" y="1138" width="80" height="90" uuid="d2e61bf1-bd9e-4a30-b615-ad6ecbbc9c78">
+        <path src="res\drawable-xhdpi\bottom_bar_no_block_n.png" description="不在屏蔽 常态" />
+        <path src="res\drawable-xhdpi\bottom_bar_no_block_p.png" description="不在屏蔽 二态" />
+    </resource>
+    <resource description="bottom_bar_mark_n" x="382" y="1136" width="80" height="90" uuid="9d19d3ce-0726-4df5-8dc9-de95c88a37e0">
+        <path src="res\drawable-xhdpi\bottom_bar_mark_n.png" description="标记 常态" />
+        <path src="res\drawable-xhdpi\bottom_bar_mark_p.png" description="标记 二态" />
+    </resource>
+</screenshot>

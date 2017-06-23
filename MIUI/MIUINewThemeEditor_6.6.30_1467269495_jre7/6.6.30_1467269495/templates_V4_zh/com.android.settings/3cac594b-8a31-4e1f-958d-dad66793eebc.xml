@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="3.1.11" annotation="" tag="">
+    <resource description="ic_menu_add" x="628" y="1198" width="64" height="64" uuid="5c6764db-653e-4f6c-9b69-6b40854a5c35">
+        <path src="res\drawable-xhdpi\ic_menu_add.png" description="" />
+    </resource>
+    <resource description="ic_wps" x="28" y="1196" width="64" height="64" uuid="43a0e373-7bf6-4804-9487-1d9fb4322f1d">
+        <path src="res\drawable-xhdpi\ic_wps.png" description="" />
+    </resource>
+</screenshot>

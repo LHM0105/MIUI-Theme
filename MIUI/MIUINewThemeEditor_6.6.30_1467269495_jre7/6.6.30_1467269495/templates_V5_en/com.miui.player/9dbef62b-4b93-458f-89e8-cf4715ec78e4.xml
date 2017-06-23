@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="3.7.2" annotation="" tag="">
+    <resource description="st_play_p" x="499" y="367" width="104" height="110" uuid="af5c6b1d-a0c0-499a-8b83-9fc8a3227d3c">
+        <path src="res\drawable-xhdpi\st_pause_n.png" description="" />
+        <path src="res\drawable-xhdpi\st_pause_p.png" description="" />
+        <path src="res\drawable-xhdpi\st_play_n.png" description="" />
+        <path src="res\drawable-xhdpi\st_play_p.png" description="" />
+    </resource>
+    <resource description="st_next_p" x="609" y="366" width="96" height="110" uuid="100bacd1-68ae-487e-84e9-9a17a6287a11">
+        <path src="res\drawable-xhdpi\st_next_n.png" description="" />
+        <path src="res\drawable-xhdpi\st_next_p.png" description="" />
+    </resource>
+</screenshot>

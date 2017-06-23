@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="备份" version="2.9.16" annotation="" tag="">
+    <resource description="backup_icon.png" x="16" y="74" width="48" height="48" uuid="3638c95e-f849-47e1-ad0f-c6ecc5f2539e">
+        <path src="res\drawable-hdpi\backup_icon.png" description="" />
+    </resource>
+    <resource description="local_backup_img.png" x="273" y="600" width="169" height="164" uuid="6ea50af3-2850-4b9d-a9a5-3ed93e5b9d09">
+        <path src="res\drawable-hdpi\local_backup_img.png" description="" />
+    </resource>
+    <resource description="enable_encrypt_indicator_bg_n.9.png" x="15" y="138" width="689" height="90" uuid="52b6925c-fd33-45ea-9428-188913a909f1">
+        <path src="res\drawable-hdpi\enable_encrypt_indicator_bg_p.9.png" description="" />
+        <path src="res\drawable-hdpi\enable_encrypt_indicator_bg_n.9.png" description="" />
+    </resource>
+</screenshot>

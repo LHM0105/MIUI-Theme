@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 开关页" version="4.8.5" annotation="&lt;p&gt;注意：&#xA;&lt;br\&gt;&lt;br\&gt;开关图标从4.11.15开发版开始移到了全局framework，为了保证兼容建议两个模块都做 &#xA;&lt;br/&gt;&lt;br\&gt;音乐view 可进行百变编辑，目录地址\com.android.systemui\res\raw\statusbar_music.maml&lt;/p&gt;&#xA;" tag="通知栏">
+    <resource description="expanded_toggles_list_bg.9" x="74" y="412" width="944" height="1136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\expanded_toggles_list_bg.9.png" description="开关列表背景" />
+        <path src="res\drawable-sw600dp-xhdpi\expanded_toggles_list_bg.9.png" description="开关列表背景" />
+        <path src="res\drawable-xxhdpi\expanded_toggles_list_bg.9.png" description="开关列表背景" />
+    </resource>
+    
+    <resource description="brightness_min" x="120" y="1386" width="40" height="40" uuid="0a2fdd16-b915-4e4b-adac-21fb199ff0c9">
+        <path src="res\drawable-sw600dp-xhdpi\brightness_min.png" description="最小亮度" />
+        <path src="res\drawable-xxhdpi\brightness_min.png" description="最小亮度" />
+    </resource>
+    <resource description="brightness_max" x="909" y="1383" width="43" height="43" uuid="683c7c57-83d1-4400-acb4-d3ddc8dd94db">
+        <path src="res\drawable-sw600dp-xhdpi\brightness_max.png" description="最大亮度" />
+        <path src="res\drawable-xxhdpi\brightness_max.png" description="最大亮度" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="452" y="1614" width="178" height="178" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-sw600dp-xhdpi\ic_notify_quicksettings_normal.png" description="设置按钮 常态" />
+        <path src="res\drawable-xxhdpi\ic_notify_quicksettings_normal.png" description="设置按钮 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮 二态" />
+    </resource>
+    <resource description="tab_notifications_bg_p" x="513" y="1810" width="25" height="110" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-sw600dp-xhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+    </resource>
+    <resource description="tab_toggles_bg_n" x="539" y="1810" width="25" height="110" uuid="4a038881-14a8-4d7e-a418-686d0722e40d">
+        <path src="res\drawable-sw600dp-xhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-sw600dp-xhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+    </resource>
+    <resource description="tracking_view_page_style_bg.9" x="0" y="0" width="1080" height="1920" uuid="796a401b-badb-489d-8eac-f588f30d08a4">
+        <path src="res\drawable-xhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+        <path src="res\drawable-xxhdpi\tracking_view_page_style_bg.9.png" description="背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 套餐设置" version="3.4.16" annotation="" tag="流量使用">
+    <resource description="warnning_seek_bg" x="5" y="382" width="693" height="168" uuid="7450d2fd-eb62-4a7e-bc34-d5977c2ab769">
+        <path src="res\drawable-xhdpi\warnning_seek_bg.png" description="进度栏背景" />
+    </resource>
+</screenshot>

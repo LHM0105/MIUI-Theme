@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="下弹窗 黑" version="3.7.8" annotation="" tag="第三方 弹窗">
+    <resource description="menu_background.9" x="50" y="1072" width="614" height="208" uuid="1485a990-c35c-4e5c-99cd-f899f317ddba">
+        <path src="res\drawable-xhdpi\menu_background.9.png" description="下弹窗 黑" />
+    </resource>
+</screenshot>

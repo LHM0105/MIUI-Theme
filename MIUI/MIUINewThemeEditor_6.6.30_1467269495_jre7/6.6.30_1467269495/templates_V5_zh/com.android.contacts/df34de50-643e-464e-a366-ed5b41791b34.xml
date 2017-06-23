@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2.3 联系人详情3" version="3.5.9" annotation="" tag="联系人">
+    <resource description="contact_detail_title_home_icon_p" x="0" y="50" width="116" height="186" uuid="cf9dd280-c4f8-4de7-98ee-c9540cfa3fa1">
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_n.png" description="" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_n.png" description="" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_n.png" description="" />
+        <path src="res\drawable-hdpi\contact_detail_title_home_icon_p.png" description="" />
+        <path src="res\drawable-xhdpi\contact_detail_title_home_icon_p.png" description="" />
+        <path src="res\drawable-xxhdpi\contact_detail_title_home_icon_p.png" description="" />
+    </resource>
+    <resource description="v5_bottom_bar_blacklist_icon_light_p" x="380" y="1140" width="80" height="90" uuid="c0c4efb1-ea8f-4869-b21b-c1b6b68f8c0d">
+        <path src="res\drawable-hdpi\v5_bottom_bar_blacklist_icon_light_n.png" description="黑名单" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_blacklist_icon_light_n.png" description="黑名单" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_blacklist_icon_light_n.png" description="黑名单" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_blacklist_icon_light_p.png" description="黑名单 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_blacklist_icon_light_p.png" description="黑名单 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_blacklist_icon_light_p.png" description="黑名单 二态" />
+    </resource>
+    <resource description="v5_bottom_bar_mark_icon_light_p" x="514" y="1136" width="80" height="90" uuid="1c6fd532-e83e-4805-886d-ac79eeba045b">
+        <path src="res\drawable-hdpi\v5_bottom_bar_mark_icon_light_n.png" description="标记" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_mark_icon_light_n.png" description="标记" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_mark_icon_light_n.png" description="标记" />
+        <path src="res\drawable-hdpi\v5_bottom_bar_mark_icon_light_p.png" description="标记 二态" />
+        <path src="res\drawable-xhdpi\v5_bottom_bar_mark_icon_light_p.png" description="标记 二态" />
+        <path src="res\drawable-xxhdpi\v5_bottom_bar_mark_icon_light_p.png" description="标记 二态" />
+    </resource>
+</screenshot>

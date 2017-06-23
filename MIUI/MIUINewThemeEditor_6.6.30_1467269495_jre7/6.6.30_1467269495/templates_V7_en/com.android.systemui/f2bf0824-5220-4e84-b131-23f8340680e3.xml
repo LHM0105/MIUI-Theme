@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 Notifications page" version="4.8.5" annotation="" tag="Notification shade">
+    <resource description="notification_list_bg.9" x="76" y="410" width="940" height="874" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="Notifications list background" />
+    </resource>
+    <resource description="usb_notification_help_bg_n.9" x="790" y="602" width="216" height="90" uuid="0dc7e213-31d0-4858-a76e-2123a7293d1b">
+        <path src="res\drawable-xxhdpi\usb_notification_help_bg_n.9.png" description="Help button for USB connection: normal" />
+        <path src="res\drawable-xxhdpi\usb_notification_help_bg_p.9.png" description="Help button for USB connection: pressed" />
+    </resource>
+    <resource description="usb_notification_ptp_n.9" x="646" y="454" width="180" height="90" uuid="1938b46c-27fd-4752-ae56-87c3a074c94d">
+        <path src="res\drawable-xxhdpi\usb_notification_ptp_n.9.png" description="Photos button for USB connection: normal" />
+        <path src="res\drawable-xxhdpi\usb_notification_ptp_p.9.png" description="Photos button for USB connection: pressed" />
+    </resource>
+    <resource description="usb_notification_mtp_n.9" x="829" y="455" width="180" height="90" uuid="70313585-192a-4dc9-8d37-e6fb365523be">
+        <path src="res\drawable-xxhdpi\usb_notification_mtp_n.9.png" description="Files button for USB connection: normal" />
+        <path src="res\drawable-xxhdpi\usb_notification_mtp_p.9.png" description="Files button for USB connection: pressed" />
+    </resource>
+    <resource description="notification_item_first_bg_n.9" x="85" y="1087" width="925" height="177" uuid="4e3c2de1-2e8e-4034-96c1-91498a7f0e2d">
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_n.9.png" description="Notification shade: first item: normal" />
+        <path src="res\drawable-xxhdpi\notification_item_first_bg_p.9.png" description="Notification shade: first item: pressed" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_n.9.png" description="Notification shade: middle item: normal" />
+        <path src="res\drawable-xxhdpi\notification_item_mid_bg_p.9.png" description="Notification shade: middle item: pressed" />
+        <path src="res\drawable-xxhdpi\notification_item_last_bg_p.9.png" description="Notification shade: last item: pressed" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_n.9.png" description="Notification shade: single item: normal" />
+        <path src="res\drawable-xxhdpi\notification_item_single_bg_p.9.png" description="Notification shade: single item: pressed" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="448" y="1610" width="178" height="178" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-xxhdpi\ic_notify_clear_normal.png" description="Clear notification button: normal" />
+        <path src="res\drawable-xxhdpi\ic_notify_clear_pressed.png" description="Clear notification button: pressed" />
+    </resource>
+    <resource description="tab_notifications_bg_p" x="513" y="1810" width="25" height="110" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.png" description="Notification tab: normal" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.png" description="Notification tab: pressed" />
+    </resource>
+    <resource description="tab_toggles_bg_n" x="539" y="1810" width="25" height="110" uuid="4a038881-14a8-4d7e-a418-686d0722e40d">
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.png" description="Toggles tab: normal" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.png" description="Toggles tab: pressed" />
+    </resource>
+    <resource description="usb_notification_top_bg.9" x="84" y="416" width="928" height="172" uuid="67126c3e-8052-4e5b-bb01-3969bc3f494a">
+        <path src="res\drawable-xxhdpi\usb_notification_top_bg.9.png" description="USB connection notification background" />
+    </resource>
+    <resource description="usb_notification_bottom_bg.9" x="86" y="592" width="926" height="126" uuid="a1b040f2-a615-4af8-8b1d-9c86467a44ca">
+        <path src="res\drawable-xxhdpi\usb_notification_bottom_bg.9.png" description="USB help page background" />
+    </resource>
+    <resource description="hour_1" x="54" y="88" width="84" height="174" uuid="68fb107e-7a9f-4533-8584-b843ad8ec082">
+        <path src="res\raw\statusbar_clock\hour\hour_0.png" description="Clock hour: 0" />
+        <path src="res\raw\statusbar_clock\hour\hour_1.png" description="Clock hour: 1" />
+        <path src="res\raw\statusbar_clock\hour\hour_2.png" description="Clock hour: 2" />
+        <path src="res\raw\statusbar_clock\hour\hour_3.png" description="Clock hour: 3" />
+        <path src="res\raw\statusbar_clock\hour\hour_4.png" description="Clock hour: 4" />
+        <path src="res\raw\statusbar_clock\hour\hour_5.png" description="Clock hour: 5" />
+        <path src="res\raw\statusbar_clock\hour\hour_6.png" description="Clock hour: 6" />
+        <path src="res\raw\statusbar_clock\hour\hour_7.png" description="Clock hour: 7" />
+        <path src="res\raw\statusbar_clock\hour\hour_8.png" description="Clock hour: 8" />
+        <path src="res\raw\statusbar_clock\hour\hour_9.png" description="Clock hour: 9" />
+    </resource>
+    <resource description="hour_2" x="150" y="88" width="96" height="172" uuid="2ffc3c65-10c7-4c3d-b64f-c4d96a903c7b" >
+        <path src="res\raw\statusbar_clock\hour\hour_0.png" description="Clock hour: 0" />
+        <path src="res\raw\statusbar_clock\hour\hour_1.png" description="Clock hour: 1" />
+        <path src="res\raw\statusbar_clock\hour\hour_2.png" description="Clock hour: 2" />
+        <path src="res\raw\statusbar_clock\hour\hour_3.png" description="Clock hour: 3" />
+        <path src="res\raw\statusbar_clock\hour\hour_4.png" description="Clock hour: 4" />
+        <path src="res\raw\statusbar_clock\hour\hour_5.png" description="Clock hour: 5" />
+        <path src="res\raw\statusbar_clock\hour\hour_6.png" description="Clock hour: 6" />
+        <path src="res\raw\statusbar_clock\hour\hour_7.png" description="Clock hour: 7" />
+        <path src="res\raw\statusbar_clock\hour\hour_8.png" description="Clock hour: 8" />
+        <path src="res\raw\statusbar_clock\hour\hour_9.png" description="Clock hour: 9" />
+    </resource>
+    <resource description="minute_dot" x="254" y="88" width="25" height="83" uuid="cec4c8ee-2fb5-401f-940f-ffa4b8559257">
+        <path src="res\raw\statusbar_clock\minute\minute_dot.png" description="Clock_second_dot" />
+    </resource>
+    <resource description="minute_0" x="288" y="88" width="51" height="82" uuid="83aba514-4e60-4c8e-af73-27a6e583916a">
+        <path src="res\raw\statusbar_clock\minute\minute_0.png" description="Clock min: 0" />
+        <path src="res\raw\statusbar_clock\minute\minute_1.png" description="Clock min: 1" />
+        <path src="res\raw\statusbar_clock\minute\minute_2.png" description="Clock min: 2" />
+        <path src="res\raw\statusbar_clock\minute\minute_3.png" description="Clock min: 3" />
+        <path src="res\raw\statusbar_clock\minute\minute_4.png" description="Clock min: 4" />
+        <path src="res\raw\statusbar_clock\minute\minute_5.png" description="Clock min: 5" />
+        <path src="res\raw\statusbar_clock\minute\minute_6.png" description="Clock min: 6" />
+        <path src="res\raw\statusbar_clock\minute\minute_7.png" description="Clock min: 7" />
+        <path src="res\raw\statusbar_clock\minute\minute_8.png" description="Clock min: 8" />
+        <path src="res\raw\statusbar_clock\minute\minute_9.png" description="Clock min: 9" />
+    </resource>
+    <resource description="minute_4" x="351" y="88" width="52" height="82" uuid="2ef5de9a-4988-469b-92c7-95410ce94094">
+        <path src="res\raw\statusbar_clock\minute\minute_0.png" description="Clock min: 0" />
+        <path src="res\raw\statusbar_clock\minute\minute_1.png" description="Clock min: 1" />
+        <path src="res\raw\statusbar_clock\minute\minute_2.png" description="Clock min: 2" />
+        <path src="res\raw\statusbar_clock\minute\minute_3.png" description="Clock min: 3" />
+        <path src="res\raw\statusbar_clock\minute\minute_4.png" description="Clock min: 4" />
+        <path src="res\raw\statusbar_clock\minute\minute_5.png" description="Clock min: 5" />
+        <path src="res\raw\statusbar_clock\minute\minute_6.png" description="Clock min: 6" />
+        <path src="res\raw\statusbar_clock\minute\minute_7.png" description="Clock min: 7" />
+        <path src="res\raw\statusbar_clock\minute\minute_8.png" description="Clock min: 8" />
+        <path src="res\raw\statusbar_clock\minute\minute_9.png" description="Clock min: 9" />
+    </resource>
+    <resource description="tracking_view_page_style_bg.9" x="0" y="0" width="1080" height="1920" uuid="bce4b546-d9aa-4544-b99e-2705c9bb8bd3">
+        <path src="res\drawable-xhdpi\tracking_view_page_style_bg.9.png" description="Background" />
+    </resource>
+</screenshot>

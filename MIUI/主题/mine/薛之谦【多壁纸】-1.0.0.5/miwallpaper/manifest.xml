@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<MiWallpaper version="1" frameRate="30" screenWidth="1080">
+	<VariableBinders>
+		 <SensorBinder type="gravity" rate="500">
+			<Variable name="bgx" index="0"/>
+			<Variable name="bgy" index="1"/>
+		</SensorBinder>
+    </VariableBinders>
+ 
+ 	<Group>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg1.jpg" visibility="eq(#cf,0)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg2.jpg" visibility="eq(#cf,1)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg3.jpg" visibility="eq(#cf,2)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg4.jpg" visibility="eq(#cf,3)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg5.jpg" visibility="eq(#cf,4)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg6.jpg" visibility="eq(#cf,5)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg7.jpg" visibility="eq(#cf,6)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg8.jpg" visibility="eq(#cf,7)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg9.jpg" visibility="eq(#cf,8)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg10.jpg" visibility="eq(#cf,9)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg11.jpg" visibility="eq(#cf,10)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg12.jpg" visibility="eq(#cf,11)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg13.jpg" visibility="eq(#cf,12)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg14.jpg" visibility="eq(#cf,13)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg15.jpg" visibility="eq(#cf,14)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg16.jpg" visibility="eq(#cf,15)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg17.jpg" visibility="eq(#cf,16)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg18.jpg" visibility="eq(#cf,17)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg19.jpg" visibility="eq(#cf,18)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg20.jpg" visibility="eq(#cf,19)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg21.jpg" visibility="eq(#cf,20)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg22.jpg" visibility="eq(#cf,21)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg23.jpg" visibility="eq(#cf,22)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg24.jpg" visibility="eq(#cf,23)"/>
+		<Image x="#screen_width/2" y="#screen_height/2"   align="center" alignV="center" src="bg25.jpg" visibility="eq(#cf,24)"/>
+		
+		
+		
+		
+	</Group>
+	<!--切换壁纸按钮-->
+	<Button x="1080" y="1900" w="70" h="350" align="right"  alignV="bottom" >
+		<Triggers>
+			<Trigger action="double">
+				<VariableCommand name="cf" expression="int(#cf+1)%25" persist="true"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+	<!--隐藏按钮-->
+	<Button x="1080" y="1900" w="70" h="70" align="right"  alignV="bottom"  visibility="not(#xw_ts)">
+		<Triggers>
+			<Trigger action="up">
+				<VariableCommand name="xw_ts" expression="int(#xw_ts+1)%2" persist="true"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+	<Image x="1080" y="1900" align="right"  alignV="bottom" src="close.png" visibility="eq(#xw_ts,0)"/>
+</MiWallpaper>
+ 

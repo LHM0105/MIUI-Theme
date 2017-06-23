@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="等待进度" version="2.12.27" annotation="" tag="进度条/滑动条/等待进度">
+    <resource description="spinner_16_inner_holo" x="214" y="678" width="104" height="104" uuid="106238fa-e244-4e32-8628-c8528a0ec588">
+        <path src="res\drawable-hdpi\spinner_16_inner_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_16_outer_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_20_inner_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_20_outer_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_48_inner_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_48_outer_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_76_inner_holo.png" description="" />
+        <path src="res\drawable-hdpi\spinner_76_outer_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_16_inner_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_16_outer_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_20_inner_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_20_outer_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_48_inner_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_48_outer_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_76_inner_holo.png" description="" />
+        <path src="res\drawable-xhdpi\spinner_76_outer_holo.png" description="" />
+    </resource>
+</screenshot>

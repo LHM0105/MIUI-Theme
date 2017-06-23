@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Group listview" version="2.9.16" annotation="" tag="Group">
+    <resource description="group_photos_container_bg" x="10" y="574" width="104" height="102" uuid="fda458be-0323-4c6d-8e96-c4c576fd4fcc">
+        <path src="res\drawable-hdpi\group_photos_container_bg.png" description="群组背景" />
+        <path src="res\drawable-xhdpi\group_photos_container_bg.png" description="群组背景" />
+    </resource>
+    <resource description="location_group" x="8" y="200" width="104" height="104" uuid="f4fd57a2-fb3c-4181-b9cb-83efe6d3b683">
+        <path src="res\drawable-hdpi\company_group.png" description="按公司分类联系人 图标" />
+        <path src="res\drawable-xhdpi\company_group.png" description="按公司分类联系人 图标" />
+        <path src="res\drawable-xxhdpi\company_group.png" description="按公司分类联系人 图标" />
+    </resource>
+    <resource description="company_group" x="10" y="320" width="102" height="104" uuid="13383b8c-0892-454e-8885-1910b53a1e0c">
+        <path src="res\drawable-hdpi\location_group.png" description="按所在地分类图标" />
+        <path src="res\drawable-xhdpi\location_group.png" description="按所在地分类图标" />
+        <path src="res\drawable-xxhdpi\location_group.png" description="按所在地分类图标" />
+    </resource>
+    <resource description="frequency_group" x="6" y="452" width="104" height="108" uuid="9fa56e05-6ef1-4d6a-ba78-a704712e84a3">
+        <path src="res\drawable-hdpi\frequency_group.png" description="最近联系图标" />
+        <path src="res\drawable-xhdpi\frequency_group.png" description="最近联系图标" />
+        <path src="res\drawable-xxhdpi\frequency_group.png" description="最近联系图标" />
+    </resource>
+</screenshot>

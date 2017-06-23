@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.3 添加联系人" version="3.2.26" annotation="联系人批量操作，tab背景" tag="群组">
+    <resource description="expandable_group_close" x="8" y="302" width="60" height="68" uuid="ead75248-e0a0-4650-b061-655540212e78">
+        <path src="res\drawable-hdpi\expandable_group_close.png" description="展开" />
+        <path src="res\drawable-xhdpi\expandable_group_close.png" description="展开" />
+        <path src="res\drawable-xxhdpi\expandable_group_close.png" description="展开" />
+        <path src="res\drawable-hdpi\expandable_group_open.png" description="收起" />
+        <path src="res\drawable-xhdpi\expandable_group_open.png" description="收起" />
+        <path src="res\drawable-xxhdpi\expandable_group_open.png" description="收起" />
+    </resource>
+    <resource description="picker_tab_indicator_bg.9" x="4" y="140" width="710" height="88" uuid="575fa1a9-73cb-438a-9569-39397bd3ae2f">
+        <path src="res\drawable-hdpi\picker_tab_indicator_bg.9.png" description="添加收藏，tab背景" />
+        <path src="res\drawable-xhdpi\picker_tab_indicator_bg.9.png" description="添加收藏，tab背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MiWallpaper version="1" frameRate="30" width="1080" height="1920" screenWidth="1080" >
+ 	<VariableBinders>
+		<BroadcastBinder action="wallpaper_mazz_control_stop">
+				<Variable name="mazz_on" type="int" default="1"/>
+			</BroadcastBinder>
+			<BroadcastBinder action="wallpaper_mazz_control_play">
+				<Trigger>
+					<VariableCommand name="mazz_on" expression="0"/>
+				</Trigger>
+			</BroadcastBinder>
+	</VariableBinders>
+	
+	<!-- 简化的变量 -->
+	<Group name="Simplified_variable">
+		<Var name="sw" expression="#screen_width"/>
+		<Var name="sh" expression="#screen_height"/>
+	</Group>
+
+	<Image src="bg.jpg"  />  
+	
+ 
+ 
+		<!-- 蒲公英	-->
+		<Group name="bug_g">
+			<Var name="bug_s" type="number[]" size="30" const="true" />
+			<Var name="bug_a" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_x" type="number[]" size="30" const="true" />
+			<Var name="bug_y" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_angle" type="number[]" size="30" const="true" />
+			<!-- 目标xy -->
+			<Var name="bug_tx" type="number[]" size="30" const="true" />
+			<Var name="bug_ty" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_n" type="number[]" size="30" const="true" />
+			
+			<Var name="bug_init_handle" expression="#bug_init_handle_trigger" threshold="1">
+				<Trigger>
+					<LoopCommand count="30" indexName="init_i">
+						<VariableCommand name="num" expression="rand()" />
+						<VariableCommand name="bug_s" type="number[]" index="#init_i" expression="(int(#num*300)+50)/100" />
+						<VariableCommand name="bug_a" type="number[]" index="#init_i" expression="int(#num*255)+120" />
+						<VariableCommand name="bug_x" type="number[]" index="#init_i" expression="int(rand()*#sw)" />
+						<VariableCommand name="bug_y" type="number[]" index="#init_i" expression="int(rand()*#sh)" />
+ 					
+							<VariableCommand name="bug_tx" type="number[]" index="#init_i" expression="int(rand()*(#sw*3)+#sw)"/>
+							<VariableCommand name="bug_ty" type="number[]" index="#init_i" expression="-1000"/>
+							
+						<VariableCommand name="bug_angle" type="number[]" index="#init_i" expression="rand()*20" /> 
+						
+						<VariableCommand name="bug_n" type="number[]" index="#init_i" expression="0" />
+					</LoopCommand>
+						<VariableCommand name="foo_cnt" expression="1"/>
+				</Trigger>
+			</Var>
+			
+			
+			<Array name="ssssss" count="30" indexName="bug_i"  >
+				<Image src="mazz.png" x="#bug_x[#bug_i]" y="#bug_y[#bug_i]" scale="#bug_s[#bug_i]" rotation="#bug_angle[#bug_i]" centerX="44" centerY="44" alpha="#bug_a[#bug_i]" align="center" alignV="center" />
+			</Array>
+			
+			<!-- 计算位置 -->
+			<Var name="foo_get_pos_timer" expression="int(#time/30)*not(#mazz_on)" threshold="1">
+				<Trigger>
+					<VariableCommand name="bug_init_handle_trigger" expression="#bug_init_handle_trigger+1" condition="not(#foo_cnt)"/>
+					<VariableCommand name="foo_cnt" expression="#foo_cnt+1"/>
+					<LoopCommand count="30" indexName="pos_i">
+ 
+	 
+						<MultiCommand condition="gt(#bug_x[#pos_i],#sw+100)+lt(#bug_y[#pos_i],-100)">
+							<VariableCommand name="bug_x" type="number[]" index="#pos_i" expression="int(rand()*(-300)-60)" />
+							<VariableCommand name="bug_y" type="number[]" index="#pos_i" expression="int(rand()*#sh+500)" />
+							
+							<VariableCommand name="bug_tx" type="number[]" index="#pos_i" expression="int(rand()*(3*#sw)+#sw)"/>
+							<VariableCommand name="bug_ty" type="number[]" index="#pos_i" expression="-1000"/>
+						
+							<VariableCommand name="bug_n" type="number[]" index="#pos_i" expression="1" />
+						</MultiCommand>
+ 
+						<VariableCommand name="bug_x" type="number[]" index="#pos_i" expression="#bug_x[#pos_i]+(#bug_tx[#pos_i]-#bug_x[#pos_i])/(950-#bug_s[#pos_i]*64)" />
+						<VariableCommand name="bug_y" type="number[]" index="#pos_i" expression="#bug_y[#pos_i]+(#bug_ty[#pos_i]-#bug_y[#pos_i])/(950-#bug_s[#pos_i]*64)" />
+						
+ 
+ 
+					</LoopCommand>
+				</Trigger>
+			</Var>
+	 
+		</Group>
+
+	
+
+</MiWallpaper>

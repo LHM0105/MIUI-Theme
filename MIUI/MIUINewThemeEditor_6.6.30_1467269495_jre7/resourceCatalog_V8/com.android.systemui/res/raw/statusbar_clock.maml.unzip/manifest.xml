@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Statusbar version="1" showNotificationBlocker="true" frameRate="0" resDensity="480" scaleByDensity="true" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <Group visibility="le(#mode,1)+#is_tablet">
+        <Var name="hour" expression="ifelse(#time_format,#hour24,#hour12,#hour12,12)"/>
+        <Var name="flag" expression="eq(int(#hour/10),1)"/>
+        <Var name="offset_x" expression="ifelse(#flag,-30,-10)"/>
+        <Image name="hour_first" x="#offset_x" y="34" src="l.png" srcid="#hour/10"/>
+        <Image name="hour_second" x="#offset_x+#hour_first.bmp_width" y="34" src="l.png" srcid="#hour%10"/>
+        <Image name="dot" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width" y="34" src="s_dot.png"/>
+        <Image name="minute_first" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width" y="34" src="s.png" srcid="#minute/10"/>
+        <Image name="minute_second" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width+#minute_first.bmp_width" y="34" src="s.png" srcid="#minute%10"/>
+        <DateTime x="3" y="245" format="@date_time" size="36+ifelse(#is_tablet,8,0)" color="#ffffff" alpha="153" enableFontScale="true" visibility="#time_format"/>
+        <DateTime x="3" y="245" format="@date_time_12" size="36+ifelse(#is_tablet,8,0)" color="#ffffff" alpha="153" enableFontScale="true" visibility="not(#time_format)"/>
+        <Button x="0" y="14" w="410" h="202">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand package="com.android.deskclock" class="com.android.deskclock.DeskClockTabActivity"/>
+                    <ExternCommand command="statusbar_collapse_and_unlock"/>
+                </Trigger>
+            </Triggers>
+        </Button>
+        <Button x="0" y="218" w="410" h="100">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand package="com.android.calendar" class="com.android.calendar.AllInOneActivity"/>
+                    <ExternCommand command="statusbar_collapse_and_unlock"/>
+                </Trigger>
+            </Triggers>
+        </Button>
+    </Group>
+</Statusbar>

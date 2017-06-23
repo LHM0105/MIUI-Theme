@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="页面指示" version="3.4.23" annotation="" tag="其他">
+    <resource description="screen_view_arrow_left_gray" x="0" y="1150" width="26" height="66" uuid="00294ac1-d477-46b7-9aff-a8d872c26af7">
+        <path src="res\drawable-hdpi\screen_view_arrow_left.png" description="页面指示 左边" />
+        <path src="res\drawable-xhdpi\screen_view_arrow_left.png" description="页面指示 左边" />
+        <path src="res\drawable-xxhdpi\screen_view_arrow_left.png" description="页面指示 左边" />
+        <path src="res\drawable-hdpi\screen_view_arrow_left_gray.png" description="页面指示 左边 无页面" />
+        <path src="res\drawable-xhdpi\screen_view_arrow_left_gray.png" description="页面指示 左边 无页面" />
+        <path src="res\drawable-xxhdpi\screen_view_arrow_left_gray.png" description="页面指示 左边 无页面" />
+    </resource>
+    <resource description="screen_view_arrow_right_gray" x="688" y="1144" width="32" height="74" uuid="01a2e6ad-6f5f-47b1-ac9a-bfb5f94ad994">
+        <path src="res\drawable-hdpi\screen_view_arrow_right.png" description="页面指示 右边" />
+        <path src="res\drawable-xhdpi\screen_view_arrow_right.png" description="页面指示 右边" />
+        <path src="res\drawable-xxhdpi\screen_view_arrow_right.png" description="页面指示 右边" />
+        <path src="res\drawable-hdpi\screen_view_arrow_right_gray.png" description="页面指示 右边 无页面" />
+        <path src="res\drawable-xhdpi\screen_view_arrow_right_gray.png" description="页面指示 右边 无页面" />
+        <path src="res\drawable-xxhdpi\screen_view_arrow_right_gray.png" description="页面指示 右边 无页面" />
+    </resource>
+</screenshot>

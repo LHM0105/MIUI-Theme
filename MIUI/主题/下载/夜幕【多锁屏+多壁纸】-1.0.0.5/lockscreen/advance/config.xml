@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Group text="自定义锁屏壁纸开关">
+		<CheckBox text="默认开" summary="如果关闭此开关，可以更换锁屏壁纸" id="set_wallpaper" default="1"/>
+	</Group>
+	<Group text="自定义图片" >
+		<ImagePicker text="图片" summary="选择图片（建议裁剪成正方形）" id="img1"/>
+	</Group>
+	<Group text="">
+		<StringInput text="设置用户名" summary="默认值：萌萌" id="word_1" default="萌萌" />
+	</Group>
+	<Group text="锁屏多种开关设置">
+		<CheckBox text="默认开启" summary="如不希望锁屏下直接进入自定义，请关闭" id="set_img" default="1"/>
+		<CheckBox text="默认开启" summary="如不希望锁屏显示流星效果，请关闭" id="star" default="1"/>
+	</Group>
+	<Group text="时间样式选择">
+		<StringChoice text="时间样式选择" id="alarm_time_dis2" default="t1">
+			<Item value="t1" text="样式1"/>
+			<Item value="t2" text="样式2"/>
+			<Item value="t3" text="样式3"/>
+		</StringChoice>
+	</Group>
+	<Group text="锁屏壁纸选择">
+		<StringChoice text="锁屏壁纸选择" id="alarm_time_dis" default="bg0">
+			<Item value="bg0" text="壁纸1"/>
+			<Item value="bg1" text="壁纸2"/>
+			<Item value="bg2" text="壁纸3"/>
+			<Item value="bg3" text="壁纸4"/>
+		</StringChoice>
+	</Group>
+	<Group text="锁屏方式选择">
+	<StringChoice text="锁屏方式选择" id="alarm_time_bg2" default="unlocker_up">
+		<Item value="unlocker_up" text="上滑解锁"/>
+		<Item value="unlocker_left" text="左滑解锁"/>
+	</StringChoice>
+	</Group>
+	<Group text="设置锁屏问候语" >
+		<StringInput text="第一行(6字以内）" summary="默认值：永远相信" id="word_rows1" default="永远相信" />
+		<StringInput text="第二行" summary="默认值：美好的事情即将发生" id="word_rows2" default="美好的事情即将发生" />
+		<StringInput text="第三行" summary="默认值：Always believe that something wonderful" id="word_rows3" default="Always believe that something wonderful" />
+		<StringInput text="第四行" summary="默认值：is about to happen" id="word_rows4" default="is about to happen" />
+	</Group>
+</Config>

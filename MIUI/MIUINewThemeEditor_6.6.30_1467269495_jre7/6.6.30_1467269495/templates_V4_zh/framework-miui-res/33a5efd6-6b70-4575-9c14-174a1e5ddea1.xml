@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="全局选择按钮" version="2.9.16" annotation="" tag="">
+    <resource description="list_item_check_indicator.png" x="36" y="180" width="22" height="56" uuid="a2b4ad0e-249e-4cb0-b9cf-7f62ccdc724b">
+        <path src="res\drawable-xhdpi\list_item_check_indicator.png" description="" />
+    </resource>
+    <resource description="list_item_uncheck_indicator.png" x="36" y="312" width="22" height="56" uuid="032d650f-05cc-478c-9e35-fd2ec2fd29e2">
+        <path src="res\drawable-xhdpi\list_item_uncheck_indicator.png" description="" />
+    </resource>
+    <resource description="list_item_detail_arrow_pressed.png" x="616" y="296" width="78" height="82" uuid="6837be55-b958-4555-9ea4-a9919e7626c7">
+        <path src="res\drawable-xhdpi\list_item_detail_arrow_normal.png" description="" />
+        <path src="res\drawable-xhdpi\list_item_detail_arrow_pressed.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 双页 开关页" version="4.8.5" annotation="&lt;p&gt;注意：&#xA;&lt;br\&gt;&lt;br\&gt;开关图标从4.11.15开发版开始移到了全局framework-miui-res" tag="通知栏">
+    <resource description="notification_list_bg.9.png" x="74" y="412" width="944" height="1136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="开关背景（与通知列表背景一致）" />
+        <path src="res\drawable-xxhdpi\notification_list_bg.9.png" description="开关背景（与通知列表背景一致）" />
+    </resource>
+    <resource description="ic_notify_quicksettings_normal" x="470" y="1680" width="133" height="133" uuid="ef3f12b8-8035-44c0-af4e-c06f4af38ddb">
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_normal.png" description="设置按钮 常态" />
+        <path src="res\drawable-xxhdpi\ic_notify_quicksettings_normal.png" description="设置按钮 常态" />
+        <path src="res\drawable-xhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮 二态" />
+        <path src="res\drawable-xxhdpi\ic_notify_quicksettings_pressed.png" description="设置按钮 二态" />
+    </resource>
+    <resource description="tab_notifications_bg_p" x="513" y="1830" width="25" height="90" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-xhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_n.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_notifications_bg_p.png" description="通知页指示点 常态" />
+    </resource>
+    <resource description="tab_toggles_bg_n" x="539" y="1830" width="25" height="90" uuid="4a038881-14a8-4d7e-a418-686d0722e40d">
+        <path src="res\drawable-xhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_n.png" description="开关页指示点 常态" />
+        <path src="res\drawable-xhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+        <path src="res\drawable-xxhdpi\tab_toggles_bg_p.png" description="开关页指示点 选中" />
+    </resource>
+
+
+</screenshot>

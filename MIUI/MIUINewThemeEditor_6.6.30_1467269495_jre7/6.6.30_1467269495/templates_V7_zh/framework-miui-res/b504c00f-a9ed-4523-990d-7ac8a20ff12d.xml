@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 全局控件" version="4.8.18" annotation="" tag="全局控件">
+    <resource description="progressbar_horizontal_indeterminate5" x="48" y="1714" width="968" height="40" uuid="491d4c23-c4ec-4f4b-a214-5d303f84f32f">
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_indeterminate3.png" description="安装进度动画" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_indeterminate3.png" description="安装进度动画" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_indeterminate3.png" description="安装进度动画" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_indeterminate4.png" description="安装进度动画" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_indeterminate4.png" description="安装进度动画" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_indeterminate4.png" description="安装进度动画" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_indeterminate5.png" description="安装进度动画" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_indeterminate5.png" description="安装进度动画" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_indeterminate5.png" description="安装进度动画" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_indeterminate1.png" description="安装进度动画" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_indeterminate1.png" description="安装进度动画" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_indeterminate1.png" description="安装进度动画" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_indeterminate2.png" description="安装进度动画" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_indeterminate2.png" description="安装进度动画" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_indeterminate2.png" description="安装进度动画" />
+    </resource>
+    <resource description="progressbar_horizontal_bg.9" x="56" y="1550" width="968" height="54" uuid="813d390b-2c12-4e87-b15f-75252ed28072">
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_primary.9.png" description="进度条_进度" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_primary.9.png" description="进度条_进度" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_primary.9.png" description="进度条_进度" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_bg.9.png" description="进度条_背景" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_bg.9.png" description="进度条_背景" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_bg.9.png" description="进度条_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_progress_indeterminate_mask.9.png" description="进度条_遮罩" />
+        <path src="res\drawable-xhdpi\progressbar_progress_indeterminate_mask.9.png" description="进度条_遮罩" />
+        <path src="res\drawable-xxhdpi\progressbar_progress_indeterminate_mask.9.png" description="进度条_遮罩" />
+    </resource>
+    <resource description="seekbar_thumb_pressed_light" x="115" y="1293" width="868" height="85" uuid="c1e58f3f-3915-4f08-8456-be75a152b88c">
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-xhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-xxhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-xhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-xhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+    </resource>
+    <resource description="sliding_btn_slider_on_pressed_light" x="848" y="1060" width="138" height="88" uuid="818a08c2-724b-48e4-86ff-30bf0c40176e">
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_off_pressed_light.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_off_pressed_light.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_pressed_light.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_on_normal_light.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_on_normal_light.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_normal_light.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_on_pressed_light.png" description="开关滑块_开_按下态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_on_pressed_light.png" description="开关滑块_开_按下态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_pressed_light.png" description="开关滑块_开_按下态" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bar_off_light.png" description="开关_关_背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bar_off_light.png" description="开关_关_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_off_light.png" description="开关_关_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bar_on_light.png" description="开关_开_背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bar_on_light.png" description="开关_开_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_on_light.png" description="开关_开_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bg_light.png" description="开关背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bg_light.png" description="开关背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bg_light.png" description="开关背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_frame_light.png" description="开关线框" />
+        <path src="res\drawable-xhdpi\sliding_btn_frame_light.png" description="开关线框" />
+        <path src="res\drawable-xxhdpi\sliding_btn_frame_light.png" description="开关线框" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_mask_light.png" description="开关遮罩" />
+        <path src="res\drawable-xhdpi\sliding_btn_mask_light.png" description="开关遮罩" />
+        <path src="res\drawable-xxhdpi\sliding_btn_mask_light.png" description="开关遮罩" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_off_normal_light.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_off_normal_light.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_normal_light.png" description="开关滑块_关_常态" />
+    </resource>
+    <resource description="sliding_btn_bg_dark" x="840" y="170" width="156" height="88" uuid="6bbd2a53-c3db-4690-91ca-d3a3d018922b">
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_mask_dark.png" description="开关的大小遮罩" />
+        <path src="res\drawable-xhdpi\sliding_btn_mask_dark.png" description="开关的大小遮罩" />
+        <path src="res\drawable-xxhdpi\sliding_btn_mask_dark.png" description="开关的大小遮罩" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_off_normal_dark.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_off_normal_dark.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_normal_dark.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_off_pressed_dark.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_off_pressed_dark.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_pressed_dark.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_on_normal_dark.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_on_normal_dark.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_normal_dark.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_slider_on_pressed_dark.png" description="开关滑块_开_按下" />
+        <path src="res\drawable-xhdpi\sliding_btn_slider_on_pressed_dark.png" description="开关滑块_开_按下" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_pressed_dark.png" description="开关滑块_开_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bar_off_dark.png" description="开关_关_背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bar_off_dark.png" description="开关_关_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_off_dark.png" description="开关_关_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bar_on_dark.png" description="开关_开_背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bar_on_dark.png" description="开关_开_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_on_dark.png" description="开关_开_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_bg_dark.png" description="开关背景" />
+        <path src="res\drawable-xhdpi\sliding_btn_bg_dark.png" description="开关背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bg_dark.png" description="开关背景" />
+        <path src="res\drawable-sw600dp-xhdpi\sliding_btn_frame_dark.png" description="开关_线框" />
+        <path src="res\drawable-xhdpi\sliding_btn_frame_dark.png" description="开关_线框" />
+        <path src="res\drawable-xxhdpi\sliding_btn_frame_dark.png" description="开关_线框" />
+    </resource>
+    <resource description="progressbar_horizontal_small_primary_dark.9" x="250" y="368" width="638" height="32" uuid="adfd1cc4-fbdb-4ea8-9455-a4d20d84b7cb">
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_progress_indeterminate_mask_small_dark.9.png" description="进度条大小遮罩" />
+        <path src="res\drawable-xhdpi\progressbar_progress_indeterminate_mask_small_dark.9.png" description="进度条大小遮罩" />
+        <path src="res\drawable-xxhdpi\progressbar_progress_indeterminate_mask_small_dark.9.png" description="进度条大小遮罩" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_small_primary_dark.9.png" description="进度条进度" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_small_primary_dark.9.png" description="进度条进度" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_small_primary_dark.9.png" description="进度条进度" />
+        <path src="res\drawable-sw600dp-xhdpi\progressbar_horizontal_small_bg_dark.9.png" description="进度条背景" />
+        <path src="res\drawable-xhdpi\progressbar_horizontal_small_bg_dark.9.png" description="进度条背景" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_small_bg_dark.9.png" description="进度条背景" />
+    </resource>
+    <resource description="seekbar_thumb_pressed_dark" x="168" y="504" width="724" height="78" uuid="d2e9697f-af54-416a-bd1d-9ed32fb337be">
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_bg_dark.9.png" description="滑动条背景" />
+        <path src="res\drawable-xhdpi\seekbar_bg_dark.9.png" description="滑动条背景" />
+        <path src="res\drawable-xxhdpi\seekbar_bg_dark.9.png" description="滑动条背景" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_progress_mask_dark.9.png" description="滑动条遮罩" />
+        <path src="res\drawable-xhdpi\seekbar_progress_mask_dark.9.png" description="滑动条遮罩" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_mask_dark.9.png" description="滑动条遮罩" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_progress_primary_dark.9.png" description="滑动条进度" />
+        <path src="res\drawable-xhdpi\seekbar_progress_primary_dark.9.png" description="滑动条进度" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_primary_dark.9.png" description="滑动条进度" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_disabled_dark.png" description="滑动条滑块_不可按状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_disabled_dark.png" description="滑动条滑块_不可按状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_dark.png" description="滑动条滑块_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_focused_dark.png" description="滑动条滑块_滑动状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_focused_dark.png" description="滑动条滑块_滑动状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_dark.png" description="滑动条滑块_滑动状态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_normal_dark.png" description="滑动条滑块_常态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_normal_dark.png" description="滑动条滑块_常态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_dark.png" description="滑动条滑块_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\seekbar_thumb_pressed_dark.png" description="进度条滑块_按下状态" />
+        <path src="res\drawable-xhdpi\seekbar_thumb_pressed_dark.png" description="进度条滑块_按下状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_dark.png" description="进度条滑块_按下状态" />
+    </resource>
+</screenshot>

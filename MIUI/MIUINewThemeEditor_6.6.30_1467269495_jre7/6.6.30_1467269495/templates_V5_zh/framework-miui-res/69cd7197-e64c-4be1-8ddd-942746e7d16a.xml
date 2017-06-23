@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="长按电源键弹窗" version="3.4.22" annotation="" tag="弹窗">
+    <resource description="v5_ic_lock_item_first_n.9" x="68" y="338" width="586" height="140" uuid="ee0eb3cc-c027-41a1-8446-3fb3ecc284c3">
+        <path src="res\drawable-hdpi\v5_ic_lock_item_first_n.9.png" description="第一个按钮" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_first_n.9.png" description="第一个按钮" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_first_n.9.png" description="第一个按钮" />
+        <path src="res\drawable-hdpi\v5_ic_lock_item_first_p.9.png" description="第一个按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_first_p.9.png" description="第一个按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_first_p.9.png" description="第一个按钮 二态" />
+    </resource>
+    <resource description="v5_ic_lock_item_last_p.9" x="68" y="750" width="588" height="140" uuid="840db715-7a80-4644-9b0b-4435607efeff">
+        <path src="res\drawable-hdpi\v5_ic_lock_item_last_n.9.png" description="最后按钮" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_last_n.9.png" description="最后按钮" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_last_n.9.png" description="最后按钮" />
+        <path src="res\drawable-hdpi\v5_ic_lock_item_last_p.9.png" description="最后按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_last_p.9.png" description="最后按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_last_p.9.png" description="最后按钮 二态" />
+    </resource>
+    <resource description="v5_ic_lock_item_middle_p.9" x="68" y="482" width="582" height="140" uuid="8bf0603d-c327-4f08-b203-51b45b7e7e17">
+        <path src="res\drawable-hdpi\v5_ic_lock_item_middle_n.9.png" description="中间按钮" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_middle_n.9.png" description="中间按钮" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_middle_n.9.png" description="中间按钮" />
+        <path src="res\drawable-hdpi\v5_ic_lock_item_middle_p.9.png" description="中间按钮 二态" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_item_middle_p.9.png" description="中间按钮 二态" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_item_middle_p.9.png" description="中间按钮 二态" />
+    </resource>
+    <resource description="ic_lock_airplane_mode_p" x="106" y="656" width="66" height="68" uuid="7cac3119-f5ce-4f40-b756-dfc38e191238">
+        <path src="res\drawable-hdpi\ic_lock_airplane_mode_n.png" description="飞行模式开启状态" />
+        <path src="res\drawable-xhdpi\ic_lock_airplane_mode_n.png" description="飞行模式开启状态" />
+        <path src="res\drawable-xxhdpi\ic_lock_airplane_mode_n.png" description="飞行模式开启状态" />
+        <path src="res\drawable-hdpi\ic_lock_airplane_mode_off_n.png" description="飞行模式关闭状态" />
+        <path src="res\drawable-xhdpi\ic_lock_airplane_mode_off_n.png" description="飞行模式关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_lock_airplane_mode_off_n.png" description="飞行模式关闭状态" />
+        <path src="res\drawable-hdpi\ic_lock_airplane_mode_p.png" description="飞行模式按下" />
+        <path src="res\drawable-xhdpi\ic_lock_airplane_mode_p.png" description="飞行模式按下" />
+        <path src="res\drawable-xxhdpi\ic_lock_airplane_mode_p.png" description="飞行模式按下" />
+    </resource>
+    <resource description="ic_lock_audio_vol" x="104" y="796" width="60" height="58" uuid="eb2bc6b4-26f0-4ecb-a7a4-713c05756a20">
+        <path src="res\drawable-hdpi\ic_lock_audio_vol_mute_n.png" description="静音模式" />
+        <path src="res\drawable-xhdpi\ic_lock_audio_vol_mute_n.png" description="静音模式" />
+        <path src="res\drawable-xxhdpi\ic_lock_audio_vol_mute_n.png" description="静音模式" />
+        <path src="res\drawable-hdpi\ic_lock_audio_vol_mute_p.png" description="静音模式 二态" />
+        <path src="res\drawable-xhdpi\ic_lock_audio_vol_mute_p.png" description="静音模式 二态" />
+        <path src="res\drawable-xxhdpi\ic_lock_audio_vol_mute_p.png" description="静音模式 二态" />
+        <path src="res\drawable-hdpi\ic_lock_audio_vol_n.png" description="静音" />
+        <path src="res\drawable-xhdpi\ic_lock_audio_vol_n.png" description="静音" />
+        <path src="res\drawable-xxhdpi\ic_lock_audio_vol_n.png" description="静音" />
+        <path src="res\drawable-hdpi\ic_lock_audio_vol_p.png" description="静音 二态" />
+        <path src="res\drawable-xhdpi\ic_lock_audio_vol_p.png" description="静音 二态" />
+        <path src="res\drawable-xxhdpi\ic_lock_audio_vol_p.png" description="静音 二态" />
+    </resource>
+    <resource description="ic_lock_reboot_p" x="108" y="518" width="58" height="60" uuid="0310c086-2ce0-4def-9b56-e22ec2997288">
+        <path src="res\drawable-hdpi\ic_lock_reboot_n.png" description="重启" />
+        <path src="res\drawable-xhdpi\ic_lock_reboot_n.png" description="重启" />
+        <path src="res\drawable-xxhdpi\ic_lock_reboot_n.png" description="重启" />
+        <path src="res\drawable-hdpi\ic_lock_reboot_p.png" description="重启二态" />
+        <path src="res\drawable-xhdpi\ic_lock_reboot_p.png" description="重启二态" />
+        <path src="res\drawable-xxhdpi\ic_lock_reboot_p.png" description="重启二态" />
+    </resource>
+    <resource description="ic_lock_power_off" x="106" y="376" width="62" height="68" uuid="df6d82cf-ac37-433e-bbba-5d18d66bdbc5">
+        <path src="res\drawable-hdpi\ic_lock_power_off.png" description="关机" />
+        <path src="res\drawable-xhdpi\ic_lock_power_off.png" description="关机" />
+        <path src="res\drawable-xxhdpi\ic_lock_power_off.png" description="关机" />
+    </resource>
+    <resource description="v5_ic_lock_content_bg.9" x="8" y="294" width="704" height="688" uuid="db7003c8-d954-48c7-a5eb-c453911a9395">
+        <path src="res\drawable-hdpi\v5_ic_lock_content_bg.9.png" description="上下阴影" />
+        <path src="res\drawable-xhdpi\v5_ic_lock_content_bg.9.png" description="上下阴影" />
+        <path src="res\drawable-xxhdpi\v5_ic_lock_content_bg.9.png" description="上下阴影" />
+    </resource>
+</screenshot>

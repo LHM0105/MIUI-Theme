@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><theme>
+<version><![CDATA[1.0]]></version>
+<uiVersion>6</uiVersion>
+<author><![CDATA[米粒]]></author>
+<designer><![CDATA[米粒]]></designer>
+<title><![CDATA[花间]]></title>
+<description><![CDATA[花间 更改]]></description>
+<authors>
+<author locale="zh_CN"><![CDATA[米粒]]></author>
+</authors>
+<designers>
+<designer locale="zh_CN"><![CDATA[米粒]]></designer>
+</designers>
+<titles>
+<title locale="zh_CN"><![CDATA[米粒]]></title>
+</titles>
+<descriptions>
+<description locale="zh_CN"><![CDATA[花间更改版]]></description>
+</descriptions>
+</theme>

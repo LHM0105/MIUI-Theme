@@ -1,0 +1,4 @@
+<strings>
+    <string name="date_time" value="M月d日 E"/>
+    <string name="date_time_12" value="M月d日 Eaa"/>
+</strings>

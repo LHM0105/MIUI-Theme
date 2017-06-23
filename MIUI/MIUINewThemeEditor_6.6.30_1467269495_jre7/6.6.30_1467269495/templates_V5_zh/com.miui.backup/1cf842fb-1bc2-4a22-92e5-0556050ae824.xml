@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="恢复数据选择" version="3.2.27" annotation="" tag="">
+    <resource description="restore_title_bg.9" x="0" y="138" width="718" height="62" uuid="0b641c85-3643-4cda-a41d-a34a5d515daf">
+        <path src="res\drawable-xhdpi\restore_title_bg.9.png" description="列表标题背景" />
+    </resource>
+</screenshot>

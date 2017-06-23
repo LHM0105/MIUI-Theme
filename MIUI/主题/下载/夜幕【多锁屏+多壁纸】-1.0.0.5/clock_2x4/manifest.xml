@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--指针时钟-->
+<Clock version="1" type="awesome" frameRate="30" screenWidth="720">
+		<!-- 天气 -->
+	<VariableBinders>
+		<ContentProviderBinder columns="city_name,publish_time,temperature,temperature_range,description,wind,humidity,weather_type" countName="hasWeather" uri="content://weather/weather">
+			<Variable name="weather_city" column="city_name" type="string"/>
+			<Variable name="weather_temperature_range" column="temperature_range" type="string"/>
+			<Variable name="weather_description" column="description" type="string"/>			
+             <Variable name="weather_id" type="int" column="weather_type"/>
+		</ContentProviderBinder>
+	</VariableBinders>
+	<Group y="-50">
+		<Image name="hasweather" x="#view_width/2+154" y="247.5" src="weather.png" srcid="#weather_id" align="center" alignV="center" alpha="255-255*(1-#hasWeather)"/>
+		<Image name="noweather" x="#view_width/2+154" y="247.5" src="weather_0.png"  align="center" alignV="center" alpha="255*(1-#hasWeather)"/>
+		<Text x="#view_width/2+90" y="345" size="24" alignV="center" align="left" color="#ffffff" format="%s" paras="@weather_temperature_range"/>
+		<Text x="#view_width/2" y="345" size="24" alignV="center" align="center" color="#ffffff" format="%s" paras="@weather_description" visibility="#hasWeather"/>
+		<Text x="#view_width/2" y="345" size="24" alignV="center" align="center" color="#ffffff" text="暂无天气信息！" visibility="not(#hasWeather)"/>
+		<Image x="#view_width/2" y="322" src="line.9.png" w="476" align="center" alignV="center" />	
+		<DateTime x="#view_width/2-90" y="345" color="#ffffff" size="24" format="M月d日 E" align="right" alignV="center"/>
+		<Time x="#view_width/4-70" y="247.5" src="time.png" alignV="center" align="left" space="3"/>
+	</Group>
+	
+</Clock>

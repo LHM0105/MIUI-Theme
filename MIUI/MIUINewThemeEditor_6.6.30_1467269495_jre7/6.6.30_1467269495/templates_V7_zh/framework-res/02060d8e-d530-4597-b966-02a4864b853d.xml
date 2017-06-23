@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="等待弹窗" version="3.7.9" annotation="" tag="第三方 弹窗">
+    <resource description="popup_full_dark.9" x="266" y="568" width="190" height="206" uuid="4e1532a5-2f76-40f0-979f-caca2b5c236a">
+        <path src="res\drawable-xhdpi\popup_full_dark.9.png" description="" />
+    </resource>
+</screenshot>

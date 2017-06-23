@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="弹窗3" version="2.12.27" annotation="此弹窗由上、中、下三部分组成" tag="系统弹窗">
+    <resource description="dialog_top_holo_light.9" x="14" y="490" width="690" height="142" uuid="35695d48-609b-4f0a-80e8-98b988e24b38">
+        <path src="res\drawable-hdpi\dialog_top_holo_light.9.png" description="上部" />
+        <path src="res\drawable-xhdpi\dialog_top_holo_light.9.png" description="上部" />
+    </resource>
+    <resource description="dialog_middle_holo.9" x="12" y="628" width="694" height="110" uuid="db0a724b-12a5-4268-a7f0-80497367346b">
+        <path src="res\drawable-hdpi\dialog_middle_holo.9.png" description="中部" />
+        <path src="res\drawable-hdpi\dialog_middle_holo_light.9.png" description="中部" />
+        <path src="res\drawable-xhdpi\dialog_middle_holo_light.9.png" description="中部" />
+    </resource>
+    <resource description="dialog_button_bottom_holo_light.9" x="14" y="740" width="692" height="100" uuid="be4fad4e-82b2-4a65-9c92-71d5749e76e3">
+        <path src="res\drawable-hdpi\dialog_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-hdpi\dialog_button_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-xhdpi\dialog_bottom_holo_light.9.png" description="底部" />
+        <path src="res\drawable-xhdpi\dialog_button_bottom_holo_light.9.png" description="底部" />
+    </resource>
+    <resource description="list_divider_holo_light.9" x="352" y="742" width="10" height="100" uuid="c68c4935-58fd-4ea6-944b-ad9e32c727ff">
+        <path src="res\drawable-hdpi\list_divider_holo_light.9.png" description="此图为弹窗上的分割线 弹窗的“取消”与“确认”两个按钮的分割线，按下效果为全局二态" />
+        <path src="res\drawable-xhdpi\list_divider_holo_light.9.png" description="此图为弹窗上的分割线 弹窗的“取消”与“确认”两个按钮的分割线，按下效果为全局二态" />
+    </resource>
+</screenshot>

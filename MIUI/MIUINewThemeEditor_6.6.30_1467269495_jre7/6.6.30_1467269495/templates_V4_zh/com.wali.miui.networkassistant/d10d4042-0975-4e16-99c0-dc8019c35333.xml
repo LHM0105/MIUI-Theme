@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="" version="2.9.16" annotation="">
+    <resource description="na_action_normal.png" x="5" y="1196" width="710" height="72" uuid="9620a3f2-3f0b-4187-b28b-4c6488811b9b">
+        <path src="res\drawable-hdpi\na_action_focus.png" description="" />
+        <path src="res\drawable-hdpi\na_action_normal.png" description="" />
+    </resource>
+    <resource description="spin_popup_window_bg.png" x="16" y="223" width="687" height="300" uuid="dc2b208f-ed65-428b-be2c-af40413bbc07">
+        <path src="res\drawable-hdpi\spin_popup_window_bg.png" description="" />
+    </resource>
+    <resource description="spin_normal.png" x="191" y="168" width="30" height="36" uuid="46a52ed7-bf8c-443a-9bb2-3dc34f749404">
+        <path src="res\drawable-hdpi\spin_dropdown.png" description="" />
+        <path src="res\drawable-hdpi\spin_normal.png" description="" />
+    </resource>
+</screenshot>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.0 横滑接听" version="4.2.13" annotation="" tag="来电界面">
+    <resource description="ic_in_call_outering_miui" x="20" y="600" width="680" height="680" uuid="0733ace7-a70d-4379-b2ad-56a318ebb027">
+        <path src="res\drawable-hdpi\ic_in_call_outering_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_outering_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_decline_light_miui" x="22" y="600" width="680" height="680" uuid="6f27fab6-58a8-4f3b-a030-8117eaa63aad">
+        <path src="res\drawable-hdpi\ic_in_call_decline_light_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_decline_light_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_answer_light_miui" x="24" y="600" width="680" height="680" uuid="c1f4ca4d-caf9-4130-8216-db2e7306e6ec">
+        <path src="res\drawable-hdpi\ic_in_call_answer_light_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_answer_light_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_send_sms_light_miui" x="22" y="600" width="680" height="680" uuid="d0a114b2-c3d6-404a-85c5-39a9cb488785">
+        <path src="res\drawable-hdpi\ic_in_call_send_sms_light_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_send_sms_light_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_decline_normal_miui" x="26" y="988" width="96" height="96" uuid="7b3bceb9-2ead-426a-a9b5-9682283fe0c3">
+        <path src="res\drawable-hdpi\ic_in_call_decline_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_decline_normal_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_text_normal_miui" x="308" y="704" width="96" height="96" uuid="d6ea3986-f81a-4bf8-bee4-22d054eda6e1">
+        <path src="res\drawable-hdpi\ic_in_call_text_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_text_normal_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_answer_normal_miui" x="600" y="986" width="96" height="96" uuid="91756a13-ab5e-4cc4-955c-82d7bb20be59">
+        <path src="res\drawable-hdpi\ic_in_call_answer_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_answer_normal_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_touch_handle_pressed_miui" x="256" y="932" width="204" height="204" uuid="23878e04-e311-4b57-935f-c91349b25a44">
+        <path src="res\drawable-hdpi\ic_in_call_touch_handle_normal_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_handle_normal_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_handle_pressed_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_handle_pressed_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_handle_decline_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_handle_decline_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_touch_handle_answer_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_touch_handle_answer_miui.png" description="" />
+    </resource>
+    <resource description="ic_in_call_right_hint_anim_6_miui" x="442" y="1024" width="146" height="36" uuid="1ef747d1-eb84-4744-9f4f-4b36e8724120">
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_0_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_0_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_1_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_1_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_2_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_2_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_3_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_3_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_4_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_4_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_5_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_5_miui.png" description="" />
+        <path src="res\drawable-hdpi\ic_in_call_right_hint_anim_6_miui.png" description="" />
+        <path src="res\drawable-xhdpi\ic_in_call_right_hint_anim_6_miui.png" description="" />
+    </resource>
+</screenshot>

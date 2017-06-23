@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 文件夹名称编辑" version="2.9.16" annotation="" tag="文件夹">
+    <resource description="folder_setting_rename_bg.9.png" x="66" y="179" width="458" height="84" uuid="a307b5d6-ff46-4b2a-b152-1a79121bac16">
+        <path src="res\drawable-hdpi\folder_setting_rename_bg.9.png" description="" />
+    </resource>
+    <resource description="folder_setting_confirm_p.9.png" x="535" y="181" width="113" height="81" uuid="25073a30-ece7-4d5b-8d41-17fe6108af37">
+        <path src="res\drawable-hdpi\folder_setting_confirm_n.9.png" description="" />
+        <path src="res\drawable-hdpi\folder_setting_confirm_p.9.png" description="" />
+    </resource>
+</screenshot>

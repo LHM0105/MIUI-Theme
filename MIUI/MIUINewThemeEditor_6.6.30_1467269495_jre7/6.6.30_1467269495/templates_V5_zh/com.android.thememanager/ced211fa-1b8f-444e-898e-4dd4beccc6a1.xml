@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 模块选择" version="3.1.11" annotation="" tag="旧 主题">
+    <resource description="component_item_check" x="175" y="239" width="54" height="59" uuid="cfa0c253-d45e-4ca3-9231-6d0c3ff11cfa">
+        <path src="res\drawable-hdpi\component_item_check.png" description="选择模块" />
+        <path src="res\drawable-xhdpi\component_item_check.png" description="选择模块" />
+    </resource>
+    <resource description="component_detail_item_bg_n.9" x="18" y="220" width="228" height="106" uuid="3d7c33c6-b333-4650-9e0b-117bc234223e">
+        <path src="res\drawable-hdpi\component_detail_item_bg_n.9.png" description="模块背景" />
+        <path src="res\drawable-xhdpi\component_detail_item_bg_n.9.png" description="模块背景" />
+        <path src="res\drawable-xxhdpi\component_detail_item_bg_n.9.png" description="模块背景" />
+        <path src="res\drawable-hdpi\component_detail_item_bg_p.9.png" description="模块背景 二态" />
+        <path src="res\drawable-xhdpi\component_detail_item_bg_p.9.png" description="模块背景 二态" />
+        <path src="res\drawable-xxhdpi\component_detail_item_bg_p.9.png" description="模块背景 二态" />
+    </resource>
+    <resource description="resource_detail_n" x="46" y="1134" width="110" height="134" uuid="41e41b47-50af-4dfe-95e3-8465510d3880">
+        <path src="res\drawable-hdpi\resource_detail_n.png" description="手机预览" />
+        <path src="res\drawable-xhdpi\resource_detail_n.png" description="手机预览" />
+        <path src="res\drawable-hdpi\resource_detail_p.png" description="手机预览 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_p.png" description="手机预览 二态" />
+    </resource>
+    <resource description="resource_detail_single_button_n.9" x="182" y="1130" width="352" height="132" uuid="455c2ae2-ea7f-45e9-8d8f-9176d6d8aa9e">
+        <path src="res\drawable-hdpi\resource_detail_single_button_d.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_d.9.png" description="应用按钮 不可按" />
+        <path src="res\drawable-hdpi\resource_detail_single_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_n.9.png" description="应用按钮" />
+        <path src="res\drawable-hdpi\resource_detail_single_button_p.9.png" description="应用按钮 二态" />
+        <path src="res\drawable-xhdpi\resource_detail_single_button_p.9.png" description="应用按钮 二态" />
+    </resource>
+    <resource description="resource_delete_n" x="558" y="1124" width="110" height="134" uuid="4cdb3233-df5c-4b29-9178-57d4e9212d12">
+        <path src="res\drawable-hdpi\resource_delete_d.png" description="删除 不可按" />
+        <path src="res\drawable-xhdpi\resource_delete_d.png" description="删除 不可按" />
+        <path src="res\drawable-hdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\resource_delete_n.png" description="删除按钮" />
+        <path src="res\drawable-hdpi\resource_delete_p.png" description="删除按钮" />
+        <path src="res\drawable-xhdpi\resource_delete_p.png" description="删除按钮" />
+    </resource>
+    <resource description="resource_operation_view_bg.9" x="0" y="1084" width="720" height="196" uuid="241810f6-2b7f-45cc-8b38-0a626c629be0">
+        <path src="res\drawable-hdpi\resource_operation_view_bg.9.png" description="底部背景" />
+        <path src="res\drawable-xxhdpi\resource_operation_view_bg.9.png" description="底部背景" />
+    </resource>
+</screenshot>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="一级2态" version="1.0" annotation="例如：短信列表/通话记录列表中的选项条及2态&#xA;list即列表项背景的常态（normal） 二态（pressed） 选择态（checked）" tag="系统二态">
+    <resource description="ab_home_up.png" x="0" y="50" width="96" height="100" uuid="38137b92-728e-4001-a540-2d4ad6579a62">
+        <path src="res\drawable-xhdpi\ab_home_up.png" description="返回键" />
+    </resource>
+    <resource description="list_medium_top_item_background_pressed.9.png" x="10" y="616" width="710" height="176" uuid="5a25985b-c232-4309-bcae-7388602cb4cd">
+        <path src="res\drawable-hdpi\list_large_bottom_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_bottom_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_middle_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_middle_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_single_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_single_item_background_normal.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_top_item_background_checked.9.png" description="" />
+        <path src="res\drawable-hdpi\list_large_top_item_background_normal.9.png" description="" />
+    </resource>
+</screenshot>

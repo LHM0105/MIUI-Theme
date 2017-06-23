@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="安装界面背景" version="3.4.7" annotation="" tag="">
+    <resource description="app_details_bg.9" x="0" y="48" width="722" height="426" uuid="38450400-9b37-482c-a5b7-b4590fa7ee06">
+        <path src="res\drawable-xhdpi\app_details_bg.9.png" description="安装状态背景" />
+        <path src="res\drawable-xhdpi\fail_bg.9.png" description="安装失败背景" />
+        <path src="res\drawable-xhdpi\success_bg.9.png" description="安装成功背景" />
+    </resource>
+    <resource description="divider_v" x="282" y="620" width="21" height="41" uuid="eb74c998-6806-43d0-9c9a-999aa4fe9a17">
+        <path src="res\drawable-xhdpi\divider_v.png" description="分割线" />
+    </resource>
+</screenshot>
